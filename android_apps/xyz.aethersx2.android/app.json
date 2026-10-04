@@ -1,0 +1,12 @@
+{
+  "id": "xyz.aethersx2.android",
+  "name": "NetherSX2",
+  "author": "Trixarian",
+  "description": "PlayStation 2 emulator",
+  "url": "https://github.com/Trixarian/NetherSX2-patch",
+  "source": "GitHub",
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/xyz.aethersx2.android/icon.png"
+}

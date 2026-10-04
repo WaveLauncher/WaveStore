@@ -1,0 +1,12 @@
+{
+  "id": "me.magnum.melonds",
+  "name": "MelonDS",
+  "author": "rafaelvcaetano",
+  "description": "Nintendo DS emulator",
+  "url": "https://github.com/rafaelvcaetano/melonDS-android",
+  "source": "GitHub",
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/me.magnum.melonds/icon.png"
+}

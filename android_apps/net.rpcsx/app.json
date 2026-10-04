@@ -1,0 +1,12 @@
+{
+  "id": "net.rpcsx",
+  "name": "RPCSX",
+  "author": "RPCSX",
+  "description": "PlayStation 4 emulator",
+  "url": "https://github.com/RPCSX/rpcsx-ui-android",
+  "source": "GitHub",
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/net.rpcsx/icon.png"
+}

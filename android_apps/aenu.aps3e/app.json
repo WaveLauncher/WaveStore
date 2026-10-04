@@ -1,0 +1,12 @@
+{
+  "id": "aenu.aps3e",
+  "name": "aPS3e",
+  "author": "aenu1",
+  "description": "PS3 emulator for Android",
+  "url": "https://github.com/aenu1/aps3e",
+  "source": "GitHub",
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/aenu.aps3e/icon.png"
+}

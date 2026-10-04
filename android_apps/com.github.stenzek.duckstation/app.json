@@ -1,0 +1,12 @@
+{
+  "id": "com.github.stenzek.duckstation",
+  "name": "DuckStation",
+  "author": "duckstation-mirror.rmacias.workers.dev",
+  "description": "PlayStation 1 emulator",
+  "url": "https://duckstation-mirror.rmacias.workers.dev",
+  "source": "HTML",
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.github.stenzek.duckstation/icon.png"
+}

@@ -1,0 +1,603 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-04T01:01:43Z",
+  "count": 51,
+  "apps": [
+    {
+      "id": "aenu.aps3e",
+      "name": "aPS3e",
+      "author": "aenu1",
+      "description": "PS3 emulator for Android",
+      "url": "https://github.com/aenu1/aps3e",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/aenu.aps3e/icon.png"
+    },
+    {
+      "id": "app.gamenative",
+      "name": "GameNative",
+      "author": "utkarshdalal",
+      "description": "Native Windows game compatibility layer",
+      "url": "https://github.com/utkarshdalal/GameNative",
+      "source": "GitHub",
+      "categories": [
+        "PC Emulation"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/app.gamenative/icon.png"
+    },
+    {
+      "id": "app.nanostack.pixelguide",
+      "name": "Pixel Guide Android",
+      "author": "rexmont",
+      "description": "Pixel art scaling and display guide",
+      "url": "https://github.com/rexmont/Pixel-Guide-Android",
+      "source": "GitHub",
+      "categories": [
+        "Utilities"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/app.nanostack.pixelguide/icon.png"
+    },
+    {
+      "id": "com.armsx2",
+      "name": "ARMSX2",
+      "author": "ARMSX2",
+      "description": "PlayStation 2 emulator",
+      "url": "https://github.com/ARMSX2/ARMSX2",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": null
+    },
+    {
+      "id": "com.armsx3",
+      "name": "ARMSX3",
+      "author": "ARMSX2",
+      "url": "https://github.com/ARMSX2/ARMSX3",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.armsx3/icon.png"
+    },
+    {
+      "id": "com.aure.clustertune",
+      "name": "Cluster Tune",
+      "author": "AurelioB",
+      "url": "https://github.com/AurelioB/cluster-tune",
+      "source": "GitHub",
+      "categories": [
+        "Utilities"
+      ],
+      "icon": null
+    },
+    {
+      "id": "com.flycast.emulator",
+      "name": "Flycast",
+      "author": "flyinghead",
+      "description": "Dreamcast, NAOMI, and Atomiswave emulator",
+      "url": "https://github.com/flyinghead/flycast",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.flycast.emulator/icon.png"
+    },
+    {
+      "id": "com.github.catfriend1.syncthingfork",
+      "name": "Syncthing-Fork",
+      "author": "researchxxl",
+      "description": "Continuous file synchronization",
+      "url": "https://github.com/researchxxl/syncthing-android",
+      "source": "GitHub",
+      "categories": [
+        "Utilities"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.github.catfriend1.syncthingfork/icon.png"
+    },
+    {
+      "id": "com.github.stenzek.duckstation",
+      "name": "DuckStation",
+      "author": "duckstation-mirror.rmacias.workers.dev",
+      "description": "PlayStation 1 emulator",
+      "url": "https://duckstation-mirror.rmacias.workers.dev",
+      "source": "HTML",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": null
+    },
+    {
+      "id": "com.izzy2lost.x1box",
+      "name": "Xemu Android",
+      "author": "izzy2lost",
+      "url": "https://github.com/izzy2lost/xemu",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.izzy2lost.x1box/icon.png"
+    },
+    {
+      "id": "com.kei.pulse",
+      "name": "Pulse",
+      "author": "keiretrogaming",
+      "url": "https://github.com/keiretrogaming/pulse",
+      "source": "GitHub",
+      "categories": [
+        "Utilities"
+      ],
+      "icon": null
+    },
+    {
+      "id": "com.limelight",
+      "name": "Moonlight",
+      "author": "moonlight-stream",
+      "description": "Game streaming client for NVIDIA GameStream and Sunshine",
+      "url": "https://github.com/moonlight-stream/moonlight-android",
+      "source": "GitHub",
+      "categories": [
+        "Streaming"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.limelight/icon.png"
+    },
+    {
+      "id": "com.limelight.noir",
+      "name": "Artemis",
+      "author": "ClassicOldSong",
+      "description": "Game streaming client (Moonlight fork)",
+      "url": "https://github.com/ClassicOldSong/moonlight-android",
+      "source": "GitHub",
+      "categories": [
+        "Streaming"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.limelight.noir/icon.png"
+    },
+    {
+      "id": "com.med.sleepmanager",
+      "name": "Sleepmanager",
+      "author": "Baggio94",
+      "url": "https://github.com/Baggio94/SleepManager",
+      "source": "GitHub",
+      "categories": [
+        "Utilities"
+      ],
+      "icon": null
+    },
+    {
+      "id": "com.moonbench.bifrost",
+      "name": "Bifrost",
+      "author": "Pollux-MoonBench",
+      "description": "System-level performance tweaks for Android handhelds",
+      "url": "https://github.com/Pollux-MoonBench/Bifrost",
+      "source": "GitHub",
+      "categories": [
+        "Utilities"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.moonbench.bifrost/icon.png"
+    },
+    {
+      "id": "com.nanodata.armsx",
+      "name": "ARMSX1",
+      "author": "ARMSX2",
+      "url": "https://github.com/ARMSX2/ARMSX1",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.nanodata.armsx/icon.png"
+    },
+    {
+      "id": "com.producdevity.emureadylite",
+      "name": "EmuReady Lite",
+      "author": "Producdevity",
+      "description": "Emulation compatibility database",
+      "url": "https://github.com/Producdevity/EmuReadyAppReleases",
+      "source": "GitHub",
+      "categories": [
+        "Utilities"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.producdevity.emureadylite/icon.png"
+    },
+    {
+      "id": "com.quantumsoul.esde_android",
+      "name": "ES-DE Android Apps",
+      "author": "BinaryQuantumSoul",
+      "description": "ES-DE system integration for Android",
+      "url": "https://github.com/BinaryQuantumSoul/esde_android_apps",
+      "source": "GitHub",
+      "categories": [
+        "Utilities"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.quantumsoul.esde_android/icon.png"
+    },
+    {
+      "id": "com.raofflineproxy",
+      "name": "RAOfflineProxy",
+      "author": "misantronic",
+      "url": "https://github.com/misantronic/RAOfflineProxy",
+      "source": "GitHub",
+      "categories": [
+        "Utilities"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.raofflineproxy/icon.png"
+    },
+    {
+      "id": "com.retroarch.aarch64",
+      "name": "RetroArch (AArch64)",
+      "author": "buildbot.libretro.com",
+      "description": "Released less frequently. Better stability.",
+      "url": "https://buildbot.libretro.com/stable",
+      "source": "HTML",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": null
+    },
+    {
+      "id": "com.rfandango.haku_x",
+      "name": "Hakux",
+      "author": "rfandango",
+      "url": "https://github.com/rfandango/hakuX",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.rfandango.haku_x/icon.png"
+    },
+    {
+      "id": "com.virtualapplications.play",
+      "name": "Play!",
+      "author": "jpd002",
+      "description": "PlayStation 2 emulator",
+      "url": "https://purei.org/downloads/play/stable/",
+      "source": "HTML",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": null
+    },
+    {
+      "id": "com.winlator",
+      "name": "Winlator",
+      "author": "brunodev85",
+      "description": "Windows app and game emulator for Android",
+      "url": "https://github.com/brunodev85/winlator",
+      "source": "GitHub",
+      "categories": [
+        "PC Emulation"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.winlator/icon.png"
+    },
+    {
+      "id": "com.winlator.cmod",
+      "name": "winlator",
+      "author": "coffincolors",
+      "description": "Winlator community mod",
+      "url": "https://github.com/coffincolors/winlator",
+      "source": "GitHub",
+      "categories": [
+        "PC Emulation"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.winlator.cmod/icon.png"
+    },
+    {
+      "id": "com.winlator.ludashi",
+      "name": "Winlator-Ludashi",
+      "author": "StevenMXZ",
+      "description": "Winlator fork with Ludashi optimizations",
+      "url": "https://github.com/StevenMXZ/Winlator-Ludashi",
+      "source": "GitHub",
+      "categories": [
+        "PC Emulation"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.winlator.ludashi/icon.png"
+    },
+    {
+      "id": "de.langerhans.odintools",
+      "name": "OdinTools",
+      "author": "langerhans",
+      "description": "AYN Odin handheld system tweaks",
+      "url": "https://github.com/langerhans/OdinTools",
+      "source": "GitHub",
+      "categories": [
+        "Utilities"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/de.langerhans.odintools/icon.png"
+    },
+    {
+      "id": "dev.eden.eden_emulator",
+      "name": "Eden",
+      "author": "eden-emu",
+      "description": "Nintendo Switch emulator",
+      "url": "https://stable.eden-emu.dev/latest/release.json",
+      "source": "HTML",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": null
+    },
+    {
+      "id": "emu.x360mobile.com",
+      "name": "X360 Mobile",
+      "author": "Ashnar2602",
+      "url": "https://github.com/Ashnar2602/X360-Mobile---OFFICIAL",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/emu.x360mobile.com/icon.png"
+    },
+    {
+      "id": "gamehub.lite",
+      "name": "GameHub Lite",
+      "author": "Producdevity",
+      "description": "Windows game launcher for Android",
+      "url": "https://github.com/Producdevity/gamehub-lite",
+      "source": "GitHub",
+      "categories": [
+        "PC Emulation"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/gamehub.lite/icon.png"
+    },
+    {
+      "id": "info.cemu.cemu",
+      "name": "Cemu",
+      "author": "SSimco",
+      "description": "Wii U emulator",
+      "url": "https://github.com/SSimco/Cemu",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/info.cemu.cemu/icon.png"
+    },
+    {
+      "id": "io.github.gopher64.gopher64",
+      "name": "Gopher64",
+      "author": "gopher64",
+      "url": "https://github.com/gopher64/gopher64",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/io.github.gopher64.gopher64/icon.png"
+    },
+    {
+      "id": "io.navivani.swiff",
+      "name": "Swiff",
+      "author": "NaviVani",
+      "url": "https://github.com/NaviVani-dev/Swiff",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/io.navivani.swiff/icon.png"
+    },
+    {
+      "id": "io.wip.pico8",
+      "name": "Pico8 Android",
+      "author": "Macs75",
+      "description": "PICO-8 fantasy console frontend",
+      "url": "https://github.com/Macs75/pico8-android",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/io.wip.pico8/icon.png"
+    },
+    {
+      "id": "it.ottaviomiele.chd",
+      "name": "CHDroid",
+      "author": "Ottavio97",
+      "description": "CHD file converter for Android",
+      "url": "https://github.com/Ottavio97/CHDroid",
+      "source": "GitHub",
+      "categories": [
+        "Utilities"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/it.ottaviomiele.chd/icon.png"
+    },
+    {
+      "id": "local.nova.diagnostic",
+      "name": "Nova Display Calibration",
+      "author": "pippopapera",
+      "url": "https://github.com/pippopapera/nova-display-calibration",
+      "source": "GitHub",
+      "categories": [
+        "Utilities"
+      ],
+      "icon": null
+    },
+    {
+      "id": "me.magnum.melonds",
+      "name": "MelonDS",
+      "author": "rafaelvcaetano",
+      "description": "Nintendo DS emulator",
+      "url": "https://github.com/rafaelvcaetano/melonDS-android",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/me.magnum.melonds/icon.png"
+    },
+    {
+      "id": "me.magnum.melonds.nightly",
+      "name": "MelonDS Nightly",
+      "author": "rafaelvcaetano",
+      "description": "Nintendo DS emulator (nightly builds)",
+      "url": "https://github.com/rafaelvcaetano/melonDS-android",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/me.magnum.melonds.nightly/icon.png"
+    },
+    {
+      "id": "me.magnum.melondualds",
+      "name": "WatermelonDS",
+      "author": "SapphireRhodonite",
+      "description": "Nintendo DS emulator",
+      "url": "https://github.com/SapphireRhodonite/WatermelonDS",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/me.magnum.melondualds/icon.png"
+    },
+    {
+      "id": "net.rpcsx",
+      "name": "RPCSX",
+      "author": "RPCSX",
+      "description": "PlayStation 4 emulator",
+      "url": "https://github.com/RPCSX/rpcsx-ui-android",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/net.rpcsx/icon.png"
+    },
+    {
+      "id": "org.azahar_emu.azahar",
+      "name": "Azahar",
+      "author": "azahar-emu",
+      "description": "Nintendo 3DS emulator",
+      "url": "https://github.com/azahar-emu/azahar",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": null
+    },
+    {
+      "id": "org.citra.emu",
+      "name": "Citra",
+      "author": "weihuoya",
+      "description": "Nintendo 3DS emulator (MMJ fork)",
+      "url": "https://github.com/weihuoya/citra",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/org.citra.emu/icon.png"
+    },
+    {
+      "id": "org.citron.citron_emu",
+      "name": "Citron Neo",
+      "author": "citron-neo",
+      "url": "https://github.com/citron-neo/emulator",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": null
+    },
+    {
+      "id": "org.dolphinemu.dolphinemu",
+      "name": "Dolphin Emulator",
+      "author": "dolphin-emu.org",
+      "description": "GameCube and Wii emulator",
+      "url": "https://dolphin-emu.org/download/?ref=btn",
+      "source": "HTML",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": null
+    },
+    {
+      "id": "org.force9.starboard",
+      "name": "Starboard",
+      "author": "get-starboard",
+      "description": "Run PortMaster games on Android.",
+      "url": "https://github.com/get-starboard/starboard",
+      "source": "GitHub",
+      "categories": [
+        "PC Emulation"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/org.force9.starboard/icon.png"
+    },
+    {
+      "id": "org.ppsspp.ppsspp",
+      "name": "PPSSPP",
+      "author": "www.ppsspp.org",
+      "description": "PPSSPP is an open source, fast and portable PSP emulator",
+      "url": "https://www.ppsspp.org/download/",
+      "source": "HTML",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": null
+    },
+    {
+      "id": "org.scummvm.scummvm",
+      "name": "ScummVM",
+      "author": "ScummVM",
+      "description": "A program which allows you to run certain classic graphical adventure and role-playing games, provided you already have their data files.",
+      "url": "https://www.scummvm.org/downloads/",
+      "source": "HTML",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": null
+    },
+    {
+      "id": "org.vita3k.emulator",
+      "name": "Vita3K",
+      "author": "Vita3K",
+      "description": "PlayStation Vita emulator",
+      "url": "https://github.com/Vita3K/Vita3K-builds",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/org.vita3k.emulator/icon.png"
+    },
+    {
+      "id": "pup.app.mimir",
+      "name": "Mimir",
+      "author": "ItsRetroPup",
+      "url": "https://github.com/ItsRetroPup/Mimir",
+      "source": "GitHub",
+      "categories": [
+        "Utilities"
+      ],
+      "icon": null
+    },
+    {
+      "id": "xendroid.compose",
+      "name": "Xendroid",
+      "author": "rfandango",
+      "url": "https://github.com/rfandango/XenDroid",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/xendroid.compose/icon.png"
+    },
+    {
+      "id": "xyz.aethersx2.android",
+      "name": "NetherSX2",
+      "author": "Trixarian",
+      "description": "PlayStation 2 emulator",
+      "url": "https://github.com/Trixarian/NetherSX2-patch",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/xyz.aethersx2.android/icon.png"
+    },
+    {
+      "id": "xyz.aethersx2.tturnip",
+      "name": "NetherSX2-Turnip",
+      "author": "nckstwrt",
+      "url": "https://github.com/nckstwrt/NetherSX2-Turnip",
+      "source": "GitHub",
+      "categories": [
+        "Emulator"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/xyz.aethersx2.tturnip/icon.png"
+    }
+  ]
+}

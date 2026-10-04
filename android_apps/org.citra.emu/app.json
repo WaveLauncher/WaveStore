@@ -1,0 +1,12 @@
+{
+  "id": "org.citra.emu",
+  "name": "Citra",
+  "author": "weihuoya",
+  "description": "Nintendo 3DS emulator (MMJ fork)",
+  "url": "https://github.com/weihuoya/citra",
+  "source": "GitHub",
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/org.citra.emu/icon.png"
+}

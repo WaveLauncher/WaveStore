@@ -1,0 +1,11 @@
+{
+  "id": "org.citron.citron_emu",
+  "name": "Citron Neo",
+  "author": "citron-neo",
+  "url": "https://github.com/citron-neo/emulator",
+  "source": "GitHub",
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/org.citron.citron_emu/icon.png"
+}

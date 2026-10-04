@@ -1,0 +1,12 @@
+{
+  "id": "dev.eden.eden_emulator",
+  "name": "Eden",
+  "author": "eden-emu",
+  "description": "Nintendo Switch emulator",
+  "url": "https://stable.eden-emu.dev/latest/release.json",
+  "source": "HTML",
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/dev.eden.eden_emulator/icon.png"
+}

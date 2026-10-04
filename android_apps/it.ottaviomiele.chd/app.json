@@ -1,0 +1,12 @@
+{
+  "id": "it.ottaviomiele.chd",
+  "name": "CHDroid",
+  "author": "Ottavio97",
+  "description": "CHD file converter for Android",
+  "url": "https://github.com/Ottavio97/CHDroid",
+  "source": "GitHub",
+  "categories": [
+    "Utilities"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/it.ottaviomiele.chd/icon.png"
+}

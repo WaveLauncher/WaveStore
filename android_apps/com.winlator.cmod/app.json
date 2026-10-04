@@ -1,0 +1,12 @@
+{
+  "id": "com.winlator.cmod",
+  "name": "winlator",
+  "author": "coffincolors",
+  "description": "Winlator community mod",
+  "url": "https://github.com/coffincolors/winlator",
+  "source": "GitHub",
+  "categories": [
+    "PC Emulation"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/com.winlator.cmod/icon.png"
+}
