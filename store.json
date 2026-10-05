@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-05T15:30:03Z",
+  "generatedAt": "2026-10-05T15:35:23Z",
   "counts": {
     "apps": 51,
     "games": 1
@@ -674,7 +674,7 @@
           "Casual"
         ],
         "score": 4.31,
-        "realInstalls": 98333851
+        "downloadCount": 98333851
       }
     }
   ]
