@@ -1,0 +1,21 @@
+{
+  "id": "com.feralinteractive.alienisolation_android",
+  "name": "Alien: Isolation",
+  "author": "Feral Interactive",
+  "description": "Play two missions, then unlock the full game via a single in-app purchase.",
+  "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.alienisolation_android",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/OIkdDJUkbrbqltPhAfpd8H40n2cRJpnq5WERJhkBCoahk2YnPfocXASayTu813RAetZv8UwZlkSaWk3JdMLQXw=s512",
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action"
+    ],
+    "score": 4.02,
+    "downloadCount": 831934
+  }
+}

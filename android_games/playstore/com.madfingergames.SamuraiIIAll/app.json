@@ -1,0 +1,22 @@
+{
+  "id": "com.madfingergames.SamuraiIIAll",
+  "name": "SAMURAI II: VENGEANCE",
+  "author": "Deca_Games",
+  "description": "Hack 'n' slash combat classic. Take on evil sword fighters and epic boss ninjas.",
+  "url": "https://play.google.com/store/apps/details?id=com.madfingergames.SamuraiIIAll",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Arcade"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/uJ7cBuaF0rNHxutL-CnbebRZ7yZmAOoAuiygQv1yoGez78aqNd8Arc1sUFaKSLP5GZ-2EXQiYpjTCX7L2usn4Q=s512",
+  "playstore": {
+    "categories": [
+      "Arcade",
+      "Role Playing",
+      "Casual"
+    ],
+    "score": 4.32,
+    "downloadCount": 478672
+  }
+}

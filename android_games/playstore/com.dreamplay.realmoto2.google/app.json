@@ -1,0 +1,20 @@
+{
+  "id": "com.dreamplay.realmoto2.google",
+  "name": "Real Moto 2",
+  "author": "Dreamplay Games",
+  "description": "The Most Realistic Racing Game Ever Console-level graphics and realistic control",
+  "url": "https://play.google.com/store/apps/details?id=com.dreamplay.realmoto2.google",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Racing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/yw5inHn1VlH1dfZ53mtff9Xybr_3d47Z1dRtwc_aBSmeO2K-edv8uUMwMT7dM2tVPXKRv0xBuCF7j5CYJCJN8w=s512",
+  "playstore": {
+    "categories": [
+      "Racing"
+    ],
+    "score": 4.37,
+    "downloadCount": 33008118
+  }
+}

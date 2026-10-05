@@ -1,0 +1,21 @@
+{
+  "id": "com.square_enix.android_googleplay.FFVII",
+  "name": "FINAL FANTASY VII",
+  "author": "SQUARE ENIX Co.,Ltd.",
+  "description": "Over 11 million copies sold worldwide! FINAL FANTASY VII now on Android!",
+  "url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVII",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/BkxAUsA_HrjmmZFGwwvNvuT3nPiENFi5Fp-GUSNZa92GfG8K9nbCWTppGLxvIkc3q9czf8lM7x4ea97X4Be8=s512",
+  "playstore": {
+    "categories": [
+      "Role Playing",
+      "Casual"
+    ],
+    "score": 4.03,
+    "downloadCount": 659643
+  }
+}

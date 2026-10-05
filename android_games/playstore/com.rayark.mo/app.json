@@ -1,0 +1,21 @@
+{
+  "id": "com.rayark.mo",
+  "name": "MO: Astray",
+  "author": "Rayark International Limited",
+  "description": "Pixel art action-puzzler",
+  "url": "https://play.google.com/store/apps/details?id=com.rayark.mo",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/q46PWBcY3W8DndQPQ0iEto0_r6cWCJhfGkJG0My4Vi-fiGsPlZQpPsiQ9oLnPKgI1cDz4GMXloWPfxfKO3wzuug=s512",
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 3.85,
+    "downloadCount": 13717
+  }
+}

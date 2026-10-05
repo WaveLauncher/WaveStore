@@ -1,0 +1,20 @@
+{
+  "id": "com.carxtech.rally",
+  "name": "CarX Rally",
+  "author": "CarX Technologies",
+  "description": "Win all stages of the Rally Championship and become a Legend",
+  "url": "https://play.google.com/store/apps/details?id=com.carxtech.rally",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Racing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/0nEKeYBUICZb5YkaiKF2VK5W3kheCerppClJ1n0XH6-iHOYqo-BuW4w6R5_HwBtj9BU8Br82zOtGHf1CBReg=s512",
+  "playstore": {
+    "categories": [
+      "Racing"
+    ],
+    "score": 4.01,
+    "downloadCount": 30285018
+  }
+}

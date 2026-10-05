@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-05T15:35:23Z",
+  "generatedAt": "2026-10-05T16:54:11Z",
   "counts": {
     "apps": 51,
-    "games": 1
+    "games": 28
   },
   "apps": [
     {
@@ -656,6 +656,256 @@
   ],
   "games": [
     {
+      "id": "brownmonster.app.game.rushrally2",
+      "name": "Rush Rally 2",
+      "author": "Brownmonster Limited",
+      "description": "The best rally racing game on mobile!",
+      "url": "https://play.google.com/store/apps/details?id=brownmonster.app.game.rushrally2",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Racing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/kTK3PqnxmZAhrokh_OHaMcXoDG6EO1wAF4fG8XXqCUyCb7T0pgogwQED_S3Gwsyu23SXr2rk1GgMpAndiuA7=s512",
+      "playstore": {
+        "categories": [
+          "Racing"
+        ],
+        "score": 3.96,
+        "downloadCount": 552535
+      }
+    },
+    {
+      "id": "com.BlackSaltGames.DREDGE",
+      "name": "DREDGE",
+      "author": "Black Salt Games",
+      "description": "DREDGE is a single-player fishing adventure with a sinister undercurrent.",
+      "url": "https://play.google.com/store/apps/details?id=com.BlackSaltGames.DREDGE",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/3_lXgbVx5dBLu5EvpO5P0MT_yuvR8pqAzN7j3vAkP0oj4cUWN_CSn21I5XqUnELmp-kGbSxNli3MuKSTZ9gSKPM=s512",
+      "playstore": {
+        "categories": [
+          "Role Playing",
+          "Action"
+        ],
+        "score": 4.45,
+        "downloadCount": 421309
+      }
+    },
+    {
+      "id": "com.CarXTech.highWay",
+      "name": "CarX Highway Racing",
+      "author": "CarX Technologies",
+      "description": "Become a racing legend on busy highways",
+      "url": "https://play.google.com/store/apps/details?id=com.CarXTech.highWay",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Racing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/jAyYNnNdLLjlJM961ep_-1AEWhmjaxDd1EA4Rq5bCKTZWLivT-0GuukOPmRNR7wwDoROHdYTdJo2IC1p_yANTQ=s512",
+      "playstore": {
+        "categories": [
+          "Racing",
+          "Arcade"
+        ],
+        "score": 4.7,
+        "downloadCount": 111508991
+      }
+    },
+    {
+      "id": "com.VenomizedArt.WallOfInsanity",
+      "name": "Wall of insanity",
+      "author": "Merla Games",
+      "description": "Survive horrible dangers behind the wall of insanity",
+      "url": "https://play.google.com/store/apps/details?id=com.VenomizedArt.WallOfInsanity",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/SJYak1k3asvwuck2wxd35M-ONEDeKVNUeoxlFD2qTQwh0fJtHkbnd4aRlUaAbAdVyyXayKYEYYUbZn9qsr7U=s512",
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 3.95,
+        "downloadCount": 344845
+      }
+    },
+    {
+      "id": "com.activision.callofduty.shooter",
+      "name": "Call of Duty®: Mobile",
+      "author": "Activision Publishing, Inc.",
+      "description": "Online multiplayer PvP FPS shooter with Battle Royale and Ranked Action!",
+      "url": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/cKXlbU72_2wSXdjcD_zPWED3EVaaOQVqqHgiA9JoRQMprYen49arNUMTngcRc9UWLnv-ANT9gyQBDQpvAn61lg=s512",
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.26,
+        "downloadCount": 427282292
+      }
+    },
+    {
+      "id": "com.carxtech.rally",
+      "name": "CarX Rally",
+      "author": "CarX Technologies",
+      "description": "Win all stages of the Rally Championship and become a Legend",
+      "url": "https://play.google.com/store/apps/details?id=com.carxtech.rally",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Racing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/0nEKeYBUICZb5YkaiKF2VK5W3kheCerppClJ1n0XH6-iHOYqo-BuW4w6R5_HwBtj9BU8Br82zOtGHf1CBReg=s512",
+      "playstore": {
+        "categories": [
+          "Racing"
+        ],
+        "score": 4.01,
+        "downloadCount": 30285018
+      }
+    },
+    {
+      "id": "com.dreamplay.realmoto2.google",
+      "name": "Real Moto 2",
+      "author": "Dreamplay Games",
+      "description": "The Most Realistic Racing Game Ever Console-level graphics and realistic control",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamplay.realmoto2.google",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Racing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/yw5inHn1VlH1dfZ53mtff9Xybr_3d47Z1dRtwc_aBSmeO2K-edv8uUMwMT7dM2tVPXKRv0xBuCF7j5CYJCJN8w=s512",
+      "playstore": {
+        "categories": [
+          "Racing"
+        ],
+        "score": 4.37,
+        "downloadCount": 33008118
+      }
+    },
+    {
+      "id": "com.fattoy.swordash.android",
+      "name": "Swordash",
+      "author": "FATTOY",
+      "description": "Hack & Slash x Roguelike",
+      "url": "https://play.google.com/store/apps/details?id=com.fattoy.swordash.android",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/nD6sDIvYKaXOXeRR6FeRh5eXV8tXbPYFRucSbaxGJ_KrTPjRvG4z6a4rhLB-OQitNcQTO5qJ_S54T3Zy3X5weQ=s512",
+      "playstore": {
+        "categories": [
+          "Action",
+          "Role Playing",
+          "Casual"
+        ],
+        "score": 4.47,
+        "downloadCount": 9986468
+      }
+    },
+    {
+      "id": "com.feralinteractive.alienisolation_android",
+      "name": "Alien: Isolation",
+      "author": "Feral Interactive",
+      "description": "Play two missions, then unlock the full game via a single in-app purchase.",
+      "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.alienisolation_android",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/OIkdDJUkbrbqltPhAfpd8H40n2cRJpnq5WERJhkBCoahk2YnPfocXASayTu813RAetZv8UwZlkSaWk3JdMLQXw=s512",
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action"
+        ],
+        "score": 4.02,
+        "downloadCount": 831934
+      }
+    },
+    {
+      "id": "com.frogmind.badland",
+      "name": "BADLAND",
+      "author": "HypeHype Inc.",
+      "description": "Fly and survive through the🏆 Game of the Year-winning action adventure BADLAND",
+      "url": "https://play.google.com/store/apps/details?id=com.frogmind.badland",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/A5xxP7n9HqhDZjXt2apNCgcnLciHJ8xojRUfBqg5eScO9JLqcz1sXEBNrtFBI6G1otqeRkwz_SkqoS1EVWLmYw=s512",
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action",
+          "Casual"
+        ],
+        "score": 4.13,
+        "downloadCount": 56531330
+      }
+    },
+    {
+      "id": "com.kitkagames.fallbuddies",
+      "name": "Stumble Guys",
+      "author": "Scopely",
+      "description": "Fun knockout battle royale, play with your friends!",
+      "url": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-=s512",
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 4.74,
+        "downloadCount": 485474627
+      }
+    },
+    {
+      "id": "com.madfingergames.SamuraiIIAll",
+      "name": "SAMURAI II: VENGEANCE",
+      "author": "Deca_Games",
+      "description": "Hack 'n' slash combat classic. Take on evil sword fighters and epic boss ninjas.",
+      "url": "https://play.google.com/store/apps/details?id=com.madfingergames.SamuraiIIAll",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Arcade"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/uJ7cBuaF0rNHxutL-CnbebRZ7yZmAOoAuiygQv1yoGez78aqNd8Arc1sUFaKSLP5GZ-2EXQiYpjTCX7L2usn4Q=s512",
+      "playstore": {
+        "categories": [
+          "Arcade",
+          "Role Playing",
+          "Casual"
+        ],
+        "score": 4.32,
+        "downloadCount": 478672
+      }
+    },
+    {
       "id": "com.mojang.minecraftpe",
       "name": "Minecraft: Dream it, Build it!",
       "author": "Mojang",
@@ -675,6 +925,321 @@
         ],
         "score": 4.31,
         "downloadCount": 98333851
+      }
+    },
+    {
+      "id": "com.nekki.shadowfight3",
+      "name": "Shadow Fight 3 - RPG fighting",
+      "author": "NEKKI",
+      "description": "Start cool brawls with powerful fighters! Your ultimate ninja adventure awaits!",
+      "url": "https://play.google.com/store/apps/details?id=com.nekki.shadowfight3",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/2_0WBpfWbTU9FbbgblMDNxKexPDLEfXP8RZ7kYiPlIBZO8NT5q6ptklpAUh34zYO5exHsIbg83cNRPUxWTyFRT0=s512",
+      "playstore": {
+        "categories": [
+          "Role Playing",
+          "Action"
+        ],
+        "score": 4.59,
+        "downloadCount": 211490200
+      }
+    },
+    {
+      "id": "com.nekki.shadowfightarena",
+      "name": "Shadow Fight 4: Arena",
+      "author": "NEKKI",
+      "description": "Join the Shadow Tournament! Become a Hero!",
+      "url": "https://play.google.com/store/apps/details?id=com.nekki.shadowfightarena",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/8g0R3yVPhRtvF9d-gFryVBD1toUytn6ZhCrkMJgRnoLRVcw57CE6qFeGVHyLsqot8WimngtkTiBXAUGUbwY_RA=s512",
+      "playstore": {
+        "categories": [
+          "Role Playing",
+          "Action",
+          "Casual"
+        ],
+        "score": 4.68,
+        "downloadCount": 94575058
+      }
+    },
+    {
+      "id": "com.pipsqueakgames.pkd",
+      "name": "Punch Kick Duck",
+      "author": "Pipsqueak Games",
+      "description": "Fluid Fighting Action",
+      "url": "https://play.google.com/store/apps/details?id=com.pipsqueakgames.pkd",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Arcade"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/iDsUVC6XN_VZKhhqhtjpRB8XDgzyg6VreRMCY5FHGonKEq3ySefOdb4Tp_yRFTXsW9FBItealULNZ4VsT8gSwA=s512",
+      "playstore": {
+        "categories": [
+          "Arcade",
+          "Action",
+          "Casual"
+        ],
+        "score": 4.29,
+        "downloadCount": 3156790
+      }
+    },
+    {
+      "id": "com.playdead.limbo.full",
+      "name": "LIMBO",
+      "author": "Playdead",
+      "description": "Uncertain of his sister's fate, a boy enters LIMBO.",
+      "url": "https://play.google.com/store/apps/details?id=com.playdead.limbo.full",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/Lo7w-w7NzCvSxNcPTxhDplX4gq_QCmr5ycjnSKqjD_YH2FAi_NnJOKCjbCLt9rBZ5uywopxFRgORchf8iMpUUHM=s512",
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action",
+          "Casual"
+        ],
+        "score": 4.35,
+        "downloadCount": 3857513
+      }
+    },
+    {
+      "id": "com.playdigious.deadcells.mobile",
+      "name": "Dead Cells",
+      "author": "Playdigious",
+      "description": "Kill. Die. Learn. Repeat.",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/n0bJeYsKsrAD7hByDv0OmdHuoYQ23kXFsu91iGSLwhVXwlb65xe47TKwdeRGu7vw5IZ25_SoN24wOrZOzrtt_QA=s512",
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 4.8,
+        "downloadCount": 2040965
+      }
+    },
+    {
+      "id": "com.rayark.mo",
+      "name": "MO: Astray",
+      "author": "Rayark International Limited",
+      "description": "Pixel art action-puzzler",
+      "url": "https://play.google.com/store/apps/details?id=com.rayark.mo",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/q46PWBcY3W8DndQPQ0iEto0_r6cWCJhfGkJG0My4Vi-fiGsPlZQpPsiQ9oLnPKgI1cDz4GMXloWPfxfKO3wzuug=s512",
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 3.85,
+        "downloadCount": 13717
+      }
+    },
+    {
+      "id": "com.redantz.game.zombie",
+      "name": "Zombie Age 2: Offline Shooting",
+      "author": "RedAntz",
+      "description": "It’s time to load up the gun and shoot your way out!",
+      "url": "https://play.google.com/store/apps/details?id=com.redantz.game.zombie",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/PU-DyAvSCkt1vKoOpDBT_WYRA0MshhGfnqhomd6NlFopZALd8q3-K-cUxJ9RlyjLIKBYCmEyW2pTqTckz97z5A=s512",
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 4.36,
+        "downloadCount": 38905728
+      }
+    },
+    {
+      "id": "com.refuelgames.rally",
+      "name": "Rally Fury - Extreme Racing",
+      "author": "Refuel Games Pty Ltd",
+      "description": "Drift around corners, catch air over jumps, hit your boost and race to victory!",
+      "url": "https://play.google.com/store/apps/details?id=com.refuelgames.rally",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Racing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/uDuLMWKCT73AokNnTSWE6PeS7Trjh_NAh5QVe0u6YG-djSpw1CtlvvilFDhZQAInwW-jlWq0sks-jihcWM_Tlg=s512",
+      "playstore": {
+        "categories": [
+          "Racing"
+        ],
+        "score": 3.96,
+        "downloadCount": 191170585
+      }
+    },
+    {
+      "id": "com.skgames.trafficrider",
+      "name": "Traffic Rider",
+      "author": "skgames",
+      "description": "The Next-Gen of Endless Motorbike Racing",
+      "url": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Racing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/Eki6lQF8HawMz0M5pD-4d8g_VV-EybGQSTtsgkhX10F4rU4oHrP6sug9tLsVPFIk0iVe2rwUmFPj7uWRJCZr=s512",
+      "playstore": {
+        "categories": [
+          "Racing"
+        ],
+        "score": 4.5,
+        "downloadCount": 821355100
+      }
+    },
+    {
+      "id": "com.square_enix.android_googleplay.FFVII",
+      "name": "FINAL FANTASY VII",
+      "author": "SQUARE ENIX Co.,Ltd.",
+      "description": "Over 11 million copies sold worldwide! FINAL FANTASY VII now on Android!",
+      "url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVII",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/BkxAUsA_HrjmmZFGwwvNvuT3nPiENFi5Fp-GUSNZa92GfG8K9nbCWTppGLxvIkc3q9czf8lM7x4ea97X4Be8=s512",
+      "playstore": {
+        "categories": [
+          "Role Playing",
+          "Casual"
+        ],
+        "score": 4.03,
+        "downloadCount": 659643
+      }
+    },
+    {
+      "id": "com.thegamekitchen.blasphemousmobile",
+      "name": "Blasphemous",
+      "author": "The Game Kitchen",
+      "description": "Brutal action-platformer",
+      "url": "https://play.google.com/store/apps/details?id=com.thegamekitchen.blasphemousmobile",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/BSalE_GPl9Tx_mAtd5vH_3PEb_rL5Xm_U2GnvWBk8SOxCwO2jDGoebgVBiPa5ah66FQioDpZAFihDMq3DYk2vw=s512",
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.43,
+        "downloadCount": 82529
+      }
+    },
+    {
+      "id": "com.timbojimbo.ssr",
+      "name": "Static Shift Racing",
+      "author": "Timbo Jimbo",
+      "description": "Dominate real rivals to become the ultimate underground street racing KING!",
+      "url": "https://play.google.com/store/apps/details?id=com.timbojimbo.ssr",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Racing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/VgLe2U7_WfG8LedSGZ2eQJD-BSU9ErXDNV4M7vHkMD3m_SutqBuny1MlRMcWXCBLGzoB45FPthb_-fZ83yqm=s512",
+      "playstore": {
+        "categories": [
+          "Racing",
+          "Casual"
+        ],
+        "score": 4.48,
+        "downloadCount": 14227155
+      }
+    },
+    {
+      "id": "com.tipsworks.android.pascalswager.google",
+      "name": "Pascal's Wager",
+      "author": "Giant Global",
+      "description": "An unprecedented hardcore Soulsborn-like title on mobile",
+      "url": "https://play.google.com/store/apps/details?id=com.tipsworks.android.pascalswager.google",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/weDwpkkFqxcrcYwaLGxNmXYCbMI35peJpmvQxpThp0lcxzsu3eTv_2x0bKFkE5EcGAtYWmcxk0QQDIzxSCMcqg=s512",
+      "playstore": {
+        "categories": [
+          "Action",
+          "Role Playing"
+        ],
+        "score": 3.1,
+        "downloadCount": 238004
+      }
+    },
+    {
+      "id": "com.ultimatestudio.hotlapleague.premium",
+      "name": "Hot Lap League: Racing Mania!",
+      "author": "Ultimate Studio Pty Ltd",
+      "description": "Racing mania on extreme tracks - Stunt driving arcade racer!",
+      "url": "https://play.google.com/store/apps/details?id=com.ultimatestudio.hotlapleague.premium",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Racing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/0l6rEjTlWdY6GiN6lXQRNfd2w64iAS6SCKsFoqCu4LVg3hc9nzuQf_JVQzFgJ599dkky3LcrKbyMQ2Cyw8vv=s512",
+      "playstore": {
+        "categories": [
+          "Racing",
+          "Casual"
+        ],
+        "score": 4.65,
+        "downloadCount": 721981
+      }
+    },
+    {
+      "id": "com.unknownworlds.subnautica",
+      "name": "Subnautica",
+      "author": "Unknown Worlds",
+      "description": "Survive in an underwater open-world",
+      "url": "https://play.google.com/store/apps/details?id=com.unknownworlds.subnautica",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/Xq4IS6QkS4KFSY4aCSTYFYD_hj9lceaQXA_34LHW-1yOsv3pjjtknz6ehoBz7KxsI7Faijty6iwMc-KFEiwddw=s512",
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action"
+        ],
+        "score": 4.55,
+        "downloadCount": 259397
       }
     }
   ]

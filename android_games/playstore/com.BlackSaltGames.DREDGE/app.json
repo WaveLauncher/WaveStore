@@ -1,0 +1,21 @@
+{
+  "id": "com.BlackSaltGames.DREDGE",
+  "name": "DREDGE",
+  "author": "Black Salt Games",
+  "description": "DREDGE is a single-player fishing adventure with a sinister undercurrent.",
+  "url": "https://play.google.com/store/apps/details?id=com.BlackSaltGames.DREDGE",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/3_lXgbVx5dBLu5EvpO5P0MT_yuvR8pqAzN7j3vAkP0oj4cUWN_CSn21I5XqUnELmp-kGbSxNli3MuKSTZ9gSKPM=s512",
+  "playstore": {
+    "categories": [
+      "Role Playing",
+      "Action"
+    ],
+    "score": 4.45,
+    "downloadCount": 421309
+  }
+}

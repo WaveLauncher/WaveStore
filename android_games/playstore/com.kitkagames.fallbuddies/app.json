@@ -1,0 +1,21 @@
+{
+  "id": "com.kitkagames.fallbuddies",
+  "name": "Stumble Guys",
+  "author": "Scopely",
+  "description": "Fun knockout battle royale, play with your friends!",
+  "url": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-=s512",
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 4.74,
+    "downloadCount": 485474627
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "com.timbojimbo.ssr",
+  "name": "Static Shift Racing",
+  "author": "Timbo Jimbo",
+  "description": "Dominate real rivals to become the ultimate underground street racing KING!",
+  "url": "https://play.google.com/store/apps/details?id=com.timbojimbo.ssr",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Racing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/VgLe2U7_WfG8LedSGZ2eQJD-BSU9ErXDNV4M7vHkMD3m_SutqBuny1MlRMcWXCBLGzoB45FPthb_-fZ83yqm=s512",
+  "playstore": {
+    "categories": [
+      "Racing",
+      "Casual"
+    ],
+    "score": 4.48,
+    "downloadCount": 14227155
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "com.ultimatestudio.hotlapleague.premium",
+  "name": "Hot Lap League: Racing Mania!",
+  "author": "Ultimate Studio Pty Ltd",
+  "description": "Racing mania on extreme tracks - Stunt driving arcade racer!",
+  "url": "https://play.google.com/store/apps/details?id=com.ultimatestudio.hotlapleague.premium",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Racing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/0l6rEjTlWdY6GiN6lXQRNfd2w64iAS6SCKsFoqCu4LVg3hc9nzuQf_JVQzFgJ599dkky3LcrKbyMQ2Cyw8vv=s512",
+  "playstore": {
+    "categories": [
+      "Racing",
+      "Casual"
+    ],
+    "score": 4.65,
+    "downloadCount": 721981
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "com.playdead.limbo.full",
+  "name": "LIMBO",
+  "author": "Playdead",
+  "description": "Uncertain of his sister's fate, a boy enters LIMBO.",
+  "url": "https://play.google.com/store/apps/details?id=com.playdead.limbo.full",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/Lo7w-w7NzCvSxNcPTxhDplX4gq_QCmr5ycjnSKqjD_YH2FAi_NnJOKCjbCLt9rBZ5uywopxFRgORchf8iMpUUHM=s512",
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action",
+      "Casual"
+    ],
+    "score": 4.35,
+    "downloadCount": 3857513
+  }
+}

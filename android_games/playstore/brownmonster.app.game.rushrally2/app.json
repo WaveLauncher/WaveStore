@@ -1,0 +1,20 @@
+{
+  "id": "brownmonster.app.game.rushrally2",
+  "name": "Rush Rally 2",
+  "author": "Brownmonster Limited",
+  "description": "The best rally racing game on mobile!",
+  "url": "https://play.google.com/store/apps/details?id=brownmonster.app.game.rushrally2",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Racing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/kTK3PqnxmZAhrokh_OHaMcXoDG6EO1wAF4fG8XXqCUyCb7T0pgogwQED_S3Gwsyu23SXr2rk1GgMpAndiuA7=s512",
+  "playstore": {
+    "categories": [
+      "Racing"
+    ],
+    "score": 3.96,
+    "downloadCount": 552535
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "com.unknownworlds.subnautica",
+  "name": "Subnautica",
+  "author": "Unknown Worlds",
+  "description": "Survive in an underwater open-world",
+  "url": "https://play.google.com/store/apps/details?id=com.unknownworlds.subnautica",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/Xq4IS6QkS4KFSY4aCSTYFYD_hj9lceaQXA_34LHW-1yOsv3pjjtknz6ehoBz7KxsI7Faijty6iwMc-KFEiwddw=s512",
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action"
+    ],
+    "score": 4.55,
+    "downloadCount": 259397
+  }
+}

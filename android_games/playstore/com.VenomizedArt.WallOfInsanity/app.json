@@ -1,0 +1,20 @@
+{
+  "id": "com.VenomizedArt.WallOfInsanity",
+  "name": "Wall of insanity",
+  "author": "Merla Games",
+  "description": "Survive horrible dangers behind the wall of insanity",
+  "url": "https://play.google.com/store/apps/details?id=com.VenomizedArt.WallOfInsanity",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/SJYak1k3asvwuck2wxd35M-ONEDeKVNUeoxlFD2qTQwh0fJtHkbnd4aRlUaAbAdVyyXayKYEYYUbZn9qsr7U=s512",
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 3.95,
+    "downloadCount": 344845
+  }
+}

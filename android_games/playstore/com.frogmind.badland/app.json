@@ -1,0 +1,22 @@
+{
+  "id": "com.frogmind.badland",
+  "name": "BADLAND",
+  "author": "HypeHype Inc.",
+  "description": "Fly and survive through the🏆 Game of the Year-winning action adventure BADLAND",
+  "url": "https://play.google.com/store/apps/details?id=com.frogmind.badland",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/A5xxP7n9HqhDZjXt2apNCgcnLciHJ8xojRUfBqg5eScO9JLqcz1sXEBNrtFBI6G1otqeRkwz_SkqoS1EVWLmYw=s512",
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action",
+      "Casual"
+    ],
+    "score": 4.13,
+    "downloadCount": 56531330
+  }
+}

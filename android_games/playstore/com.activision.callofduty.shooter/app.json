@@ -1,0 +1,20 @@
+{
+  "id": "com.activision.callofduty.shooter",
+  "name": "Call of Duty®: Mobile",
+  "author": "Activision Publishing, Inc.",
+  "description": "Online multiplayer PvP FPS shooter with Battle Royale and Ranked Action!",
+  "url": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/cKXlbU72_2wSXdjcD_zPWED3EVaaOQVqqHgiA9JoRQMprYen49arNUMTngcRc9UWLnv-ANT9gyQBDQpvAn61lg=s512",
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 4.26,
+    "downloadCount": 427282292
+  }
+}

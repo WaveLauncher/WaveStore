@@ -1,0 +1,21 @@
+{
+  "id": "com.CarXTech.highWay",
+  "name": "CarX Highway Racing",
+  "author": "CarX Technologies",
+  "description": "Become a racing legend on busy highways",
+  "url": "https://play.google.com/store/apps/details?id=com.CarXTech.highWay",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Racing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/jAyYNnNdLLjlJM961ep_-1AEWhmjaxDd1EA4Rq5bCKTZWLivT-0GuukOPmRNR7wwDoROHdYTdJo2IC1p_yANTQ=s512",
+  "playstore": {
+    "categories": [
+      "Racing",
+      "Arcade"
+    ],
+    "score": 4.7,
+    "downloadCount": 111508991
+  }
+}

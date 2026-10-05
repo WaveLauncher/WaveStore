@@ -1,0 +1,20 @@
+{
+  "id": "com.skgames.trafficrider",
+  "name": "Traffic Rider",
+  "author": "skgames",
+  "description": "The Next-Gen of Endless Motorbike Racing",
+  "url": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Racing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/Eki6lQF8HawMz0M5pD-4d8g_VV-EybGQSTtsgkhX10F4rU4oHrP6sug9tLsVPFIk0iVe2rwUmFPj7uWRJCZr=s512",
+  "playstore": {
+    "categories": [
+      "Racing"
+    ],
+    "score": 4.5,
+    "downloadCount": 821355100
+  }
+}
