@@ -1,0 +1,44 @@
+name: Refresh the featured list
+
+on:
+  schedule:
+    # Monday 12:00 UTC. GitHub runs a cron late when its queue is busy.
+    - cron: "0 12 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-featured
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Rebuild first, so the picker draws from a current catalog.
+      - name: Rebuild the catalog
+        run: python3 scripts/build_store.py
+
+      # The picker uses the standard library only, so nothing is installed.
+      - name: Pick the week
+        run: python3 scripts/pick_featured.py
+
+      - name: Commit
+        run: |
+          git add store.json
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh the featured list"
+          git push

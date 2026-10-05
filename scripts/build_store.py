@@ -70,6 +70,26 @@ def collect():
     return entries, errors, no_icon
 
 
+def featured(entries, previous):
+    """Carry the selection across a rebuild.
+
+    store.json holds the picked entries in full, so a rebuild from scratch would
+    drop them. Keep the ids and resolve them again, which also makes a featured
+    entry follow an edit to its app.json.
+    """
+    chosen = {kind: [] for kind in common.KINDS}
+    picked = previous.get("featured") or {}
+    for kind in chosen:
+        by_id = {app["id"]: app for app in entries[kind]}
+        for entry in picked.get(f"{kind}s") or []:
+            app_id = entry.get("id") if isinstance(entry, dict) else entry
+            if app_id in by_id:
+                chosen[kind].append(by_id[app_id])
+            else:
+                print(f"warning: featured {kind} {app_id!r} is not in the catalog", file=sys.stderr)
+    return {f"{kind}s": chosen[kind] for kind in sorted(chosen)}
+
+
 def main():
     entries, errors, no_icon = collect()
 
@@ -87,10 +107,12 @@ def main():
         except json.JSONDecodeError:
             previous = {}
 
+    picked = featured(entries, previous)
     unchanged = (
         previous.get("version") == STORE_VERSION
         and previous.get("apps") == apps
         and previous.get("games") == games
+        and previous.get("featured") == picked
     )
     if unchanged:
         print(f"store.json already current ({len(apps)} apps, {len(games)} games)")
@@ -101,6 +123,7 @@ def main():
         "version": STORE_VERSION,
         "generatedAt": generated_at,
         "counts": {"apps": len(apps), "games": len(games)},
+        "featured": picked,
         "apps": apps,
         "games": games,
     }

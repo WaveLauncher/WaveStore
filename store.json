@@ -1,9 +1,115 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-05T16:54:11Z",
+  "generatedAt": "2026-10-05T17:30:39Z",
   "counts": {
     "apps": 51,
     "games": 28
+  },
+  "featured": {
+    "apps": [
+      {
+        "id": "org.vita3k.emulator",
+        "name": "Vita3K",
+        "author": "Vita3K",
+        "description": "PlayStation Vita emulator",
+        "url": "https://github.com/Vita3K/Vita3K-builds",
+        "source": "GitHub",
+        "free": true,
+        "categories": [
+          "Emulator"
+        ],
+        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.vita3k.emulator/icon.png"
+      },
+      {
+        "id": "com.armsx3",
+        "name": "ARMSX3",
+        "author": "ARMSX2",
+        "url": "https://github.com/ARMSX2/ARMSX3",
+        "source": "GitHub",
+        "free": true,
+        "categories": [
+          "Emulator"
+        ],
+        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.armsx3/icon.png"
+      },
+      {
+        "id": "me.magnum.melonds.nightly",
+        "name": "MelonDS Nightly",
+        "author": "rafaelvcaetano",
+        "description": "Nintendo DS emulator (nightly builds)",
+        "url": "https://github.com/rafaelvcaetano/melonDS-android",
+        "source": "GitHub",
+        "free": true,
+        "categories": [
+          "Emulator"
+        ],
+        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melonds.nightly/icon.png"
+      }
+    ],
+    "games": [
+      {
+        "id": "com.duoyihk.m2m1",
+        "name": "Gunfire Reborn",
+        "author": "Duoyi Hong Kong Interactive Entertainment Limited",
+        "description": "A never-ending adventure with Roguelite+FPS",
+        "url": "https://play.google.com/store/apps/details?id=com.duoyihk.m2m1",
+        "source": "PlayStore",
+        "free": false,
+        "categories": [
+          "Action"
+        ],
+        "icon": "https://play-lh.googleusercontent.com/8IK51Pa1WmIOjSpdcqCDogLfJapiMNjpF69nSxwTOzoZPIyTkcI9oZAhivL0G-SoTVm1NJhT_v30ep-nV82sSw=s512",
+        "playstore": {
+          "categories": [
+            "Action"
+          ],
+          "score": 3.69,
+          "downloadCount": 59832
+        }
+      },
+      {
+        "id": "com.unknownworlds.subnautica",
+        "name": "Subnautica",
+        "author": "Unknown Worlds",
+        "description": "Survive in an underwater open-world",
+        "url": "https://play.google.com/store/apps/details?id=com.unknownworlds.subnautica",
+        "source": "PlayStore",
+        "free": false,
+        "categories": [
+          "Adventure"
+        ],
+        "icon": "https://play-lh.googleusercontent.com/Xq4IS6QkS4KFSY4aCSTYFYD_hj9lceaQXA_34LHW-1yOsv3pjjtknz6ehoBz7KxsI7Faijty6iwMc-KFEiwddw=s512",
+        "playstore": {
+          "categories": [
+            "Adventure",
+            "Action"
+          ],
+          "score": 4.55,
+          "downloadCount": 259397
+        }
+      },
+      {
+        "id": "com.snapbreak.lip",
+        "name": "Lost in Play",
+        "author": "Snapbreak",
+        "description": "Solve puzzles, riddles, and embark on an exciting journey of discovery!",
+        "url": "https://play.google.com/store/apps/details?id=com.snapbreak.lip",
+        "source": "PlayStore",
+        "free": true,
+        "categories": [
+          "Adventure"
+        ],
+        "icon": "https://play-lh.googleusercontent.com/rg96rbCnVBy7lMbNuc9uIijL3S5LCob0oXGCGPu-gO5k5jnuiVkpkgLIJORQ2-ccdFWezz1Y3WzYl3q9qEWYvxY=s512",
+        "playstore": {
+          "categories": [
+            "Adventure",
+            "Casual"
+          ],
+          "score": 4.57,
+          "downloadCount": 6882049
+        }
+      }
+    ]
   },
   "apps": [
     {

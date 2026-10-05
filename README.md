@@ -25,10 +25,16 @@ fields.
   "version": 2,
   "generatedAt": "2026-10-05T12:57:45Z",
   "counts": { "apps": 51, "games": 37 },
+  "featured": { "apps": [ ... ], "games": [ ... ] },
   "apps": [ ... ],
   "games": [ ... ]
 }
 ```
+
+`featured` holds 3 apps and 3 games for the current week. The entries are the
+same objects that appear in `apps` and `games`, copied in full, so a front page
+needs no lookup. At least one featured game is free.
+Cronjob picks a new set every Monday.
 
 Both lists hold the same object shape. An emulator is an app, something you play
 is a game, and this repository decides which is which so your client does not
@@ -180,6 +186,21 @@ edit without `--force`.
 There is also a `.github/workflows/add-playstore.yml` that does the same from the
 Actions tab.
 
+### Refresh the featured list
+
+```
+python3 scripts/pick_featured.py [--dry-run]
+```
+
+Picks 3 apps and 3 games at random and writes them into the `featured` block of
+`store.json`. Run `build_store.py` first, so the picker draws from a current
+catalog.
+
+Games come from the Play Store only, and at least one of the three is free. Apps
+come from `GitHub` or `PlayStore`. A new set never repeats an id that is
+featured now. A later rebuild keeps the selection and refreshes each entry from
+its `app.json`.
+
 ### Adding an app by hand
 
 Write `android_apps/<provider>/<id>/app.json`, drop an `icon.png` beside it, and
@@ -191,3 +212,7 @@ run the build. A pull request is welcome.
 
 `.github/workflows/build-store.yml` rebuilds `store.json` on a push to `main` and
 fails a pull request when the catalog is stale or an entry is broken.
+
+`.github/workflows/refresh-featured.yml` picks a new featured list every Monday
+at 12:00 UTC, rebuilds the catalog, and commits both files. Start it by hand from
+the Actions tab to change the week early.
