@@ -8,9 +8,9 @@ https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/store.json
 
 51 apps and 37 games today. No API key, no account, no rate limit.
 
-WaveStore was built for [WaveLauncher](https://github.com/WaveLauncher/WaveLauncher),
+Wave Store was built for [Wave Launcher](https://github.com/WaveLauncher/WaveLauncher),
 but it is not tied to it. **Any launcher or frontend may use it as their app
-store.** See [Using WaveStore](#using-wavestore) for the one condition.
+store.** See [Using Wave Store](#using-wavestore) for the one condition.
 
 ---
 
@@ -76,14 +76,13 @@ that `id` a different URL. The whole icon set is about 1 MB.
 
 WaveStore is free to use, including commercially. One condition:
 
-> **Credit WaveStore on the screen where the catalog appears.**
+> **Credit Wave Launcher on the screen where the catalog appears, with a link to the Wave Launcher Repository.**
 
-Not buried in an about page, not only in your source. On the store screen itself,
-where someone browsing your app can see it. A single line is enough:
+It must be on the store screen itself, where someone browsing your app can see it. A single line is enough:
 
 ```
-Catalog by WaveStore
-github.com/WaveLauncher/WaveStore
+Catalog by Wave Launcher (Wave Store)
+github.com/WaveLauncher/WaveLauncher
 ```
 
 Make the link tappable if your UI allows it. If your store screen genuinely has
