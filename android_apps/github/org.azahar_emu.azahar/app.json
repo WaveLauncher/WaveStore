@@ -1,0 +1,13 @@
+{
+  "id": "org.azahar_emu.azahar",
+  "name": "Azahar",
+  "author": "azahar-emu",
+  "description": "Nintendo 3DS emulator",
+  "url": "https://github.com/azahar-emu/azahar",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.azahar_emu.azahar/icon.png"
+}

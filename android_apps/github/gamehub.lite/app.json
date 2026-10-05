@@ -1,0 +1,13 @@
+{
+  "id": "gamehub.lite",
+  "name": "GameHub Lite",
+  "author": "Producdevity",
+  "description": "Windows game launcher for Android",
+  "url": "https://github.com/Producdevity/gamehub-lite",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "PC Emulation"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/gamehub.lite/icon.png"
+}

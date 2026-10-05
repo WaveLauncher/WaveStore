@@ -1,0 +1,12 @@
+{
+  "id": "com.nanodata.armsx",
+  "name": "ARMSX1",
+  "author": "ARMSX2",
+  "url": "https://github.com/ARMSX2/ARMSX1",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.nanodata.armsx/icon.png"
+}

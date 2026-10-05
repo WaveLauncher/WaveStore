@@ -1,0 +1,13 @@
+{
+  "id": "com.flycast.emulator",
+  "name": "Flycast",
+  "author": "flyinghead",
+  "description": "Dreamcast, NAOMI, and Atomiswave emulator",
+  "url": "https://github.com/flyinghead/flycast",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.flycast.emulator/icon.png"
+}

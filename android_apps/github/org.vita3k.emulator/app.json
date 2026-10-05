@@ -1,0 +1,13 @@
+{
+  "id": "org.vita3k.emulator",
+  "name": "Vita3K",
+  "author": "Vita3K",
+  "description": "PlayStation Vita emulator",
+  "url": "https://github.com/Vita3K/Vita3K-builds",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.vita3k.emulator/icon.png"
+}

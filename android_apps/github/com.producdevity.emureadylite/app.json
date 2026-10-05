@@ -1,0 +1,13 @@
+{
+  "id": "com.producdevity.emureadylite",
+  "name": "EmuReady Lite",
+  "author": "Producdevity",
+  "description": "Emulation compatibility database",
+  "url": "https://github.com/Producdevity/EmuReadyAppReleases",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.producdevity.emureadylite/icon.png"
+}

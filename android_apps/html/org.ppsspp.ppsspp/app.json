@@ -1,0 +1,13 @@
+{
+  "id": "org.ppsspp.ppsspp",
+  "name": "PPSSPP",
+  "author": "www.ppsspp.org",
+  "description": "PPSSPP is an open source, fast and portable PSP emulator",
+  "url": "https://www.ppsspp.org/download/",
+  "source": "HTML",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/org.ppsspp.ppsspp/icon.png"
+}

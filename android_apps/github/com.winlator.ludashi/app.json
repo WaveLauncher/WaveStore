@@ -1,0 +1,13 @@
+{
+  "id": "com.winlator.ludashi",
+  "name": "Winlator-Ludashi",
+  "author": "StevenMXZ",
+  "description": "Winlator fork with Ludashi optimizations",
+  "url": "https://github.com/StevenMXZ/Winlator-Ludashi",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "PC Emulation"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.winlator.ludashi/icon.png"
+}

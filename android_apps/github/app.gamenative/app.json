@@ -1,0 +1,13 @@
+{
+  "id": "app.gamenative",
+  "name": "GameNative",
+  "author": "utkarshdalal",
+  "description": "Native Windows game compatibility layer",
+  "url": "https://github.com/utkarshdalal/GameNative",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "PC Emulation"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/app.gamenative/icon.png"
+}

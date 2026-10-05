@@ -1,0 +1,13 @@
+{
+  "id": "com.github.catfriend1.syncthingfork",
+  "name": "Syncthing-Fork",
+  "author": "researchxxl",
+  "description": "Continuous file synchronization",
+  "url": "https://github.com/researchxxl/syncthing-android",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.github.catfriend1.syncthingfork/icon.png"
+}

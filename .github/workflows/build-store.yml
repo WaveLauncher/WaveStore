@@ -1,0 +1,59 @@
+name: Build store.json
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "android_apps/**"
+      - "android_games/**"
+      - "scripts/**"
+      - ".github/workflows/build-store.yml"
+  pull_request:
+    paths:
+      - "android_apps/**"
+      - "android_games/**"
+      - "scripts/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-store-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # build_store.py exits 1 on a broken app.json, which fails the job.
+      - name: Build the catalog
+        run: python3 scripts/build_store.py
+
+      - name: Check that store.json is current
+        if: github.event_name == 'pull_request'
+        run: |
+          if ! git diff --quiet store.json; then
+            echo "::error::store.json is stale. Run python3 scripts/build_store.py and commit the result."
+            git diff store.json
+            exit 1
+          fi
+
+      - name: Commit store.json
+        if: github.event_name != 'pull_request'
+        run: |
+          if git diff --quiet store.json; then
+            echo "store.json is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add store.json
+          git commit -m "Rebuild store.json"
+          git push

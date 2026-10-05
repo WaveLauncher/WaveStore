@@ -1,0 +1,12 @@
+{
+  "id": "com.med.sleepmanager",
+  "name": "Sleepmanager",
+  "author": "Baggio94",
+  "url": "https://github.com/Baggio94/SleepManager",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.med.sleepmanager/icon.png"
+}

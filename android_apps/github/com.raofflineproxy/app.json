@@ -1,0 +1,12 @@
+{
+  "id": "com.raofflineproxy",
+  "name": "RAOfflineProxy",
+  "author": "misantronic",
+  "url": "https://github.com/misantronic/RAOfflineProxy",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.raofflineproxy/icon.png"
+}

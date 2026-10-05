@@ -1,0 +1,12 @@
+{
+  "id": "com.armsx3",
+  "name": "ARMSX3",
+  "author": "ARMSX2",
+  "url": "https://github.com/ARMSX2/ARMSX3",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.armsx3/icon.png"
+}

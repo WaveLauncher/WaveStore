@@ -1,0 +1,12 @@
+{
+  "id": "pup.app.mimir",
+  "name": "Mimir",
+  "author": "ItsRetroPup",
+  "url": "https://github.com/ItsRetroPup/Mimir",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/pup.app.mimir/icon.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "com.moonbench.bifrost",
+  "name": "Bifrost",
+  "author": "Pollux-MoonBench",
+  "description": "System-level performance tweaks for Android handhelds",
+  "url": "https://github.com/Pollux-MoonBench/Bifrost",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.moonbench.bifrost/icon.png"
+}

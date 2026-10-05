@@ -1,0 +1,13 @@
+{
+  "id": "com.limelight",
+  "name": "Moonlight",
+  "author": "moonlight-stream",
+  "description": "Game streaming client for NVIDIA GameStream and Sunshine",
+  "url": "https://github.com/moonlight-stream/moonlight-android",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Streaming"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.limelight/icon.png"
+}

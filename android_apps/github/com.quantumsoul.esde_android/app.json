@@ -1,0 +1,13 @@
+{
+  "id": "com.quantumsoul.esde_android",
+  "name": "ES-DE Android Apps",
+  "author": "BinaryQuantumSoul",
+  "description": "ES-DE system integration for Android",
+  "url": "https://github.com/BinaryQuantumSoul/esde_android_apps",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.quantumsoul.esde_android/icon.png"
+}

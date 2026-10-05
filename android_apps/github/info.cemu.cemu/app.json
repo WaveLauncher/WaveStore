@@ -1,0 +1,13 @@
+{
+  "id": "info.cemu.cemu",
+  "name": "Cemu",
+  "author": "SSimco",
+  "description": "Wii U emulator",
+  "url": "https://github.com/SSimco/Cemu",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/info.cemu.cemu/icon.png"
+}

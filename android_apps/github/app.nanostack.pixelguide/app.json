@@ -1,0 +1,13 @@
+{
+  "id": "app.nanostack.pixelguide",
+  "name": "Pixel Guide Android",
+  "author": "rexmont",
+  "description": "Pixel art scaling and display guide",
+  "url": "https://github.com/rexmont/Pixel-Guide-Android",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/app.nanostack.pixelguide/icon.png"
+}

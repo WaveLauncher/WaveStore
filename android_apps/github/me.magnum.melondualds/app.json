@@ -1,0 +1,13 @@
+{
+  "id": "me.magnum.melondualds",
+  "name": "WatermelonDS",
+  "author": "SapphireRhodonite",
+  "description": "Nintendo DS emulator",
+  "url": "https://github.com/SapphireRhodonite/WatermelonDS",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melondualds/icon.png"
+}

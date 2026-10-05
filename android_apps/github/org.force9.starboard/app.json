@@ -1,0 +1,13 @@
+{
+  "id": "org.force9.starboard",
+  "name": "Starboard",
+  "author": "get-starboard",
+  "description": "Run PortMaster games on Android.",
+  "url": "https://github.com/get-starboard/starboard",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "PC Emulation"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.force9.starboard/icon.png"
+}

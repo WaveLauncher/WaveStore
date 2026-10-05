@@ -1,2 +1,4 @@
-scripts
 tmp
+private_scripts/
+__pycache__/
+.DS_Store

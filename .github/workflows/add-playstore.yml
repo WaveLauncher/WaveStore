@@ -1,0 +1,85 @@
+name: Add Play Store apps
+
+on:
+  workflow_dispatch:
+    inputs:
+      targets:
+        description: "Package ids or Play Store urls, separated by commas"
+        required: true
+        type: string
+      categories:
+        description: "Store categories for every app in this run, separated by commas"
+        required: false
+        type: string
+      type:
+        description: "Force app or game. auto reads the Play genre."
+        required: false
+        default: auto
+        type: choice
+        options: [auto, app, game]
+      force:
+        description: "Overwrite values that were edited by hand"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: add-playstore
+  cancel-in-progress: false
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install google-play-scraper
+        run: pip install -r requirements.txt
+
+      # The inputs reach the shell through env, never through ${{ }} inside the
+      # script, so a crafted value cannot run as a command.
+      - name: Scrape the listings
+        id: add
+        continue-on-error: true
+        env:
+          TARGETS: ${{ inputs.targets }}
+          CATEGORIES: ${{ inputs.categories }}
+          APP_TYPE: ${{ inputs.type }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          args=("$TARGETS")
+          if [ -n "$CATEGORIES" ]; then args+=(--categories "$CATEGORIES"); fi
+          if [ "$APP_TYPE" != "auto" ]; then args+=(--type "$APP_TYPE"); fi
+          if [ "$FORCE" = "true" ]; then args+=(--force); fi
+          python3 scripts/add_playstore.py "${args[@]}"
+
+      - name: Rebuild the catalog
+        run: python3 scripts/build_store.py
+
+      # An app that was added still gets committed when another one failed.
+      - name: Commit
+        env:
+          TARGETS: ${{ inputs.targets }}
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Add Play Store apps: $TARGETS"
+          git push
+
+      - name: Fail when a target could not be added
+        if: steps.add.outcome == 'failure'
+        run: |
+          echo "::error::One or more targets could not be added. Read the scrape step."
+          exit 1

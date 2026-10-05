@@ -1,0 +1,13 @@
+{
+  "id": "org.dolphinemu.dolphinemu",
+  "name": "Dolphin Emulator",
+  "author": "dolphin-emu.org",
+  "description": "GameCube and Wii emulator",
+  "url": "https://dolphin-emu.org/download/?ref=btn",
+  "source": "HTML",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/org.dolphinemu.dolphinemu/icon.png"
+}

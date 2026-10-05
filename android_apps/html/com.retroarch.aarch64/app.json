@@ -1,0 +1,13 @@
+{
+  "id": "com.retroarch.aarch64",
+  "name": "RetroArch (AArch64)",
+  "author": "buildbot.libretro.com",
+  "description": "Released less frequently. Better stability.",
+  "url": "https://buildbot.libretro.com/stable",
+  "source": "HTML",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/com.retroarch.aarch64/icon.png"
+}

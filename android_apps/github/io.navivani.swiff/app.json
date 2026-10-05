@@ -1,0 +1,12 @@
+{
+  "id": "io.navivani.swiff",
+  "name": "Swiff",
+  "author": "NaviVani",
+  "url": "https://github.com/NaviVani-dev/Swiff",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.navivani.swiff/icon.png"
+}

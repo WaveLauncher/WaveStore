@@ -1,0 +1,13 @@
+{
+  "id": "com.limelight.noir",
+  "name": "Artemis",
+  "author": "ClassicOldSong",
+  "description": "Game streaming client (Moonlight fork)",
+  "url": "https://github.com/ClassicOldSong/moonlight-android",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Streaming"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.limelight.noir/icon.png"
+}

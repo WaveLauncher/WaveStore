@@ -1,0 +1,12 @@
+{
+  "id": "io.github.gopher64.gopher64",
+  "name": "Gopher64",
+  "author": "gopher64",
+  "url": "https://github.com/gopher64/gopher64",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.github.gopher64.gopher64/icon.png"
+}

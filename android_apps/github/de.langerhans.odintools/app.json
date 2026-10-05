@@ -1,0 +1,13 @@
+{
+  "id": "de.langerhans.odintools",
+  "name": "OdinTools",
+  "author": "langerhans",
+  "description": "AYN Odin handheld system tweaks",
+  "url": "https://github.com/langerhans/OdinTools",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/de.langerhans.odintools/icon.png"
+}

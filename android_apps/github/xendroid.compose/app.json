@@ -1,0 +1,12 @@
+{
+  "id": "xendroid.compose",
+  "name": "Xendroid",
+  "author": "rfandango",
+  "url": "https://github.com/rfandango/XenDroid",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xendroid.compose/icon.png"
+}

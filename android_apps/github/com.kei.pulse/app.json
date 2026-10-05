@@ -1,0 +1,12 @@
+{
+  "id": "com.kei.pulse",
+  "name": "Pulse",
+  "author": "keiretrogaming",
+  "url": "https://github.com/keiretrogaming/pulse",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.kei.pulse/icon.png"
+}

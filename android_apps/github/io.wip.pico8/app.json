@@ -1,0 +1,13 @@
+{
+  "id": "io.wip.pico8",
+  "name": "Pico8 Android",
+  "author": "Macs75",
+  "description": "PICO-8 fantasy console frontend",
+  "url": "https://github.com/Macs75/pico8-android",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.wip.pico8/icon.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "emu.x360mobile.com",
+  "name": "X360 Mobile",
+  "author": "Ashnar2602",
+  "url": "https://github.com/Ashnar2602/X360-Mobile---OFFICIAL",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/emu.x360mobile.com/icon.png"
+}
