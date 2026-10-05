@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/store.json
 51 apps and 37 games today. No API key, no account, no rate limit.
 
 Wave Store was built for [Wave Launcher](https://github.com/WaveLauncher/WaveLauncher),
-but it is not tied to it. **Any launcher or frontend may use it as their app
+but it is not tied to it. **Anyone may use it for their app
 store.** See [Using Wave Store](#using-wavestore) for the one condition.
 
 ---
