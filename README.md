@@ -76,13 +76,13 @@ that `id` a different URL. The whole icon set is about 1 MB.
 
 WaveStore is free to use, including commercially. One condition:
 
-> **Credit Wave Launcher on the screen where the catalog appears, with a link to the Wave Launcher Repository.**
+> **Credit Wave Store on the screen where the catalog appears, with a link to the Wave Store Repository.**
 
 It must be on the store screen itself, where someone browsing your app can see it. A single line is enough:
 
 ```
-Catalog by Wave Launcher (Wave Store)
-github.com/WaveLauncher/WaveLauncher
+Catalog by Wave Store (Wave Launcher)
+github.com/WaveLauncher/WaveStore
 ```
 
 Make the link tappable if your UI allows it. If your store screen genuinely has
