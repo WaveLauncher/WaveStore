@@ -1,0 +1,68 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 WaveLauncher
+
+The WaveStore catalog is licensed under the Creative Commons Attribution 4.0
+International License.
+
+Full legal code:  https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:          https://creativecommons.org/licenses/by/4.0/
+
+
+WHAT THIS COVERS
+
+  android_apps/      the app entries
+  android_games/     the game entries
+  store.json         the generated catalog
+
+This means the selection of apps, their categorization, the structure of the
+data, and the work of assembling and maintaining it.
+
+
+WHAT THIS DOES NOT COVER
+
+App icons, app names and app descriptions are the property of their respective
+developers and publishers. The icons were taken from each app's own release
+package or its Play Store listing. WaveLauncher does not own them and this
+license grants you no rights to them.
+
+Listing an app by its name and icon is ordinary nominative use, the same as any
+app store. That is a matter between you and the developer, and it is not
+something this license can grant or withhold.
+
+If you are a developer and want your app removed from this catalog, open an
+issue and it will be removed.
+
+
+YOU ARE FREE TO
+
+  Share    copy and redistribute the catalog in any medium or format
+  Adapt    remix, transform, and build upon it, for any purpose, including
+           commercially
+
+
+UNDER ONE CONDITION
+
+  Attribution
+
+  You must give appropriate credit, provide a link to this license, and
+  indicate if changes were made.
+
+  For a launcher or frontend that uses this catalog as its app store, credit
+  WaveStore on the screen where the catalog appears. Not only in an about page,
+  and not only in your source code. A single line is enough:
+
+      Catalog by WaveStore
+      github.com/WaveLauncher/WaveStore
+
+  Make the link tappable if your interface allows it. If the catalog screen
+  genuinely has no room, a credit on the first screen reachable from it is
+  acceptable.
+
+  You may not suggest that WaveStore endorses you or your use.
+
+
+NO ADDITIONAL RESTRICTIONS
+
+You may not apply legal terms or technological measures that legally restrict
+others from doing anything this license permits.
