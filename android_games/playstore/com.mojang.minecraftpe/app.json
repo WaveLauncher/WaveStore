@@ -1,0 +1,22 @@
+{
+  "id": "com.mojang.minecraftpe",
+  "name": "Minecraft: Dream it, Build it!",
+  "author": "Mojang",
+  "description": "Millions of crafters have smashed billions of blocks! Now you can join the fun!",
+  "url": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Arcade"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/tI4StRSPVhpGJH5R013naszLUawOjao1ya8FvyaNO7XY_cJFHFqo1EFaEJv_7zz3rRJ5lEpLiw14ZqQLCOYc=s512",
+  "playstore": {
+    "categories": [
+      "Arcade",
+      "Simulation",
+      "Casual"
+    ],
+    "score": 4.31,
+    "downloadCount": 98333851
+  }
+}

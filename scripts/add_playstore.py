@@ -59,7 +59,12 @@ def play_extras(record):
     genre = (record.get("genre") or "").strip()
     if genre and genre not in names:
         names.insert(0, genre)
-    return {"categories": names}
+    score = record.get("score")
+    return {
+        "categories": names,
+        "score": round(score, 2) if isinstance(score, (int, float)) else None,
+        "downloadCount": record.get("realInstalls"),
+    }
 
 
 def convert(record, app_id, categories):

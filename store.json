@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-05T14:43:46Z",
+  "generatedAt": "2026-10-05T15:30:03Z",
   "counts": {
     "apps": 51,
-    "games": 0
+    "games": 1
   },
   "apps": [
     {
@@ -119,7 +119,7 @@
       "categories": [
         "Emulator"
       ],
-      "icon": null
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/com.github.stenzek.duckstation/icon.png"
     },
     {
       "id": "com.izzy2lost.x1box",
@@ -257,7 +257,7 @@
       "categories": [
         "Emulator"
       ],
-      "icon": null
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/com.retroarch.aarch64/icon.png"
     },
     {
       "id": "com.rfandango.haku_x",
@@ -282,7 +282,7 @@
       "categories": [
         "Emulator"
       ],
-      "icon": null
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/com.virtualapplications.play/icon.png"
     },
     {
       "id": "com.winlator",
@@ -550,7 +550,7 @@
       "categories": [
         "Emulator"
       ],
-      "icon": null
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/org.dolphinemu.dolphinemu/icon.png"
     },
     {
       "id": "org.force9.starboard",
@@ -576,7 +576,7 @@
       "categories": [
         "Emulator"
       ],
-      "icon": null
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/org.ppsspp.ppsspp/icon.png"
     },
     {
       "id": "org.scummvm.scummvm",
@@ -589,7 +589,7 @@
       "categories": [
         "Emulator"
       ],
-      "icon": null
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/org.scummvm.scummvm/icon.png"
     },
     {
       "id": "org.vita3k.emulator",
@@ -654,5 +654,28 @@
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xyz.aethersx2.tturnip/icon.png"
     }
   ],
-  "games": []
+  "games": [
+    {
+      "id": "com.mojang.minecraftpe",
+      "name": "Minecraft: Dream it, Build it!",
+      "author": "Mojang",
+      "description": "Millions of crafters have smashed billions of blocks! Now you can join the fun!",
+      "url": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Arcade"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/tI4StRSPVhpGJH5R013naszLUawOjao1ya8FvyaNO7XY_cJFHFqo1EFaEJv_7zz3rRJ5lEpLiw14ZqQLCOYc=s512",
+      "playstore": {
+        "categories": [
+          "Arcade",
+          "Simulation",
+          "Casual"
+        ],
+        "score": 4.31,
+        "realInstalls": 98333851
+      }
+    }
+  ]
 }
