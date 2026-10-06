@@ -9,6 +9,12 @@
   "categories": [
     "Action"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://play-lh.googleusercontent.com/tmqYYlC24al1w_26rbKLfTS--DcpRJxsJqJOuyHtH2ju_VyC9qZFdl5I-aM9smzLWNfEScCjxybWTOOJxJsULkg=s512",
   "screenshots": [
     "https://play-lh.googleusercontent.com/4YvSCLPVIOkVctF3M8Z50uWlb_xvjSx63vy-4spWYzB5v9JtEtlBZEP53NN9Okny5RPnBv2J5fUgxh1246NNrg",

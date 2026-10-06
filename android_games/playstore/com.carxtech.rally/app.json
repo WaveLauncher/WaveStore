@@ -9,6 +9,12 @@
   "categories": [
     "Racing"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://play-lh.googleusercontent.com/0nEKeYBUICZb5YkaiKF2VK5W3kheCerppClJ1n0XH6-iHOYqo-BuW4w6R5_HwBtj9BU8Br82zOtGHf1CBReg=s512",
   "screenshots": [
     "https://play-lh.googleusercontent.com/wd2r1P_o2PMgDhPWFPpjHkwHIaFHuAWzQsiljexwOFYN1XQ2Go6yc-jF6EewZQ8CqPZl-fpdSvLiUMzOQQuHfg",

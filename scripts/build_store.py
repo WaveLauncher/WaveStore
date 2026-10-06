@@ -34,6 +34,16 @@ def collect():
         if not isinstance(app.get("free"), bool):
             errors.append(f"{path}: free must be true or false")
             continue
+        bad = [
+            f"{field} {value!r}"
+            for field, allowed in (("screenSupport", common.SCREEN_SUPPORT),
+                                   ("platformSupport", common.PLATFORM_SUPPORT))
+            for value in (app.get(field) or [])
+            if value not in allowed
+        ]
+        if bad:
+            errors.append(f"{path}: unknown {', '.join(bad)}")
+            continue
         if app["id"] != directory.name:
             errors.append(f"{path}: id {app['id']!r} does not match the folder name")
             continue

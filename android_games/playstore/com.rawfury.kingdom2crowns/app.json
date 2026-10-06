@@ -9,6 +9,12 @@
   "categories": [
     "Simulation"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://play-lh.googleusercontent.com/kAZBQRqytst23LyVjQYsPav0W9cFym_juV1r3J_Jhmep5U5nAbpumUNvxzlGT2FiJWTOD4rmVuI-AhJlnjpD=s512",
   "screenshots": [
     "https://play-lh.googleusercontent.com/Q-blo62F_Yxy2vUr2Bk8UQ0G13J6wTjqE7YQl-aYtjlAi8GbT560QH9wCNBcKwdJvujzfIh7cB0QQuMalJvojxc",

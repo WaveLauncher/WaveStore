@@ -9,6 +9,12 @@
   "categories": [
     "Role Playing"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://play-lh.googleusercontent.com/c9tXubB2EgmtNwKvNsdpE9UFugKMW8_C3ab3rUbR8uvS72YFl3AXuwSZNSg5xB4tB0Yk2IJcqrX0tlxnVZ5itw=s512",
   "screenshots": [
     "https://play-lh.googleusercontent.com/5lEcgjK5501o-0Br6EnPkGpwC-HGKQQfunZkcjLRy9Wm77-Jm4DDQmKAp-IOkS3sQH-s4JvmFK86eCjBr4Idjw",

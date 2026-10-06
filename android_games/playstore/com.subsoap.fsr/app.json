@@ -9,6 +9,12 @@
   "categories": [
     "Card"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://play-lh.googleusercontent.com/BnMg41nBKINEHIcoBmR6xpM0Hae0PMFbBMtMNUjn0kJulIPD-nvYmWrEIDc6zkxPUKwUcDXIUavMiinU3KES=s512",
   "screenshots": [
     "https://play-lh.googleusercontent.com/z8QfjqVxmON7pndQaanm8XsN1Xr8ZqTH7M20L265IDSfPXEeLTqAzO1ykpueqABQZCcNXATQKrcvf4GyRlQ91A",

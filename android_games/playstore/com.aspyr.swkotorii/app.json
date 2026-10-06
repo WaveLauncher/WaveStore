@@ -9,6 +9,12 @@
   "categories": [
     "Adventure"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://play-lh.googleusercontent.com/2MfIAdF2Xq7VN-T1h_OiwkPPGiGujKOpa4tbxCVn5-6PEqCB6yTqCySAAKSQ8-Q6B2PMzVc7PdDE9H7c32AW=s512",
   "screenshots": [
     "https://play-lh.googleusercontent.com/kMRoQQ3yUvTbta9_W_fYVUzackoaKitohKrXOkwYc-xO16Wd_eDypVEAkdAbstfb4ciHaJ_QTPZ_e7bcHplf",

@@ -9,6 +9,12 @@
   "categories": [
     "Emulator"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melonds/icon.png",
   "screenshots": []
 }

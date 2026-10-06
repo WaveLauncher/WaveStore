@@ -9,6 +9,12 @@
   "categories": [
     "Casual"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://play-lh.googleusercontent.com/bLx99pGChMaSCGz8UEqb1vElLjhzkbcsGUM3ZOkC6Zpg0A1Ktr1Zn0XG0a6MQPZpDo96FLwvo0SV5lcLCQLihQ=s512",
   "screenshots": [
     "https://play-lh.googleusercontent.com/KrfxMHUk4_gqMDD3FkTdnmSrr5ZsF5_0TUc8L5OpIx8XZB9CXsuuwwuNENxMuN4cLa1anrdMYDIEhZvhCccx6g",

@@ -9,6 +9,12 @@
   "categories": [
     "Utilities"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.pkforge.app/icon.png",
   "screenshots": []
 }

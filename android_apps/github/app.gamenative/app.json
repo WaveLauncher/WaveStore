@@ -9,6 +9,12 @@
   "categories": [
     "PC Emulation"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/app.gamenative/icon.png",
   "screenshots": []
 }

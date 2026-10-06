@@ -9,6 +9,12 @@
   "categories": [
     "Sports"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://play-lh.googleusercontent.com/QipLaaP7jJtYmryKeDItPSDA_nwXYKmNimTVwJz3iGFlz4MrL9zzJCQ6SnlHGuQgqLCUfq1201ZtzIjoN5Ku6A=s512",
   "screenshots": [
     "https://play-lh.googleusercontent.com/pI4vfo28vhwR9FzDFPG3qJ8M-x5Fh6WraO51kLaPrvK1wReX9O4Cil5I5BBDH7s-6gchyRVoTu4ewTr7GbANcA",

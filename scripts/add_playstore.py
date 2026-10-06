@@ -85,6 +85,8 @@ def convert(record, app_id, categories):
         "source": SOURCE,
         "free": bool(record.get("free")),
         "categories": categories or [(record.get("genre") or "Other").strip()],
+        "screenSupport": ["single"],
+        "platformSupport": ["android"],
         "icon": play_icon(record.get("icon") or ""),
         "screenshots": play_screenshots(record),
         "playstore": play_extras(record),

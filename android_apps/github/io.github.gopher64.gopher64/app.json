@@ -8,6 +8,12 @@
   "categories": [
     "Emulator"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.github.gopher64.gopher64/icon.png",
   "screenshots": []
 }

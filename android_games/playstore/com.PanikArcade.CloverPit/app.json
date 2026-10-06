@@ -9,6 +9,12 @@
   "categories": [
     "Strategy"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://play-lh.googleusercontent.com/2CR6ecP2mz281zfOZZoZS4kdZg1WaGfCXdQxdWmt2JkQRDSQG8NhdbgIuH0UepzEyrWTKA7zaqre6xAthebFwyA=s512",
   "screenshots": [
     "https://play-lh.googleusercontent.com/klT1cngEjkejbJAutnevofnaS1bCmA6V9umJzIVOhFr5HPAuv6nGObILEY2CzcDoF3MY10B5qYujEBPAfk9KEQ",

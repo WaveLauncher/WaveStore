@@ -17,8 +17,14 @@ PROVIDER_SOURCES = {folder: source for source, folder in PROVIDERS.items()}
 
 FIELD_ORDER = [
     "id", "name", "author", "description", "url", "source", "free",
-    "categories", "icon", "screenshots", "playstore",
+    "categories", "screenSupport", "platformSupport", "icon", "screenshots",
+    "playstore",
 ]
+
+# Curated by hand, so no provider refresh may write them. "-modded" means the
+# entry reaches that layout only with a patch or a mod.
+SCREEN_SUPPORT = ["single", "dual", "single-modded", "dual-modded"]
+PLATFORM_SUPPORT = ["android", "linux", "windows"]
 
 
 def kind_folder(kind):

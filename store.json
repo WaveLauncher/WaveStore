@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-06T19:25:44Z",
+  "generatedAt": "2026-10-06T20:16:48Z",
   "counts": {
     "apps": 52,
     "games": 134
@@ -17,6 +17,12 @@
         "categories": [
           "Emulator"
         ],
+        "screenSupport": [
+          "single"
+        ],
+        "platformSupport": [
+          "android"
+        ],
         "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.nanodata.armsx/icon.png",
         "screenshots": []
       },
@@ -31,6 +37,12 @@
         "categories": [
           "PC Emulation"
         ],
+        "screenSupport": [
+          "single"
+        ],
+        "platformSupport": [
+          "android"
+        ],
         "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/gamehub.lite/icon.png",
         "screenshots": []
       },
@@ -44,6 +56,12 @@
         "free": true,
         "categories": [
           "Emulator"
+        ],
+        "screenSupport": [
+          "single"
+        ],
+        "platformSupport": [
+          "android"
         ],
         "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.vita3k.emulator/icon.png",
         "screenshots": []
@@ -60,6 +78,12 @@
         "free": true,
         "categories": [
           "Casual"
+        ],
+        "screenSupport": [
+          "single"
+        ],
+        "platformSupport": [
+          "android"
         ],
         "icon": "https://play-lh.googleusercontent.com/bLx99pGChMaSCGz8UEqb1vElLjhzkbcsGUM3ZOkC6Zpg0A1Ktr1Zn0XG0a6MQPZpDo96FLwvo0SV5lcLCQLihQ=s512",
         "screenshots": [
@@ -87,6 +111,12 @@
         "categories": [
           "Card"
         ],
+        "screenSupport": [
+          "single"
+        ],
+        "platformSupport": [
+          "android"
+        ],
         "icon": "https://play-lh.googleusercontent.com/BnMg41nBKINEHIcoBmR6xpM0Hae0PMFbBMtMNUjn0kJulIPD-nvYmWrEIDc6zkxPUKwUcDXIUavMiinU3KES=s512",
         "screenshots": [
           "https://play-lh.googleusercontent.com/z8QfjqVxmON7pndQaanm8XsN1Xr8ZqTH7M20L265IDSfPXEeLTqAzO1ykpueqABQZCcNXATQKrcvf4GyRlQ91A",
@@ -112,6 +142,12 @@
         "free": true,
         "categories": [
           "Action"
+        ],
+        "screenSupport": [
+          "single"
+        ],
+        "platformSupport": [
+          "android"
         ],
         "icon": "https://play-lh.googleusercontent.com/wJHaKvTTIdQJEWPaN4DeBhhzyPFiujEW0HNCvTugzCPPjCzHX9LD119zVoGbcD9q0L5cc3mlFyWZscaU7OHOCg=s512",
         "screenshots": [
@@ -141,6 +177,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/aenu.aps3e/icon.png",
       "screenshots": []
     },
@@ -154,6 +196,12 @@
       "free": true,
       "categories": [
         "PC Emulation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/app.gamenative/icon.png",
       "screenshots": []
@@ -169,6 +217,12 @@
       "categories": [
         "Utilities"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/app.nanostack.pixelguide/icon.png",
       "screenshots": []
     },
@@ -183,6 +237,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": null,
       "screenshots": []
     },
@@ -196,6 +256,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.armsx3/icon.png",
       "screenshots": []
     },
@@ -208,6 +274,12 @@
       "free": true,
       "categories": [
         "Utilities"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": null,
       "screenshots": []
@@ -223,6 +295,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.flycast.emulator/icon.png",
       "screenshots": []
     },
@@ -236,6 +314,12 @@
       "free": true,
       "categories": [
         "Utilities"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.github.catfriend1.syncthingfork/icon.png",
       "screenshots": []
@@ -251,6 +335,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/com.github.stenzek.duckstation/icon.png",
       "screenshots": []
     },
@@ -264,6 +354,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.izzy2lost.x1box/icon.png",
       "screenshots": []
     },
@@ -276,6 +372,12 @@
       "free": true,
       "categories": [
         "Utilities"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": null,
       "screenshots": []
@@ -291,6 +393,12 @@
       "categories": [
         "Streaming"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.limelight/icon.png",
       "screenshots": []
     },
@@ -305,6 +413,12 @@
       "categories": [
         "Streaming"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.limelight.noir/icon.png",
       "screenshots": []
     },
@@ -317,6 +431,12 @@
       "free": true,
       "categories": [
         "Utilities"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": null,
       "screenshots": []
@@ -332,6 +452,12 @@
       "categories": [
         "Utilities"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.moonbench.bifrost/icon.png",
       "screenshots": []
     },
@@ -344,6 +470,12 @@
       "free": true,
       "categories": [
         "Emulator"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.nanodata.armsx/icon.png",
       "screenshots": []
@@ -359,6 +491,12 @@
       "categories": [
         "Utilities"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.producdevity.emureadylite/icon.png",
       "screenshots": []
     },
@@ -373,6 +511,12 @@
       "categories": [
         "Utilities"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.quantumsoul.esde_android/icon.png",
       "screenshots": []
     },
@@ -385,6 +529,12 @@
       "free": true,
       "categories": [
         "Utilities"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.raofflineproxy/icon.png",
       "screenshots": []
@@ -400,6 +550,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/com.retroarch.aarch64/icon.png",
       "screenshots": []
     },
@@ -412,6 +568,12 @@
       "free": true,
       "categories": [
         "Emulator"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.rfandango.haku_x/icon.png",
       "screenshots": []
@@ -427,6 +589,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/com.virtualapplications.play/icon.png",
       "screenshots": []
     },
@@ -440,6 +608,12 @@
       "free": true,
       "categories": [
         "PC Emulation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.winlator/icon.png",
       "screenshots": []
@@ -455,6 +629,12 @@
       "categories": [
         "PC Emulation"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.winlator.cmod/icon.png",
       "screenshots": []
     },
@@ -468,6 +648,12 @@
       "free": true,
       "categories": [
         "PC Emulation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.winlator.ludashi/icon.png",
       "screenshots": []
@@ -483,6 +669,12 @@
       "categories": [
         "Utilities"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/de.langerhans.odintools/icon.png",
       "screenshots": []
     },
@@ -497,6 +689,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": null,
       "screenshots": []
     },
@@ -509,6 +707,12 @@
       "free": true,
       "categories": [
         "Emulator"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/emu.x360mobile.com/icon.png",
       "screenshots": []
@@ -524,6 +728,12 @@
       "categories": [
         "PC Emulation"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/gamehub.lite/icon.png",
       "screenshots": []
     },
@@ -538,6 +748,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/info.cemu.cemu/icon.png",
       "screenshots": []
     },
@@ -551,6 +767,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.github.gopher64.gopher64/icon.png",
       "screenshots": []
     },
@@ -563,6 +785,12 @@
       "free": true,
       "categories": [
         "Emulator"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.navivani.swiff/icon.png",
       "screenshots": []
@@ -578,6 +806,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.wip.pico8/icon.png",
       "screenshots": []
     },
@@ -592,6 +826,12 @@
       "categories": [
         "Utilities"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/it.ottaviomiele.chd/icon.png",
       "screenshots": []
     },
@@ -604,6 +844,12 @@
       "free": true,
       "categories": [
         "Utilities"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": null,
       "screenshots": []
@@ -619,6 +865,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melonds/icon.png",
       "screenshots": []
     },
@@ -632,6 +884,12 @@
       "free": true,
       "categories": [
         "Emulator"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melonds.nightly/icon.png",
       "screenshots": []
@@ -647,6 +905,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melondualds/icon.png",
       "screenshots": []
     },
@@ -660,6 +924,12 @@
       "free": true,
       "categories": [
         "Emulator"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/net.rpcsx/icon.png",
       "screenshots": []
@@ -675,6 +945,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": null,
       "screenshots": []
     },
@@ -689,6 +965,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.citra.emu/icon.png",
       "screenshots": []
     },
@@ -701,6 +983,12 @@
       "free": true,
       "categories": [
         "Emulator"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": null,
       "screenshots": []
@@ -716,6 +1004,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/org.dolphinemu.dolphinemu/icon.png",
       "screenshots": []
     },
@@ -729,6 +1023,12 @@
       "free": true,
       "categories": [
         "PC Emulation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.force9.starboard/icon.png",
       "screenshots": []
@@ -744,6 +1044,12 @@
       "categories": [
         "Utilities"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.pkforge.app/icon.png",
       "screenshots": []
     },
@@ -757,6 +1063,12 @@
       "free": true,
       "categories": [
         "Emulator"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/org.ppsspp.ppsspp/icon.png",
       "screenshots": []
@@ -772,6 +1084,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/org.scummvm.scummvm/icon.png",
       "screenshots": []
     },
@@ -786,6 +1104,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.vita3k.emulator/icon.png",
       "screenshots": []
     },
@@ -799,6 +1123,12 @@
       "categories": [
         "Utilities"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": null,
       "screenshots": []
     },
@@ -811,6 +1141,12 @@
       "free": true,
       "categories": [
         "Emulator"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xendroid.compose/icon.png",
       "screenshots": []
@@ -826,6 +1162,12 @@
       "categories": [
         "Emulator"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xyz.aethersx2.android/icon.png",
       "screenshots": []
     },
@@ -838,6 +1180,12 @@
       "free": true,
       "categories": [
         "Emulator"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xyz.aethersx2.tturnip/icon.png",
       "screenshots": []
@@ -854,6 +1202,12 @@
       "free": false,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/tC3qlJ-YhZPFI3B4aoSWOLwcsoYzlpch1eCLBfYpmMKjlACk2XT1P6zP-lfhR0SK3_lijuRzVjm4TJbOlNzhwA=s512",
       "screenshots": [
@@ -881,6 +1235,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/gVm2lQH2WRAggy2ts3tkEmXmdQGHxN4vAcYE4xnW5Vo1f2_ScIgtFeRDRIvRM5tNZ0H3dBnx8nzCkbKQqu6KHg=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/x67paSLqWhGM_n1o4W5jamxiDDr6p5adFHpx8qy8WQZ0_DD-QEYt6tKQRIAKYWyztTqI8TtS0gPkwpZtJVDQhw",
@@ -906,6 +1266,12 @@
       "free": false,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/sHPCWeeVOoZUTfNUVlu-9n_DFHKBP39X0lu_jTQYQ87sKZVnytHJHmZ3_rGaXtlNnWGnmV0kr9mTHhqUvrFZ=s512",
       "screenshots": [
@@ -933,6 +1299,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/EbzOgxgbdQle5P5u5TNc2SrkINALSljnE2D2o_gPvkipTlfl3BJF3-MX21T2u8W0v247x2en0iDPd3skdY8A9Q=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/kasxzgupMNR6cXYYfDpiqPqNBX2HfjN82aeUpOotlDj0KsNR4PobYGVOUZK6tBfBgmHB8stqpF9rFV2N5vap",
@@ -958,6 +1330,12 @@
       "categories": [
         "Racing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/kTK3PqnxmZAhrokh_OHaMcXoDG6EO1wAF4fG8XXqCUyCb7T0pgogwQED_S3Gwsyu23SXr2rk1GgMpAndiuA7=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/UCkG8COMYzar9VPcWP3wXKioaj24ENpm_DcaFXqJygKr2JvvF-L6Izn-uGUek3mC_9uIlYBNreXNFySIEy_r",
@@ -982,6 +1360,12 @@
       "free": false,
       "categories": [
         "Racing"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/rZO9-LhcV8vpajXUGYCEdskU5PYB6qAtuXu7_xKnai-JiyHpVs4QSXCAPZjpv6d5uWp4PKgROwZOZyNgUjB2Yg=s512",
       "screenshots": [
@@ -1009,6 +1393,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/Xieg1iDysnb08vfeuytdYrkdq_ZS3BANPUVB5_29KOCc1BTjCetJmyVZ1097PVff56n1qyPbKw4dV80vO7pJxQ=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/PDVd1NM3JiRE-BFMZqnee0umvb38F9ySuy-_OUPZtJ1R5ET6O-DW5SPZwsqOShA7fAsrG8b2orro_RSghG79Xg",
@@ -1034,6 +1424,12 @@
       "free": false,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/b4axDZ1LKOLzufLs88h338U-GmGaJhuF67lar0NAP7U3HDQDTBHM-jq9JKVVXQ_gtgHCJVKn4k_JMciG4SQ1=s512",
       "screenshots": [
@@ -1061,6 +1457,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/3_lXgbVx5dBLu5EvpO5P0MT_yuvR8pqAzN7j3vAkP0oj4cUWN_CSn21I5XqUnELmp-kGbSxNli3MuKSTZ9gSKPM=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/U72rBLfOAC2o1H0Xd0ky3XSrA2oZ5KppyD6UOionm-6EtjLUsxVkSz4moTf4iklJYhWDR2CdfSR_7seKf1nSQnc",
@@ -1087,6 +1489,12 @@
       "categories": [
         "Racing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/jAyYNnNdLLjlJM961ep_-1AEWhmjaxDd1EA4Rq5bCKTZWLivT-0GuukOPmRNR7wwDoROHdYTdJo2IC1p_yANTQ=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/pCGdWBgJLVl9-F7fWk_0g-xieYin_qQfKxa045PZjPPGd7d_w_eZxxlIx0d-2I_qpxAYBoeMEz_pSEM6z58h",
@@ -1112,6 +1520,12 @@
       "free": true,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/XO1BJ5L4RtVCDjvI7vrnPztYQtFSvAc282r7TlL_M-mPYuSno8NEbnjZ1jJmXtnoOZSr5NgBF8mFsHgnqwvn=s512",
       "screenshots": [
@@ -1140,6 +1554,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/UErSk9WQaZckKwN7luTWLm102JPblUw_L5qrPZ1ET4mgc2ElpTXs3NlS73GWM5anmFJw6l8qhOdQS9ka4iwamQ=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/HFaVy1hxT6A0vOoQqT9epvNNCIJGdiuh2bBSZsK-ZDa9ZdjMczIMOF-vWtHEgbvLKUBsOd0Ct55T1x-sjyRlnw",
@@ -1164,6 +1584,12 @@
       "free": true,
       "categories": [
         "Role Playing"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/NSke_1fm-TFoVueGdqb9cOEGxsfCJbiApRMSut1PnJbfVEQo2zlnB52qwn8CMzd4Ja5SMJKUfp1vTRqUymxRrg=s512",
       "screenshots": [
@@ -1191,6 +1617,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/aPqWflsACiWNRpA1mimGYj5vFtZ3OpSAKBCmF1zR1vTz4Gp1eoHHAhgrFZZUhB4Mw84Mg-SfjTibVDKSpuyN=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/roog1X6uIGskhMFAFnZpzJPtZPSIdn7wByDpVEkFgUCZeU1p9QM9q96UzK65qXQU1ZccS5vdZ44H5BRz3Uf6",
@@ -1215,6 +1647,12 @@
       "free": false,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/mQXkrZNWQJrYuN1KGI4HfhGelfG4z0WqBtGqVZgIj-M6VUd-azOOarKMfiZ7DYlztFQ6_-Q8NEVe2KR_JxLZVA=s512",
       "screenshots": [
@@ -1241,6 +1679,12 @@
       "free": true,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/IDm6E4EK0hcLR2GqJtnhb2i5XYzEDOGRSimsZkdu0UxnEhEcYau8b_p-qnej3xdD5_B8KSm7KkNLtxItHMKM5A=s512",
       "screenshots": [
@@ -1269,6 +1713,12 @@
       "categories": [
         "Strategy"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/2CR6ecP2mz281zfOZZoZS4kdZg1WaGfCXdQxdWmt2JkQRDSQG8NhdbgIuH0UepzEyrWTKA7zaqre6xAthebFwyA=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/klT1cngEjkejbJAutnevofnaS1bCmA6V9umJzIVOhFr5HPAuv6nGObILEY2CzcDoF3MY10B5qYujEBPAfk9KEQ",
@@ -1295,6 +1745,12 @@
       "categories": [
         "Strategy"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/eaD7QZggQ_HB7drG57WOkwivlwJyjt0oH-AHTOcch1DFhoH9V6qk2793sSTHCJD8Tari1dYHW4UPtQwxO3EU=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/Uo93JTslv8i-3MKI1xxNUMIy6AcgCMR20Q6pYiiLh2khGc8KbD5KqukeTTxxSMmguxyMMbejDtLcy69-aCJujg",
@@ -1320,6 +1776,12 @@
       "free": false,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/4PXltT-vOuPbOqFwc5NgTjDoq2bNf_kdpvngbhwtXCuABueFysIOqlTmP70KzLqcJW2lXpp1-OLInv42kW2Lcqc=s512",
       "screenshots": [
@@ -1348,6 +1810,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/H2dvC8WfA1z3NHZav0nkn4vFiEwJZtHfx_cETI2IpMJ9W7B_M_kmGgjKawoTq9iNvZcmw5MLlgd2PnNCm2G1=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/xRjGAh-e3gCbXjzTTgE5YvfndkRLSY5xfwyVeWfWaTAdTnhzl4kr2fpaos7rTIIfsNo90rYHKIkR-0rzSWcDSg",
@@ -1373,6 +1841,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/ryHjtGDhAZ_y3se-0A5X2vfc9PcHF0zn2XcVaOcWlsnVMdhgiMgYzKgrywH9APcdIGr743yr8q96WyZrsRvSbg=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/SN-nEUSNYvqVdZOgihQzGqL1v1KI8XLFsUjOaNgeK6YBz-XAW5YJmMHZjMaKWxSZV6CXJMKyExmoMZ45F-On7w",
@@ -1397,6 +1871,12 @@
       "free": true,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/ulWSqlMepH6Opxv64INomKGSMgXRyl71lBOx_ow1TrKAx_ThBK0yeXkH_a-EOLM9u9tUa653OJDus2BVXqb9Irk=s512",
       "screenshots": [
@@ -1425,6 +1905,12 @@
       "categories": [
         "Adventure"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/taLmfT-WJJshyjnwSz1a0ozrsENArwWWyWKf_bEyP3H9EuNM7-fW9Zd4ihXEggA8hfiAvEvYx_mpLMVm6zWB=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/GRxePMS4bQC6kNzibHcicsSnnWrbb9X9VzurTfqI8tu87MrIQw8gNW43QNGF_NGkOFkKCfk-u94XFqxag2IrQw",
@@ -1451,6 +1937,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/SJYak1k3asvwuck2wxd35M-ONEDeKVNUeoxlFD2qTQwh0fJtHkbnd4aRlUaAbAdVyyXayKYEYYUbZn9qsr7U=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/DsVwMoaCCdW5HWpomvBOs1fYWmugSKWqvGGrNMvdTC1EO0rEwjp6ThdF2wWZMGrpXQs9Xmbmz4AiI0quVj-C",
@@ -1475,6 +1967,12 @@
       "free": false,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/APK4ctkYJxgZTgU7zoVwj5PbxIYQLnAPvoG2mvdgHbDzi2S7eCHnHYzIOV8qgiaZTaeZ5wLKTy2-vBPh6fh9=s512",
       "screenshots": [
@@ -1501,6 +1999,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/cKXlbU72_2wSXdjcD_zPWED3EVaaOQVqqHgiA9JoRQMprYen49arNUMTngcRc9UWLnv-ANT9gyQBDQpvAn61lg=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/J5LrIuxrJr3MGEbPJEpy2QeYkwmkeLkjIuZwvN_W8f8T08CSyBpz8AeLrbl4LPlX9VBf2scBVJUYfON0qD4W5VY",
@@ -1526,6 +2030,12 @@
       "categories": [
         "Puzzle"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/7Ok1YZaII5c9TgZF4FQWRv8HlPIOiWzNlUquYuAwuQcpgRYKXkasiALhZsUHqNd7BaRfEeMxzKLhHHAomHUx_Uk=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/E78gGZwcNsHnAmRTwc12PfHWx6N0J2tYVXVfUGAnc2Uif2Yv-7e709cC8AMpQAembBDOAgr28FIBf8vZYdVQ",
@@ -1550,6 +2060,12 @@
       "free": false,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/47ylywbi2wh_pogL2XorXhg5HEbRDW1k_IqacSd3_2t-6sh7PIniak-k2lhTE0Y360TmO0coyJ7U_Ea_g-ym=s512",
       "screenshots": [
@@ -1577,6 +2093,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/xwd9wMz6m2hg5jVt6qeeUXu4QypWei3mRB8BC7g65ltXtnNJjgp-SNDGDIXh_PDoymMw7OoMS6D5LZKtkSdC=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/w_gMwnuTkqnVC1p_C5rP99CXxB7BppnG8cf8LCI1CfIbI1nI7SxKhU661AU6hH8I45hHcC3tHaPn_005y93VjQ",
@@ -1602,6 +2124,12 @@
       "free": false,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/2MfIAdF2Xq7VN-T1h_OiwkPPGiGujKOpa4tbxCVn5-6PEqCB6yTqCySAAKSQ8-Q6B2PMzVc7PdDE9H7c32AW=s512",
       "screenshots": [
@@ -1630,6 +2158,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/oHqHT_WkKETGohLXZVNxRewiWp80SFQdq9zuJXEmmpIIt8GiosttqzDdSf0G9JhU97Z12aW9iiWe2YecS_WXKw=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/Mx9RPTZJcNlAU-nA4Z1Memg8xViDOwJopjVtKZUhmHj1NC1qPiN0G5-NoVap6Twfmkw8ipE8Wge5OSMSC74o",
@@ -1654,6 +2188,12 @@
       "free": false,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/TQcT0B9naZMOVU8R2Vjsty7tbzRaPCBJwOykDgS49WRJvwyIcnVh4S7BWt1aG5u883E-LTsqeZU0Rf9dJA35Cbk=s512",
       "screenshots": [
@@ -1681,6 +2221,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/VwKutrni2_ZxOGk12kaDGKbWXf0gPlfhzbxoVmfTNLyVZpjRJnAX89FF6fSBBuITapNlX-p7xQ1ZaS3FgpNAFk4=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/H0qoVt87gqkqzivYRi9t9po-hFES6tnIVrs9h3ggfnbXusTAXQNyPBe50UmuAeP0pZGN38NzXvJ9GZnHj9nK4g",
@@ -1706,6 +2252,12 @@
       "free": false,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/k0lOKRcNlLjqGTOFQOPjKaE3WJv58i4z87c37zwpBMESvRHuQOBEYhayemq1TP2koi5nhFAO77V1E5-2Py6L=s512",
       "screenshots": [
@@ -1734,6 +2286,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/Jk_Ecg_34St4WtXRJuBJofUexdPP7jAyEDzZMSXtzEuAY6CaY3hOXixz78t8RDBY-3ERKdIlOHz6yKl58-HsQak=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/rAiXhc7895FDeyQigjGDmC1dI48Kh6DM7dV6I7vZ2UbQ90q_gUjZ6v0EWlfGcTB0WSRrFw7X6VnS_r-aABOGBg",
@@ -1759,6 +2317,12 @@
       "free": false,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/CaWbCD1yMgyK0AtXECRIIQjtaq4IFxJJJP2hd3sr9NOI7lapmiSGh-liyOkx_VCkM_etV_3Cu_wtF1tC-TrgwA=s512",
       "screenshots": [
@@ -1786,6 +2350,12 @@
       "categories": [
         "Adventure"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/PXQx9spv7BW-1joBF9MC9WZ8Snu6K037AgxDcPmOfkDbOXK4g4Qg15hOwzCOJhiyKwJ5Xt5kgzq1KV2mCh4RAhs=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/9nte2AuTZziuhJp4Lc9Qh80f_ZqYgG48jhcG4UVqOll-M3pVA9PH5BKEKhY7tL7_npSNaI5yijYk3CNuiY5jL7I",
@@ -1812,6 +2382,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/cOa-X-UMAgFetoqYYBJrNEO5jEe3-HYBl7swZbEuhDWwHP6k2nLlVlRSNLxb3qe_RtroxEn9jrfoFLbyIac3Xdc=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/zqesQcmwqvT6F09a_7BAgg1ENSC25wjNgP1uiwTVH3VA5nG2Htz9sIRO4zxS4_8-kTAH0FBbHTRQlLKS3jqdVCU",
@@ -1836,6 +2412,12 @@
       "free": true,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/YayKzfBEww7obl8ckpOGwGUL8F5j7DMX_j3ERJCoY3gCpSBVMycPMKeb16DHbHLpLmij-SFZCaf_wMmtKGqz3g=s512",
       "screenshots": [
@@ -1863,6 +2445,12 @@
       "categories": [
         "Racing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/0nEKeYBUICZb5YkaiKF2VK5W3kheCerppClJ1n0XH6-iHOYqo-BuW4w6R5_HwBtj9BU8Br82zOtGHf1CBReg=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/wd2r1P_o2PMgDhPWFPpjHkwHIaFHuAWzQsiljexwOFYN1XQ2Go6yc-jF6EewZQ8CqPZl-fpdSvLiUMzOQQuHfg",
@@ -1887,6 +2475,12 @@
       "free": true,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/ydFJDRey_ECtE5lFh0xoTa3uv7O21tvUK55etHvci1-n4pwcgD-NdkJH86SJSYgozyWeoaoeHhTeFWcjB2yxKw=s512",
       "screenshots": [
@@ -1914,6 +2508,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/RwIUSwgsFOjwoKAdwCgpajGa6DrS44muStOLe_EIAA4mdzYMHR2N8fd4TbXYKSEVjD9bH63OPo5fFIrHqP_c_A=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/FhPkR3KKfOithM43kYq-F4g-Sv5HdeCW50jl-pfgWse13KrUHlbeOi2w3QYomd62eJlJLaC88VHrpNVy76eUGg",
@@ -1940,6 +2540,12 @@
       "categories": [
         "Simulation"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/cXsFz5LAiYY6eibsgQ4rGEh7tr_SDWxKwNKrBMXMJYqJlvKSCD3f_AQDDUdSyIdTUKmwj1M2-H5xBoPW5rkZ=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/tuJeTDC0jRZ0iHvmqhqusvrr_FYX1PVukbnUnWwEra8IHrxjgWWcE_NWtCPje9aOwLOiaT_Mpiyur5VmfykMaQ",
@@ -1964,6 +2570,12 @@
       "free": true,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/N1NmtuFTFAOe9S4oh0kYwmB_iYznYHA0vqZyL2myS3EVZfKJjaVjovlgpMPiJPyiF5oF8YykRhcQhcjBEX8mNg=s512",
       "screenshots": [
@@ -1991,6 +2603,12 @@
       "categories": [
         "Adventure"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/VtVly9S5-2m99hXD603ZuYifut-m7Iqar62utBOb-OnMZvuTXR5PV2hRMlpDwgP6z6GS52BrbsLROZAuT3a4PCM=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/pI1GYKB7p2zcyz7p2oVfovqYt6994eeGJ9ETkKbL7FhmKYvE7MKOGi-5YEx7n_A91XfjLFH085WW18bUedUDsA",
@@ -2017,6 +2635,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/p5C8q_tcqMA50ankDg5VV6qZzEa9anHd9MqaBb1uPjeXm2GHVXwfl58GYjKYgFAYc3vjoGwROb5c612tL2FmSQ=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/NydDn9FoSvrJOyBKn7zv9haxICAM95vT5HFsTz1G5ucw7t3lU1rqas9RoexGF2puz5EAC_CLTNTfRnLEb2kNsXg",
@@ -2041,6 +2665,12 @@
       "free": true,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/tmqYYlC24al1w_26rbKLfTS--DcpRJxsJqJOuyHtH2ju_VyC9qZFdl5I-aM9smzLWNfEScCjxybWTOOJxJsULkg=s512",
       "screenshots": [
@@ -2067,6 +2697,12 @@
       "categories": [
         "Strategy"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/ah06DAA9X7IYm6SMePf4vP_q5WymyoCYorBld4BmOwIMsXqCPyvyVZBokkfNJl2JxsUtu9j0E6ADJl4jyq4KDic=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/IIz-sI0x25aIy4YmwqlNtkyfDEfcKD4GKSSTbcWjw9wJ05dhtwyMm6awzzJxTpDNbKLkekZgABLAPOlm28f6",
@@ -2091,6 +2727,12 @@
       "free": true,
       "categories": [
         "Racing"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/yw5inHn1VlH1dfZ53mtff9Xybr_3d47Z1dRtwc_aBSmeO2K-edv8uUMwMT7dM2tVPXKRv0xBuCF7j5CYJCJN8w=s512",
       "screenshots": [
@@ -2117,6 +2759,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/8IK51Pa1WmIOjSpdcqCDogLfJapiMNjpF69nSxwTOzoZPIyTkcI9oZAhivL0G-SoTVm1NJhT_v30ep-nV82sSw=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/W4jlgPoGYzFRUeWPUgCkIDVmdu3dCscHGPyozDhl9si9HMvDuYNV4MNNKKmBuJFza7jseFHD11iEGDY33Mq9",
@@ -2141,6 +2789,12 @@
       "free": true,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/nD6sDIvYKaXOXeRR6FeRh5eXV8tXbPYFRucSbaxGJ_KrTPjRvG4z6a4rhLB-OQitNcQTO5qJ_S54T3Zy3X5weQ=s512",
       "screenshots": [
@@ -2169,6 +2823,12 @@
       "categories": [
         "Adventure"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/OIkdDJUkbrbqltPhAfpd8H40n2cRJpnq5WERJhkBCoahk2YnPfocXASayTu813RAetZv8UwZlkSaWk3JdMLQXw=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/mTx6oYP5pkwqgDRxvStZ737EqlhElaMCSAtoRMYHg0Ha7KY1RTcglyatjx9FhUX8Wgr19kSwH26nN1mGbbD4wg",
@@ -2195,6 +2855,12 @@
       "categories": [
         "Racing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/sCVkZyzHYEFZGsOnUjtSavhNX1c8ojIEGuz7EYzKE7te1aMqKzIw4h8IWLTUbXfEx-fmIHOU-bY3SJDoT3I_ww=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/cLGz4sWCXB04zvpAdeSot3MuiZ8oSiYUReyaJh2lIhz4gF2bf0t8TyH3rPsve5AH6BC0FbcASiDoeJASdx77Ud0",
@@ -2219,6 +2885,12 @@
       "free": false,
       "categories": [
         "Racing"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/suNiFA0eRe9XhJ2t74dIdkRztl3ZjwNbEH_Q0eZHslk0AvxTgvAf8G0C5ykqpV9eI3ufrDmKhgvMC7Y9vP35=s512",
       "screenshots": [
@@ -2245,6 +2917,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/sZ2vcnPx2dGILYDxX4e6VIFZq1lWdBvekVFSGphJa2Lnreo7ghXsaP11nIKq77Rl775JN6zgf7v9whOmKwpWMoY=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/qZcH3fQ64twfHzdEYvBCkVNsC-Mw4OM9boEtlhdzpv8grlBmnugija5ZdZ6aGAHPIf-DMvJOcG9JQh_Wt-pOdg",
@@ -2269,6 +2947,12 @@
       "free": true,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/wJHaKvTTIdQJEWPaN4DeBhhzyPFiujEW0HNCvTugzCPPjCzHX9LD119zVoGbcD9q0L5cc3mlFyWZscaU7OHOCg=s512",
       "screenshots": [
@@ -2295,6 +2979,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/7HgM2hUw-T74b4Hgwu8u9iShbH_VX_Sz-LudBGxZ0pmvQ6OOVVd4kWf4G1MUr_mSyonQBMyls-McHAyeGhlfSQ=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/55KLtU1kCUYkoFS0sndgPbrWuPiA8Q3Xa_0RaORA9qVJNbuno9OADIXyptJ-FCBg5kdPJIs-AOPZlcxDCR63",
@@ -2319,6 +3009,12 @@
       "free": true,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/A5xxP7n9HqhDZjXt2apNCgcnLciHJ8xojRUfBqg5eScO9JLqcz1sXEBNrtFBI6G1otqeRkwz_SkqoS1EVWLmYw=s512",
       "screenshots": [
@@ -2347,6 +3043,12 @@
       "categories": [
         "Racing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/OXDfcG00jAGMeNSFn-lWvXhMSEVTBvEH_GCwMyvc6ePlZJ6D2Lv0BEcnt8Gyk9_uym38TMkws1OrTe2UeNAc5GU=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/LXMzpRX1GnQQZG9cN4uov0khDwASHVqUzSOIwOqln6Cix_cfWQ7y7bZme12OyspMEMh-B4yS-ug0IEmsBtorQQ",
@@ -2371,6 +3073,12 @@
       "free": true,
       "categories": [
         "Arcade"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/9c7Jtgblhy9MRJTCrr-htiRyWfGJqSv3c9GC38yblXM-4ig6BcNkWKhJbjqDZU1k0hosigQtKlLXUoS0vNhkrQ=s512",
       "screenshots": [
@@ -2398,6 +3106,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/hkiik1uhmoRC3ldQgcC8Evo2vv5DvdrxRDUG3vhbpXh4NPMzzZ_NQZ60C61nZGdQ4zAA1XJbjaIP3LLvpL5pdA=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/2fazkjXI-7mzRfbUoTuK2Px11Oks-PQPONYzDBABlS-JDV3F2vVqpflywyQDHeQgp1Xq3QUfIWpADDelwgvj8jA",
@@ -2422,6 +3136,12 @@
       "free": true,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/f6EUd6fLSeuPCpfgHFfjRrsVFaLNdxsNQHVVPCcKPL04OJvvosYrPJoPmR5v4gQIMisGkm9Kk138R2GgiACKEQ=s512",
       "screenshots": [
@@ -2449,6 +3169,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/U_wx7ZWm_8SS5ZaMHgC_meZ_dyqTwaiKzxqZ4501g9RS0C3_mVZr0qKFxI30TnqgHSNV-ZZwJdaETID7ovdPag=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/9IGMIU8GqZBEkjeL_NgLiusyJOwoi522FdDZDtVhLeNicMWmiWyUE-4xvuGjdffCaYnB6maoEuWTQextnxz-",
@@ -2473,6 +3199,12 @@
       "free": false,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/T3r-Dtp6T-00dQJH6fWe5FhfIRueNO9V2brLSkwlAks47UfRgc8hGLwt2A8qw3WpS47YmecrlCVkQo_MoYMBZg=s512",
       "screenshots": [
@@ -2501,6 +3233,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/2NhahLT_JmxComlRaHP4rTmNPK3lucKrTYBpCvzHHm-TQXCb5TtDJgQAf9yHv0b0FXDNhruaxzcjUepOuCsPgw=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/-gnr-jKdkpdP_7B810mYJ_tXuReNBn2YNPlJ4wHETt4oC7Kogw28SKBS6eUJnjHPhsx1wV8exnP97jUw6qr5",
@@ -2525,6 +3263,12 @@
       "free": true,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/FFUil3QE-NXxa8jiokmv9sNW2kXZ0XpgcYngx9Ex-4EWtGWw98vtn6mZVa-DneNIQhpvhpheNLT4tcfW9c3jYg=s512",
       "screenshots": [
@@ -2552,6 +3296,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/TX83xwM-LmI-uDXMHW8va3SEDMmIyd1OqlAQNxnnrt8a1JqTPgK96aM72MWYerZrg9carSswgMapYVv7ro5Jfzo=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/BVdYCoNqn6Rxwvfc9PvV4NJs6DoFOR-RDuwvvBVNJs5tkZ5P1sErtm28rWMT1NAu5L89F2tajilGFm6I5vTPmQ",
@@ -2576,6 +3326,12 @@
       "free": true,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-=s512",
       "screenshots": [
@@ -2602,6 +3358,12 @@
       "free": false,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/IrvCStkqENOhEvgloqOfGOZ4_LDVyY_utLANW760iW4nS0WlAE7Tuxl0a3pJFQlo-xin43OC1iHr_-vunV-h=s512",
       "screenshots": [
@@ -2630,6 +3392,12 @@
       "categories": [
         "Adventure"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/g0n7ApdTLweC9eFh81zn2KeM3JiBrWzSJwx_QrBYNb_xROphOdd0mtGpsp_rXba_88pSJIxeJREEHD0nNI7Rmg=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/4Vc_ioY1NVJbBCCDZfmlWFeIME14wsqY6DiYO4r_XdNoysTQz0RklW1a2SN9-m0KDpnorrRtqzVQbDzBNPYmONw",
@@ -2655,6 +3423,12 @@
       "free": false,
       "categories": [
         "Arcade"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/uJ7cBuaF0rNHxutL-CnbebRZ7yZmAOoAuiygQv1yoGez78aqNd8Arc1sUFaKSLP5GZ-2EXQiYpjTCX7L2usn4Q=s512",
       "screenshots": [
@@ -2683,6 +3457,12 @@
       "categories": [
         "Adventure"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/b9_EyCfljqMQpodvUGUHVni68pG3irH4M_a167nO0FMCY7EKJXrEUX64xXwPPIo3eJEqhN3hh4hrAiUWD8ihdQ=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/donbnlCt3C_FBjf-zwvHQ_ZMZLVK_6QXJ3cJwuDwYQ4R-CZ8F3i5f7oLVvfLWp1GxfxdRQRVxJR1xlwH9Ahang",
@@ -2709,6 +3489,12 @@
       "free": false,
       "categories": [
         "Arcade"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/tI4StRSPVhpGJH5R013naszLUawOjao1ya8FvyaNO7XY_cJFHFqo1EFaEJv_7zz3rRJ5lEpLiw14ZqQLCOYc=s512",
       "screenshots": [
@@ -2737,6 +3523,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/2_0WBpfWbTU9FbbgblMDNxKexPDLEfXP8RZ7kYiPlIBZO8NT5q6ptklpAUh34zYO5exHsIbg83cNRPUxWTyFRT0=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/ao4KrqrDs0RhjLoe9aqvqbJUHfVr-3SUHKqhRMfCoV0FIVXy5oSanZd3xR1Io-DOM3pZNrUFEGr_9LcBYn3HUKQ",
@@ -2762,6 +3554,12 @@
       "free": true,
       "categories": [
         "Role Playing"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/8g0R3yVPhRtvF9d-gFryVBD1toUytn6ZhCrkMJgRnoLRVcw57CE6qFeGVHyLsqot8WimngtkTiBXAUGUbwY_RA=s512",
       "screenshots": [
@@ -2790,6 +3588,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/C077FpQVnL7G5O6Mowj-sWKdTjUwEWAWxOVQUcBwhHY1yOZePOoIxtlOS5Tn9kIzLoI2eU8BWZ4Nh4ufS63zBg=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/a3gBDcT7jVrWwCajIJePlfN4bytQKvQ-o1TR7Fgz8vTocJGm6oapG7IcWxMhrepaa6GH0S0CFjqh3dF67evzq8g",
@@ -2816,6 +3620,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/_TZQ_xUHDq5dQt3soHAWNiQVm1GTAo8l6z8L4n16B4J0t5cV7z-AXl9zTWVe4VnGYElnvhMNgcQU2wh5V_zW=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/Wt7lt1QpXzYxG4KDwDYB5jiV4fTypyvtFRX5qIQb6mOK7rMdShg34jILrWU7tI4VWo3n3O9gyeulYToJSJQckA",
@@ -2841,6 +3651,12 @@
       "free": true,
       "categories": [
         "Simulation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/mQqK5lPADyPQxTZmaUZc26E4PclNOCzkj9gAVr_urjxT5HFiHCtndb6EI0FwG-_LP-z9uYUIteDQkiFW3a9O3Q=s512",
       "screenshots": [
@@ -2869,6 +3685,12 @@
       "categories": [
         "Adventure"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/RI0-pZFk09Hs3zV1qt7NtZmLSL3PPenvjAI63h8kZXQwpMbeuep9KJaPeu3aeUy3_V4ANEAP_9QdArdeGpW_sQ=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/bfGfw4qjQacuSeUg1ufQae5Zu7M1ipvcwwcZPpu7tXRuxY0deBnp7MXtll61Oah1MeG_3oU1T4kYYDEiaKEhag",
@@ -2896,6 +3718,12 @@
       "categories": [
         "Adventure"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/6t92dq3zw26e6nBircCt4kleZrLYZ5VA1YQSBVdHtjr_4UqH9Q1A7T8dZYUc_aghIfXCW1JjkbkY8zeBIYCu=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/LlwtBGAOYDSB6OvlnLc9rxZWu_c3J-J0jhljGBEzvAwTnPg_M_yWz6B-p8wrP5kTtMqrkxnUjGqZu15wyltY",
@@ -2921,6 +3749,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/WiMF19W01m98H6VCQorrnuswfZDm0lAfmAJwiI7ZE7pkm6-zC4d-4IcYaBTgbCoNWtaqfNlzhzVqwSf0WHxERw=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/QEgsLfeFIyqX7gBzQ8GifXbyxP7IcYiGQ0a1JcPkFxefYbuVb_kMXp87FuT5VdrS4bnxtXkYz5WZFAAuSJWvbu8",
@@ -2945,6 +3779,12 @@
       "free": true,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/arABF8PNmSiTilTKt36vojDyEf2vmB7LUIZn8hNehJV5SoEoG1OGClbYOPJV3A3OJpeuW-Rp0Hif5ENPshgZTKA=s512",
       "screenshots": [
@@ -2973,6 +3813,12 @@
       "categories": [
         "Arcade"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/TCx_u8NU40F6K8C7McBjI9qwi7t4HgZT9-HvwuWwmzFt5OkiU8wHrj7tj1I5f6DbqNoIVbKChqnKG8vr65--dg=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/jAuJDYNlUbfOFzp3k85AHvkh3TWvSo9d8Vcm9hR0PovRmIr_JyZ0jjHCytYvbkZmKD84Oq5bveTMHjcL8Au9cw",
@@ -2999,6 +3845,12 @@
       "free": false,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/8eLDb9Errbqgz_JNuMAto5kZ_FArP9KlbpKWE4ovcUKQkxg3rq_-rez-X1VbwCvOtJVdONUYVUARF0waGkGHhA=s512",
       "screenshots": [
@@ -3027,6 +3879,12 @@
       "categories": [
         "Puzzle"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/BOh5y5WFEE3QYrgqSxXwGrjvnux0-QC1zV3HVT_l5FwRbOs-kvfT2qOFbq8THBSHap1mYp0JPI8QqJmgexlA-_g=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/O0QxiWvr0bfzxRwhwyBRPMwEoYCU-SwNmeq3SaR00zdaLR6Dm3PttvccB4vijdOPIu6jlSx26goOdiwfgJyV2II",
@@ -3051,6 +3909,12 @@
       "free": true,
       "categories": [
         "Arcade"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/iDsUVC6XN_VZKhhqhtjpRB8XDgzyg6VreRMCY5FHGonKEq3ySefOdb4Tp_yRFTXsW9FBItealULNZ4VsT8gSwA=s512",
       "screenshots": [
@@ -3079,6 +3943,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/wq9sFKw7U9Tw2PX9xc8YjGLy8lO7fKddd0_cdDOQrTI_8ap08usqby7HoXLztUbVfK11oYdzfl8vM9Xe-Ir-=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/OgEqn1zFe4GPVCnBzGL4jXhLajOl3Kh7lxwpmAXAHZfnRPIcV32AOyUlnEJmPkd5YA-A2h8XmgvAKwk5HEzs",
@@ -3103,6 +3973,12 @@
       "free": true,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/PDCeAHCBCpNwwQFq8-X2JdMEScNR4xDJakdW7UwBhaTCgBDzYQF3NJjU4tV6z1cGCf9ExK8nyg54F6fy6jCfYQ=s512",
       "screenshots": [
@@ -3129,6 +4005,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/mipe-kv6wAKciVt7sG5RYNk_G8h1KXh0bDaFfMEwM5KZ8zHYdsnaBRg4BfcPzqChlGZAGmdeJbrwldjKJSgq=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/ACpZyHh9ikuMNoc3FA6NQRQbOds5PNTqXoYTsqaV6MggD7Va0E5VD4FlZQXHZW8gngGMZKYbSTixolkCCWS84fM",
@@ -3154,6 +4036,12 @@
       "free": false,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/Lo7w-w7NzCvSxNcPTxhDplX4gq_QCmr5ycjnSKqjD_YH2FAi_NnJOKCjbCLt9rBZ5uywopxFRgORchf8iMpUUHM=s512",
       "screenshots": [
@@ -3182,6 +4070,12 @@
       "categories": [
         "Puzzle"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/Yoa_IrvNd7EXNMasLf2_Qeb7kXNGYMC5y75n0bzRW6KDK2u0Y6YmW_k06F4GVX7aCx7ck5N_gz3OOdATKXgJLg=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/Ql3GZLU1WGEyyduDGHitU57mpaAShDCKhCpB4FwX-tyG54esCZ-a7qT5Lu-1QRjS_fs1OCNm5G1xhy2wEBWADg",
@@ -3208,6 +4102,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/yx4uhl1Bp2V8k8IKcs-QF0QoI6Q4U-gsjkc837HykxYxQvtUdqtqPRbVVmf8-MVt2cO3DPlzTlTBk2g1gtLYvQ=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/4OiAA8-r9XkmPFhXTx5K0IpQ4RGI-gZ758APcG72JUfTPKUVl8cWGjnse1JiAl2dDswHZG6DqKRIsShMTlWUqw",
@@ -3232,6 +4132,12 @@
       "free": false,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/n0bJeYsKsrAD7hByDv0OmdHuoYQ23kXFsu91iGSLwhVXwlb65xe47TKwdeRGu7vw5IZ25_SoN24wOrZOzrtt_QA=s512",
       "screenshots": [
@@ -3259,6 +4165,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/c9tXubB2EgmtNwKvNsdpE9UFugKMW8_C3ab3rUbR8uvS72YFl3AXuwSZNSg5xB4tB0Yk2IJcqrX0tlxnVZ5itw=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/5lEcgjK5501o-0Br6EnPkGpwC-HGKQQfunZkcjLRy9Wm77-Jm4DDQmKAp-IOkS3sQH-s4JvmFK86eCjBr4Idjw",
@@ -3284,6 +4196,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/uNNNzA46WAZOup2z6tvt35a47Hx-qDEy34mDmrIZFP-W9qEjnKyAwHOKZVkSVOv8XIDKjjMPZtD-cguDjZrz2NI=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/cp6tR3siCcRhJZqZm7ZLpHkxMkr2glN7sNtHZ7Iq2VmGTfrRhVeGFK154JqD8HJx34sYStKH1PZY0gqjGWl2rXc",
@@ -3308,6 +4226,12 @@
       "free": false,
       "categories": [
         "Arcade"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/fP7atrfDcPJVgFSuY5bmfx4kbvdu2-wfrwcJaHy4XZU5piyxYpKJaulXPXrWcv5DB3Mh-xF2QYI71xV7675g=s512",
       "screenshots": [
@@ -3335,6 +4259,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/ZEebMrVv7qgHrpdShmql62Bby_8_FF-M9w5sS6OkQih4zeoM6t0TSKrYIJJEuy_qt2HqFUhgPSDRR4VBzNfo=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/EDTeIWzs6vo_NGcJlO93wMjZ_M2a9sgt5r8DAFZtxutg6dp18fzBm6phscedS5ZhTw55MsEix0UNL_elzMot3g",
@@ -3360,6 +4290,12 @@
       "categories": [
         "Adventure"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/zD7v_8rYIKXucfd2eodnHbJ-0eL9Jo0yXH6tIEcqeeAP3VsQHJkzayPoteQZNxDk0SfUHtAZqUUGFP1QWbU0-w=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/fZaA51nF__xQqhjpYLfpr8XWCm4FCLs04-2Mb509SeXOTW7-eAMZhm65gUhIQbKP2RJg0HruL_6mlQpfJqza9JA",
@@ -3384,6 +4320,12 @@
       "free": false,
       "categories": [
         "Arcade"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/HcVZ4XrBhjqOsvg8uxWQodSCTem_o6bxa_VRJti27qzurjfVb7fHeUjoEbmKbzu4UbSHFvMoXb6JC4V2pwCTng=s512",
       "screenshots": [
@@ -3412,6 +4354,12 @@
       "categories": [
         "Simulation"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/kAZBQRqytst23LyVjQYsPav0W9cFym_juV1r3J_Jhmep5U5nAbpumUNvxzlGT2FiJWTOD4rmVuI-AhJlnjpD=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/Q-blo62F_Yxy2vUr2Bk8UQ0G13J6wTjqE7YQl-aYtjlAi8GbT560QH9wCNBcKwdJvujzfIh7cB0QQuMalJvojxc",
@@ -3439,6 +4387,12 @@
       "categories": [
         "Adventure"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/he4yAY2ON03TGn5glfWTWDY7DPgo9cSWU0BqfKHtLMPT59HBaIkDY27vrp62paazsuNKaXWLG1oHjdbi1Ip9NA=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/MW79z76X5FTaKju7iIaVDVtHKPybBxgFVOsTsQ23Ym1ENng-2LSVQ5RpkYXkWruoCK4yhV7HDwJiTl6D4rZc",
@@ -3464,6 +4418,12 @@
       "free": true,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/YHNXVPfheXUOd2a_6kvUsRHsAiW4lec24UOvIJbFlRvwuIYeby4nEjub69lJpzy79m5wbDZq7cwn0QZw9BE1Abk=s512",
       "screenshots": [
@@ -3491,6 +4451,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/q46PWBcY3W8DndQPQ0iEto0_r6cWCJhfGkJG0My4Vi-fiGsPlZQpPsiQ9oLnPKgI1cDz4GMXloWPfxfKO3wzuug=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/4sYPvCk4ZwcMAsJu9570tP3iPxulrDv7cJ2NYZGoNqE4mMjX4fT8I2qV-RMTPZKuFB6IBONbTEKOS513ZfPPAg",
@@ -3516,6 +4482,12 @@
       "free": true,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/PU-DyAvSCkt1vKoOpDBT_WYRA0MshhGfnqhomd6NlFopZALd8q3-K-cUxJ9RlyjLIKBYCmEyW2pTqTckz97z5A=s512",
       "screenshots": [
@@ -3543,6 +4515,12 @@
       "categories": [
         "Racing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/uDuLMWKCT73AokNnTSWE6PeS7Trjh_NAh5QVe0u6YG-djSpw1CtlvvilFDhZQAInwW-jlWq0sks-jihcWM_Tlg=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/G_2kkjaW4OHxhd1IzPkFOiNbBgoqo9SkqieR5VBg_Nj4peZAReYuTp09Muy_Bmj32mtsx9z0DjfxFBTVvC1h",
@@ -3567,6 +4545,12 @@
       "free": false,
       "categories": [
         "Strategy"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/_1DgQE1pcmshwlsBxhz5jJ7YGcQ4bWabSCDsXiwwjuLbfqf_fB2zxrfASIOsSrJtSN_GxmMth6es8vplEPibGg=s512",
       "screenshots": [
@@ -3593,6 +4577,12 @@
       "categories": [
         "Racing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/Eki6lQF8HawMz0M5pD-4d8g_VV-EybGQSTtsgkhX10F4rU4oHrP6sug9tLsVPFIk0iVe2rwUmFPj7uWRJCZr=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/UQ2Vd6pswKoRXpiR6MDxY8_vU1rg3EN4AmJdXsjPiio8LxXVGIjQxCnKm0F2uwgl2mIOe8EHky2Q2eAvXjC98A",
@@ -3617,6 +4607,12 @@
       "free": true,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/rg96rbCnVBy7lMbNuc9uIijL3S5LCob0oXGCGPu-gO5k5jnuiVkpkgLIJORQ2-ccdFWezz1Y3WzYl3q9qEWYvxY=s512",
       "screenshots": [
@@ -3644,6 +4640,12 @@
       "categories": [
         "Adventure"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/0SU70tPQEZ3t9JfBwVyaouIlbZz6vr6AXTM6ve1i6DePPZyzMs4_gei6PT8IJ63PM2LmziLbB9AwNNYSXiHk4VA=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/nI0QvUognXFTDFJKgwNe0t4aBPR0Gq6tDbRxhA3BOyPKiiD2W281S1VfK_8y0z7rTJg6k1q5fOdsnJyoCU0kwA",
@@ -3669,6 +4671,12 @@
       "categories": [
         "Adventure"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/Ivm4szqrCQVqwofnoB6SQ50FDu6sOY1oymghk72C3T1RDDakX4eNB24CjJIIkwdRA9ZL900E8F4VfeWY95U1DQ=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/WWew1XKSkQGjVjJ31bKT15MA1eURpB6I60VoQRPYgjZrbS5JaOajZs6EalLlY0V37e9n_GfWmkS9yuwUpJU7cQ",
@@ -3693,6 +4701,12 @@
       "free": false,
       "categories": [
         "Role Playing"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/BkxAUsA_HrjmmZFGwwvNvuT3nPiENFi5Fp-GUSNZa92GfG8K9nbCWTppGLxvIkc3q9czf8lM7x4ea97X4Be8=s512",
       "screenshots": [
@@ -3720,6 +4734,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/xCYhOD2U6nSEN8r0Y0y2CYW_NOmXpwgW33NVHKfRi1zZGAUvhBiYnc0Dhy8NWwiW99EI93u6h_xhujKeBOZErg=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/q1EF3ATBGQwWyLpM7eXL8fJht_hJrVx6wj2gOQmKml0oCFpgPkpteyn70w1lGhHzbY3ljvudtwkqB694wwlJsw",
@@ -3745,6 +4765,12 @@
       "free": true,
       "categories": [
         "Casual"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/bLx99pGChMaSCGz8UEqb1vElLjhzkbcsGUM3ZOkC6Zpg0A1Ktr1Zn0XG0a6MQPZpDo96FLwvo0SV5lcLCQLihQ=s512",
       "screenshots": [
@@ -3772,6 +4798,12 @@
       "categories": [
         "Card"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/BnMg41nBKINEHIcoBmR6xpM0Hae0PMFbBMtMNUjn0kJulIPD-nvYmWrEIDc6zkxPUKwUcDXIUavMiinU3KES=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/z8QfjqVxmON7pndQaanm8XsN1Xr8ZqTH7M20L265IDSfPXEeLTqAzO1ykpueqABQZCcNXATQKrcvf4GyRlQ91A",
@@ -3797,6 +4829,12 @@
       "free": false,
       "categories": [
         "Role Playing"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/gCLNdm1DZbh0sVoVnpEZTr1I1aE-vd1RVQ90JfN93GZnu-xFFXlIPLBIyLRkvOKkBPi3bRLPZMR-LcPwFWj-Xw=s512",
       "screenshots": [
@@ -3824,6 +4862,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/x4WbBMJh0VcZDIlf6WmamJWDTk2peDc638wAEhwWdjH6a6QN8L1n65Dz2VWAUCULWGowXc0pK85W862w1V0a=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/7Qy6BA-KDFFo9rm1y26AtjYo3kyQgXlkaitWATVuTb0v5Z90yoz4L5ZSpMyQCBaXSpIPriG_4WORWbG1yccyonk",
@@ -3848,6 +4892,12 @@
       "free": false,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/8VSCGrM6tmeqxsXOJXH-M30s-w9UkVLG9XAxrpjj8L6y-NrB6JErh6C2Xxe84a_HuP5iFdK5ZxoC4W6E_QAwHw=s512",
       "screenshots": [
@@ -3874,6 +4924,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/BSalE_GPl9Tx_mAtd5vH_3PEb_rL5Xm_U2GnvWBk8SOxCwO2jDGoebgVBiPa5ah66FQioDpZAFihDMq3DYk2vw=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/BvZdGMkEMDILTeiEAsmaGgB1ouS0TB3GHDQZ_IN9DiyQyY5ymO1WbZuG2e8QfFy_O5j3qr41SdBy8D7l945adw",
@@ -3898,6 +4954,12 @@
       "free": false,
       "categories": [
         "Puzzle"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/TktG_4Qz6_SHF3Y3cusRKyLdaVHyL3vyBLMFGW7kEnzZhKpxuZ5NK2MH2TZ6a0t80voQfKHpSro28fu-YxETQA=s512",
       "screenshots": [
@@ -3926,6 +4988,12 @@
       "categories": [
         "Role Playing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/XnlGLBz_XIZQwzND1Ullh1Wj-3kkohCfoHxZsI5lyYxkMR5TIhKIlEO-b_2qChhf9XmuvvaBNEJRaaavf6IIig=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/LBGMLqLkKu3xqtgUR0cizWl8k7EbDqfOaZKseCB8l4zG5FnS6NgDfVAk1Z7wQNc-QRKjPTIWfG12j0eqtrSE",
@@ -3950,6 +5018,12 @@
       "free": true,
       "categories": [
         "Racing"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/VgLe2U7_WfG8LedSGZ2eQJD-BSU9ErXDNV4M7vHkMD3m_SutqBuny1MlRMcWXCBLGzoB45FPthb_-fZ83yqm=s512",
       "screenshots": [
@@ -3977,6 +5051,12 @@
       "categories": [
         "Action"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/weDwpkkFqxcrcYwaLGxNmXYCbMI35peJpmvQxpThp0lcxzsu3eTv_2x0bKFkE5EcGAtYWmcxk0QQDIzxSCMcqg=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/BDZSGvW2Tvf3LZsju1Phmzac1mb-TEZSt487FnKHnRBhzj9_43gkT5_4L6NjLIuENxXP8tWesV6_bpyFqSS7gQ",
@@ -4002,6 +5082,12 @@
       "free": true,
       "categories": [
         "Sports"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/CvOSXr3Z0Q51wbz61Fkr-xgfxHhqXuiqD5S6WMZduz0QzKzCM57DJBKgoTOZD7PYw08sXK8H4kAbAOuY6LBxBQ=s512",
       "screenshots": [
@@ -4029,6 +5115,12 @@
       "categories": [
         "Sports"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/QipLaaP7jJtYmryKeDItPSDA_nwXYKmNimTVwJz3iGFlz4MrL9zzJCQ6SnlHGuQgqLCUfq1201ZtzIjoN5Ku6A=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/pI4vfo28vhwR9FzDFPG3qJ8M-x5Fh6WraO51kLaPrvK1wReX9O4Cil5I5BBDH7s-6gchyRVoTu4ewTr7GbANcA",
@@ -4053,6 +5145,12 @@
       "free": true,
       "categories": [
         "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/HGEB8MV13R3EGW_QE-ik58AULRCzZc6GjaEKDBotCpwYf238kl9IeFPfA02WUDQAmlXczkL2EwCh1AHn__pjUQ=s512",
       "screenshots": [
@@ -4080,6 +5178,12 @@
       "categories": [
         "Adventure"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/5JsI6SAmcwoIeQlJhQUHN45me7StE67dRW90AB3O6M7mdiCoPD-Rl30frqAsSItJEfehTHPBmR4rzJBvdOhhzVs=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/Nc6V3kTjzcVenQ2-OdTksRBG2Xu56UHNQ11mKBDAObSwF_tvbcfOqGnOJYVTo-A3WwZZ1FZnHFpteGyH_qqpFw",
@@ -4105,6 +5209,12 @@
       "free": false,
       "categories": [
         "Racing"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/0l6rEjTlWdY6GiN6lXQRNfd2w64iAS6SCKsFoqCu4LVg3hc9nzuQf_JVQzFgJ599dkky3LcrKbyMQ2Cyw8vv=s512",
       "screenshots": [
@@ -4132,6 +5242,12 @@
       "categories": [
         "Adventure"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/Xq4IS6QkS4KFSY4aCSTYFYD_hj9lceaQXA_34LHW-1yOsv3pjjtknz6ehoBz7KxsI7Faijty6iwMc-KFEiwddw=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/teE5FKKfWYSAVOreZb2VpfZHQ3v1PEKZ6rEQ9XPYIXESMT7v8gzUxHxs7316w9TgU8y7ir-nx2Aw6I880-Cw",
@@ -4157,6 +5273,12 @@
       "free": false,
       "categories": [
         "Racing"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/_ExrGf-uLiNVVVZv0lOvZVtCENniuNYZ54d0GepuKTjTLQ9gfTI3ejExSI1kqDTmmBnU3Nu1aDLC47rFghyoMw=s512",
       "screenshots": [
@@ -4184,6 +5306,12 @@
       "categories": [
         "Racing"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/KtIDv6tfdGbrLA_SBOnJVmYe78qXmKemfDgM0svfc3DUEsyvEN4XyRCTdRuhhd5TulPvsYWP1NgcnpikQPXMOA=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/rK15r2L8J3tX1IZxBrVnHxhpjf-wqwMufcmlZDaeH9m7AW4sG2ZKnkuEP6fDFF92S_AHYAGgX6ooPXqX1TRzNQ",
@@ -4208,6 +5336,12 @@
       "free": true,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/e9NhQr78NIzy0ACouLP2-uOZJoY2pcnz6uGD38JkWyW7qauTKH7JVl_GJgzYy7e8jgKfKEEqy8LFi7LOAIF_azY=s512",
       "screenshots": [
@@ -4234,6 +5368,12 @@
       "free": true,
       "categories": [
         "Arcade"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/nHQzQ5MspkPAFJSSrSiSpShpp65Hu6y_x2_PSomsb3vwbSHdLnboIr2RlKFo8foxwM9QX7Q_jVf2SskCeurzVg=s512",
       "screenshots": [
@@ -4262,6 +5402,12 @@
       "categories": [
         "Puzzle"
       ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
       "icon": "https://play-lh.googleusercontent.com/GjPq8BQ9kZhsi81cWwsYWD2kOeaW-j1Cv8YcStd0Y4OhIpiCOzKREsFCIbUV4LUdLn1fpGpcx716K6OGYvt0Zg=s512",
       "screenshots": [
         "https://play-lh.googleusercontent.com/6M9WdmnzD70WVKEchSujgxvkD_X6jc2_5yjQ43Bn-M_waQAyGPLpTCvOa_Te1DFsM6xKdAwsdWhYOJNythRk1w",
@@ -4287,6 +5433,12 @@
       "free": true,
       "categories": [
         "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
       ],
       "icon": "https://play-lh.googleusercontent.com/LdOl3jDNhctUS1K5m0WYEuTttjCwXrqRMrJteU9T7nCCmvZXrbCpvMaOCjCVl2BEYEoQxUm24Qo-eLuP4gGE=s512",
       "screenshots": [

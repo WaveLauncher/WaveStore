@@ -9,6 +9,12 @@
   "categories": [
     "Arcade"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://play-lh.googleusercontent.com/9c7Jtgblhy9MRJTCrr-htiRyWfGJqSv3c9GC38yblXM-4ig6BcNkWKhJbjqDZU1k0hosigQtKlLXUoS0vNhkrQ=s512",
   "screenshots": [
     "https://play-lh.googleusercontent.com/lu8S-a-iUo_ew5kiRYQ2E3qGV2Gedgnv0b-hzFwg56RXk0tDLpATceRWI3OFVQMCIxNXe3Fd3LKbwABd2twILQ",

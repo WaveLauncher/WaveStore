@@ -9,6 +9,12 @@
   "categories": [
     "Puzzle"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://play-lh.googleusercontent.com/7Ok1YZaII5c9TgZF4FQWRv8HlPIOiWzNlUquYuAwuQcpgRYKXkasiALhZsUHqNd7BaRfEeMxzKLhHHAomHUx_Uk=s512",
   "screenshots": [
     "https://play-lh.googleusercontent.com/E78gGZwcNsHnAmRTwc12PfHWx6N0J2tYVXVfUGAnc2Uif2Yv-7e709cC8AMpQAembBDOAgr28FIBf8vZYdVQ",

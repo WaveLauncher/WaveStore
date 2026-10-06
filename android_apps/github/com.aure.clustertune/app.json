@@ -8,6 +8,12 @@
   "categories": [
     "Utilities"
   ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.aure.clustertune/icon.png",
   "screenshots": []
 }
