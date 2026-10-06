@@ -1,0 +1,20 @@
+{
+  "id": "jr.brian.home",
+  "name": "Jarngreipr",
+  "author": "BrianJr03",
+  "description": "LG V60 dual-screen utility",
+  "url": "https://github.com/BrianJr03/Jarngreipr",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "screenSupport": [
+    "dual"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/jr.brian.home/icon.png",
+  "screenshots": []
+}

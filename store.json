@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-06T20:16:48Z",
+  "generatedAt": "2026-10-06T20:43:18Z",
   "counts": {
-    "apps": 52,
+    "apps": 57,
     "games": 134
   },
   "featured": {
@@ -282,6 +282,64 @@
         "android"
       ],
       "icon": null,
+      "screenshots": []
+    },
+    {
+      "id": "com.droiddeck.launcher",
+      "name": "Droiddeck",
+      "author": "Droid-Deck",
+      "url": "https://github.com/Droid-Deck/DroidDeck",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "PC Emulation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.droiddeck.launcher/icon.png",
+      "screenshots": []
+    },
+    {
+      "id": "com.emulnk",
+      "name": "Emulnk",
+      "author": "EmuLnk",
+      "url": "https://github.com/EmuLnk/emulnk",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Utilities"
+      ],
+      "screenSupport": [
+        "dual"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": null,
+      "screenshots": []
+    },
+    {
+      "id": "com.esde.companion",
+      "name": "ES-DE Companion",
+      "author": "RobZombie9043",
+      "description": "ES-DE frontend companion app",
+      "url": "https://github.com/RobZombie9043/es-de-companion",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Utilities"
+      ],
+      "screenSupport": [
+        "dual"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.esde.companion/icon.png",
       "screenshots": []
     },
     {
@@ -836,6 +894,26 @@
       "screenshots": []
     },
     {
+      "id": "jr.brian.home",
+      "name": "Jarngreipr",
+      "author": "BrianJr03",
+      "description": "LG V60 dual-screen utility",
+      "url": "https://github.com/BrianJr03/Jarngreipr",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Utilities"
+      ],
+      "screenSupport": [
+        "dual"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/jr.brian.home/icon.png",
+      "screenshots": []
+    },
+    {
       "id": "local.nova.diagnostic",
       "name": "Nova Display Calibration",
       "author": "pippopapera",
@@ -1188,6 +1266,26 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xyz.aethersx2.tturnip/icon.png",
+      "screenshots": []
+    },
+    {
+      "id": "xyz.blacksheep.mjolnir",
+      "name": "Mjolnir",
+      "author": "blacksheepmvp",
+      "description": "LG V60 dual-screen utility",
+      "url": "https://github.com/blacksheepmvp/mjolnir",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Utilities"
+      ],
+      "screenSupport": [
+        "dual"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xyz.blacksheep.mjolnir/icon.png",
       "screenshots": []
     }
   ],

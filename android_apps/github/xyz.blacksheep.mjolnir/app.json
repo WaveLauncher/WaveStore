@@ -1,0 +1,20 @@
+{
+  "id": "xyz.blacksheep.mjolnir",
+  "name": "Mjolnir",
+  "author": "blacksheepmvp",
+  "description": "LG V60 dual-screen utility",
+  "url": "https://github.com/blacksheepmvp/mjolnir",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "screenSupport": [
+    "dual"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xyz.blacksheep.mjolnir/icon.png",
+  "screenshots": []
+}

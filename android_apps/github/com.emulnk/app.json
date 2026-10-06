@@ -1,0 +1,19 @@
+{
+  "id": "com.emulnk",
+  "name": "Emulnk",
+  "author": "EmuLnk",
+  "url": "https://github.com/EmuLnk/emulnk",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "screenSupport": [
+    "dual"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.emulnk/icon.png",
+  "screenshots": []
+}

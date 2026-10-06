@@ -1,0 +1,19 @@
+{
+  "id": "com.droiddeck.launcher",
+  "name": "Droiddeck",
+  "author": "Droid-Deck",
+  "url": "https://github.com/Droid-Deck/DroidDeck",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "PC Emulation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.droiddeck.launcher/icon.png",
+  "screenshots": []
+}

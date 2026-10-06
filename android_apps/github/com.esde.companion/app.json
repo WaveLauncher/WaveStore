@@ -1,0 +1,20 @@
+{
+  "id": "com.esde.companion",
+  "name": "ES-DE Companion",
+  "author": "RobZombie9043",
+  "description": "ES-DE frontend companion app",
+  "url": "https://github.com/RobZombie9043/es-de-companion",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "screenSupport": [
+    "dual"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.esde.companion/icon.png",
+  "screenshots": []
+}
