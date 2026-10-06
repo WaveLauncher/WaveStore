@@ -1,0 +1,27 @@
+{
+  "id": "com.orube.supermomboquest",
+  "name": "Super Mombo Quest",
+  "author": "Orube Game Studio",
+  "description": "Bounce and stomp through a magical world! Do INSANE stunts and get huge combos!",
+  "url": "https://play.google.com/store/apps/details?id=com.orube.supermomboquest",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/arABF8PNmSiTilTKt36vojDyEf2vmB7LUIZn8hNehJV5SoEoG1OGClbYOPJV3A3OJpeuW-Rp0Hif5ENPshgZTKA=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/lHB2jLQ51NvZosSZnhslqxnTiZU74fzEXIyUixh80Y7X70yzbhxQhvzZ2yUDGTKF950QjnNADnGw2oBqKB6x1-M",
+    "https://play-lh.googleusercontent.com/L3b8Dc6YiwnU2ZaN4JMsvTuO29EWIJecnQgixPpkhlzTSp-76QjuzrAfgMe6WUmOGKnNsOjc9nHv_MurRO7LJw",
+    "https://play-lh.googleusercontent.com/q-B_Gk-MqNiCqJZW4h1fudIA_Gf-UT5yRrpywpkJFTBhvDCYcsrHBuQI0wX1peL10cD5hPeIhxMInOfVUCDf"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action",
+      "Casual"
+    ],
+    "score": 4.69,
+    "downloadCount": 3049544
+  }
+}

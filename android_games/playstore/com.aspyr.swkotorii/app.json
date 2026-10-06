@@ -1,0 +1,27 @@
+{
+  "id": "com.aspyr.swkotorii",
+  "name": "STAR WARS™: KOTOR II",
+  "author": "Aspyr Media, Inc.",
+  "description": "The classic Star Wars RPG is now available on Android!",
+  "url": "https://play.google.com/store/apps/details?id=com.aspyr.swkotorii",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/2MfIAdF2Xq7VN-T1h_OiwkPPGiGujKOpa4tbxCVn5-6PEqCB6yTqCySAAKSQ8-Q6B2PMzVc7PdDE9H7c32AW=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/kMRoQQ3yUvTbta9_W_fYVUzackoaKitohKrXOkwYc-xO16Wd_eDypVEAkdAbstfb4ciHaJ_QTPZ_e7bcHplf",
+    "https://play-lh.googleusercontent.com/gueFOl6yQKNJAOzCQUF7gZL1b0BNN47VMiST-YQIPAd9HCBtIlX8RwtFgrRY8XVIVP1GoYZqeSiWrzDNVrE7rjo",
+    "https://play-lh.googleusercontent.com/oPdP0pDs5nC6moLCdwvVnfkBywa-H3tWBLq-G71NW5xhhhY4lLVDlFCiecVkSxmxfpggivLEDi7Nl7e1J_eH"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action",
+      "Casual"
+    ],
+    "score": 4.32,
+    "downloadCount": 137248
+  }
+}

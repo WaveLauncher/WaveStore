@@ -1,0 +1,27 @@
+{
+  "id": "com.OrubeGameStudio.DwarfJourney",
+  "name": "Dwarf Journey",
+  "author": "Orube Game Studio",
+  "description": "Defeat enemies, mine and forge equipment in this epic journey for immortality!",
+  "url": "https://play.google.com/store/apps/details?id=com.OrubeGameStudio.DwarfJourney",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/IDm6E4EK0hcLR2GqJtnhb2i5XYzEDOGRSimsZkdu0UxnEhEcYau8b_p-qnej3xdD5_B8KSm7KkNLtxItHMKM5A=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/XWbIb5yjQfMxjFqlaJN-kd1dAue8v1wftL0cX_b78wxACKCnyuMbK0KKVG4DDQp6EuHpfDps1MBqxg22byYNyw",
+    "https://play-lh.googleusercontent.com/3E-piDeitehVxEaYH6c7q4CY8UrrPZntBk-enMFrdSMLMEmZADk78UXHOZOUdl2okihZVnQyFs6022GBm2hI",
+    "https://play-lh.googleusercontent.com/KFMsflHIcePvktdklovDlDq1mxy8KqTxKV0WjKSD4vGGjB4C73ionBz6ma6uvFxyXuIkwwWb3SnjO0Ub2paU2w"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action",
+      "Casual"
+    ],
+    "score": 4.47,
+    "downloadCount": 186907
+  }
+}

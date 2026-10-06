@@ -1,0 +1,27 @@
+{
+  "id": "com.pwrd.unrulyheroesmobile",
+  "name": "Unruly Heroes",
+  "author": "Perfect Game Speed",
+  "description": "Set out on a epic journey to the west and let's kung-fu-them-all!",
+  "url": "https://play.google.com/store/apps/details?id=com.pwrd.unrulyheroesmobile",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Arcade"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/HcVZ4XrBhjqOsvg8uxWQodSCTem_o6bxa_VRJti27qzurjfVb7fHeUjoEbmKbzu4UbSHFvMoXb6JC4V2pwCTng=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/9wkPjW3Wc1l8kdtHmAuZP6Mik1Gug59MC0LxM62G6S2Rmsduxf6O0_TS8x7scadBubnERWo3tZ7C0zZW2v1N9BQ",
+    "https://play-lh.googleusercontent.com/5qYldqq5TBbGc5bgPCnDd249KwkhfVn0csXRaUgjs-gk4WjtmaxIhTTXnj1qqLaL4j6IJ37srM-4ZV723WN0",
+    "https://play-lh.googleusercontent.com/P3qeI8ajtSKbqmj-aXxJHxHUGJ96bvK-HX1sXEmEdyHmrAHoA5LMZCBP9tRMVkrCahaD4JVyDZSqiF15sTws"
+  ],
+  "playstore": {
+    "categories": [
+      "Arcade",
+      "Action",
+      "Casual"
+    ],
+    "score": 3.45,
+    "downloadCount": 35818
+  }
+}

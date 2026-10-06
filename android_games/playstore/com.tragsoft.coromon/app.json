@@ -1,0 +1,26 @@
+{
+  "id": "com.tragsoft.coromon",
+  "name": "Coromon",
+  "author": "Freedom Games LLC",
+  "description": "Collect, train, and battle over 120 creatures in this monster-taming adventure!",
+  "url": "https://play.google.com/store/apps/details?id=com.tragsoft.coromon",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/HGEB8MV13R3EGW_QE-ik58AULRCzZc6GjaEKDBotCpwYf238kl9IeFPfA02WUDQAmlXczkL2EwCh1AHn__pjUQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/hLXs4XAcCUe6AT0hISBA0lAVMI8Agg0FcCm_QgVEVuHb5LpVDiYzrB6O4-2vXV9hIcutWDSlvXH2YO4zmov75g",
+    "https://play-lh.googleusercontent.com/d3_dBKIr1UnD_jztmoffxDf9sLIG0-3_lnjZXNJ83G4HBZ5EhmyznBzvB1pbRMDRloqcgI3lgGncufIUvYGERng",
+    "https://play-lh.googleusercontent.com/ay-SPT_HgVxdore5JyI7zAXZl8nOITP-3clhS9D1nQYXn5AqkZ5pNj_QqPhSFJz5YSg1j2vdHHE-wsRrmfhOZw"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Role Playing"
+    ],
+    "score": 4.53,
+    "downloadCount": 4852077
+  }
+}

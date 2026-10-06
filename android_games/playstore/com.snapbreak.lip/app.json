@@ -1,0 +1,26 @@
+{
+  "id": "com.snapbreak.lip",
+  "name": "Lost in Play",
+  "author": "Snapbreak",
+  "description": "Solve puzzles, riddles, and embark on an exciting journey of discovery!",
+  "url": "https://play.google.com/store/apps/details?id=com.snapbreak.lip",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/rg96rbCnVBy7lMbNuc9uIijL3S5LCob0oXGCGPu-gO5k5jnuiVkpkgLIJORQ2-ccdFWezz1Y3WzYl3q9qEWYvxY=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/m1IISN6nlM3LQ-w4XlE3PKP2eGnMPurYvT9zgVQ17Zr1ahUpNWjV64TQeMUJ4YgQTr7GeBaMqAPQdsK0orgblw",
+    "https://play-lh.googleusercontent.com/VnsQjjtT-JKtK-fo9aoJCp9TtDU0JM2CF1Lb90BfTvyO_pd9QZXdkxhgDumt9SSj3VAJfAcxuaBlXwpy6Vi8Mw",
+    "https://play-lh.googleusercontent.com/GoqBh4PnaB1nObWmoHTisyH9M9oNv-Ib45E5CRCSZRBmimWTHt9Bg-Dyp3YQR1-blfdXfbPDz2FPwdzMc1HHwQ"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Casual"
+    ],
+    "score": 4.57,
+    "downloadCount": 6882650
+  }
+}

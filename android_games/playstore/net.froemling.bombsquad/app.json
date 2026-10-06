@@ -1,0 +1,26 @@
+{
+  "id": "net.froemling.bombsquad",
+  "name": "BombSquad",
+  "author": "Eric Froemling",
+  "description": "Blow up your friends in mini-games from capture-the-flag to hockey!",
+  "url": "https://play.google.com/store/apps/details?id=net.froemling.bombsquad",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/e9NhQr78NIzy0ACouLP2-uOZJoY2pcnz6uGD38JkWyW7qauTKH7JVl_GJgzYy7e8jgKfKEEqy8LFi7LOAIF_azY=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/CBaXUBvq48TkwNy-ewgKsxd6DQhvhrj3wWImOqCRVLcjsoY0uaXGYsC_Kk0XtzTtnddSD0gGyXzR06uHbNSDbw",
+    "https://play-lh.googleusercontent.com/KeBaqNIPPOu090T0NxGBwBeki_KwWJ4tA1E2pLYpZsxM23AgIzZdMXkGC3aw-DfjrdtkLnzD9e2bBy4iDWkgqjM",
+    "https://play-lh.googleusercontent.com/AYtO73APIu3B0_ViMqvaG_l_rnLW1-qaLH8cxDNCgZzgGVNNXS0rss1dnm2Y6G8RdYPDro2AIdKUhM_T_KYlYg"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 4.49,
+    "downloadCount": 75749914
+  }
+}

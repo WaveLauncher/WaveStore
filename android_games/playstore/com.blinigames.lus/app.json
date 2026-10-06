@@ -1,0 +1,26 @@
+{
+  "id": "com.blinigames.lus",
+  "name": "Lovecraft's Untold Stories",
+  "author": "LLC Blini Games",
+  "description": "Lovecraft’s Untold Stories is an action roguelike with RPG elements.",
+  "url": "https://play.google.com/store/apps/details?id=com.blinigames.lus",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/CaWbCD1yMgyK0AtXECRIIQjtaq4IFxJJJP2hd3sr9NOI7lapmiSGh-liyOkx_VCkM_etV_3Cu_wtF1tC-TrgwA=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Cqbn8_p4pWOhlSguoPF8bgLLa6F8-UH2agFTGQyykWLBlBguPFv8fUw9-QD0GZ7ZI2_ffNAxAB9c-fjcTnUd",
+    "https://play-lh.googleusercontent.com/_JdM1kTNFtkt6sHVZ3eG0xxrdBRdTb6eLWyM4AkG3pIrYporWWaPsLwMEXC0AgYUjhS7pjPo-UOwM5IQhb1orQ",
+    "https://play-lh.googleusercontent.com/pRmmWQ3ArilteYxXvJG77oIxRdY5hNa9P4zo_5_70HhJteLBAU-zD7mY8mZkWI1C4lJN_q3mRfl9HWB4D179"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Role Playing"
+    ],
+    "score": 4.3,
+    "downloadCount": 102882
+  }
+}

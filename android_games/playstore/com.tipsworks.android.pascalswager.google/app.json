@@ -10,12 +10,17 @@
     "Action"
   ],
   "icon": "https://play-lh.googleusercontent.com/weDwpkkFqxcrcYwaLGxNmXYCbMI35peJpmvQxpThp0lcxzsu3eTv_2x0bKFkE5EcGAtYWmcxk0QQDIzxSCMcqg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/BDZSGvW2Tvf3LZsju1Phmzac1mb-TEZSt487FnKHnRBhzj9_43gkT5_4L6NjLIuENxXP8tWesV6_bpyFqSS7gQ",
+    "https://play-lh.googleusercontent.com/oZHP_x4k5va4sEYQbJUeNxoKQcqxV56C_a3y2r2wJQ9IOwiEMCPRKn7l7TY2Na24rFHqDUkPfjl4Rwqkr7vrFA",
+    "https://play-lh.googleusercontent.com/dzccnNomFqV19NFLVH8U_Xrhaz58IDOzkjoEi8lvxl_EtALlZGpqY8_dozklJYNqxe8yLWbxvKjDPoIiUdlr"
+  ],
   "playstore": {
     "categories": [
       "Action",
       "Role Playing"
     ],
     "score": 3.1,
-    "downloadCount": 238004
+    "downloadCount": 238007
   }
 }

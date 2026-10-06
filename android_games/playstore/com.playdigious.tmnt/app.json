@@ -1,0 +1,25 @@
+{
+  "id": "com.playdigious.tmnt",
+  "name": "TMNT: Shredder's Revenge",
+  "author": "Playdigious",
+  "description": "Turtle heroes beat 'em up",
+  "url": "https://play.google.com/store/apps/details?id=com.playdigious.tmnt",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/ZEebMrVv7qgHrpdShmql62Bby_8_FF-M9w5sS6OkQih4zeoM6t0TSKrYIJJEuy_qt2HqFUhgPSDRR4VBzNfo=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/EDTeIWzs6vo_NGcJlO93wMjZ_M2a9sgt5r8DAFZtxutg6dp18fzBm6phscedS5ZhTw55MsEix0UNL_elzMot3g",
+    "https://play-lh.googleusercontent.com/BPOpUQagJ0tAEDZ3nUfa8BaRYbIx0GacmV-Fx_PKqxytrPkn3AdyiaWeYg8vo1Ek3meJPEDy0L12ycb3yOwOuhQ",
+    "https://play-lh.googleusercontent.com/CFuHSinaJOwwC-u8Jhz54sx3VcrfHwI9KoOSbZ8PoPcj3yA3fffRrrf6smiuyXibj7vp6QWrOfk_T-O6Wbsa"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 4.56,
+    "downloadCount": 1751755
+  }
+}

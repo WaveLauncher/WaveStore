@@ -1,0 +1,27 @@
+{
+  "id": "com.thevoxelagents.thegardensbetween",
+  "name": "The Gardens Between",
+  "author": "The Voxel Agents",
+  "description": "A Surreal Adventure Through Memory, Moments and Time",
+  "url": "https://play.google.com/store/apps/details?id=com.thevoxelagents.thegardensbetween",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Puzzle"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/TktG_4Qz6_SHF3Y3cusRKyLdaVHyL3vyBLMFGW7kEnzZhKpxuZ5NK2MH2TZ6a0t80voQfKHpSro28fu-YxETQA=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/2PiHttqncMbtJMjx5F5MPgJaQ_MjzaXI3EsYRSc3yaqpkGJjoPPfbp3L6Wd1ANyLSM0Nh3nd4gMB3EcR0GGlcmQ",
+    "https://play-lh.googleusercontent.com/T-tHOITYTTv3YkqFiGxMjOrtDrn60zePa2SYoRzgBLyQZFpdrPQBe7qQTPGjB8f5AsdlH_m7GLMWoSd1eFNR6Q",
+    "https://play-lh.googleusercontent.com/VmlQ_AQSoOIA-ozCSN-vSbFrBiy8r-ACLnSQBGPrlIgVu4XnNNYQcPJMlv2MuLNB8aLFgt3wcx1csVjoWLwsTOQ"
+  ],
+  "playstore": {
+    "categories": [
+      "Puzzle",
+      "Adventure",
+      "Casual"
+    ],
+    "score": 3.87,
+    "downloadCount": 66975
+  }
+}

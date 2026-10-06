@@ -1,0 +1,26 @@
+{
+  "id": "com.and.games505.TerrariaPaid",
+  "name": "Terraria",
+  "author": "505 Games Srl",
+  "description": "DIG! FIGHT! EXPLORE! BUILD! Join the community of millions of Terrarians!",
+  "url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/47ylywbi2wh_pogL2XorXhg5HEbRDW1k_IqacSd3_2t-6sh7PIniak-k2lhTE0Y360TmO0coyJ7U_Ea_g-ym=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/YfiglfYh-8JT1bO9tvck6pUE7JGXx4seo5HOqJnaGFlo5ysGEgs43NJSTQUwHeBTpDhudLRkxsPvbA8WuOHw",
+    "https://play-lh.googleusercontent.com/KgJLsBvIRarGw7TWwAJ8WTU_KLUCc2cN3T6qJt25fQvtyM0PrqmQtAWqqaTqRUx-Nk9fMJF4oR3w8sZRQkV8",
+    "https://play-lh.googleusercontent.com/dc1z40GXvVw4uvrEoXcRRDKuQH07grL2rZw9WZPum-hbpfXmwnryTKEzZnlRuX75iITwAlrjEQ6URLMITiXm8as"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action"
+    ],
+    "score": 4.55,
+    "downloadCount": 7510014
+  }
+}

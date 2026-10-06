@@ -1,0 +1,26 @@
+{
+  "id": "com.leosfortune",
+  "name": "Leo's Fortune",
+  "author": "1337 & Senri LLC",
+  "description": "Adventure through a gorgeous hand-crafted world to recover your stolen gold​",
+  "url": "https://play.google.com/store/apps/details?id=com.leosfortune",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/g0n7ApdTLweC9eFh81zn2KeM3JiBrWzSJwx_QrBYNb_xROphOdd0mtGpsp_rXba_88pSJIxeJREEHD0nNI7Rmg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/4Vc_ioY1NVJbBCCDZfmlWFeIME14wsqY6DiYO4r_XdNoysTQz0RklW1a2SN9-m0KDpnorrRtqzVQbDzBNPYmONw",
+    "https://play-lh.googleusercontent.com/pgzkXjvDh8rHZXEtCmH9UbWwIrk8G9WSCaY6IMKTWUgBt7zs1Ve138z2KpOW5rAQQGIg8-EQOrrjrzcOtwHyhD4",
+    "https://play-lh.googleusercontent.com/s6ioLWEmg30fn4SaxyVzWu3Es1KhTS-agslEhqqbHnNZ53eUqKw68uhwYvsrWy88hXzMm0Ev4QlzrCNnLBxs"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action"
+    ],
+    "score": 4.49,
+    "downloadCount": 943568
+  }
+}

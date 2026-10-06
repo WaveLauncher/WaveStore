@@ -10,6 +10,11 @@
     "Action"
   ],
   "icon": "https://play-lh.googleusercontent.com/nD6sDIvYKaXOXeRR6FeRh5eXV8tXbPYFRucSbaxGJ_KrTPjRvG4z6a4rhLB-OQitNcQTO5qJ_S54T3Zy3X5weQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/KM6nD0InbB4TN-ulcQhv00up1fSPL7hvect7o1Yp3Np2DUyZHi0YGLVmRUxakAXIjwe44ttDE6f48DtqecBvKAQ",
+    "https://play-lh.googleusercontent.com/Tl9c1fjIHTDziZfpBGHRiACoM8md51iQMdK2lRbQXtaYLPDaP821UsTasZvluRtuTHXKVNCzYY_kAjfjXRu6Xw",
+    "https://play-lh.googleusercontent.com/9EhRJi8HnG_1xrQYS7jIDAeZjyLARUsCKbj_3WkTZW2NTQmv6dGnsuQc_oxaDJRZQrz5z75NGT9r8gV7iB_vyg"
+  ],
   "playstore": {
     "categories": [
       "Action",
@@ -17,6 +22,6 @@
       "Casual"
     ],
     "score": 4.47,
-    "downloadCount": 9986468
+    "downloadCount": 9986718
   }
 }

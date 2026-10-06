@@ -1,0 +1,25 @@
+{
+  "id": "com.playdigious.childrenofmorta",
+  "name": "Children of Morta",
+  "author": "Playdigious",
+  "description": "A story-driven roguelite RPG",
+  "url": "https://play.google.com/store/apps/details?id=com.playdigious.childrenofmorta",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/yx4uhl1Bp2V8k8IKcs-QF0QoI6Q4U-gsjkc837HykxYxQvtUdqtqPRbVVmf8-MVt2cO3DPlzTlTBk2g1gtLYvQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/4OiAA8-r9XkmPFhXTx5K0IpQ4RGI-gZ758APcG72JUfTPKUVl8cWGjnse1JiAl2dDswHZG6DqKRIsShMTlWUqw",
+    "https://play-lh.googleusercontent.com/n70-SPHamqzRYLaMVltIeq5y-KpTJruyZ1zrKQ2d-mLwO22qTXVx5mD3pgQ4abpYoEbZVLVStBYgG3yqH0XhAA",
+    "https://play-lh.googleusercontent.com/-LpI_NqFy_wC0zqMp3RdzL3HQlMqFGydHVugVhrp139DRykAslcfx84is39yCvKEN1UpYkRIbD8Zqdmz9qKT"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing"
+    ],
+    "score": 4.54,
+    "downloadCount": 138913
+  }
+}

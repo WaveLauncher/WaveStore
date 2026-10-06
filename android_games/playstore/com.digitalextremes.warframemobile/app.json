@@ -1,0 +1,25 @@
+{
+  "id": "com.digitalextremes.warframemobile",
+  "name": "Warframe",
+  "author": "Digital Extremes",
+  "description": "Battle alongside your friends in this story-driven, online action game.",
+  "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframemobile",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/p5C8q_tcqMA50ankDg5VV6qZzEa9anHd9MqaBb1uPjeXm2GHVXwfl58GYjKYgFAYc3vjoGwROb5c612tL2FmSQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/NydDn9FoSvrJOyBKn7zv9haxICAM95vT5HFsTz1G5ucw7t3lU1rqas9RoexGF2puz5EAC_CLTNTfRnLEb2kNsXg",
+    "https://play-lh.googleusercontent.com/ruky1qJ1_YXwLCImNWd5-ZR3A-yW9Y8roylvcFW6iKznZFNAL-wipAhgYCJAcOqFGYQ83m8zYVvrUYPuezFmxA",
+    "https://play-lh.googleusercontent.com/RfwNctPmnIEcrtl0uiZCxmnCgg6aDIOf30v-WDQEeZWVMkPrGTVTSorElz-ASm3V_pnN7YhJVGMds-G9GX7G"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 4.04,
+    "downloadCount": 3335661
+  }
+}

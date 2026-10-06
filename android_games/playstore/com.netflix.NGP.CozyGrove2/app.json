@@ -1,0 +1,26 @@
+{
+  "id": "com.netflix.NGP.CozyGrove2",
+  "name": "Cozy Grove: Camp Spirit",
+  "author": "Netflix, Inc.",
+  "description": "Cute Relaxing Life-Sim RPG",
+  "url": "https://play.google.com/store/apps/details?id=com.netflix.NGP.CozyGrove2",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/_TZQ_xUHDq5dQt3soHAWNiQVm1GTAo8l6z8L4n16B4J0t5cV7z-AXl9zTWVe4VnGYElnvhMNgcQU2wh5V_zW=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Wt7lt1QpXzYxG4KDwDYB5jiV4fTypyvtFRX5qIQb6mOK7rMdShg34jILrWU7tI4VWo3n3O9gyeulYToJSJQckA",
+    "https://play-lh.googleusercontent.com/0qrsoUhdNMMhTs4Z8qAPL2kOHQVdgcXExwtoAR4HkY-lPBfe1dszh41n84aQ1Zl5mlhLx7r4xqrHF8O92KyXwzY",
+    "https://play-lh.googleusercontent.com/Dc9-kAVUSR-4Dd4MCpjGY5OtFQFn2TehOxm_HOzMUI3QjFUzu17Ybks0xBIcBxtYDKNhPhpFiFek4hkcQEqWHQ"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing",
+      "Casual"
+    ],
+    "score": 4.62,
+    "downloadCount": 488527
+  }
+}

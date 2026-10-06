@@ -1,0 +1,26 @@
+{
+  "id": "com.subsoap.fsr",
+  "name": "Faerie Solitaire Remastered",
+  "author": "Subsoap.com",
+  "description": "Enjoy the magic and fun of Faerie Solitaire in fully remade form!",
+  "url": "https://play.google.com/store/apps/details?id=com.subsoap.fsr",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Card"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/BnMg41nBKINEHIcoBmR6xpM0Hae0PMFbBMtMNUjn0kJulIPD-nvYmWrEIDc6zkxPUKwUcDXIUavMiinU3KES=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/z8QfjqVxmON7pndQaanm8XsN1Xr8ZqTH7M20L265IDSfPXEeLTqAzO1ykpueqABQZCcNXATQKrcvf4GyRlQ91A",
+    "https://play-lh.googleusercontent.com/xjxtHp1wJ20ZJ-MSyvZFRSSf41CqhD3IqCiyxhPGBpcMKwdUx9CcOZ2CibCU6hThkLD_bHwtz2Ni7IBN9ASdEw",
+    "https://play-lh.googleusercontent.com/QAUXkuO1-K318yFjI0wvcU5ds1yfcyz6UtRR16pPBNn1VjpAr-tAC4FeKWvnDyd5kuZfUI_u7rTE6dtEqr56pg"
+  ],
+  "playstore": {
+    "categories": [
+      "Card",
+      "Casual"
+    ],
+    "score": 4.67,
+    "downloadCount": 9213
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "com.doghowlgames.thronefall",
+  "name": "Thronefall",
+  "author": "Doghowl Games Ltd",
+  "description": "A strategy game without all the headache? We got you covered!",
+  "url": "https://play.google.com/store/apps/details?id=com.doghowlgames.thronefall",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Strategy"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/ah06DAA9X7IYm6SMePf4vP_q5WymyoCYorBld4BmOwIMsXqCPyvyVZBokkfNJl2JxsUtu9j0E6ADJl4jyq4KDic=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/IIz-sI0x25aIy4YmwqlNtkyfDEfcKD4GKSSTbcWjw9wJ05dhtwyMm6awzzJxTpDNbKLkekZgABLAPOlm28f6",
+    "https://play-lh.googleusercontent.com/hoemI4_BgAIkvjP8bve8Tiudfn47seOjyl4YkCCepvoqi0t_9Clor0SI4qL3cubN9pXlDNHvxaVS20tq9-sr",
+    "https://play-lh.googleusercontent.com/U6i1OkxDUKkuehPxj5z23u-lG7TaEpYwDmvjO2eMJu_ieOFEvqrtovQ4d8nnHXM9lEJ7LOqELQeMKJG0v06-"
+  ],
+  "playstore": {
+    "categories": [
+      "Strategy"
+    ],
+    "score": 4.84,
+    "downloadCount": 355917
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "org.pkforge.app",
+  "name": "PKForge",
+  "author": "sofianeelhor",
+  "description": "Pokémon save editor and bank for Android",
+  "url": "https://github.com/sofianeelhor/PKForge",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.pkforge.app/icon.png",
+  "screenshots": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "com.PanikArcade.CloverPit",
+  "name": "CloverPit",
+  "author": "Future Friends Games",
+  "description": "A rogue-lite slot machine nightmare. Gamble for your life in a debt simulator!",
+  "url": "https://play.google.com/store/apps/details?id=com.PanikArcade.CloverPit",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Strategy"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/2CR6ecP2mz281zfOZZoZS4kdZg1WaGfCXdQxdWmt2JkQRDSQG8NhdbgIuH0UepzEyrWTKA7zaqre6xAthebFwyA=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/klT1cngEjkejbJAutnevofnaS1bCmA6V9umJzIVOhFr5HPAuv6nGObILEY2CzcDoF3MY10B5qYujEBPAfk9KEQ",
+    "https://play-lh.googleusercontent.com/jWocANSFETjg_nt2Xm3vJC3A2eg0HgDB-Uh9lKM6LSF4R2lLyvnkJxLfcMDQ9UtqP1v6iV6yoe3wym8Mshrt",
+    "https://play-lh.googleusercontent.com/stLMh5qNB4LTGaB31FI8doy4B0kDrkru7IuxoJfQZXozQ8dAOdsqaUSlcREbrgRCq-xgUryayJmrENrwu3i3"
+  ],
+  "playstore": {
+    "categories": [
+      "Strategy",
+      "Casino"
+    ],
+    "score": 4.85,
+    "downloadCount": 269208
+  }
+}

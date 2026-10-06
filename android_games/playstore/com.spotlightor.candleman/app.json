@@ -1,0 +1,25 @@
+{
+  "id": "com.spotlightor.candleman",
+  "name": "Candleman",
+  "author": "Beijing Jiao Dian Chuang Yi digital technology",
+  "description": "Why do I burn?",
+  "url": "https://play.google.com/store/apps/details?id=com.spotlightor.candleman",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/Ivm4szqrCQVqwofnoB6SQ50FDu6sOY1oymghk72C3T1RDDakX4eNB24CjJIIkwdRA9ZL900E8F4VfeWY95U1DQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/WWew1XKSkQGjVjJ31bKT15MA1eURpB6I60VoQRPYgjZrbS5JaOajZs6EalLlY0V37e9n_GfWmkS9yuwUpJU7cQ",
+    "https://play-lh.googleusercontent.com/Dn7SNStCO8SsvWKjbrdF7Ux6O9l5GzSxK9a-QkkU9Ou6yMsuhTYwshkvQFjCIOps37ZrUVlKB_Kjkv68Tjm5",
+    "https://play-lh.googleusercontent.com/JWlXPNABFQmE0AJlJUsinoSKF5rRngDo6fZTjnlxvUeFNdEJxRAaWq6aaEJ_5r3v5peEGD0jMM8Gxy9yCBisHQ"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure"
+    ],
+    "score": 3.9,
+    "downloadCount": 48929
+  }
+}

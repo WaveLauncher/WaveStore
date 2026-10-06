@@ -1,0 +1,25 @@
+{
+  "id": "com.orube.liahd",
+  "name": "Lia: Hacking Destiny",
+  "author": "Orube Game Studio",
+  "description": "Fight, hack, and survive!",
+  "url": "https://play.google.com/store/apps/details?id=com.orube.liahd",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/WiMF19W01m98H6VCQorrnuswfZDm0lAfmAJwiI7ZE7pkm6-zC4d-4IcYaBTgbCoNWtaqfNlzhzVqwSf0WHxERw=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/QEgsLfeFIyqX7gBzQ8GifXbyxP7IcYiGQ0a1JcPkFxefYbuVb_kMXp87FuT5VdrS4bnxtXkYz5WZFAAuSJWvbu8",
+    "https://play-lh.googleusercontent.com/0UOIhPH9i4u9UUE1I7_4LEwTEbeI_dUws_qIy9ychJp2WCbEFLbMMRReLDMtOyue8ey6_NxC9jXr_CUcKe-Kag",
+    "https://play-lh.googleusercontent.com/mbWgp79vZl3tTWqaAaQKFnPuKadgfNQDte7H4b5pKvl3kP_eyt8pgIit7Iw4VRXCcRZvPMCJ67DFSuGbuqQMyg"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 4.21,
+    "downloadCount": 18516
+  }
+}

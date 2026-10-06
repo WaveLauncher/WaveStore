@@ -1,0 +1,27 @@
+{
+  "id": "com.noodlecake.drtc",
+  "name": "Death Road to Canada",
+  "author": "Noodlecake",
+  "description": "Death Road to Canada is a Randomly Generated Road Trip Action-RPG.",
+  "url": "https://play.google.com/store/apps/details?id=com.noodlecake.drtc",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/RI0-pZFk09Hs3zV1qt7NtZmLSL3PPenvjAI63h8kZXQwpMbeuep9KJaPeu3aeUy3_V4ANEAP_9QdArdeGpW_sQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/bfGfw4qjQacuSeUg1ufQae5Zu7M1ipvcwwcZPpu7tXRuxY0deBnp7MXtll61Oah1MeG_3oU1T4kYYDEiaKEhag",
+    "https://play-lh.googleusercontent.com/nh67PIUndNC_owWmi5Bdz12cG_eLPQAGm8Byxla-ttcu7-lcHfLp_5ipygiG10J2QzNMm60ttsqexVanPTatWA",
+    "https://play-lh.googleusercontent.com/xtU3iHNNyv-JzArXqwPUkR0SAB0wluRYA5mq5CkNGHo4TiFI9M8tvdtTSetojHlyHkJbfXT9tLcVSJPwBrpLxw"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action",
+      "Casual"
+    ],
+    "score": 3.9,
+    "downloadCount": 518094
+  }
+}

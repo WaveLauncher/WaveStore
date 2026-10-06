@@ -1,0 +1,25 @@
+{
+  "id": "com.riskylab.warbitsplus",
+  "name": "Warbits+",
+  "author": "Risky Lab",
+  "description": "Warbits+ is a charming turn-based strategy game where tactics prevail.",
+  "url": "https://play.google.com/store/apps/details?id=com.riskylab.warbitsplus",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Strategy"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/_1DgQE1pcmshwlsBxhz5jJ7YGcQ4bWabSCDsXiwwjuLbfqf_fB2zxrfASIOsSrJtSN_GxmMth6es8vplEPibGg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/qXWfhW_mH5gWGyX5Gb-MnKo9uQu2fMDtyDvbNCNhSKRbbh6wqesigIU8BPXvAZeMxSRDui54dU8ll0DOAPSh",
+    "https://play-lh.googleusercontent.com/jFa0rd8mE1ptppRcamwKDbKJ1Avm1oG_vqFY_uZ7ibNQnVrkejSahdbq0zEXy0mUfkl4Sb1X8LmBZsnnYAv55A",
+    "https://play-lh.googleusercontent.com/6roAibr-PsUjmZDzlfXR8C58kSXvCrTeuSLjJkhi9NQk2FCEX_CUVKwH8XJPnCz9VK55JVHeXptYX_lpnKwiSA"
+  ],
+  "playstore": {
+    "categories": [
+      "Strategy"
+    ],
+    "score": 4.54,
+    "downloadCount": 3437
+  }
+}

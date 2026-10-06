@@ -1,0 +1,27 @@
+{
+  "id": "com.ChrisMcFarland.Tallowmere2",
+  "name": "Tallowmere 2",
+  "author": "Chris McFarland",
+  "description": "Curse of the Kittens",
+  "url": "https://play.google.com/store/apps/details?id=com.ChrisMcFarland.Tallowmere2",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/XO1BJ5L4RtVCDjvI7vrnPztYQtFSvAc282r7TlL_M-mPYuSno8NEbnjZ1jJmXtnoOZSr5NgBF8mFsHgnqwvn=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/kaMbS1CdyeWv3gNtiAPM_0ekqbOTvzC9CAwkr_1dLSkFOpyuAJHeJibQqXBuRKfbXAZeMR29KwVvzsDMqWBI",
+    "https://play-lh.googleusercontent.com/5JMWd-WB1Augx9zMNlMWtJCNARR8za8JJU9UWFFZ622t1sQRJvW491Y7EazK495me-mbHUo_Hw3RmT-Ty8aaNNk",
+    "https://play-lh.googleusercontent.com/Dwn5Sh4lYpe61EB7VzsifH19Z9Z38BZ0FZzLhEdVBVNUQ5kIx9N9DokmGEE7ZCiQYTjp_Sq2IChThDpxqGMQ"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Role Playing",
+      "Casual"
+    ],
+    "score": 4.3,
+    "downloadCount": 158135
+  }
+}

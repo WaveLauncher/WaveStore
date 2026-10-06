@@ -1,0 +1,25 @@
+{
+  "id": "com.atomrpg.trudograd_mobile",
+  "name": "Trudograd",
+  "author": "ATENT GAMES LTD",
+  "description": "Trudograd set by classic cRPGs such as the early Fallout and Wasteland titles.",
+  "url": "https://play.google.com/store/apps/details?id=com.atomrpg.trudograd_mobile",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/oHqHT_WkKETGohLXZVNxRewiWp80SFQdq9zuJXEmmpIIt8GiosttqzDdSf0G9JhU97Z12aW9iiWe2YecS_WXKw=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Mx9RPTZJcNlAU-nA4Z1Memg8xViDOwJopjVtKZUhmHj1NC1qPiN0G5-NoVap6Twfmkw8ipE8Wge5OSMSC74o",
+    "https://play-lh.googleusercontent.com/GvQ-82n5DatnRkshc6TlsuC5jSPcZ7cwTapI_FaMptS9mTha1nvUQscevLBGkgrtxSmgb18cDt2ZKK7cG2h3xg",
+    "https://play-lh.googleusercontent.com/m_zovPFKechnYv-f3hiqw97UNodBBE5_8-gqvmPBLDUt7AXYXKBlu_z6TPYg1YFJ6B2A4Tm3F4WIqkhrKRfSwA"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing"
+    ],
+    "score": 4.21,
+    "downloadCount": 4976
+  }
+}

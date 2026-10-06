@@ -1,0 +1,26 @@
+{
+  "id": "com.biggreenpillow.slashquest",
+  "name": "Slash Quest!",
+  "author": "Big Green Pillow",
+  "description": "A big talking sword adventure!",
+  "url": "https://play.google.com/store/apps/details?id=com.biggreenpillow.slashquest",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/VwKutrni2_ZxOGk12kaDGKbWXf0gPlfhzbxoVmfTNLyVZpjRJnAX89FF6fSBBuITapNlX-p7xQ1ZaS3FgpNAFk4=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/H0qoVt87gqkqzivYRi9t9po-hFES6tnIVrs9h3ggfnbXusTAXQNyPBe50UmuAeP0pZGN38NzXvJ9GZnHj9nK4g",
+    "https://play-lh.googleusercontent.com/EhzwnOEM_Qx5n5kfCinYbaLTmPfXN_fGjEKrjN72fUcQcZVpUFOoqHWlGBQVRYBtbQ78ClhbvKdhdxBSlLAy",
+    "https://play-lh.googleusercontent.com/vbNZdInFyWYebaepbnkxQihY50YxrEkweacFYVrHYcwWI_XkeC7KZ1Y4Hx8QelDYaJLOuRqgXXLTnlprQ1zc"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 3.86,
+    "downloadCount": 198397
+  }
+}

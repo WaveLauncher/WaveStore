@@ -1,0 +1,25 @@
+{
+  "id": "com.thylacinestudios.siralimultimate",
+  "name": "Siralim Ultimate",
+  "author": "Thylacine Studios, LLC",
+  "description": "Monster-catching, dungeon-crawling RPG with a ridiculous amount of depth.",
+  "url": "https://play.google.com/store/apps/details?id=com.thylacinestudios.siralimultimate",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/XnlGLBz_XIZQwzND1Ullh1Wj-3kkohCfoHxZsI5lyYxkMR5TIhKIlEO-b_2qChhf9XmuvvaBNEJRaaavf6IIig=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/LBGMLqLkKu3xqtgUR0cizWl8k7EbDqfOaZKseCB8l4zG5FnS6NgDfVAk1Z7wQNc-QRKjPTIWfG12j0eqtrSE",
+    "https://play-lh.googleusercontent.com/IuialvWYu6tBatBt8mo75UBvdfnXZ7J9d2YBKI8xCckXKT6ZDV6UtxveA7IuMTZHj23VKc17Cqh98ztcN1PVjA",
+    "https://play-lh.googleusercontent.com/H1qG2NNSJ-syZb0XOdxrhqUWBVCASIU0hVMQgo7XgeMPzMQgPi5H-qNp2eHmTxSH12vGlnEKHhutWolMFKz9uQ"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing"
+    ],
+    "score": 4.68,
+    "downloadCount": 38467
+  }
+}

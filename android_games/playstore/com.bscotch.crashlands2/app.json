@@ -1,0 +1,26 @@
+{
+  "id": "com.bscotch.crashlands2",
+  "name": "Crashlands 2",
+  "author": "Butterscotch Shenanigans",
+  "description": "Craft, explore, fish, farm, and more in this sequel to the hit game Crashlands!",
+  "url": "https://play.google.com/store/apps/details?id=com.bscotch.crashlands2",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/PXQx9spv7BW-1joBF9MC9WZ8Snu6K037AgxDcPmOfkDbOXK4g4Qg15hOwzCOJhiyKwJ5Xt5kgzq1KV2mCh4RAhs=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/9nte2AuTZziuhJp4Lc9Qh80f_ZqYgG48jhcG4UVqOll-M3pVA9PH5BKEKhY7tL7_npSNaI5yijYk3CNuiY5jL7I",
+    "https://play-lh.googleusercontent.com/wS7nAeCY6G0517BpwwMNuGvhtN5ziSLJlJFejTm2jx7SE7V3vtINTMgyivrQUcciFfw8MX5nFj9sYuRpdtblFoE",
+    "https://play-lh.googleusercontent.com/CqVpdJWTAslh7FigjJI99700KeVMb2z0OGiT7E9s3GlGkfmvm_703RdV4i6c6mwWIqGU12CbeKQpxSPdKTVmLg"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action"
+    ],
+    "score": 4.65,
+    "downloadCount": 125034
+  }
+}

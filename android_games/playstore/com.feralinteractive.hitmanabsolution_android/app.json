@@ -1,0 +1,25 @@
+{
+  "id": "com.feralinteractive.hitmanabsolution_android",
+  "name": "Hitman: Absolution",
+  "author": "Feral Interactive",
+  "description": "Plan. Adapt. Assassinate.",
+  "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.hitmanabsolution_android",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/sZ2vcnPx2dGILYDxX4e6VIFZq1lWdBvekVFSGphJa2Lnreo7ghXsaP11nIKq77Rl775JN6zgf7v9whOmKwpWMoY=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/qZcH3fQ64twfHzdEYvBCkVNsC-Mw4OM9boEtlhdzpv8grlBmnugija5ZdZ6aGAHPIf-DMvJOcG9JQh_Wt-pOdg",
+    "https://play-lh.googleusercontent.com/dkXgIzTFRqC87rSAUMGUumfBfJGrJoAxI1Re3xhx0WiNrL2n6IWCoB6LyElb5hb-oNH_GLGODbisBz1kEl-EiA",
+    "https://play-lh.googleusercontent.com/40vU_fh8JfFtE2kW-ZTxsAdNqfIvZgyda1MHljClt7SxouCdxQtrKTK8B5ireokvF_CT0eyufpdi_9jA1Ck4iQ"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 4.58,
+    "downloadCount": 62057
+  }
+}

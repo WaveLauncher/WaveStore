@@ -1,0 +1,26 @@
+{
+  "id": "com.aurogon.Afterimage",
+  "name": "Afterimage",
+  "author": "Beijing Wangyuanshengtang",
+  "description": "Afterimage is a hand-drawn 2D action adventure that emphasizes fast-paced combat",
+  "url": "https://play.google.com/store/apps/details?id=com.aurogon.Afterimage",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/TQcT0B9naZMOVU8R2Vjsty7tbzRaPCBJwOykDgS49WRJvwyIcnVh4S7BWt1aG5u883E-LTsqeZU0Rf9dJA35Cbk=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/XubsWziZ_8IjUck46ibQERcEEWQSXe1Lqr6h-JlHwhMa8AJ4x681G_kB0ncXpjYYGISIU_ANg8Ip3WT43XvW_DU",
+    "https://play-lh.googleusercontent.com/MiUGpKWDvWxk9DbjSlUwCu2X45LuT2GQtqL-mKHXgkwJfy_itajl56AtYjocbO7AD-ZryLaiGL7tJmLBIW-OnYw",
+    "https://play-lh.googleusercontent.com/rRveUGWe1uijHPLmalsRN1V-T0k87f7hbkdzvgjbaVKEezR51Pq24MK8MVtmefbJ9dDAz7d7KSS_YENgrbYfAg"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Role Playing"
+    ],
+    "score": 4.44,
+    "downloadCount": 15980
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "com.kleientertainment.doNotStarvePocket",
+  "name": "Don't Starve: Pocket Edition",
+  "author": "Klei Entertainment Inc.",
+  "description": "Play the hit game enjoyed by over 6 million players!",
+  "url": "https://play.google.com/store/apps/details?id=com.kleientertainment.doNotStarvePocket",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/IrvCStkqENOhEvgloqOfGOZ4_LDVyY_utLANW760iW4nS0WlAE7Tuxl0a3pJFQlo-xin43OC1iHr_-vunV-h=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/OctU8bB9u9N3QWFyULS2FH9fUcNXpTTGD5ALC0S0ZEqxDzO-ImeukqgIw7Ce8fcMB-DUyAN7XhFkMF5OC-Rr",
+    "https://play-lh.googleusercontent.com/qLgMkPMSp6MnZWoKcu-Qp_wlcA1p2s9fUWcu05WsDFlOKMEVm7Vmn9wWqKlHKNRfVsH-J5OAoCzVjB48XWoT",
+    "https://play-lh.googleusercontent.com/T6cvdU3DltGrLWR7A_0kuPZ_tM-5zzUcO6nTBb4K3dG3BTuyvlXQ03dltwk9Lbd0VUzA-kGaj2Db7D_moDaA"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action",
+      "Casual"
+    ],
+    "score": 4.23,
+    "downloadCount": 1285118
+  }
+}

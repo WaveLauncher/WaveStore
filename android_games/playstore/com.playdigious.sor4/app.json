@@ -1,0 +1,26 @@
+{
+  "id": "com.playdigious.sor4",
+  "name": "Streets of Rage 4",
+  "author": "Playdigious",
+  "description": "Punch your way through the Streets of Rage once again!",
+  "url": "https://play.google.com/store/apps/details?id=com.playdigious.sor4",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Arcade"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/fP7atrfDcPJVgFSuY5bmfx4kbvdu2-wfrwcJaHy4XZU5piyxYpKJaulXPXrWcv5DB3Mh-xF2QYI71xV7675g=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/cBB6zk5enYN2psrCQ-kxnjnpszuGHf615K8xjRclbsZUMlCQhdd3s8t0TYiJ4kUjPjTNaTpQE9miqV1PMAMlCg",
+    "https://play-lh.googleusercontent.com/oXgmCZ08QWEuhK7njdmYmUOi3rneej5y19UAkoyAz5EB-mKGIL2EwuEtN6_3ZkkHYhcVHY3U7Ub742JJ3UPNTg",
+    "https://play-lh.googleusercontent.com/UE87aMhCZp4XkdXx_-EGXDFtdRB2w6F_0Yt71jdzNEhGvCye5eHukHRlbZYLmTqEpAVvHLdHp2Jr10ER-hov"
+  ],
+  "playstore": {
+    "categories": [
+      "Arcade",
+      "Action"
+    ],
+    "score": 4.83,
+    "downloadCount": 266302
+  }
+}

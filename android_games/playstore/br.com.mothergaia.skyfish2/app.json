@@ -1,0 +1,25 @@
+{
+  "id": "br.com.mothergaia.skyfish2",
+  "name": "Legend of the Skyfish 2",
+  "author": "Mother Gaia Studio",
+  "description": "Journey with the last hero in this Open World Action RPG.",
+  "url": "https://play.google.com/store/apps/details?id=br.com.mothergaia.skyfish2",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/EbzOgxgbdQle5P5u5TNc2SrkINALSljnE2D2o_gPvkipTlfl3BJF3-MX21T2u8W0v247x2en0iDPd3skdY8A9Q=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/kasxzgupMNR6cXYYfDpiqPqNBX2HfjN82aeUpOotlDj0KsNR4PobYGVOUZK6tBfBgmHB8stqpF9rFV2N5vap",
+    "https://play-lh.googleusercontent.com/GCl9F4MznD2Br558usl2dn2TcVAL3a8lR0SDolWA10K2hAG3id3LNGrC3RpclyYXEeV8dyuYK54dtrScybqzIw",
+    "https://play-lh.googleusercontent.com/5RlybyPb5RBasXg1RjPoqwxyRjWHWJIyfhN-J8hbssPLPxLzx8WymGEcZgejP97zMYGZ0KXasbbQAXG36fGNNw"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing"
+    ],
+    "score": 4.61,
+    "downloadCount": 63256
+  }
+}

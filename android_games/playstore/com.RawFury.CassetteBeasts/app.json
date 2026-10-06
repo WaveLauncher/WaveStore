@@ -1,0 +1,25 @@
+{
+  "id": "com.RawFury.CassetteBeasts",
+  "name": "Cassette Beasts",
+  "author": "Raw Fury",
+  "description": "Using a unique Fusion System, combine any two beasts in this open-world RPG!",
+  "url": "https://play.google.com/store/apps/details?id=com.RawFury.CassetteBeasts",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/H2dvC8WfA1z3NHZav0nkn4vFiEwJZtHfx_cETI2IpMJ9W7B_M_kmGgjKawoTq9iNvZcmw5MLlgd2PnNCm2G1=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/xRjGAh-e3gCbXjzTTgE5YvfndkRLSY5xfwyVeWfWaTAdTnhzl4kr2fpaos7rTIIfsNo90rYHKIkR-0rzSWcDSg",
+    "https://play-lh.googleusercontent.com/m4Y5i0YiZPnEATrYWxqTw2oA76W6mNibbfxqxTcRHwJWZI9OKGfihBvZWdL9ZApAjy54UM7C_3JMnqKKjDo",
+    "https://play-lh.googleusercontent.com/xaYv2A04bdDNscy5ANc--USzfXt770swPs0KIGi7gYrhYbPWBUi4RNThDt7qsBfHKBPnNvI-XSe3qh2A8URiAw"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing"
+    ],
+    "score": 2.93,
+    "downloadCount": 149732
+  }
+}

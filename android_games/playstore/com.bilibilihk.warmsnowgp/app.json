@@ -1,0 +1,27 @@
+{
+  "id": "com.bilibilihk.warmsnowgp",
+  "name": "Warm Snow",
+  "author": "BILIBILI",
+  "description": "Chinese-style Dark-fantasy Roguelike Game",
+  "url": "https://play.google.com/store/apps/details?id=com.bilibilihk.warmsnowgp",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/k0lOKRcNlLjqGTOFQOPjKaE3WJv58i4z87c37zwpBMESvRHuQOBEYhayemq1TP2koi5nhFAO77V1E5-2Py6L=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/OI6VTPig6Sf_Mq-JHvB1Wkk_Omivy1gaGNLftMLDdB4OzSHxEGkB5vU86s9GGXco7gw-5MJQCMYVoSsQxilOH-8",
+    "https://play-lh.googleusercontent.com/FQ0nuZcb2xkbdMyR6tCXsgkVlYerkIyTsLFKbRtRwHYtjiwFhDV_VSioTmIZqJGD2jCU1uw2t1dT_ySM6FLX6lA",
+    "https://play-lh.googleusercontent.com/dXouqMJSGVwHyWhyCUnKOJiU7UoqjoHYnUdHJv3OH4gt11q8pOP1VYX1TArnR3k_RenGDU20B4TMAO7799O5"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Role Playing",
+      "Casual"
+    ],
+    "score": 3.61,
+    "downloadCount": 7025
+  }
+}

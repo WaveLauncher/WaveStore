@@ -1,0 +1,25 @@
+{
+  "id": "com.halls.of.torment.paid.gp",
+  "name": "Halls of Torment: Premium",
+  "author": "Erabit Studios",
+  "description": "13 Classes. 100+ Legendaries. 1,000+ Talent Paths.",
+  "url": "https://play.google.com/store/apps/details?id=com.halls.of.torment.paid.gp",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/hkiik1uhmoRC3ldQgcC8Evo2vv5DvdrxRDUG3vhbpXh4NPMzzZ_NQZ60C61nZGdQ4zAA1XJbjaIP3LLvpL5pdA=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/2fazkjXI-7mzRfbUoTuK2Px11Oks-PQPONYzDBABlS-JDV3F2vVqpflywyQDHeQgp1Xq3QUfIWpADDelwgvj8jA",
+    "https://play-lh.googleusercontent.com/btoS0hahHPQs-DfbyFXZl5YLIJG3eYQ7XV2hNNvcVmtFIjfmNxHaGEtLaVVt2BcwkJ1BmM2_-IqW8C61eUxMMA",
+    "https://play-lh.googleusercontent.com/3i6La3bD3QdfUHGu9uJwBiVIh0ZuW5ESz-wafzW00YfkSK0EXomq_o9RDVKex7wUo6oRBUEZ_1NnlcV-ThR4DQ"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing"
+    ],
+    "score": 4.72,
+    "downloadCount": 249895
+  }
+}

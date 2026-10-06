@@ -1,0 +1,26 @@
+{
+  "id": "com.the10tons.dysmantle",
+  "name": "DYSMANTLE",
+  "author": "10tons Ltd",
+  "description": "The open world action RPG where you ruin everything.",
+  "url": "https://play.google.com/store/apps/details?id=com.the10tons.dysmantle",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/gCLNdm1DZbh0sVoVnpEZTr1I1aE-vd1RVQ90JfN93GZnu-xFFXlIPLBIyLRkvOKkBPi3bRLPZMR-LcPwFWj-Xw=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/TTkW3ehR7fG2ReL76fTdNpKyr1yE_Zb5yV6iR5bYmz5JpNrBUttsbg-9t7ik4p_wj-9RtwlGheKJfuztxrbU",
+    "https://play-lh.googleusercontent.com/EzXhFk6qzrEhkOwxPnC0kor305DmvA84UA_o3KLdq5CCDZBrKN78LSOQFJ7xfGz_-FAXdU_ErNUNz3v0eeGCRA",
+    "https://play-lh.googleusercontent.com/OUXH9-FtDWOM12hRQeCduHby7uk2A3G3lAwzcconkzZb-S-4qlIfhJqrhhSWe0eSf7Db3CK3ZEvCByQYUFnoEw"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing",
+      "Action"
+    ],
+    "score": 4.32,
+    "downloadCount": 397674
+  }
+}

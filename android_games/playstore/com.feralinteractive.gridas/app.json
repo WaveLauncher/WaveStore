@@ -1,0 +1,25 @@
+{
+  "id": "com.feralinteractive.gridas",
+  "name": "GRID™ Autosport",
+  "author": "Feral Interactive",
+  "description": "Console-quality racing on Android.",
+  "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.gridas",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Racing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/sCVkZyzHYEFZGsOnUjtSavhNX1c8ojIEGuz7EYzKE7te1aMqKzIw4h8IWLTUbXfEx-fmIHOU-bY3SJDoT3I_ww=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/cLGz4sWCXB04zvpAdeSot3MuiZ8oSiYUReyaJh2lIhz4gF2bf0t8TyH3rPsve5AH6BC0FbcASiDoeJASdx77Ud0",
+    "https://play-lh.googleusercontent.com/JtGJtsyVu4BvbCe8EwQMoLlgyDv3GA5k4z-w9GSGdVUOmlvn_rcKI5i6KGvpA4bJMv7Cf7RzuKTrdwyuIZR4b8Q",
+    "https://play-lh.googleusercontent.com/0TdMV8EIEXOLzYRVi5k55eaAd5XuZZtSl2nxtjDZPug1TOwQvvsS4FFQZyds4xeXJIYagofO_iHbzt_mcCRSlgM"
+  ],
+  "playstore": {
+    "categories": [
+      "Racing"
+    ],
+    "score": 4.54,
+    "downloadCount": 583147
+  }
+}

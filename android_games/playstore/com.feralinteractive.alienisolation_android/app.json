@@ -10,12 +10,17 @@
     "Adventure"
   ],
   "icon": "https://play-lh.googleusercontent.com/OIkdDJUkbrbqltPhAfpd8H40n2cRJpnq5WERJhkBCoahk2YnPfocXASayTu813RAetZv8UwZlkSaWk3JdMLQXw=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/mTx6oYP5pkwqgDRxvStZ737EqlhElaMCSAtoRMYHg0Ha7KY1RTcglyatjx9FhUX8Wgr19kSwH26nN1mGbbD4wg",
+    "https://play-lh.googleusercontent.com/e1gO47O4o6OoLYf9_0pwTjoxqd6og85TOH8wcrU_XZiZLTACHcfuMd5G3BPAp0TrSgEk9kXkUTC5vj5Oqo0e3Nc",
+    "https://play-lh.googleusercontent.com/KOQ9FdElfD-5aYC35CPcxDDspuYsopgl2Oo6CAPZg36Iv9t92N1YYcXk2kDpwrZ_Ku2NxdnnRLc-dfX1y26hIg"
+  ],
   "playstore": {
     "categories": [
       "Adventure",
       "Action"
     ],
     "score": 4.02,
-    "downloadCount": 831934
+    "downloadCount": 832023
   }
 }

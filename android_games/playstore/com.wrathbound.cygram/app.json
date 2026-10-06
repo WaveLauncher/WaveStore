@@ -1,0 +1,25 @@
+{
+  "id": "com.wrathbound.cygram",
+  "name": "CYGRAM - Sci-Fi Racing",
+  "author": "Wrathbound Interactive",
+  "description": "Fast, skill-based racing - Pilot high-speed Drones on epic space tracks!",
+  "url": "https://play.google.com/store/apps/details?id=com.wrathbound.cygram",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Racing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/KtIDv6tfdGbrLA_SBOnJVmYe78qXmKemfDgM0svfc3DUEsyvEN4XyRCTdRuhhd5TulPvsYWP1NgcnpikQPXMOA=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/rK15r2L8J3tX1IZxBrVnHxhpjf-wqwMufcmlZDaeH9m7AW4sG2ZKnkuEP6fDFF92S_AHYAGgX6ooPXqX1TRzNQ",
+    "https://play-lh.googleusercontent.com/5evJFagljfFYei7UHlPU2ysRBoGyzeWMiA5QFgUkxcOq8112Df9KvQgMegu9E0akkpepCVLiOnv5wssmfdTVUg",
+    "https://play-lh.googleusercontent.com/WDm9WfoVgfBU7GyHc0JlJ9qpN3tZMSqVyKnJF2DCagFHk0xOrEJPZwsia_CRpVBmCuReiPvBmcVBzeYHKUZOlmM"
+  ],
+  "playstore": {
+    "categories": [
+      "Racing"
+    ],
+    "score": 3.85,
+    "downloadCount": 322655
+  }
+}

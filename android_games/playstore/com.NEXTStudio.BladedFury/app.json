@@ -1,0 +1,26 @@
+{
+  "id": "com.NEXTStudio.BladedFury",
+  "name": "Bladed Fury",
+  "author": "PM Studios",
+  "description": "An action game set in the Ancient China, with unique Chinese traditional design.",
+  "url": "https://play.google.com/store/apps/details?id=com.NEXTStudio.BladedFury",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/mQXkrZNWQJrYuN1KGI4HfhGelfG4z0WqBtGqVZgIj-M6VUd-azOOarKMfiZ7DYlztFQ6_-Q8NEVe2KR_JxLZVA=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/vqMFynmG_sAqzKdB8RBPbWme1LX_kueKNse-UBZFtuBiLSpnwPHaRAdQGBEwx95hAfxl5lsAKIOJiSIun9GBCCk",
+    "https://play-lh.googleusercontent.com/H3LAa01Q0-z8rybCo0hvIgx4U9LSoRmt3O_1FV4M3kPUkv-udcEWstXLaCs1ScjknZ5-K8_IphmXZVX-whAu20c",
+    "https://play-lh.googleusercontent.com/1pM5z7XfXrrIBqbgOS6utiOpc7CMdcgXy7OqIsyvh7FtNCsUNIGUqDnOj0J7pt3x6Qv6S5RFCYpBxRIuaTVo"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 4.32,
+    "downloadCount": 1501
+  }
+}

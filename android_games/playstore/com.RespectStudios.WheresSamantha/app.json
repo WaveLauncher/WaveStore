@@ -1,0 +1,27 @@
+{
+  "id": "com.RespectStudios.WheresSamantha",
+  "name": "Where's Samantha?",
+  "author": "ROKiT",
+  "description": "Help George as he searches for his lost love Samantha.",
+  "url": "https://play.google.com/store/apps/details?id=com.RespectStudios.WheresSamantha",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/ulWSqlMepH6Opxv64INomKGSMgXRyl71lBOx_ow1TrKAx_ThBK0yeXkH_a-EOLM9u9tUa653OJDus2BVXqb9Irk=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/rPmaAWjVj8dyTCaNOQA9dIKfj28AZILYcTUjMbXG-FWe0MqQoGf_3Hn7HrPU7b1tU-qrhhiwYvBNcu2A1SX_",
+    "https://play-lh.googleusercontent.com/1IYGoVw3b_Q6uyTz9quRWdW9AKl3jqEW_2YbpQwFCoN02bY8F1axUNX3z13zddeDJuZpEmNVnaf-uNxt4M1V",
+    "https://play-lh.googleusercontent.com/yOPlVkDsnuZGo6kprG4bcWx6XeFkOy-bB2EFKzwcP0nTYbei4NCtxH6tIzm_P7MqjUOIRMjFTuhzcG3Oz87X"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action",
+      "Casual"
+    ],
+    "score": 3.97,
+    "downloadCount": 1066879
+  }
+}

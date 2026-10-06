@@ -1,0 +1,25 @@
+{
+  "id": "com.the10tons.teslaforce",
+  "name": "Tesla Force",
+  "author": "10tons Ltd",
+  "description": "Fight Eldritch horrors with Tesla, Curie, Shelley and Lovecraft",
+  "url": "https://play.google.com/store/apps/details?id=com.the10tons.teslaforce",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/8VSCGrM6tmeqxsXOJXH-M30s-w9UkVLG9XAxrpjj8L6y-NrB6JErh6C2Xxe84a_HuP5iFdK5ZxoC4W6E_QAwHw=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/0gDqi3xqLzFOzw-NDVaar5pOmIc_OQ8YRen9lHxlF9ldTlOHw-Q7N6ch3II-ya4wWzlqqTBlwL41m4vXYPCGQw",
+    "https://play-lh.googleusercontent.com/Syjgck7irDBJDANHTU8LGBi-aTWoDCL4C952JbOrnfaHORypG6wOJB-8BXYw1Idx7vPLpqGfrwBL3a8weEa7FQ",
+    "https://play-lh.googleusercontent.com/OJy8LIy6uKjd9FAk3BI6e8dyPPO4kMrf0kIt0ncqJ3YruH5fInJqYR1ML5ZS8q9VaMtW9O_QPgH7Sb348bA2ww"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 4.5,
+    "downloadCount": 1984
+  }
+}

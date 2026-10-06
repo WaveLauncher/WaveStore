@@ -1,0 +1,25 @@
+{
+  "id": "com.playdigious.whitenight",
+  "name": "White Night",
+  "author": "Playdigious",
+  "description": "Explore the past of an old mansion in this black & white survival horror.",
+  "url": "https://play.google.com/store/apps/details?id=com.playdigious.whitenight",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/zD7v_8rYIKXucfd2eodnHbJ-0eL9Jo0yXH6tIEcqeeAP3VsQHJkzayPoteQZNxDk0SfUHtAZqUUGFP1QWbU0-w=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/fZaA51nF__xQqhjpYLfpr8XWCm4FCLs04-2Mb509SeXOTW7-eAMZhm65gUhIQbKP2RJg0HruL_6mlQpfJqza9JA",
+    "https://play-lh.googleusercontent.com/gl_LBWW1NQaYnh2NoGwCXQBuEu3BVXOvnVIZv-uOEERYEC11o-dF3PP0HSX8V7yMA78bJMDkNBVP6slxREXx",
+    "https://play-lh.googleusercontent.com/-IUWXBsqaZvTf5nq3mMPNw7ng0JgwyQyuN3Yv7FFd60EfRI2Oj8Z5alzoFU5-1qQr1FnBpFJMPASyVFs4613"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure"
+    ],
+    "score": 3.15,
+    "downloadCount": 15150
+  }
+}

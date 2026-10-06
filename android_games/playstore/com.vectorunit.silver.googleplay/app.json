@@ -1,0 +1,26 @@
+{
+  "id": "com.vectorunit.silver.googleplay",
+  "name": "Riptide GP: Renegade",
+  "author": "Vector Unit",
+  "description": "Race rocket powered hydrojets through futuristic cities and waterparks.",
+  "url": "https://play.google.com/store/apps/details?id=com.vectorunit.silver.googleplay",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Racing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/_ExrGf-uLiNVVVZv0lOvZVtCENniuNYZ54d0GepuKTjTLQ9gfTI3ejExSI1kqDTmmBnU3Nu1aDLC47rFghyoMw=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/blUfgXCUoT5QbgKFnP37DxGHP_gnnhlu7nkiRw7UBza617vNRGz2tiycRx14-JCzsnNFdRRlmo98neLyvn8vrw",
+    "https://play-lh.googleusercontent.com/E8oJCCefb_-uupVdxAe5a_WzRS0dQ4cGk1jMiwUO1zy8mzNiAxWAlrOdS1uEOKcPiTFeB-GpB5aaZhvpkw906To",
+    "https://play-lh.googleusercontent.com/tqQKK4yQ5uoZO7iH6upjIzw5W67PWUcrPDdDWC_0CuQkZoCJK7LQgmKKjLGo_WCIYyyGCAIl94Mgnb7Fe8Dwow"
+  ],
+  "playstore": {
+    "categories": [
+      "Racing",
+      "Casual"
+    ],
+    "score": 4.53,
+    "downloadCount": 763285
+  }
+}

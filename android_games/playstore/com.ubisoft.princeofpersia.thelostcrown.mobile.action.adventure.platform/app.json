@@ -1,0 +1,26 @@
+{
+  "id": "com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform",
+  "name": "Prince of Persia: Lost Crown",
+  "author": "Ubisoft Entertainment",
+  "description": "Explore a mythic platformer!",
+  "url": "https://play.google.com/store/apps/details?id=com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/5JsI6SAmcwoIeQlJhQUHN45me7StE67dRW90AB3O6M7mdiCoPD-Rl30frqAsSItJEfehTHPBmR4rzJBvdOhhzVs=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Nc6V3kTjzcVenQ2-OdTksRBG2Xu56UHNQ11mKBDAObSwF_tvbcfOqGnOJYVTo-A3WwZZ1FZnHFpteGyH_qqpFw",
+    "https://play-lh.googleusercontent.com/x-pMxO_R3ZwKDZqFt_kPbjiHU_EzT7m63svFselg2xnBL4N0f9CXDMSKRw4GYpXAUYYVASSqrYVlWZZGUx3U7Q",
+    "https://play-lh.googleusercontent.com/ywBAXZ8w_N8TR2G2nDx8GeW4-R6CwKlUNo3kmW_yu8Kj311D2Pw6XuxQdNNjjYbTktF2297p9xR8M5AZyW6P"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action"
+    ],
+    "score": 4.4,
+    "downloadCount": 1875222
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "com.cowcat.brok",
+  "name": "BROK the InvestiGator",
+  "author": "Breton Fabrice",
+  "description": "A story-rich detective RPG mixing visual novel adventure with action combat!",
+  "url": "https://play.google.com/store/apps/details?id=com.cowcat.brok",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/VtVly9S5-2m99hXD603ZuYifut-m7Iqar62utBOb-OnMZvuTXR5PV2hRMlpDwgP6z6GS52BrbsLROZAuT3a4PCM=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/pI1GYKB7p2zcyz7p2oVfovqYt6994eeGJ9ETkKbL7FhmKYvE7MKOGi-5YEx7n_A91XfjLFH085WW18bUedUDsA",
+    "https://play-lh.googleusercontent.com/CSJTtViWuNZy0J_w8_PJD8tqRDN7N53gEg5_5JafeajhLlx5eBbAGB20HdgpIiNzdNwKkCTjFFVi2uuxN9LU3A",
+    "https://play-lh.googleusercontent.com/hHBnEabBbdvds0VtsJlRoTH5OeOjPnW6KO1ktsuL0TFHhDDErcJ0y0wggJIkO1-QGQLnLv7bnGlndQ_iTELmAQ"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Casual"
+    ],
+    "score": 4.65,
+    "downloadCount": 121279
+  }
+}

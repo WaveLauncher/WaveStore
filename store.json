@@ -1,12 +1,39 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-05T19:12:10Z",
+  "generatedAt": "2026-10-06T19:25:44Z",
   "counts": {
-    "apps": 51,
-    "games": 28
+    "apps": 52,
+    "games": 134
   },
   "featured": {
     "apps": [
+      {
+        "id": "com.nanodata.armsx",
+        "name": "ARMSX1",
+        "author": "ARMSX2",
+        "url": "https://github.com/ARMSX2/ARMSX1",
+        "source": "GitHub",
+        "free": true,
+        "categories": [
+          "Emulator"
+        ],
+        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.nanodata.armsx/icon.png",
+        "screenshots": []
+      },
+      {
+        "id": "gamehub.lite",
+        "name": "GameHub Lite",
+        "author": "Producdevity",
+        "description": "Windows game launcher for Android",
+        "url": "https://github.com/Producdevity/gamehub-lite",
+        "source": "GitHub",
+        "free": true,
+        "categories": [
+          "PC Emulation"
+        ],
+        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/gamehub.lite/icon.png",
+        "screenshots": []
+      },
       {
         "id": "org.vita3k.emulator",
         "name": "Vita3K",
@@ -18,54 +45,86 @@
         "categories": [
           "Emulator"
         ],
-        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.vita3k.emulator/icon.png"
-      },
-      {
-        "id": "com.armsx3",
-        "name": "ARMSX3",
-        "author": "ARMSX2",
-        "url": "https://github.com/ARMSX2/ARMSX3",
-        "source": "GitHub",
-        "free": true,
-        "categories": [
-          "Emulator"
-        ],
-        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.armsx3/icon.png"
-      },
-      {
-        "id": "me.magnum.melonds.nightly",
-        "name": "MelonDS Nightly",
-        "author": "rafaelvcaetano",
-        "description": "Nintendo DS emulator (nightly builds)",
-        "url": "https://github.com/rafaelvcaetano/melonDS-android",
-        "source": "GitHub",
-        "free": true,
-        "categories": [
-          "Emulator"
-        ],
-        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melonds.nightly/icon.png"
+        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.vita3k.emulator/icon.png",
+        "screenshots": []
       }
     ],
     "games": [
       {
-        "id": "com.unknownworlds.subnautica",
-        "name": "Subnautica",
-        "author": "Unknown Worlds",
-        "description": "Survive in an underwater open-world",
-        "url": "https://play.google.com/store/apps/details?id=com.unknownworlds.subnautica",
+        "id": "com.storeriderprod.labyrinthecity",
+        "name": "Labyrinth City",
+        "author": "StoreRider",
+        "description": "Explore museums and cityscapes to collect stars along the way!",
+        "url": "https://play.google.com/store/apps/details?id=com.storeriderprod.labyrinthecity",
         "source": "PlayStore",
-        "free": false,
+        "free": true,
         "categories": [
-          "Adventure"
+          "Casual"
         ],
-        "icon": "https://play-lh.googleusercontent.com/Xq4IS6QkS4KFSY4aCSTYFYD_hj9lceaQXA_34LHW-1yOsv3pjjtknz6ehoBz7KxsI7Faijty6iwMc-KFEiwddw=s512",
+        "icon": "https://play-lh.googleusercontent.com/bLx99pGChMaSCGz8UEqb1vElLjhzkbcsGUM3ZOkC6Zpg0A1Ktr1Zn0XG0a6MQPZpDo96FLwvo0SV5lcLCQLihQ=s512",
+        "screenshots": [
+          "https://play-lh.googleusercontent.com/KrfxMHUk4_gqMDD3FkTdnmSrr5ZsF5_0TUc8L5OpIx8XZB9CXsuuwwuNENxMuN4cLa1anrdMYDIEhZvhCccx6g",
+          "https://play-lh.googleusercontent.com/kBRTWEAs526AhaauIY7_qJZ46UXSNq4pdqPTLDOe4CSIkxGgIWfkV7dHKl7w6HIMtORojpZNKe0hTG6QbEW-dg",
+          "https://play-lh.googleusercontent.com/lWUR6aucT9aW6Fk4VM1iXz78No3JzvfnbAqJPNA5ALojwPxxUa71Tp9etrWopG0XfXh8wDdXteZGpwpiNQT5afU"
+        ],
         "playstore": {
           "categories": [
-            "Adventure",
+            "Casual",
+            "Adventure"
+          ],
+          "score": 4.48,
+          "downloadCount": 93075
+        }
+      },
+      {
+        "id": "com.subsoap.fsr",
+        "name": "Faerie Solitaire Remastered",
+        "author": "Subsoap.com",
+        "description": "Enjoy the magic and fun of Faerie Solitaire in fully remade form!",
+        "url": "https://play.google.com/store/apps/details?id=com.subsoap.fsr",
+        "source": "PlayStore",
+        "free": true,
+        "categories": [
+          "Card"
+        ],
+        "icon": "https://play-lh.googleusercontent.com/BnMg41nBKINEHIcoBmR6xpM0Hae0PMFbBMtMNUjn0kJulIPD-nvYmWrEIDc6zkxPUKwUcDXIUavMiinU3KES=s512",
+        "screenshots": [
+          "https://play-lh.googleusercontent.com/z8QfjqVxmON7pndQaanm8XsN1Xr8ZqTH7M20L265IDSfPXEeLTqAzO1ykpueqABQZCcNXATQKrcvf4GyRlQ91A",
+          "https://play-lh.googleusercontent.com/xjxtHp1wJ20ZJ-MSyvZFRSSf41CqhD3IqCiyxhPGBpcMKwdUx9CcOZ2CibCU6hThkLD_bHwtz2Ni7IBN9ASdEw",
+          "https://play-lh.googleusercontent.com/QAUXkuO1-K318yFjI0wvcU5ds1yfcyz6UtRR16pPBNn1VjpAr-tAC4FeKWvnDyd5kuZfUI_u7rTE6dtEqr56pg"
+        ],
+        "playstore": {
+          "categories": [
+            "Card",
+            "Casual"
+          ],
+          "score": 4.67,
+          "downloadCount": 9213
+        }
+      },
+      {
+        "id": "com.feralinteractive.laracroftgol_android",
+        "name": "Lara Croft: Guardian of Light",
+        "author": "Feral Interactive",
+        "description": "Play the first two levels, the unlock the full game via in-app purchase.",
+        "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.laracroftgol_android",
+        "source": "PlayStore",
+        "free": true,
+        "categories": [
+          "Action"
+        ],
+        "icon": "https://play-lh.googleusercontent.com/wJHaKvTTIdQJEWPaN4DeBhhzyPFiujEW0HNCvTugzCPPjCzHX9LD119zVoGbcD9q0L5cc3mlFyWZscaU7OHOCg=s512",
+        "screenshots": [
+          "https://play-lh.googleusercontent.com/Pbttd0OuvUNEFltWNOaedeWzT4P_-1EcP4W0tSKBrib0X8NrzqmsgCklfPBlmmy2cZCA0IOQvMNwoF5J8WHEZhU",
+          "https://play-lh.googleusercontent.com/Hbq3DKW511q_ipei9BxF4W70OotL8vb-zb-HyGzqXTqG9ExgdLn9AbokIwTdv4BZJKOMnMKK05OrYBmwvqJ1mK8",
+          "https://play-lh.googleusercontent.com/h4Dgfj26ag4fRXISJJ0zsktuQCv2R_oZ4ZEKmdIuGSZb9z2KXoytfDGq0-eXgaSlvmHBXY5T5MrHlxMrubDOqw"
+        ],
+        "playstore": {
+          "categories": [
             "Action"
           ],
-          "score": 4.55,
-          "downloadCount": 259397
+          "score": 4.44,
+          "downloadCount": 338327
         }
       }
     ]
@@ -82,7 +141,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/aenu.aps3e/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/aenu.aps3e/icon.png",
+      "screenshots": []
     },
     {
       "id": "app.gamenative",
@@ -95,7 +155,8 @@
       "categories": [
         "PC Emulation"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/app.gamenative/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/app.gamenative/icon.png",
+      "screenshots": []
     },
     {
       "id": "app.nanostack.pixelguide",
@@ -108,7 +169,8 @@
       "categories": [
         "Utilities"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/app.nanostack.pixelguide/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/app.nanostack.pixelguide/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.armsx2",
@@ -121,7 +183,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": null
+      "icon": null,
+      "screenshots": []
     },
     {
       "id": "com.armsx3",
@@ -133,7 +196,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.armsx3/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.armsx3/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.aure.clustertune",
@@ -145,7 +209,8 @@
       "categories": [
         "Utilities"
       ],
-      "icon": null
+      "icon": null,
+      "screenshots": []
     },
     {
       "id": "com.flycast.emulator",
@@ -158,7 +223,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.flycast.emulator/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.flycast.emulator/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.github.catfriend1.syncthingfork",
@@ -171,7 +237,8 @@
       "categories": [
         "Utilities"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.github.catfriend1.syncthingfork/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.github.catfriend1.syncthingfork/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.github.stenzek.duckstation",
@@ -184,7 +251,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/com.github.stenzek.duckstation/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/com.github.stenzek.duckstation/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.izzy2lost.x1box",
@@ -196,7 +264,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.izzy2lost.x1box/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.izzy2lost.x1box/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.kei.pulse",
@@ -208,7 +277,8 @@
       "categories": [
         "Utilities"
       ],
-      "icon": null
+      "icon": null,
+      "screenshots": []
     },
     {
       "id": "com.limelight",
@@ -221,7 +291,8 @@
       "categories": [
         "Streaming"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.limelight/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.limelight/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.limelight.noir",
@@ -234,7 +305,8 @@
       "categories": [
         "Streaming"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.limelight.noir/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.limelight.noir/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.med.sleepmanager",
@@ -246,7 +318,8 @@
       "categories": [
         "Utilities"
       ],
-      "icon": null
+      "icon": null,
+      "screenshots": []
     },
     {
       "id": "com.moonbench.bifrost",
@@ -259,7 +332,8 @@
       "categories": [
         "Utilities"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.moonbench.bifrost/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.moonbench.bifrost/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.nanodata.armsx",
@@ -271,7 +345,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.nanodata.armsx/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.nanodata.armsx/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.producdevity.emureadylite",
@@ -284,7 +359,8 @@
       "categories": [
         "Utilities"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.producdevity.emureadylite/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.producdevity.emureadylite/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.quantumsoul.esde_android",
@@ -297,7 +373,8 @@
       "categories": [
         "Utilities"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.quantumsoul.esde_android/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.quantumsoul.esde_android/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.raofflineproxy",
@@ -309,7 +386,8 @@
       "categories": [
         "Utilities"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.raofflineproxy/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.raofflineproxy/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.retroarch.aarch64",
@@ -322,7 +400,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/com.retroarch.aarch64/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/com.retroarch.aarch64/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.rfandango.haku_x",
@@ -334,7 +413,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.rfandango.haku_x/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.rfandango.haku_x/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.virtualapplications.play",
@@ -347,7 +427,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/com.virtualapplications.play/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/com.virtualapplications.play/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.winlator",
@@ -360,7 +441,8 @@
       "categories": [
         "PC Emulation"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.winlator/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.winlator/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.winlator.cmod",
@@ -373,7 +455,8 @@
       "categories": [
         "PC Emulation"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.winlator.cmod/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.winlator.cmod/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.winlator.ludashi",
@@ -386,7 +469,8 @@
       "categories": [
         "PC Emulation"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.winlator.ludashi/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.winlator.ludashi/icon.png",
+      "screenshots": []
     },
     {
       "id": "de.langerhans.odintools",
@@ -399,7 +483,8 @@
       "categories": [
         "Utilities"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/de.langerhans.odintools/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/de.langerhans.odintools/icon.png",
+      "screenshots": []
     },
     {
       "id": "dev.eden.eden_emulator",
@@ -412,7 +497,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": null
+      "icon": null,
+      "screenshots": []
     },
     {
       "id": "emu.x360mobile.com",
@@ -424,7 +510,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/emu.x360mobile.com/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/emu.x360mobile.com/icon.png",
+      "screenshots": []
     },
     {
       "id": "gamehub.lite",
@@ -437,7 +524,8 @@
       "categories": [
         "PC Emulation"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/gamehub.lite/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/gamehub.lite/icon.png",
+      "screenshots": []
     },
     {
       "id": "info.cemu.cemu",
@@ -450,7 +538,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/info.cemu.cemu/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/info.cemu.cemu/icon.png",
+      "screenshots": []
     },
     {
       "id": "io.github.gopher64.gopher64",
@@ -462,7 +551,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.github.gopher64.gopher64/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.github.gopher64.gopher64/icon.png",
+      "screenshots": []
     },
     {
       "id": "io.navivani.swiff",
@@ -474,7 +564,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.navivani.swiff/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.navivani.swiff/icon.png",
+      "screenshots": []
     },
     {
       "id": "io.wip.pico8",
@@ -487,7 +578,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.wip.pico8/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.wip.pico8/icon.png",
+      "screenshots": []
     },
     {
       "id": "it.ottaviomiele.chd",
@@ -500,7 +592,8 @@
       "categories": [
         "Utilities"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/it.ottaviomiele.chd/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/it.ottaviomiele.chd/icon.png",
+      "screenshots": []
     },
     {
       "id": "local.nova.diagnostic",
@@ -512,7 +605,8 @@
       "categories": [
         "Utilities"
       ],
-      "icon": null
+      "icon": null,
+      "screenshots": []
     },
     {
       "id": "me.magnum.melonds",
@@ -525,7 +619,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melonds/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melonds/icon.png",
+      "screenshots": []
     },
     {
       "id": "me.magnum.melonds.nightly",
@@ -538,7 +633,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melonds.nightly/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melonds.nightly/icon.png",
+      "screenshots": []
     },
     {
       "id": "me.magnum.melondualds",
@@ -551,7 +647,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melondualds/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melondualds/icon.png",
+      "screenshots": []
     },
     {
       "id": "net.rpcsx",
@@ -564,7 +661,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/net.rpcsx/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/net.rpcsx/icon.png",
+      "screenshots": []
     },
     {
       "id": "org.azahar_emu.azahar",
@@ -577,7 +675,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": null
+      "icon": null,
+      "screenshots": []
     },
     {
       "id": "org.citra.emu",
@@ -590,7 +689,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.citra.emu/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.citra.emu/icon.png",
+      "screenshots": []
     },
     {
       "id": "org.citron.citron_emu",
@@ -602,7 +702,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": null
+      "icon": null,
+      "screenshots": []
     },
     {
       "id": "org.dolphinemu.dolphinemu",
@@ -615,7 +716,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/org.dolphinemu.dolphinemu/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/org.dolphinemu.dolphinemu/icon.png",
+      "screenshots": []
     },
     {
       "id": "org.force9.starboard",
@@ -628,7 +730,22 @@
       "categories": [
         "PC Emulation"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.force9.starboard/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.force9.starboard/icon.png",
+      "screenshots": []
+    },
+    {
+      "id": "org.pkforge.app",
+      "name": "PKForge",
+      "author": "sofianeelhor",
+      "description": "Pokémon save editor and bank for Android",
+      "url": "https://github.com/sofianeelhor/PKForge",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Utilities"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.pkforge.app/icon.png",
+      "screenshots": []
     },
     {
       "id": "org.ppsspp.ppsspp",
@@ -641,7 +758,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/org.ppsspp.ppsspp/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/org.ppsspp.ppsspp/icon.png",
+      "screenshots": []
     },
     {
       "id": "org.scummvm.scummvm",
@@ -654,7 +772,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/org.scummvm.scummvm/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/org.scummvm.scummvm/icon.png",
+      "screenshots": []
     },
     {
       "id": "org.vita3k.emulator",
@@ -667,7 +786,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.vita3k.emulator/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.vita3k.emulator/icon.png",
+      "screenshots": []
     },
     {
       "id": "pup.app.mimir",
@@ -679,7 +799,8 @@
       "categories": [
         "Utilities"
       ],
-      "icon": null
+      "icon": null,
+      "screenshots": []
     },
     {
       "id": "xendroid.compose",
@@ -691,7 +812,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xendroid.compose/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xendroid.compose/icon.png",
+      "screenshots": []
     },
     {
       "id": "xyz.aethersx2.android",
@@ -704,7 +826,8 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xyz.aethersx2.android/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xyz.aethersx2.android/icon.png",
+      "screenshots": []
     },
     {
       "id": "xyz.aethersx2.tturnip",
@@ -716,10 +839,114 @@
       "categories": [
         "Emulator"
       ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xyz.aethersx2.tturnip/icon.png"
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xyz.aethersx2.tturnip/icon.png",
+      "screenshots": []
     }
   ],
   "games": [
+    {
+      "id": "air.com.distractionware.vvvvvvmobile",
+      "name": "VVVVVV",
+      "author": "Terry Cavanagh",
+      "description": "Flip gravity and save the universe! From the creator of Super Hexagon.",
+      "url": "https://play.google.com/store/apps/details?id=air.com.distractionware.vvvvvvmobile",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/tC3qlJ-YhZPFI3B4aoSWOLwcsoYzlpch1eCLBfYpmMKjlACk2XT1P6zP-lfhR0SK3_lijuRzVjm4TJbOlNzhwA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Cep3o1dhn-OtWOgJhlZmjzBbpOrcKxoQrq2m-l0J-XWOB1NxsPYsmkPhW-WTZwJEDdQ0VVUazeWauyFpv84V",
+        "https://play-lh.googleusercontent.com/5zhNuV-6fbXfEmxAOPuhU64Y3J4GRLilaTJtYm8yqrQf-i3e-UwHOpdSoXaz8HE3MvyOg_rWpYiKIdsEPUBWhg",
+        "https://play-lh.googleusercontent.com/FTnUOfE_5GqxwE29MvN5L5emLRcpxXaO-Kg3G3scANe8NBPoKpoKiqY1-s0ZOsVklqVxCskrM0L5wsn4ymDfHw"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 4.41,
+        "downloadCount": 37070
+      }
+    },
+    {
+      "id": "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
+      "name": "Brawlhalla",
+      "author": "Ubisoft Entertainment",
+      "description": "Smash, brawl & fight among the legends of Valhalla in this multiplayer game!",
+      "url": "https://play.google.com/store/apps/details?id=air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/gVm2lQH2WRAggy2ts3tkEmXmdQGHxN4vAcYE4xnW5Vo1f2_ScIgtFeRDRIvRM5tNZ0H3dBnx8nzCkbKQqu6KHg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/x67paSLqWhGM_n1o4W5jamxiDDr6p5adFHpx8qy8WQZ0_DD-QEYt6tKQRIAKYWyztTqI8TtS0gPkwpZtJVDQhw",
+        "https://play-lh.googleusercontent.com/QxzddUhcvVHZ7K7zsutUeWM3urIeuVaFPY3J_h7kqXFsdEHVtDVe1W_zOJk3iRWdnrprNH733CFnlPKPl-kO",
+        "https://play-lh.googleusercontent.com/zbE7hq5vS1Enj9hAHCASfLCCyaZiuxy_XuACq3fAPUHFpsB35CClVsw_aLGfkdPZIUlsdnBjx90EZR_0vfPHIg"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 4.4,
+        "downloadCount": 27210292
+      }
+    },
+    {
+      "id": "air.net.machinarium.Machinarium.GP",
+      "name": "Machinarium",
+      "author": "Amanita Design",
+      "description": "Robot city adventure",
+      "url": "https://play.google.com/store/apps/details?id=air.net.machinarium.Machinarium.GP",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/sHPCWeeVOoZUTfNUVlu-9n_DFHKBP39X0lu_jTQYQ87sKZVnytHJHmZ3_rGaXtlNnWGnmV0kr9mTHhqUvrFZ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/lRaxb8HvOOvB-VNNfOwP4TAtgsDjf3WZpBslZeFW-BnZBLX7RHeq0e_hP-t8PmgZZR6aXoKz4RQLWgYZ_uvOXA",
+        "https://play-lh.googleusercontent.com/oWA7bmVtEthGV2GFaXXssbDx2kMNjB-vPodYgh20nEYEyVZQTV65bX1YuzbBz_B8UriXNjGxyPgRsgZ7vWFYocs",
+        "https://play-lh.googleusercontent.com/5D6tvEvk8G3sDM_w-YFMy3zgb3QZfpXCitGO9GidY96_EVFXt1HA2aHQ_3co28yibO8ooDCp50kzFrtmYrkD"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Casual"
+        ],
+        "score": 4.0,
+        "downloadCount": 1331742
+      }
+    },
+    {
+      "id": "br.com.mothergaia.skyfish2",
+      "name": "Legend of the Skyfish 2",
+      "author": "Mother Gaia Studio",
+      "description": "Journey with the last hero in this Open World Action RPG.",
+      "url": "https://play.google.com/store/apps/details?id=br.com.mothergaia.skyfish2",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/EbzOgxgbdQle5P5u5TNc2SrkINALSljnE2D2o_gPvkipTlfl3BJF3-MX21T2u8W0v247x2en0iDPd3skdY8A9Q=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/kasxzgupMNR6cXYYfDpiqPqNBX2HfjN82aeUpOotlDj0KsNR4PobYGVOUZK6tBfBgmHB8stqpF9rFV2N5vap",
+        "https://play-lh.googleusercontent.com/GCl9F4MznD2Br558usl2dn2TcVAL3a8lR0SDolWA10K2hAG3id3LNGrC3RpclyYXEeV8dyuYK54dtrScybqzIw",
+        "https://play-lh.googleusercontent.com/5RlybyPb5RBasXg1RjPoqwxyRjWHWJIyfhN-J8hbssPLPxLzx8WymGEcZgejP97zMYGZ0KXasbbQAXG36fGNNw"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing"
+        ],
+        "score": 4.61,
+        "downloadCount": 63256
+      }
+    },
     {
       "id": "brownmonster.app.game.rushrally2",
       "name": "Rush Rally 2",
@@ -732,12 +959,95 @@
         "Racing"
       ],
       "icon": "https://play-lh.googleusercontent.com/kTK3PqnxmZAhrokh_OHaMcXoDG6EO1wAF4fG8XXqCUyCb7T0pgogwQED_S3Gwsyu23SXr2rk1GgMpAndiuA7=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/UCkG8COMYzar9VPcWP3wXKioaj24ENpm_DcaFXqJygKr2JvvF-L6Izn-uGUek3mC_9uIlYBNreXNFySIEy_r",
+        "https://play-lh.googleusercontent.com/XlxsuBnPcrNC65B8nl7SAV3gfiRLc39cNaZUhx4Kg1dBovixcDtLB_Ly24sJL7ZYq7NPJjzX0F8-r2VEGHBS_w",
+        "https://play-lh.googleusercontent.com/RGDfU0zJyBqunwf8Upk-XtHlmfRgcFXOHFPjphdemHSUgtrazRpNM8inRXMlMZCw1mNyDBMdwm2asbJiDaDAHf0"
+      ],
       "playstore": {
         "categories": [
           "Racing"
         ],
         "score": 3.96,
-        "downloadCount": 552535
+        "downloadCount": 552544
+      }
+    },
+    {
+      "id": "brownmonster.app.game.rushrallyremastered",
+      "name": "Rush Rally Origins",
+      "author": "Brownmonster Limited",
+      "description": "Retro Rally Racing",
+      "url": "https://play.google.com/store/apps/details?id=brownmonster.app.game.rushrallyremastered",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Racing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/rZO9-LhcV8vpajXUGYCEdskU5PYB6qAtuXu7_xKnai-JiyHpVs4QSXCAPZjpv6d5uWp4PKgROwZOZyNgUjB2Yg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/oSLvHMroPRh-mz5x5lMitvnnjt3EG1K8uakNRR5OsIIwsOkiRLVEHIeX7CRv8i9ANj01HNwSvZOWhKj4qazyHQ",
+        "https://play-lh.googleusercontent.com/eq9fqCOHOLt432QW1F7xMalHsM7CpAc8CnqEZdf0pFRmJCPigKOdBqwfeyB-OF58SQycDxbVm9rnN7LDlovc",
+        "https://play-lh.googleusercontent.com/-LX0GJ-WgtrOmB-mWqiJ6zJ6v2ikWd1KKCD7eeqokWSnZUe3eLrQxlvsE8te3rnlAmRy8-6i8Id3W1H30FyuAg"
+      ],
+      "playstore": {
+        "categories": [
+          "Racing",
+          "Casual"
+        ],
+        "score": 4.31,
+        "downloadCount": 338072
+      }
+    },
+    {
+      "id": "com.Alper.SwordOfXolan",
+      "name": "Sword Of Xolan",
+      "author": "Alper Sarıkaya",
+      "description": "Sword of Xolan is an action platformer game",
+      "url": "https://play.google.com/store/apps/details?id=com.Alper.SwordOfXolan",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/Xieg1iDysnb08vfeuytdYrkdq_ZS3BANPUVB5_29KOCc1BTjCetJmyVZ1097PVff56n1qyPbKw4dV80vO7pJxQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/PDVd1NM3JiRE-BFMZqnee0umvb38F9ySuy-_OUPZtJ1R5ET6O-DW5SPZwsqOShA7fAsrG8b2orro_RSghG79Xg",
+        "https://play-lh.googleusercontent.com/v3VVt-1apGQAHnNhc3-VybeBoUvOl4s7jJnLeCpNBfESu-hVX206gsciH5AbwItYYmYOBJkFBh3QBK5gS3ubWsA",
+        "https://play-lh.googleusercontent.com/f-UbOpiPOKO-v_VwGwm6afeRGtiQ-nHZM2mKSYOMGcnCs27vcU9ACH5GrX9OYimtDP7LRbv8AgiAK_T34bkExg"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 3.8,
+        "downloadCount": 4698026
+      }
+    },
+    {
+      "id": "com.AwesomeGamesStudio.FuryUnleashed",
+      "name": "Fury Unleashed",
+      "author": "Awesome Games Studio Sp. z o. o.",
+      "description": "Shoot your way through the pages of an ever-changing comic book!",
+      "url": "https://play.google.com/store/apps/details?id=com.AwesomeGamesStudio.FuryUnleashed",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/b4axDZ1LKOLzufLs88h338U-GmGaJhuF67lar0NAP7U3HDQDTBHM-jq9JKVVXQ_gtgHCJVKn4k_JMciG4SQ1=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/LXgh21ynZXzrBQ8lwsVmmj6WUg3XzasWA0_09VAUgOuYkDsNjx-tFdJ92G6Mu5gjDJq0oE_5BBw1ZYIst_Yy7w",
+        "https://play-lh.googleusercontent.com/xL6ih2L0qAYp9X96NRvw-7cTFOi4XJqc52PriZaav3vb4IhqepRnSmMlVYxvhSZtVJRpJ9Tj8IspryfWTU2dnRY",
+        "https://play-lh.googleusercontent.com/eVwkYCyz_Qio06D55ThjT8HaSTCNnNg-czNlJzF_-NY-YaHZgWVACcwPIxxdRUz9MN4JaeUMK7xN2VbER0Jn"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 3.62,
+        "downloadCount": 47622
       }
     },
     {
@@ -752,13 +1062,18 @@
         "Role Playing"
       ],
       "icon": "https://play-lh.googleusercontent.com/3_lXgbVx5dBLu5EvpO5P0MT_yuvR8pqAzN7j3vAkP0oj4cUWN_CSn21I5XqUnELmp-kGbSxNli3MuKSTZ9gSKPM=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/U72rBLfOAC2o1H0Xd0ky3XSrA2oZ5KppyD6UOionm-6EtjLUsxVkSz4moTf4iklJYhWDR2CdfSR_7seKf1nSQnc",
+        "https://play-lh.googleusercontent.com/QSfXzvRUAN-zZ3UlajXXgAE_qp5HUW01tGlldDqIoyTvtj_sRhS0TpGey-bFZs_oqNZQQcqIJd-IzVRIZqQ1Hg",
+        "https://play-lh.googleusercontent.com/9Ff4bHEduESlYtmcDRcRQ5d2zl9hstDDKqOlq5IiWF-U31K_ZNScmJOiNQJIZr6fjLa2vIyGgrgomCrPo_y-pY8"
+      ],
       "playstore": {
         "categories": [
           "Role Playing",
           "Action"
         ],
         "score": 4.45,
-        "downloadCount": 421309
+        "downloadCount": 421359
       }
     },
     {
@@ -773,6 +1088,11 @@
         "Racing"
       ],
       "icon": "https://play-lh.googleusercontent.com/jAyYNnNdLLjlJM961ep_-1AEWhmjaxDd1EA4Rq5bCKTZWLivT-0GuukOPmRNR7wwDoROHdYTdJo2IC1p_yANTQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/pCGdWBgJLVl9-F7fWk_0g-xieYin_qQfKxa045PZjPPGd7d_w_eZxxlIx0d-2I_qpxAYBoeMEz_pSEM6z58h",
+        "https://play-lh.googleusercontent.com/qDGHDbmAOq7fAJDwfb9YCmN-z15I0apCsoux7ukoL80e1Og1So3XkFWH3JLjuhAInCnIWCB_KnhImC5ewXKeQI0",
+        "https://play-lh.googleusercontent.com/UPE8PcrIe6T_BjwJ3a8IhMk6pVGu_-e1NP7LhlUNg5FAbCoD2h6gQs74GMy-roSc5aK_-SgK5gmzO__buO6LhQ"
+      ],
       "playstore": {
         "categories": [
           "Racing",
@@ -780,6 +1100,344 @@
         ],
         "score": 4.7,
         "downloadCount": 111508991
+      }
+    },
+    {
+      "id": "com.ChrisMcFarland.Tallowmere2",
+      "name": "Tallowmere 2",
+      "author": "Chris McFarland",
+      "description": "Curse of the Kittens",
+      "url": "https://play.google.com/store/apps/details?id=com.ChrisMcFarland.Tallowmere2",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/XO1BJ5L4RtVCDjvI7vrnPztYQtFSvAc282r7TlL_M-mPYuSno8NEbnjZ1jJmXtnoOZSr5NgBF8mFsHgnqwvn=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/kaMbS1CdyeWv3gNtiAPM_0ekqbOTvzC9CAwkr_1dLSkFOpyuAJHeJibQqXBuRKfbXAZeMR29KwVvzsDMqWBI",
+        "https://play-lh.googleusercontent.com/5JMWd-WB1Augx9zMNlMWtJCNARR8za8JJU9UWFFZ622t1sQRJvW491Y7EazK495me-mbHUo_Hw3RmT-Ty8aaNNk",
+        "https://play-lh.googleusercontent.com/Dwn5Sh4lYpe61EB7VzsifH19Z9Z38BZ0FZzLhEdVBVNUQ5kIx9N9DokmGEE7ZCiQYTjp_Sq2IChThDpxqGMQ"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Role Playing",
+          "Casual"
+        ],
+        "score": 4.3,
+        "downloadCount": 158135
+      }
+    },
+    {
+      "id": "com.DifferentSense.BloomtownaDifferentStory",
+      "name": "Bloomtown: A Different Story",
+      "author": "Twin Sails Interactive",
+      "description": "Fighting demons has never been this cozy!",
+      "url": "https://play.google.com/store/apps/details?id=com.DifferentSense.BloomtownaDifferentStory",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/UErSk9WQaZckKwN7luTWLm102JPblUw_L5qrPZ1ET4mgc2ElpTXs3NlS73GWM5anmFJw6l8qhOdQS9ka4iwamQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/HFaVy1hxT6A0vOoQqT9epvNNCIJGdiuh2bBSZsK-ZDa9ZdjMczIMOF-vWtHEgbvLKUBsOd0Ct55T1x-sjyRlnw",
+        "https://play-lh.googleusercontent.com/B3V9KlG75X8AfDp_kTCZVAGF0YVb4JvuDi0QAvpm2xq4e89N2IP1w4b0_GCpjBDMfvjRts03KGWWVw-ea4voVw",
+        "https://play-lh.googleusercontent.com/RgyDFWWQNlkSaamDi1Ohybaj_a8hpEzovUBOu2zX3bpVKI-Rymc0bGBLhsuItG4209vTCk6FKqHtiIHbxD0U"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing"
+        ],
+        "score": 3,
+        "downloadCount": 36129
+      }
+    },
+    {
+      "id": "com.FDGEntertainment.Oceanhorn.gp",
+      "name": "Oceanhorn ™",
+      "author": "FDG Entertainment GmbH & Co.KG",
+      "description": "SET SAIL AND EMBARK ON AN EPIC JOURNEY",
+      "url": "https://play.google.com/store/apps/details?id=com.FDGEntertainment.Oceanhorn.gp",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/NSke_1fm-TFoVueGdqb9cOEGxsfCJbiApRMSut1PnJbfVEQo2zlnB52qwn8CMzd4Ja5SMJKUfp1vTRqUymxRrg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/1W3oXhIJhZtB5YjxAPCvOb_G08QqEOiNbfQj6ClavQhS1GsN9nk_jxtHvvyjGg4tZhSM9Y2s9IEcEenEfavSROs",
+        "https://play-lh.googleusercontent.com/ASgtDo_6WQdvy5QF6PSw47ae3v0kxqxSAbcyDkK9Cxf0451J7A4d8eROeQv0Dv_IQ76_8pOH9H46wOFyAgHPOA",
+        "https://play-lh.googleusercontent.com/meblrkGhKUJ9P7KrGEAbLCHyVoGeB2VJHFfMJ1ecZVg-RFCgr2pYzfg2LYQ53YV52PNIL0QJbArhi6hlVzMIGg"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing",
+          "Casual"
+        ],
+        "score": 3.47,
+        "downloadCount": 10853251
+      }
+    },
+    {
+      "id": "com.Just2D.DrovaMobile",
+      "name": "DROVA - Forsaken Kin",
+      "author": "DECK 13 Interactive GmbH",
+      "description": "Drova is a grim Action-RPG set in the mysticism of Celtic mythology.",
+      "url": "https://play.google.com/store/apps/details?id=com.Just2D.DrovaMobile",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/aPqWflsACiWNRpA1mimGYj5vFtZ3OpSAKBCmF1zR1vTz4Gp1eoHHAhgrFZZUhB4Mw84Mg-SfjTibVDKSpuyN=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/roog1X6uIGskhMFAFnZpzJPtZPSIdn7wByDpVEkFgUCZeU1p9QM9q96UzK65qXQU1ZccS5vdZ44H5BRz3Uf6",
+        "https://play-lh.googleusercontent.com/FQsHmAz7cWsi-S9mybv-J-oa84nCMG8OwZHLxR7adFiFoPIpKgFW1ZsKtruZYWMzDN4gYG3To45WyodDKIFK",
+        "https://play-lh.googleusercontent.com/y9HX5NyNHMXvndP-fA9gtf2edEnmj0bzBE-bvz42ed5fkt-Xifp9I5NlM9sNoS8YSM4gIAaey799TYwBjKaO"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing"
+        ],
+        "score": 3.61,
+        "downloadCount": 37269
+      }
+    },
+    {
+      "id": "com.NEXTStudio.BladedFury",
+      "name": "Bladed Fury",
+      "author": "PM Studios",
+      "description": "An action game set in the Ancient China, with unique Chinese traditional design.",
+      "url": "https://play.google.com/store/apps/details?id=com.NEXTStudio.BladedFury",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/mQXkrZNWQJrYuN1KGI4HfhGelfG4z0WqBtGqVZgIj-M6VUd-azOOarKMfiZ7DYlztFQ6_-Q8NEVe2KR_JxLZVA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/vqMFynmG_sAqzKdB8RBPbWme1LX_kueKNse-UBZFtuBiLSpnwPHaRAdQGBEwx95hAfxl5lsAKIOJiSIun9GBCCk",
+        "https://play-lh.googleusercontent.com/H3LAa01Q0-z8rybCo0hvIgx4U9LSoRmt3O_1FV4M3kPUkv-udcEWstXLaCs1ScjknZ5-K8_IphmXZVX-whAu20c",
+        "https://play-lh.googleusercontent.com/1pM5z7XfXrrIBqbgOS6utiOpc7CMdcgXy7OqIsyvh7FtNCsUNIGUqDnOj0J7pt3x6Qv6S5RFCYpBxRIuaTVo"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 4.32,
+        "downloadCount": 1501
+      }
+    },
+    {
+      "id": "com.OrubeGameStudio.DwarfJourney",
+      "name": "Dwarf Journey",
+      "author": "Orube Game Studio",
+      "description": "Defeat enemies, mine and forge equipment in this epic journey for immortality!",
+      "url": "https://play.google.com/store/apps/details?id=com.OrubeGameStudio.DwarfJourney",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/IDm6E4EK0hcLR2GqJtnhb2i5XYzEDOGRSimsZkdu0UxnEhEcYau8b_p-qnej3xdD5_B8KSm7KkNLtxItHMKM5A=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/XWbIb5yjQfMxjFqlaJN-kd1dAue8v1wftL0cX_b78wxACKCnyuMbK0KKVG4DDQp6EuHpfDps1MBqxg22byYNyw",
+        "https://play-lh.googleusercontent.com/3E-piDeitehVxEaYH6c7q4CY8UrrPZntBk-enMFrdSMLMEmZADk78UXHOZOUdl2okihZVnQyFs6022GBm2hI",
+        "https://play-lh.googleusercontent.com/KFMsflHIcePvktdklovDlDq1mxy8KqTxKV0WjKSD4vGGjB4C73ionBz6ma6uvFxyXuIkwwWb3SnjO0Ub2paU2w"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action",
+          "Casual"
+        ],
+        "score": 4.47,
+        "downloadCount": 186907
+      }
+    },
+    {
+      "id": "com.PanikArcade.CloverPit",
+      "name": "CloverPit",
+      "author": "Future Friends Games",
+      "description": "A rogue-lite slot machine nightmare. Gamble for your life in a debt simulator!",
+      "url": "https://play.google.com/store/apps/details?id=com.PanikArcade.CloverPit",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Strategy"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/2CR6ecP2mz281zfOZZoZS4kdZg1WaGfCXdQxdWmt2JkQRDSQG8NhdbgIuH0UepzEyrWTKA7zaqre6xAthebFwyA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/klT1cngEjkejbJAutnevofnaS1bCmA6V9umJzIVOhFr5HPAuv6nGObILEY2CzcDoF3MY10B5qYujEBPAfk9KEQ",
+        "https://play-lh.googleusercontent.com/jWocANSFETjg_nt2Xm3vJC3A2eg0HgDB-Uh9lKM6LSF4R2lLyvnkJxLfcMDQ9UtqP1v6iV6yoe3wym8Mshrt",
+        "https://play-lh.googleusercontent.com/stLMh5qNB4LTGaB31FI8doy4B0kDrkru7IuxoJfQZXozQ8dAOdsqaUSlcREbrgRCq-xgUryayJmrENrwu3i3"
+      ],
+      "playstore": {
+        "categories": [
+          "Strategy",
+          "Casino"
+        ],
+        "score": 4.85,
+        "downloadCount": 269208
+      }
+    },
+    {
+      "id": "com.PlausibleConcept.BadNorthFull",
+      "name": "Bad North: Jotunn Edition",
+      "author": "Raw Fury",
+      "description": "A beautifully hand-crafted real-time micro strategy with Vikings.",
+      "url": "https://play.google.com/store/apps/details?id=com.PlausibleConcept.BadNorthFull",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Strategy"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/eaD7QZggQ_HB7drG57WOkwivlwJyjt0oH-AHTOcch1DFhoH9V6qk2793sSTHCJD8Tari1dYHW4UPtQwxO3EU=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Uo93JTslv8i-3MKI1xxNUMIy6AcgCMR20Q6pYiiLh2khGc8KbD5KqukeTTxxSMmguxyMMbejDtLcy69-aCJujg",
+        "https://play-lh.googleusercontent.com/LjCIMTwUkbg3ZphHhfMYpP0aGE8NAxYYmVhL-m3KrD1iA_-KHAFzZtOJXXKvE934oEcgV8RQt6167dgHF2dutg",
+        "https://play-lh.googleusercontent.com/CPuJCtbbduMghLroZYHfYkq2rdXE9nMnI7vZ7Fb20vEXTspH5ztbohWsdr716eooXEa_kuuhMnLm2dXMQE-S"
+      ],
+      "playstore": {
+        "categories": [
+          "Strategy",
+          "Casual"
+        ],
+        "score": 4.4,
+        "downloadCount": 491279
+      }
+    },
+    {
+      "id": "com.Rain.Teslagrad",
+      "name": "Teslagrad",
+      "author": "Playdigious",
+      "description": "Teslagrad is an electromagnetic 2D puzzle-platformer.",
+      "url": "https://play.google.com/store/apps/details?id=com.Rain.Teslagrad",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/4PXltT-vOuPbOqFwc5NgTjDoq2bNf_kdpvngbhwtXCuABueFysIOqlTmP70KzLqcJW2lXpp1-OLInv42kW2Lcqc=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/DFiDQpLBAirWK00jxCPeUamp9TPL1mce7Pxq494m6LEe1FD9GHa0ty0DNvqaf4hEJzvSHeyRAazD8JfSCIUpa7E",
+        "https://play-lh.googleusercontent.com/vB2Pml4BvhutoBhXnCSZiBAWvl4WduhA4iSmP_joCMG4JqIeKLooOkNgA4xYjryb9YDk7H8g9gZkxQg1groZfUA",
+        "https://play-lh.googleusercontent.com/Sylz5d5KYkUt_vBXy4mPbfyTSg2f4HhUsOClOeatjHcRRdySHiOFE_LFY49-VyixfkRx9eIEqbEUhq2tKNXDlg"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action",
+          "Casual"
+        ],
+        "score": 4,
+        "downloadCount": 172527
+      }
+    },
+    {
+      "id": "com.RawFury.CassetteBeasts",
+      "name": "Cassette Beasts",
+      "author": "Raw Fury",
+      "description": "Using a unique Fusion System, combine any two beasts in this open-world RPG!",
+      "url": "https://play.google.com/store/apps/details?id=com.RawFury.CassetteBeasts",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/H2dvC8WfA1z3NHZav0nkn4vFiEwJZtHfx_cETI2IpMJ9W7B_M_kmGgjKawoTq9iNvZcmw5MLlgd2PnNCm2G1=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/xRjGAh-e3gCbXjzTTgE5YvfndkRLSY5xfwyVeWfWaTAdTnhzl4kr2fpaos7rTIIfsNo90rYHKIkR-0rzSWcDSg",
+        "https://play-lh.googleusercontent.com/m4Y5i0YiZPnEATrYWxqTw2oA76W6mNibbfxqxTcRHwJWZI9OKGfihBvZWdL9ZApAjy54UM7C_3JMnqKKjDo",
+        "https://play-lh.googleusercontent.com/xaYv2A04bdDNscy5ANc--USzfXt770swPs0KIGi7gYrhYbPWBUi4RNThDt7qsBfHKBPnNvI-XSe3qh2A8URiAw"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing"
+        ],
+        "score": 2.93,
+        "downloadCount": 149732
+      }
+    },
+    {
+      "id": "com.RedPlumeLLC.CoL",
+      "name": "Caves of Lore",
+      "author": "Red Plume",
+      "description": "Engage in tactical grid-based combat in this classic-styled fantasy CRPG.",
+      "url": "https://play.google.com/store/apps/details?id=com.RedPlumeLLC.CoL",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/ryHjtGDhAZ_y3se-0A5X2vfc9PcHF0zn2XcVaOcWlsnVMdhgiMgYzKgrywH9APcdIGr743yr8q96WyZrsRvSbg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/SN-nEUSNYvqVdZOgihQzGqL1v1KI8XLFsUjOaNgeK6YBz-XAW5YJmMHZjMaKWxSZV6CXJMKyExmoMZ45F-On7w",
+        "https://play-lh.googleusercontent.com/LBI6dya28sWtuveMn4aLGQXV-fTw59_wHBu50kzaePUlcG-asfWnUsTWij86XRaHkhbX-zQ3mW-Cbc1nlVbAf80",
+        "https://play-lh.googleusercontent.com/FrXicH8CG4RKfjMfqWxVZdiwHqufjxkkm1dzjDE7TVGeGEeGdJ-cya0lv1-bHJ45FLSBkpM1Z33xObaq7KxD"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing"
+        ],
+        "score": 4.89,
+        "downloadCount": 12204
+      }
+    },
+    {
+      "id": "com.RespectStudios.WheresSamantha",
+      "name": "Where's Samantha?",
+      "author": "ROKiT",
+      "description": "Help George as he searches for his lost love Samantha.",
+      "url": "https://play.google.com/store/apps/details?id=com.RespectStudios.WheresSamantha",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/ulWSqlMepH6Opxv64INomKGSMgXRyl71lBOx_ow1TrKAx_ThBK0yeXkH_a-EOLM9u9tUa653OJDus2BVXqb9Irk=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/rPmaAWjVj8dyTCaNOQA9dIKfj28AZILYcTUjMbXG-FWe0MqQoGf_3Hn7HrPU7b1tU-qrhhiwYvBNcu2A1SX_",
+        "https://play-lh.googleusercontent.com/1IYGoVw3b_Q6uyTz9quRWdW9AKl3jqEW_2YbpQwFCoN02bY8F1axUNX3z13zddeDJuZpEmNVnaf-uNxt4M1V",
+        "https://play-lh.googleusercontent.com/yOPlVkDsnuZGo6kprG4bcWx6XeFkOy-bB2EFKzwcP0nTYbei4NCtxH6tIzm_P7MqjUOIRMjFTuhzcG3Oz87X"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action",
+          "Casual"
+        ],
+        "score": 3.97,
+        "downloadCount": 1066879
+      }
+    },
+    {
+      "id": "com.SinkHoleStudio.OguForest",
+      "name": "Ogu and the Secret Forest",
+      "author": "Sinkhole Studio Inc",
+      "description": "Explore the wonderful world with baby Ogu! Unravel the mystery of the world.",
+      "url": "https://play.google.com/store/apps/details?id=com.SinkHoleStudio.OguForest",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/taLmfT-WJJshyjnwSz1a0ozrsENArwWWyWKf_bEyP3H9EuNM7-fW9Zd4ihXEggA8hfiAvEvYx_mpLMVm6zWB=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/GRxePMS4bQC6kNzibHcicsSnnWrbb9X9VzurTfqI8tu87MrIQw8gNW43QNGF_NGkOFkKCfk-u94XFqxag2IrQw",
+        "https://play-lh.googleusercontent.com/zu6gvwMJE-cfrQbXM-D1ZIbmUwX6NsmPgP2fif4fK4n6NAvGg3NYQjrZ-MUlWsUy-Na_5G3p6QqGj690qduJwA",
+        "https://play-lh.googleusercontent.com/vGKCFniW87-g-E5fXo7VMNSlYIugQAsWIatb4QUa-GkNVrQdaDI2xtz24iRnW5aKGRJPvj4YgvcI9_cdcsJIkg"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Casual"
+        ],
+        "score": 3.97,
+        "downloadCount": 258891
       }
     },
     {
@@ -794,12 +1452,42 @@
         "Action"
       ],
       "icon": "https://play-lh.googleusercontent.com/SJYak1k3asvwuck2wxd35M-ONEDeKVNUeoxlFD2qTQwh0fJtHkbnd4aRlUaAbAdVyyXayKYEYYUbZn9qsr7U=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/DsVwMoaCCdW5HWpomvBOs1fYWmugSKWqvGGrNMvdTC1EO0rEwjp6ThdF2wWZMGrpXQs9Xmbmz4AiI0quVj-C",
+        "https://play-lh.googleusercontent.com/y4AW3w5HsM5d838jnteEkaSV9ZVmjAIZa9ziez3T-JJIc9yRd0YHE_0X2gl_9CZSKSZwP2n3_qjtM1m-8Lk0",
+        "https://play-lh.googleusercontent.com/qeEDwwYWuLfc6fgdTLX_uJu4k63RJaXxUjj8ZJ1yOFPqtFqcQkmgb-LHE4JeoKVDHGkWRSPv-Qk2q8M8o__D"
+      ],
       "playstore": {
         "categories": [
           "Action"
         ],
         "score": 3.95,
-        "downloadCount": 344845
+        "downloadCount": 344858
+      }
+    },
+    {
+      "id": "com.abylight.HyperLightDrifter",
+      "name": "Hyper Light Drifter - S.E.",
+      "author": "Abylight Studios",
+      "description": "Explore a mysterious world",
+      "url": "https://play.google.com/store/apps/details?id=com.abylight.HyperLightDrifter",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/APK4ctkYJxgZTgU7zoVwj5PbxIYQLnAPvoG2mvdgHbDzi2S7eCHnHYzIOV8qgiaZTaeZ5wLKTy2-vBPh6fh9=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/v_m-VLiyuf6jXhiQlB7MDKRApwSrEo9S1viOc7LeADxZ3Vnry3RnT8SYNfUbhkca9aadpG_lFAK1Q8hPqMF5",
+        "https://play-lh.googleusercontent.com/5Lksgl_w9PSu9SM8SduIUaXYRJttMPdsxtxnRoQEcUpanHGK4HsZZngzHLXPPnpNmZza0NMYhN2eLRdDMgFxMQ",
+        "https://play-lh.googleusercontent.com/aFw4JAQreHV6E0uSRtVBisTQ-_nTosXBMiy6_KTF8__EkIXRsD60EPhmn-7QwK8FaiGiPslvE8oC1AZA1PE0EQ"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 3.45,
+        "downloadCount": 19921
       }
     },
     {
@@ -814,12 +1502,354 @@
         "Action"
       ],
       "icon": "https://play-lh.googleusercontent.com/cKXlbU72_2wSXdjcD_zPWED3EVaaOQVqqHgiA9JoRQMprYen49arNUMTngcRc9UWLnv-ANT9gyQBDQpvAn61lg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/J5LrIuxrJr3MGEbPJEpy2QeYkwmkeLkjIuZwvN_W8f8T08CSyBpz8AeLrbl4LPlX9VBf2scBVJUYfON0qD4W5VY",
+        "https://play-lh.googleusercontent.com/EmfRiRGbUfDo61-lPRk7bcmlzdDdzbnSo2aFA_j-C-vCojOPBEYG0-RLgJKkjwGgk8HDbVWujIAtrfFfQxMA8A",
+        "https://play-lh.googleusercontent.com/uPSTNV2_eWdS-GbJYjSyWedHkg7XY-ednks0AxSYKIZurMi8fA0ACrDp6TYRDPA507Cqqdkyg1eipZQRWiGfRg"
+      ],
       "playstore": {
         "categories": [
           "Action"
         ],
         "score": 4.26,
         "downloadCount": 427282292
+      }
+    },
+    {
+      "id": "com.alikestudio.AOYgame",
+      "name": "All of You",
+      "author": "Alike Studio",
+      "description": "A crazy puzzle adventure",
+      "url": "https://play.google.com/store/apps/details?id=com.alikestudio.AOYgame",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Puzzle"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/7Ok1YZaII5c9TgZF4FQWRv8HlPIOiWzNlUquYuAwuQcpgRYKXkasiALhZsUHqNd7BaRfEeMxzKLhHHAomHUx_Uk=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/E78gGZwcNsHnAmRTwc12PfHWx6N0J2tYVXVfUGAnc2Uif2Yv-7e709cC8AMpQAembBDOAgr28FIBf8vZYdVQ",
+        "https://play-lh.googleusercontent.com/63osQdIasBl3tqe6nptrwvtN7-xUpv57JrJVbr_GV3Rz3hn_2-MXdf3b0TFjE6W13QUA2npvoUZhxWc4JOclPA",
+        "https://play-lh.googleusercontent.com/csNxmWFq4g490zQpHvQH9kWYb14Cd5I8Js_UxoWoLPWAGtF7cxxRgk_xGkQjptONPvw9i5IITeykA13pmwWFpw"
+      ],
+      "playstore": {
+        "categories": [
+          "Puzzle"
+        ],
+        "score": 4.75,
+        "downloadCount": 533
+      }
+    },
+    {
+      "id": "com.and.games505.TerrariaPaid",
+      "name": "Terraria",
+      "author": "505 Games Srl",
+      "description": "DIG! FIGHT! EXPLORE! BUILD! Join the community of millions of Terrarians!",
+      "url": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/47ylywbi2wh_pogL2XorXhg5HEbRDW1k_IqacSd3_2t-6sh7PIniak-k2lhTE0Y360TmO0coyJ7U_Ea_g-ym=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/YfiglfYh-8JT1bO9tvck6pUE7JGXx4seo5HOqJnaGFlo5ysGEgs43NJSTQUwHeBTpDhudLRkxsPvbA8WuOHw",
+        "https://play-lh.googleusercontent.com/KgJLsBvIRarGw7TWwAJ8WTU_KLUCc2cN3T6qJt25fQvtyM0PrqmQtAWqqaTqRUx-Nk9fMJF4oR3w8sZRQkV8",
+        "https://play-lh.googleusercontent.com/dc1z40GXvVw4uvrEoXcRRDKuQH07grL2rZw9WZPum-hbpfXmwnryTKEzZnlRuX75iITwAlrjEQ6URLMITiXm8as"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action"
+        ],
+        "score": 4.55,
+        "downloadCount": 7510014
+      }
+    },
+    {
+      "id": "com.aspyr.swkotor",
+      "name": "Star Wars™: KOTOR",
+      "author": "Aspyr Media, Inc.",
+      "description": "Star Wars™: Knights of the Old Republic™",
+      "url": "https://play.google.com/store/apps/details?id=com.aspyr.swkotor",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/xwd9wMz6m2hg5jVt6qeeUXu4QypWei3mRB8BC7g65ltXtnNJjgp-SNDGDIXh_PDoymMw7OoMS6D5LZKtkSdC=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/w_gMwnuTkqnVC1p_C5rP99CXxB7BppnG8cf8LCI1CfIbI1nI7SxKhU661AU6hH8I45hHcC3tHaPn_005y93VjQ",
+        "https://play-lh.googleusercontent.com/_s1nfMQiMHS2eMKBPEPmsqVsJ7b1aUrvSW5pzcmjz_e9HSysAk9Rr1j327KjzYhRj0zBmjGEFdAJv2Cwvj27qT0",
+        "https://play-lh.googleusercontent.com/YoMuFLZ2bkC9aq7vFvkjFGEV98x-iOXmfslk0xeWWBJY7FtkPHQG9tgAX8rCFdLA0uKAqDG2mRvR71CYSco4Vw"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing",
+          "Casual"
+        ],
+        "score": 3.7,
+        "downloadCount": 1178738
+      }
+    },
+    {
+      "id": "com.aspyr.swkotorii",
+      "name": "STAR WARS™: KOTOR II",
+      "author": "Aspyr Media, Inc.",
+      "description": "The classic Star Wars RPG is now available on Android!",
+      "url": "https://play.google.com/store/apps/details?id=com.aspyr.swkotorii",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/2MfIAdF2Xq7VN-T1h_OiwkPPGiGujKOpa4tbxCVn5-6PEqCB6yTqCySAAKSQ8-Q6B2PMzVc7PdDE9H7c32AW=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/kMRoQQ3yUvTbta9_W_fYVUzackoaKitohKrXOkwYc-xO16Wd_eDypVEAkdAbstfb4ciHaJ_QTPZ_e7bcHplf",
+        "https://play-lh.googleusercontent.com/gueFOl6yQKNJAOzCQUF7gZL1b0BNN47VMiST-YQIPAd9HCBtIlX8RwtFgrRY8XVIVP1GoYZqeSiWrzDNVrE7rjo",
+        "https://play-lh.googleusercontent.com/oPdP0pDs5nC6moLCdwvVnfkBywa-H3tWBLq-G71NW5xhhhY4lLVDlFCiecVkSxmxfpggivLEDi7Nl7e1J_eH"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action",
+          "Casual"
+        ],
+        "score": 4.32,
+        "downloadCount": 137248
+      }
+    },
+    {
+      "id": "com.atomrpg.trudograd_mobile",
+      "name": "Trudograd",
+      "author": "ATENT GAMES LTD",
+      "description": "Trudograd set by classic cRPGs such as the early Fallout and Wasteland titles.",
+      "url": "https://play.google.com/store/apps/details?id=com.atomrpg.trudograd_mobile",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/oHqHT_WkKETGohLXZVNxRewiWp80SFQdq9zuJXEmmpIIt8GiosttqzDdSf0G9JhU97Z12aW9iiWe2YecS_WXKw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Mx9RPTZJcNlAU-nA4Z1Memg8xViDOwJopjVtKZUhmHj1NC1qPiN0G5-NoVap6Twfmkw8ipE8Wge5OSMSC74o",
+        "https://play-lh.googleusercontent.com/GvQ-82n5DatnRkshc6TlsuC5jSPcZ7cwTapI_FaMptS9mTha1nvUQscevLBGkgrtxSmgb18cDt2ZKK7cG2h3xg",
+        "https://play-lh.googleusercontent.com/m_zovPFKechnYv-f3hiqw97UNodBBE5_8-gqvmPBLDUt7AXYXKBlu_z6TPYg1YFJ6B2A4Tm3F4WIqkhrKRfSwA"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing"
+        ],
+        "score": 4.21,
+        "downloadCount": 4976
+      }
+    },
+    {
+      "id": "com.aurogon.Afterimage",
+      "name": "Afterimage",
+      "author": "Beijing Wangyuanshengtang",
+      "description": "Afterimage is a hand-drawn 2D action adventure that emphasizes fast-paced combat",
+      "url": "https://play.google.com/store/apps/details?id=com.aurogon.Afterimage",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/TQcT0B9naZMOVU8R2Vjsty7tbzRaPCBJwOykDgS49WRJvwyIcnVh4S7BWt1aG5u883E-LTsqeZU0Rf9dJA35Cbk=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/XubsWziZ_8IjUck46ibQERcEEWQSXe1Lqr6h-JlHwhMa8AJ4x681G_kB0ncXpjYYGISIU_ANg8Ip3WT43XvW_DU",
+        "https://play-lh.googleusercontent.com/MiUGpKWDvWxk9DbjSlUwCu2X45LuT2GQtqL-mKHXgkwJfy_itajl56AtYjocbO7AD-ZryLaiGL7tJmLBIW-OnYw",
+        "https://play-lh.googleusercontent.com/rRveUGWe1uijHPLmalsRN1V-T0k87f7hbkdzvgjbaVKEezR51Pq24MK8MVtmefbJ9dDAz7d7KSS_YENgrbYfAg"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Role Playing"
+        ],
+        "score": 4.44,
+        "downloadCount": 15980
+      }
+    },
+    {
+      "id": "com.biggreenpillow.slashquest",
+      "name": "Slash Quest!",
+      "author": "Big Green Pillow",
+      "description": "A big talking sword adventure!",
+      "url": "https://play.google.com/store/apps/details?id=com.biggreenpillow.slashquest",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/VwKutrni2_ZxOGk12kaDGKbWXf0gPlfhzbxoVmfTNLyVZpjRJnAX89FF6fSBBuITapNlX-p7xQ1ZaS3FgpNAFk4=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/H0qoVt87gqkqzivYRi9t9po-hFES6tnIVrs9h3ggfnbXusTAXQNyPBe50UmuAeP0pZGN38NzXvJ9GZnHj9nK4g",
+        "https://play-lh.googleusercontent.com/EhzwnOEM_Qx5n5kfCinYbaLTmPfXN_fGjEKrjN72fUcQcZVpUFOoqHWlGBQVRYBtbQ78ClhbvKdhdxBSlLAy",
+        "https://play-lh.googleusercontent.com/vbNZdInFyWYebaepbnkxQihY50YxrEkweacFYVrHYcwWI_XkeC7KZ1Y4Hx8QelDYaJLOuRqgXXLTnlprQ1zc"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 3.86,
+        "downloadCount": 198397
+      }
+    },
+    {
+      "id": "com.bilibilihk.warmsnowgp",
+      "name": "Warm Snow",
+      "author": "BILIBILI",
+      "description": "Chinese-style Dark-fantasy Roguelike Game",
+      "url": "https://play.google.com/store/apps/details?id=com.bilibilihk.warmsnowgp",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/k0lOKRcNlLjqGTOFQOPjKaE3WJv58i4z87c37zwpBMESvRHuQOBEYhayemq1TP2koi5nhFAO77V1E5-2Py6L=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/OI6VTPig6Sf_Mq-JHvB1Wkk_Omivy1gaGNLftMLDdB4OzSHxEGkB5vU86s9GGXco7gw-5MJQCMYVoSsQxilOH-8",
+        "https://play-lh.googleusercontent.com/FQ0nuZcb2xkbdMyR6tCXsgkVlYerkIyTsLFKbRtRwHYtjiwFhDV_VSioTmIZqJGD2jCU1uw2t1dT_ySM6FLX6lA",
+        "https://play-lh.googleusercontent.com/dXouqMJSGVwHyWhyCUnKOJiU7UoqjoHYnUdHJv3OH4gt11q8pOP1VYX1TArnR3k_RenGDU20B4TMAO7799O5"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Role Playing",
+          "Casual"
+        ],
+        "score": 3.61,
+        "downloadCount": 7025
+      }
+    },
+    {
+      "id": "com.blingame.haaktestb",
+      "name": "HAAK",
+      "author": "Blingame",
+      "description": "Hook into a Metroidvania adventure of epic proportions.",
+      "url": "https://play.google.com/store/apps/details?id=com.blingame.haaktestb",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/Jk_Ecg_34St4WtXRJuBJofUexdPP7jAyEDzZMSXtzEuAY6CaY3hOXixz78t8RDBY-3ERKdIlOHz6yKl58-HsQak=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/rAiXhc7895FDeyQigjGDmC1dI48Kh6DM7dV6I7vZ2UbQ90q_gUjZ6v0EWlfGcTB0WSRrFw7X6VnS_r-aABOGBg",
+        "https://play-lh.googleusercontent.com/38J-ofCm1QegodPLAHPwpgkQ3GtSTFnCZ84lnMRVDM5wmlaXueUq8E6nZXpAYthQsUn46hio4ncG-E4hKPmcIw",
+        "https://play-lh.googleusercontent.com/a6G-dfFrOBjW3nZTIlWVfursEk3XQV8m6AAlHqFmty-p9U531vh-LfWHBcN5sYZxh1KX9k0rCZfSeFEOvDuD"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 4.16,
+        "downloadCount": 2846809
+      }
+    },
+    {
+      "id": "com.blinigames.lus",
+      "name": "Lovecraft's Untold Stories",
+      "author": "LLC Blini Games",
+      "description": "Lovecraft’s Untold Stories is an action roguelike with RPG elements.",
+      "url": "https://play.google.com/store/apps/details?id=com.blinigames.lus",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/CaWbCD1yMgyK0AtXECRIIQjtaq4IFxJJJP2hd3sr9NOI7lapmiSGh-liyOkx_VCkM_etV_3Cu_wtF1tC-TrgwA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Cqbn8_p4pWOhlSguoPF8bgLLa6F8-UH2agFTGQyykWLBlBguPFv8fUw9-QD0GZ7ZI2_ffNAxAB9c-fjcTnUd",
+        "https://play-lh.googleusercontent.com/_JdM1kTNFtkt6sHVZ3eG0xxrdBRdTb6eLWyM4AkG3pIrYporWWaPsLwMEXC0AgYUjhS7pjPo-UOwM5IQhb1orQ",
+        "https://play-lh.googleusercontent.com/pRmmWQ3ArilteYxXvJG77oIxRdY5hNa9P4zo_5_70HhJteLBAU-zD7mY8mZkWI1C4lJN_q3mRfl9HWB4D179"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Role Playing"
+        ],
+        "score": 4.3,
+        "downloadCount": 102882
+      }
+    },
+    {
+      "id": "com.bscotch.crashlands2",
+      "name": "Crashlands 2",
+      "author": "Butterscotch Shenanigans",
+      "description": "Craft, explore, fish, farm, and more in this sequel to the hit game Crashlands!",
+      "url": "https://play.google.com/store/apps/details?id=com.bscotch.crashlands2",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/PXQx9spv7BW-1joBF9MC9WZ8Snu6K037AgxDcPmOfkDbOXK4g4Qg15hOwzCOJhiyKwJ5Xt5kgzq1KV2mCh4RAhs=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/9nte2AuTZziuhJp4Lc9Qh80f_ZqYgG48jhcG4UVqOll-M3pVA9PH5BKEKhY7tL7_npSNaI5yijYk3CNuiY5jL7I",
+        "https://play-lh.googleusercontent.com/wS7nAeCY6G0517BpwwMNuGvhtN5ziSLJlJFejTm2jx7SE7V3vtINTMgyivrQUcciFfw8MX5nFj9sYuRpdtblFoE",
+        "https://play-lh.googleusercontent.com/CqVpdJWTAslh7FigjJI99700KeVMb2z0OGiT7E9s3GlGkfmvm_703RdV4i6c6mwWIqGU12CbeKQpxSPdKTVmLg"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action"
+        ],
+        "score": 4.65,
+        "downloadCount": 125034
+      }
+    },
+    {
+      "id": "com.bscotch.levelhead",
+      "name": "Levelhead",
+      "author": "Butterscotch Shenanigans",
+      "description": "Think you have what it takes?",
+      "url": "https://play.google.com/store/apps/details?id=com.bscotch.levelhead",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/cOa-X-UMAgFetoqYYBJrNEO5jEe3-HYBl7swZbEuhDWwHP6k2nLlVlRSNLxb3qe_RtroxEn9jrfoFLbyIac3Xdc=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/zqesQcmwqvT6F09a_7BAgg1ENSC25wjNgP1uiwTVH3VA5nG2Htz9sIRO4zxS4_8-kTAH0FBbHTRQlLKS3jqdVCU",
+        "https://play-lh.googleusercontent.com/49SfeCJanXjS4nVxivOC3csa5yeFVEiEBXnRM61JJGKqFt5yOOWgQV18zdbngTArhCfUJBcOLa_c1r7o0k38qw",
+        "https://play-lh.googleusercontent.com/qA-iHMpAq5FIF0q4xPepS1Y7PChsvcv2EDo78Mx-8P1u-SCVahxwk_pjU5fYLzEFyacF00yziOZ6300Ltzlcig"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.16,
+        "downloadCount": 80921
+      }
+    },
+    {
+      "id": "com.camouflaj.republique",
+      "name": "République",
+      "author": "Camouflaj Holdings Inc",
+      "description": "Uncover the perils of surveillance in the stealth-action thriller, République.",
+      "url": "https://play.google.com/store/apps/details?id=com.camouflaj.republique",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/YayKzfBEww7obl8ckpOGwGUL8F5j7DMX_j3ERJCoY3gCpSBVMycPMKeb16DHbHLpLmij-SFZCaf_wMmtKGqz3g=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/MQFkvPev1aMM0p2e-HhJlEd6jK7dQgBq0S7JBqib6VAHr_SETYbJDPL6F4SKth3EWztdQ43DsnIWI6Mqigad",
+        "https://play-lh.googleusercontent.com/FUCxsxld50HMA-FK6C3CVcNPEbLkNIMM6pO5xN7GvnXw9GB4GRTTeNMuX17npOYqTMN2WFH-gwDnfI2tHjHy",
+        "https://play-lh.googleusercontent.com/dXWv_MY5hUQyErq4YzhCKWysvic4aTJkoL9pYya3NGchUaalKLYgSrk70Z3c-q3rDBb4hwMwiNxUmG3rMiDKC20"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 4.1,
+        "downloadCount": 1846650
       }
     },
     {
@@ -834,12 +1864,221 @@
         "Racing"
       ],
       "icon": "https://play-lh.googleusercontent.com/0nEKeYBUICZb5YkaiKF2VK5W3kheCerppClJ1n0XH6-iHOYqo-BuW4w6R5_HwBtj9BU8Br82zOtGHf1CBReg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/wd2r1P_o2PMgDhPWFPpjHkwHIaFHuAWzQsiljexwOFYN1XQ2Go6yc-jF6EewZQ8CqPZl-fpdSvLiUMzOQQuHfg",
+        "https://play-lh.googleusercontent.com/qtV0G8ZqBnC_6CkdOiLrglSdcBnZeb7pkL2gGX7sDmwQ59_lxppmQsv0GOaP4-qe6CmAY9fsiMAfafZE8Z3eOGk",
+        "https://play-lh.googleusercontent.com/33B2QGWOuqOCRTYglpxbnq1kvZdDb9uaFIJXGEJjiEc2lEUVFd3zUBwb_6g8PXROCEnRFdW1JK4KE4fmLOv9SDo"
+      ],
       "playstore": {
         "categories": [
           "Racing"
         ],
         "score": 4.01,
         "downloadCount": 30285018
+      }
+    },
+    {
+      "id": "com.chillyroom.zhmr.gp",
+      "name": "Otherworld Legends",
+      "author": "ChillyRoom",
+      "description": "Kick, Dodge and Smash! Ready to rule this roguelike dungeon crawler RPG?",
+      "url": "https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/ydFJDRey_ECtE5lFh0xoTa3uv7O21tvUK55etHvci1-n4pwcgD-NdkJH86SJSYgozyWeoaoeHhTeFWcjB2yxKw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/r--lajSM2wTncV8mh1q9weANp19VJiQF35lJH1AArvhMY9UGxtafXJmVUkRqd8Wlc8N8WivjHoVBt4B_BYoDqQ",
+        "https://play-lh.googleusercontent.com/yCZT45q-2THb87r1RFQJPETX4UL5DNNZyRJqllYoKvZnZsr0ThitFABgVvtbCE7yOgpFMaJF7-fIoUxUBXDZzIg",
+        "https://play-lh.googleusercontent.com/87lbl9hnQjelOBH5h4DUMUnocZK8S2_wkzUbosKb_OpsWR9WPom7deTMOQMLpt2G37QlGZgDyJH3_nEIiFb7Vw"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Role Playing"
+        ],
+        "score": 4.67,
+        "downloadCount": 13286995
+      }
+    },
+    {
+      "id": "com.chucklefish.stardewvalley",
+      "name": "Stardew Valley",
+      "author": "ConcernedApe",
+      "description": "The smash hit farming RPG now on mobile!",
+      "url": "https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/RwIUSwgsFOjwoKAdwCgpajGa6DrS44muStOLe_EIAA4mdzYMHR2N8fd4TbXYKSEVjD9bH63OPo5fFIrHqP_c_A=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/FhPkR3KKfOithM43kYq-F4g-Sv5HdeCW50jl-pfgWse13KrUHlbeOi2w3QYomd62eJlJLaC88VHrpNVy76eUGg",
+        "https://play-lh.googleusercontent.com/8JzJzjdNq0QEgNyJrdATBhNQEooZZ3MvImEO3unMFzf__ZbtsQToSE7EXrQF_JaEtZvCQCiH_YdeYr6XaEI7IA",
+        "https://play-lh.googleusercontent.com/IQ_Hl_ey6ikDi6ybM9U2zCL-EsN88z96ZrpveyH4sjfxhpvRHYUxI_sbsnSf8RBg9Y5u7868SgM1z1KCH9EPdxc"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing",
+          "Simulation"
+        ],
+        "score": 4.61,
+        "downloadCount": 7171983
+      }
+    },
+    {
+      "id": "com.coffeestain.goatsimulator3",
+      "name": "Goat Simulator 3",
+      "author": "Coffee Stain Publishing",
+      "description": "It’s not a bug, it’s a feature",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeestain.goatsimulator3",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Simulation"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/cXsFz5LAiYY6eibsgQ4rGEh7tr_SDWxKwNKrBMXMJYqJlvKSCD3f_AQDDUdSyIdTUKmwj1M2-H5xBoPW5rkZ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/tuJeTDC0jRZ0iHvmqhqusvrr_FYX1PVukbnUnWwEra8IHrxjgWWcE_NWtCPje9aOwLOiaT_Mpiyur5VmfykMaQ",
+        "https://play-lh.googleusercontent.com/diKaKkpu_i0DXkwnvlomj3b9zxZRL7wLHF3N-vzxJLzr29orCROSaeq5XEkgonGI_2DEl476gkjPPeCGO_Zt",
+        "https://play-lh.googleusercontent.com/IzlS6EVHgHkjpv5tBmRusZs5HWIPgOANxuneI-WUJwlP__sAdQjgkQ6rqy4IT4yucFxGxPF-PD0odaH4gP9JGw"
+      ],
+      "playstore": {
+        "categories": [
+          "Simulation"
+        ],
+        "score": 3.62,
+        "downloadCount": 204673
+      }
+    },
+    {
+      "id": "com.coffeestain.huntdown",
+      "name": "Huntdown: Cyberpunk Adventure",
+      "author": "Coffee Stain Publishing",
+      "description": "Fully Voiced Action Platformer",
+      "url": "https://play.google.com/store/apps/details?id=com.coffeestain.huntdown",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/N1NmtuFTFAOe9S4oh0kYwmB_iYznYHA0vqZyL2myS3EVZfKJjaVjovlgpMPiJPyiF5oF8YykRhcQhcjBEX8mNg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/uG9GonCnniNmjBfDdb_YOXFDKLTFEIc35rRjMiD7OnoZ-9yK_w-fH0DszFSWmTeDstB2_6XvEY2GujehrW8tqT0",
+        "https://play-lh.googleusercontent.com/vGvRhvMFZuCz-YEaKLAej4FYIJBnKPPwzMXWSucV0JSpPTZkL4q-vdpnudrRqyJwsixk7a8dOROzzDg-Uo_66g",
+        "https://play-lh.googleusercontent.com/jmMJwcOe7QuG7nTyciGcVPNi8NKCTquPlkcc1wtRa_qdU6QVy2sZP2iMh2QDj54uXd4VpqIMgMnZWRvpsolg"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 4.2,
+        "downloadCount": 961993
+      }
+    },
+    {
+      "id": "com.cowcat.brok",
+      "name": "BROK the InvestiGator",
+      "author": "Breton Fabrice",
+      "description": "A story-rich detective RPG mixing visual novel adventure with action combat!",
+      "url": "https://play.google.com/store/apps/details?id=com.cowcat.brok",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/VtVly9S5-2m99hXD603ZuYifut-m7Iqar62utBOb-OnMZvuTXR5PV2hRMlpDwgP6z6GS52BrbsLROZAuT3a4PCM=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/pI1GYKB7p2zcyz7p2oVfovqYt6994eeGJ9ETkKbL7FhmKYvE7MKOGi-5YEx7n_A91XfjLFH085WW18bUedUDsA",
+        "https://play-lh.googleusercontent.com/CSJTtViWuNZy0J_w8_PJD8tqRDN7N53gEg5_5JafeajhLlx5eBbAGB20HdgpIiNzdNwKkCTjFFVi2uuxN9LU3A",
+        "https://play-lh.googleusercontent.com/hHBnEabBbdvds0VtsJlRoTH5OeOjPnW6KO1ktsuL0TFHhDDErcJ0y0wggJIkO1-QGQLnLv7bnGlndQ_iTELmAQ"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Casual"
+        ],
+        "score": 4.65,
+        "downloadCount": 121279
+      }
+    },
+    {
+      "id": "com.digitalextremes.warframemobile",
+      "name": "Warframe",
+      "author": "Digital Extremes",
+      "description": "Battle alongside your friends in this story-driven, online action game.",
+      "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframemobile",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/p5C8q_tcqMA50ankDg5VV6qZzEa9anHd9MqaBb1uPjeXm2GHVXwfl58GYjKYgFAYc3vjoGwROb5c612tL2FmSQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/NydDn9FoSvrJOyBKn7zv9haxICAM95vT5HFsTz1G5ucw7t3lU1rqas9RoexGF2puz5EAC_CLTNTfRnLEb2kNsXg",
+        "https://play-lh.googleusercontent.com/ruky1qJ1_YXwLCImNWd5-ZR3A-yW9Y8roylvcFW6iKznZFNAL-wipAhgYCJAcOqFGYQ83m8zYVvrUYPuezFmxA",
+        "https://play-lh.googleusercontent.com/RfwNctPmnIEcrtl0uiZCxmnCgg6aDIOf30v-WDQEeZWVMkPrGTVTSorElz-ASm3V_pnN7YhJVGMds-G9GX7G"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.04,
+        "downloadCount": 3335661
+      }
+    },
+    {
+      "id": "com.direlight.grimvalor",
+      "name": "Grimvalor",
+      "author": "Direlight",
+      "description": "Hack-em-up platformer set in a dark fantasy world.",
+      "url": "https://play.google.com/store/apps/details?id=com.direlight.grimvalor",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/tmqYYlC24al1w_26rbKLfTS--DcpRJxsJqJOuyHtH2ju_VyC9qZFdl5I-aM9smzLWNfEScCjxybWTOOJxJsULkg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/4YvSCLPVIOkVctF3M8Z50uWlb_xvjSx63vy-4spWYzB5v9JtEtlBZEP53NN9Okny5RPnBv2J5fUgxh1246NNrg",
+        "https://play-lh.googleusercontent.com/u5ovIA4G1oCOUa9g86T1kqQ-kpcD4JoYiFir8pwOU8tWXX0klvKtsHqNNvOZSLEV6FGzOvxEbk9cmwLM3838KQ",
+        "https://play-lh.googleusercontent.com/9julKLVWKDkXKvwP0iPO7-sI-NlKGzsdUXkgM8e1j0wDB8gjorgn2UgX_x9LvqeTc2PYmiA_pT2MwvdXq32ng8o"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.71,
+        "downloadCount": 6500656
+      }
+    },
+    {
+      "id": "com.doghowlgames.thronefall",
+      "name": "Thronefall",
+      "author": "Doghowl Games Ltd",
+      "description": "A strategy game without all the headache? We got you covered!",
+      "url": "https://play.google.com/store/apps/details?id=com.doghowlgames.thronefall",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Strategy"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/ah06DAA9X7IYm6SMePf4vP_q5WymyoCYorBld4BmOwIMsXqCPyvyVZBokkfNJl2JxsUtu9j0E6ADJl4jyq4KDic=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/IIz-sI0x25aIy4YmwqlNtkyfDEfcKD4GKSSTbcWjw9wJ05dhtwyMm6awzzJxTpDNbKLkekZgABLAPOlm28f6",
+        "https://play-lh.googleusercontent.com/hoemI4_BgAIkvjP8bve8Tiudfn47seOjyl4YkCCepvoqi0t_9Clor0SI4qL3cubN9pXlDNHvxaVS20tq9-sr",
+        "https://play-lh.googleusercontent.com/U6i1OkxDUKkuehPxj5z23u-lG7TaEpYwDmvjO2eMJu_ieOFEvqrtovQ4d8nnHXM9lEJ7LOqELQeMKJG0v06-"
+      ],
+      "playstore": {
+        "categories": [
+          "Strategy"
+        ],
+        "score": 4.84,
+        "downloadCount": 355917
       }
     },
     {
@@ -854,12 +2093,42 @@
         "Racing"
       ],
       "icon": "https://play-lh.googleusercontent.com/yw5inHn1VlH1dfZ53mtff9Xybr_3d47Z1dRtwc_aBSmeO2K-edv8uUMwMT7dM2tVPXKRv0xBuCF7j5CYJCJN8w=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V4efejjp3VQgvDhKFY16taCUfXsul1agds0BZ_gGdveU8aoqttFq49Iegt46s8EbiFNT2llCoPPlTtLZMoFu",
+        "https://play-lh.googleusercontent.com/BDIxKWgUSapVPuyk8VRHuqYgi2dEQICBAT2HPXfbKuUDEVviB4uto2-TIWXa9Ia96_S4oI_WlDx8H5OpODHeXA",
+        "https://play-lh.googleusercontent.com/HEwyinn5nyzlMz6D_lYCffpgz0Y7mzc0YMD-7ySARxktNC7kcixn4XH15ivhj6R57RNEVHdPfeqDgpC9qHwarg"
+      ],
       "playstore": {
         "categories": [
           "Racing"
         ],
         "score": 4.37,
-        "downloadCount": 33008118
+        "downloadCount": 33009311
+      }
+    },
+    {
+      "id": "com.duoyihk.m2m1",
+      "name": "Gunfire Reborn",
+      "author": "Duoyi Hong Kong Interactive Entertainment Limited",
+      "description": "A never-ending adventure with Roguelite+FPS",
+      "url": "https://play.google.com/store/apps/details?id=com.duoyihk.m2m1",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/8IK51Pa1WmIOjSpdcqCDogLfJapiMNjpF69nSxwTOzoZPIyTkcI9oZAhivL0G-SoTVm1NJhT_v30ep-nV82sSw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/W4jlgPoGYzFRUeWPUgCkIDVmdu3dCscHGPyozDhl9si9HMvDuYNV4MNNKKmBuJFza7jseFHD11iEGDY33Mq9",
+        "https://play-lh.googleusercontent.com/hvs9ObjejqALBSk17ow9nT7XP3ApfSvTrNbj__Qi6X8Oo_DV2M71i7UXhQjoj7gTBc8X59iwAbh5OsDqrdaDnQ",
+        "https://play-lh.googleusercontent.com/rnEnuywcvV3zVvnHZGQkaEPfI7yGaT9m_AQszrU98eRTkYuZgS54gjAs4hfurD0e7I7hRQtfjbxAN0YjLnZaeA"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 3.69,
+        "downloadCount": 59832
       }
     },
     {
@@ -874,6 +2143,11 @@
         "Action"
       ],
       "icon": "https://play-lh.googleusercontent.com/nD6sDIvYKaXOXeRR6FeRh5eXV8tXbPYFRucSbaxGJ_KrTPjRvG4z6a4rhLB-OQitNcQTO5qJ_S54T3Zy3X5weQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/KM6nD0InbB4TN-ulcQhv00up1fSPL7hvect7o1Yp3Np2DUyZHi0YGLVmRUxakAXIjwe44ttDE6f48DtqecBvKAQ",
+        "https://play-lh.googleusercontent.com/Tl9c1fjIHTDziZfpBGHRiACoM8md51iQMdK2lRbQXtaYLPDaP821UsTasZvluRtuTHXKVNCzYY_kAjfjXRu6Xw",
+        "https://play-lh.googleusercontent.com/9EhRJi8HnG_1xrQYS7jIDAeZjyLARUsCKbj_3WkTZW2NTQmv6dGnsuQc_oxaDJRZQrz5z75NGT9r8gV7iB_vyg"
+      ],
       "playstore": {
         "categories": [
           "Action",
@@ -881,7 +2155,7 @@
           "Casual"
         ],
         "score": 4.47,
-        "downloadCount": 9986468
+        "downloadCount": 9986718
       }
     },
     {
@@ -896,13 +2170,143 @@
         "Adventure"
       ],
       "icon": "https://play-lh.googleusercontent.com/OIkdDJUkbrbqltPhAfpd8H40n2cRJpnq5WERJhkBCoahk2YnPfocXASayTu813RAetZv8UwZlkSaWk3JdMLQXw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/mTx6oYP5pkwqgDRxvStZ737EqlhElaMCSAtoRMYHg0Ha7KY1RTcglyatjx9FhUX8Wgr19kSwH26nN1mGbbD4wg",
+        "https://play-lh.googleusercontent.com/e1gO47O4o6OoLYf9_0pwTjoxqd6og85TOH8wcrU_XZiZLTACHcfuMd5G3BPAp0TrSgEk9kXkUTC5vj5Oqo0e3Nc",
+        "https://play-lh.googleusercontent.com/KOQ9FdElfD-5aYC35CPcxDDspuYsopgl2Oo6CAPZg36Iv9t92N1YYcXk2kDpwrZ_Ku2NxdnnRLc-dfX1y26hIg"
+      ],
       "playstore": {
         "categories": [
           "Adventure",
           "Action"
         ],
         "score": 4.02,
-        "downloadCount": 831934
+        "downloadCount": 832023
+      }
+    },
+    {
+      "id": "com.feralinteractive.gridas",
+      "name": "GRID™ Autosport",
+      "author": "Feral Interactive",
+      "description": "Console-quality racing on Android.",
+      "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.gridas",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Racing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/sCVkZyzHYEFZGsOnUjtSavhNX1c8ojIEGuz7EYzKE7te1aMqKzIw4h8IWLTUbXfEx-fmIHOU-bY3SJDoT3I_ww=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/cLGz4sWCXB04zvpAdeSot3MuiZ8oSiYUReyaJh2lIhz4gF2bf0t8TyH3rPsve5AH6BC0FbcASiDoeJASdx77Ud0",
+        "https://play-lh.googleusercontent.com/JtGJtsyVu4BvbCe8EwQMoLlgyDv3GA5k4z-w9GSGdVUOmlvn_rcKI5i6KGvpA4bJMv7Cf7RzuKTrdwyuIZR4b8Q",
+        "https://play-lh.googleusercontent.com/0TdMV8EIEXOLzYRVi5k55eaAd5XuZZtSl2nxtjDZPug1TOwQvvsS4FFQZyds4xeXJIYagofO_iHbzt_mcCRSlgM"
+      ],
+      "playstore": {
+        "categories": [
+          "Racing"
+        ],
+        "score": 4.54,
+        "downloadCount": 583147
+      }
+    },
+    {
+      "id": "com.feralinteractive.gridlegends_android",
+      "name": "GRID™ Legends: Deluxe Edition",
+      "author": "Feral Interactive",
+      "description": "Become a legend in the irresistible successor to GRID Autosport.",
+      "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.gridlegends_android",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Racing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/suNiFA0eRe9XhJ2t74dIdkRztl3ZjwNbEH_Q0eZHslk0AvxTgvAf8G0C5ykqpV9eI3ufrDmKhgvMC7Y9vP35=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/CspkFuVJSkD_tX8ywnQiZvwb9SWT7NBH9r7BraMK6O9J3ewhFChE2Zjv60i5laHVX-Wl6KtowJKKCvx8zMFMXQ",
+        "https://play-lh.googleusercontent.com/CLOo01GsdfXpksFrLWtWvgVvAlKf1BTNXwvYEYE_SYurbDR_XWoyu570DGUZ2x-repBmLBY_yMjoT7ZWMcNj",
+        "https://play-lh.googleusercontent.com/TtP1G00QPQkkA-rXAqfGY8HjaRJr972X7iU4AJv7WtUUoINBR7wPbZKkXwJPrNbJEsW98ZeziBbNj6PsWVAnMA"
+      ],
+      "playstore": {
+        "categories": [
+          "Racing"
+        ],
+        "score": 4.4,
+        "downloadCount": 42881
+      }
+    },
+    {
+      "id": "com.feralinteractive.hitmanabsolution_android",
+      "name": "Hitman: Absolution",
+      "author": "Feral Interactive",
+      "description": "Plan. Adapt. Assassinate.",
+      "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.hitmanabsolution_android",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/sZ2vcnPx2dGILYDxX4e6VIFZq1lWdBvekVFSGphJa2Lnreo7ghXsaP11nIKq77Rl775JN6zgf7v9whOmKwpWMoY=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qZcH3fQ64twfHzdEYvBCkVNsC-Mw4OM9boEtlhdzpv8grlBmnugija5ZdZ6aGAHPIf-DMvJOcG9JQh_Wt-pOdg",
+        "https://play-lh.googleusercontent.com/dkXgIzTFRqC87rSAUMGUumfBfJGrJoAxI1Re3xhx0WiNrL2n6IWCoB6LyElb5hb-oNH_GLGODbisBz1kEl-EiA",
+        "https://play-lh.googleusercontent.com/40vU_fh8JfFtE2kW-ZTxsAdNqfIvZgyda1MHljClt7SxouCdxQtrKTK8B5ireokvF_CT0eyufpdi_9jA1Ck4iQ"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.58,
+        "downloadCount": 62057
+      }
+    },
+    {
+      "id": "com.feralinteractive.laracroftgol_android",
+      "name": "Lara Croft: Guardian of Light",
+      "author": "Feral Interactive",
+      "description": "Play the first two levels, the unlock the full game via in-app purchase.",
+      "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.laracroftgol_android",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/wJHaKvTTIdQJEWPaN4DeBhhzyPFiujEW0HNCvTugzCPPjCzHX9LD119zVoGbcD9q0L5cc3mlFyWZscaU7OHOCg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Pbttd0OuvUNEFltWNOaedeWzT4P_-1EcP4W0tSKBrib0X8NrzqmsgCklfPBlmmy2cZCA0IOQvMNwoF5J8WHEZhU",
+        "https://play-lh.googleusercontent.com/Hbq3DKW511q_ipei9BxF4W70OotL8vb-zb-HyGzqXTqG9ExgdLn9AbokIwTdv4BZJKOMnMKK05OrYBmwvqJ1mK8",
+        "https://play-lh.googleusercontent.com/h4Dgfj26ag4fRXISJJ0zsktuQCv2R_oZ4ZEKmdIuGSZb9z2KXoytfDGq0-eXgaSlvmHBXY5T5MrHlxMrubDOqw"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.44,
+        "downloadCount": 338327
+      }
+    },
+    {
+      "id": "com.feralinteractive.tombraider_android",
+      "name": "Tomb Raider™",
+      "author": "Feral Interactive",
+      "description": "Lara Croft’s complete origin adventure, expertly adapted for Android.",
+      "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.tombraider_android",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/7HgM2hUw-T74b4Hgwu8u9iShbH_VX_Sz-LudBGxZ0pmvQ6OOVVd4kWf4G1MUr_mSyonQBMyls-McHAyeGhlfSQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/55KLtU1kCUYkoFS0sndgPbrWuPiA8Q3Xa_0RaORA9qVJNbuno9OADIXyptJ-FCBg5kdPJIs-AOPZlcxDCR63",
+        "https://play-lh.googleusercontent.com/6k_Y5KnVMeZc6x5vC6_DTwEK2mfj3WRUt_-5-eCr3efmE_f5w-vHJn3uAXcoFy88b4WHiSy-5LejK0g-UnGJ0w",
+        "https://play-lh.googleusercontent.com/uC6P4zPJ_ogq-i0BJYdV7QRe9JCPDpUwr3LwnMP6shFVFV8UvpS7zLzueEd0iZrhXf7XP5NXFSV-OPGvJnMg"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.87,
+        "downloadCount": 72622
       }
     },
     {
@@ -917,6 +2321,11 @@
         "Adventure"
       ],
       "icon": "https://play-lh.googleusercontent.com/A5xxP7n9HqhDZjXt2apNCgcnLciHJ8xojRUfBqg5eScO9JLqcz1sXEBNrtFBI6G1otqeRkwz_SkqoS1EVWLmYw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/flmz9tlMxuOIWpZkCFrnKv2mH80CCAazcyurarvSeX-SBUKFoS7h81BCTUPfdsy4DpTfCP3RRMFLDLdLTfnOmA",
+        "https://play-lh.googleusercontent.com/5W91N14n2R_5SDIivWerLBFOUzxc89HBQ6riOv4Ppbl3-W-TTyH04WlYs4CsZdBNGZPKG5UXZ_u8_Qmtg4Z0",
+        "https://play-lh.googleusercontent.com/LV6yFj5PLPiqWx60ZO8rQcrHyqMUENuxw6i7DzCVbpYyhy5fqsKET-tRLzEgE9fmdhHeoKx3YY9dey8KSqFqCso"
+      ],
       "playstore": {
         "categories": [
           "Adventure",
@@ -925,6 +2334,236 @@
         ],
         "score": 4.13,
         "downloadCount": 56531330
+      }
+    },
+    {
+      "id": "com.gabama.monopostolite",
+      "name": "Monoposto",
+      "author": "Marco Pesce",
+      "description": "Racing game with open-wheel cars",
+      "url": "https://play.google.com/store/apps/details?id=com.gabama.monopostolite",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Racing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/OXDfcG00jAGMeNSFn-lWvXhMSEVTBvEH_GCwMyvc6ePlZJ6D2Lv0BEcnt8Gyk9_uym38TMkws1OrTe2UeNAc5GU=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/LXMzpRX1GnQQZG9cN4uov0khDwASHVqUzSOIwOqln6Cix_cfWQ7y7bZme12OyspMEMh-B4yS-ug0IEmsBtorQQ",
+        "https://play-lh.googleusercontent.com/k8MSmp5g4nEhAm7G0ybd4t6izzJ4xLTo3z_RA4_jtnmDTSONHCR50L3yWpItFDlgXJE5oBIFEpC0IKTf3-SYXg",
+        "https://play-lh.googleusercontent.com/tirfznuTWGEhyMRLNzcLGmIm1CKKzgSgBjZKLgWkNlaimb2HJHJXndyujt_NfBNPqpxXRtaLyNpuJFGhjZ2mAcs"
+      ],
+      "playstore": {
+        "categories": [
+          "Racing"
+        ],
+        "score": 4.29,
+        "downloadCount": 33726781
+      }
+    },
+    {
+      "id": "com.ghostshippublishing.deeprockgalacticsurvivor",
+      "name": "Deep Rock Galactic: Survivor",
+      "author": "Ghost Ship Publishing ApS",
+      "description": "*Try the demo* Survive alone in a Roguelike Reverse Bullet Hell.",
+      "url": "https://play.google.com/store/apps/details?id=com.ghostshippublishing.deeprockgalacticsurvivor",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Arcade"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/9c7Jtgblhy9MRJTCrr-htiRyWfGJqSv3c9GC38yblXM-4ig6BcNkWKhJbjqDZU1k0hosigQtKlLXUoS0vNhkrQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/lu8S-a-iUo_ew5kiRYQ2E3qGV2Gedgnv0b-hzFwg56RXk0tDLpATceRWI3OFVQMCIxNXe3Fd3LKbwABd2twILQ",
+        "https://play-lh.googleusercontent.com/kQ4cj0vy6glgjL7iIu3tG-B2Mh8rcMVoM57GQsGkZ2irGqowvxQWy6SXHTRixvMQrBOcUXq2PqWcs65JObEj9w",
+        "https://play-lh.googleusercontent.com/2s_eLUQbPp6UDFUNyITOz50USb-cyOfZbfrmsNB-nk2EtPAZpWslDsxQea5sOSN9Fdz1WJ5VnTLU6alNpaT1"
+      ],
+      "playstore": {
+        "categories": [
+          "Arcade",
+          "Role Playing"
+        ],
+        "score": 4.77,
+        "downloadCount": 1715991
+      }
+    },
+    {
+      "id": "com.halls.of.torment.paid.gp",
+      "name": "Halls of Torment: Premium",
+      "author": "Erabit Studios",
+      "description": "13 Classes. 100+ Legendaries. 1,000+ Talent Paths.",
+      "url": "https://play.google.com/store/apps/details?id=com.halls.of.torment.paid.gp",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/hkiik1uhmoRC3ldQgcC8Evo2vv5DvdrxRDUG3vhbpXh4NPMzzZ_NQZ60C61nZGdQ4zAA1XJbjaIP3LLvpL5pdA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/2fazkjXI-7mzRfbUoTuK2Px11Oks-PQPONYzDBABlS-JDV3F2vVqpflywyQDHeQgp1Xq3QUfIWpADDelwgvj8jA",
+        "https://play-lh.googleusercontent.com/btoS0hahHPQs-DfbyFXZl5YLIJG3eYQ7XV2hNNvcVmtFIjfmNxHaGEtLaVVt2BcwkJ1BmM2_-IqW8C61eUxMMA",
+        "https://play-lh.googleusercontent.com/3i6La3bD3QdfUHGu9uJwBiVIh0ZuW5ESz-wafzW00YfkSK0EXomq_o9RDVKex7wUo6oRBUEZ_1NnlcV-ThR4DQ"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing"
+        ],
+        "score": 4.72,
+        "downloadCount": 249895
+      }
+    },
+    {
+      "id": "com.hazegames.fractalspace",
+      "name": "Fractal Space",
+      "author": "Haze Games",
+      "description": "Taser charged and jetpack refuelled. Are you ready for this space station?",
+      "url": "https://play.google.com/store/apps/details?id=com.hazegames.fractalspace",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/f6EUd6fLSeuPCpfgHFfjRrsVFaLNdxsNQHVVPCcKPL04OJvvosYrPJoPmR5v4gQIMisGkm9Kk138R2GgiACKEQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/eNuc8fpN7fynVNDlIkCplNejncZiTpjWUcalygjIIHkAqV3z8KGYArANYHWNLqgp1opm1XSvMyljT3EwsU-gZA",
+        "https://play-lh.googleusercontent.com/-p3m-54OCjO2gqGw8I8jI9h-xUFHSJP1K0ITpmAFd1Y7hzSp18yEPtKF_Ph4UDyMvdEvz_e5eAUUaM9OApPh",
+        "https://play-lh.googleusercontent.com/VqXahX-hUdivgNtw_-1-sEGIksXmqLf86UQrmiInBOBl8o1xV3TXi-qfmyOnAzBDq-IABo9UuGjp3LtGm7KxAg"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action"
+        ],
+        "score": 4.65,
+        "downloadCount": 6141648
+      }
+    },
+    {
+      "id": "com.hg.cosmicshake",
+      "name": "SpongeBob - The Cosmic Shake",
+      "author": "THQ Nordic Mobileㅤ",
+      "description": "Wish-granting Mermaid’s Tears in the hands of SpongeBob… What could go wrong?",
+      "url": "https://play.google.com/store/apps/details?id=com.hg.cosmicshake",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/U_wx7ZWm_8SS5ZaMHgC_meZ_dyqTwaiKzxqZ4501g9RS0C3_mVZr0qKFxI30TnqgHSNV-ZZwJdaETID7ovdPag=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/9IGMIU8GqZBEkjeL_NgLiusyJOwoi522FdDZDtVhLeNicMWmiWyUE-4xvuGjdffCaYnB6maoEuWTQextnxz-",
+        "https://play-lh.googleusercontent.com/66HqXikZGF_S6pYfUVv65Q0dSrJelKY_tpj1PezzScqj1F84_bc74j4U3pWMJ6cDUGP4kxB0h_kP4b5as4POFQ",
+        "https://play-lh.googleusercontent.com/d2RpW0Zu6263iE6sFYkuG-EOA7yjDPkXsNQUaGnmpuyDx8n9K64Kfbj7MixiHLdUaCW_uUHhNZHgRC9Yr5QwrQ"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 3.94,
+        "downloadCount": 125182
+      }
+    },
+    {
+      "id": "com.hg.endling",
+      "name": "Endling *Extinction is Forever",
+      "author": "THQ Nordic Mobileㅤ",
+      "description": "Will a mother fox manage to keep its little cubs alive?",
+      "url": "https://play.google.com/store/apps/details?id=com.hg.endling",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/T3r-Dtp6T-00dQJH6fWe5FhfIRueNO9V2brLSkwlAks47UfRgc8hGLwt2A8qw3WpS47YmecrlCVkQo_MoYMBZg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Sg9sFcKvUcv4Xhjkgmi8kb6EkkTkC93hdMvzbrSCSO0suuIueDmGQ6FPNAaqHl2G4G1wVmoaTluFuiIglXFlAA",
+        "https://play-lh.googleusercontent.com/dhTWHF0wPiGKAoSPq6VhoOuVP-o0XnVvhBPaH6rpi1Epjsp1n2nZK_EI7NBDWOzzwFesiP17obEeIT4adYBS_rc",
+        "https://play-lh.googleusercontent.com/im4fgcon5N-G1dKEtbM7wzVb8XLBlfhL5nhVoPv3gVtScCPdXvBVyCuRAzTONeXcpvk3qyFxqZE2PRO0ww95"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action",
+          "Casual"
+        ],
+        "score": 4.33,
+        "downloadCount": 144528
+      }
+    },
+    {
+      "id": "com.hg.titanquestedition",
+      "name": "Titan Quest: Legendary Edition",
+      "author": "THQ Nordic Mobileㅤ",
+      "description": "Battle mythical beasts and save antiquity in this epic Action RPG classic!",
+      "url": "https://play.google.com/store/apps/details?id=com.hg.titanquestedition",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/2NhahLT_JmxComlRaHP4rTmNPK3lucKrTYBpCvzHHm-TQXCb5TtDJgQAf9yHv0b0FXDNhruaxzcjUepOuCsPgw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/-gnr-jKdkpdP_7B810mYJ_tXuReNBn2YNPlJ4wHETt4oC7Kogw28SKBS6eUJnjHPhsx1wV8exnP97jUw6qr5",
+        "https://play-lh.googleusercontent.com/xWum2_UNGn0pGPUBLyHgnf98gdzfp7fTbKne_K6gUhPkdD5uLPb_Ieufb9FSqiS9m-FluFAar3OVFyANFB31",
+        "https://play-lh.googleusercontent.com/iY1UdAvBO9ob2NsazKHIoaUAzCIP8NJbIqHWKZTHBTSwvVZ-TztcCGBJR8hVpe9_O0lJNNYiYm4X5lgMUmzv-Q"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing"
+        ],
+        "score": 3.85,
+        "downloadCount": 64477
+      }
+    },
+    {
+      "id": "com.hitcents.forgottonanne",
+      "name": "Forgotton Anne",
+      "author": "Hitcents",
+      "description": "Step into a hand-animated realm in which objects take on a life of their own.",
+      "url": "https://play.google.com/store/apps/details?id=com.hitcents.forgottonanne",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/FFUil3QE-NXxa8jiokmv9sNW2kXZ0XpgcYngx9Ex-4EWtGWw98vtn6mZVa-DneNIQhpvhpheNLT4tcfW9c3jYg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/-Wo50vHJgT4gL6PJnXimsN9Tk7_2YqdD95qlhHyKYii1iJoauG-ORfjQpECM6SwKHv6NTZhAJ0kz86VPeO3q40E",
+        "https://play-lh.googleusercontent.com/rePRNoPXKWMbfGErisFo_UR1FSVUGjhq1FpH-4nuxonMyvj4FsuB5MEQ3BiNHgR8hNzxGbDdoNZlm1snSF0eIQ",
+        "https://play-lh.googleusercontent.com/R8LaBvYE-tCXAEQ0zghEeXaqLVr1rrzaIbGr1-4vqDiotO1aq_RWyormVCgCkZFa6p5eUQ9F2JtEqlfoYWzsJA"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Casual"
+        ],
+        "score": 4.52,
+        "downloadCount": 932083
+      }
+    },
+    {
+      "id": "com.humblebundle.wizardoflegend",
+      "name": "Wizard of Legend",
+      "author": "Balor Games",
+      "description": "Fast paced dungeon crawler with rogue-like elements",
+      "url": "https://play.google.com/store/apps/details?id=com.humblebundle.wizardoflegend",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/TX83xwM-LmI-uDXMHW8va3SEDMmIyd1OqlAQNxnnrt8a1JqTPgK96aM72MWYerZrg9carSswgMapYVv7ro5Jfzo=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/BVdYCoNqn6Rxwvfc9PvV4NJs6DoFOR-RDuwvvBVNJs5tkZ5P1sErtm28rWMT1NAu5L89F2tajilGFm6I5vTPmQ",
+        "https://play-lh.googleusercontent.com/aKPCipcA8BNvB8vhigTeU3n0Y3vE4ekcl0EKPnqEMZq9NswMg5o1mRE48nPh96zmOz61EaIEHf85XD86Xj2gFw",
+        "https://play-lh.googleusercontent.com/aDWqlVDUQglWYDBHUOfi3RhOzbSlLf-oHygjKttBQ28fJBSkVYF58E3lPFmktA_ZnpoVYpmxhlrM5EC3vr1wX5g"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 3.97,
+        "downloadCount": 13764
       }
     },
     {
@@ -939,6 +2578,11 @@
         "Action"
       ],
       "icon": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Rrpl3mIWs6aQQQ57O0q_fJewR9MKjnbN0zLu71ziLpLLx3liDwuCCfxq5WHosgmYQccSvBAyI2SVpnL7phJi4Q",
+        "https://play-lh.googleusercontent.com/g6ZLJ5zzKtpLFrL3_KSLb0FpBt22pMFsc5Gge9SIB_FEJ9HHm2BBqYkqhlGD3qbNRTxhxBFf6PizpZl4km16Dg",
+        "https://play-lh.googleusercontent.com/hMA6zbIofPwkkJJVvLT_qnnHs0oVo0GkA6VyJuMjEkhs-iWIAmweFle8crOSYlVNdobe5UGe2VtGKZAqb5zeVA"
+      ],
       "playstore": {
         "categories": [
           "Action",
@@ -946,6 +2590,59 @@
         ],
         "score": 4.74,
         "downloadCount": 485474627
+      }
+    },
+    {
+      "id": "com.kleientertainment.doNotStarvePocket",
+      "name": "Don't Starve: Pocket Edition",
+      "author": "Klei Entertainment Inc.",
+      "description": "Play the hit game enjoyed by over 6 million players!",
+      "url": "https://play.google.com/store/apps/details?id=com.kleientertainment.doNotStarvePocket",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/IrvCStkqENOhEvgloqOfGOZ4_LDVyY_utLANW760iW4nS0WlAE7Tuxl0a3pJFQlo-xin43OC1iHr_-vunV-h=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/OctU8bB9u9N3QWFyULS2FH9fUcNXpTTGD5ALC0S0ZEqxDzO-ImeukqgIw7Ce8fcMB-DUyAN7XhFkMF5OC-Rr",
+        "https://play-lh.googleusercontent.com/qLgMkPMSp6MnZWoKcu-Qp_wlcA1p2s9fUWcu05WsDFlOKMEVm7Vmn9wWqKlHKNRfVsH-J5OAoCzVjB48XWoT",
+        "https://play-lh.googleusercontent.com/T6cvdU3DltGrLWR7A_0kuPZ_tM-5zzUcO6nTBb4K3dG3BTuyvlXQ03dltwk9Lbd0VUzA-kGaj2Db7D_moDaA"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action",
+          "Casual"
+        ],
+        "score": 4.23,
+        "downloadCount": 1285118
+      }
+    },
+    {
+      "id": "com.leosfortune",
+      "name": "Leo's Fortune",
+      "author": "1337 & Senri LLC",
+      "description": "Adventure through a gorgeous hand-crafted world to recover your stolen gold​",
+      "url": "https://play.google.com/store/apps/details?id=com.leosfortune",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/g0n7ApdTLweC9eFh81zn2KeM3JiBrWzSJwx_QrBYNb_xROphOdd0mtGpsp_rXba_88pSJIxeJREEHD0nNI7Rmg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/4Vc_ioY1NVJbBCCDZfmlWFeIME14wsqY6DiYO4r_XdNoysTQz0RklW1a2SN9-m0KDpnorrRtqzVQbDzBNPYmONw",
+        "https://play-lh.googleusercontent.com/pgzkXjvDh8rHZXEtCmH9UbWwIrk8G9WSCaY6IMKTWUgBt7zs1Ve138z2KpOW5rAQQGIg8-EQOrrjrzcOtwHyhD4",
+        "https://play-lh.googleusercontent.com/s6ioLWEmg30fn4SaxyVzWu3Es1KhTS-agslEhqqbHnNZ53eUqKw68uhwYvsrWy88hXzMm0Ev4QlzrCNnLBxs"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action"
+        ],
+        "score": 4.49,
+        "downloadCount": 943568
       }
     },
     {
@@ -960,6 +2657,11 @@
         "Arcade"
       ],
       "icon": "https://play-lh.googleusercontent.com/uJ7cBuaF0rNHxutL-CnbebRZ7yZmAOoAuiygQv1yoGez78aqNd8Arc1sUFaKSLP5GZ-2EXQiYpjTCX7L2usn4Q=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/xTICXojNiT2T3qmjJb8vM__gLoJuGq8MqOcPWU5xV2-ogd8N8Mko0UebFcXgQDMKScOJ3xcoppWevpGgPWHWZQ",
+        "https://play-lh.googleusercontent.com/AxARya1OZ0kra00KqhJC4T9lF8jLlUMI175DZcN1sfu3a2PrgxECBo2J4y-h4fxmSZgT5FuWS8V6yFPur0-FuA",
+        "https://play-lh.googleusercontent.com/xtDvMHRjoUVBZd0CgOO54jUTwA-wV-0hNXCwQAnwR18Xepu7qCUnqcNDZQC6xk9KuDrWpZnPlf_KSr6kFExdIw"
+      ],
       "playstore": {
         "categories": [
           "Arcade",
@@ -968,6 +2670,33 @@
         ],
         "score": 4.32,
         "downloadCount": 478672
+      }
+    },
+    {
+      "id": "com.mobge.Oddmar",
+      "name": "Oddmar",
+      "author": "MobGe Games",
+      "description": "Action-adventure Platformer in Norse Mythology",
+      "url": "https://play.google.com/store/apps/details?id=com.mobge.Oddmar",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/b9_EyCfljqMQpodvUGUHVni68pG3irH4M_a167nO0FMCY7EKJXrEUX64xXwPPIo3eJEqhN3hh4hrAiUWD8ihdQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/donbnlCt3C_FBjf-zwvHQ_ZMZLVK_6QXJ3cJwuDwYQ4R-CZ8F3i5f7oLVvfLWp1GxfxdRQRVxJR1xlwH9Ahang",
+        "https://play-lh.googleusercontent.com/7o9LOSgLL0uf6BbS1NiAvyMcSdnkodlLDODRF14_4WP10EZGBENIpzksI6M0VPEkGG631TLoWjka-KZKLrRJ",
+        "https://play-lh.googleusercontent.com/GEcAAgRay8QqaPGEYi-vcyHUTICaeSGD-HRVSNAkkvM6gQIQVR40VreLY7ZknbnabMhWfvNmLRJLyxLpwJMjmA"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action",
+          "Casual"
+        ],
+        "score": 4.66,
+        "downloadCount": 5403176
       }
     },
     {
@@ -982,6 +2711,11 @@
         "Arcade"
       ],
       "icon": "https://play-lh.googleusercontent.com/tI4StRSPVhpGJH5R013naszLUawOjao1ya8FvyaNO7XY_cJFHFqo1EFaEJv_7zz3rRJ5lEpLiw14ZqQLCOYc=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ywPBuExmYGLE6oL7QENmI7wOxMPOU-XatzosE6M4bgXudBsMQWcKp1QHhHrJM1QeTadoVo7lnpO5O12WyzlYQA",
+        "https://play-lh.googleusercontent.com/BURZszeq4bCuHl-KY-oAALOssOcj_jJmZOrbA21zSQEwtg92fv02Us8pU94cvggw08gBTMKC2bVSVm6opWhl7A",
+        "https://play-lh.googleusercontent.com/_7QkSZSzxD9C_YoFB8kMwW8JYVaLyq5_DYnuG91qf726BE3Gnpq9zlSAZdR2CA3yxgjkjZ4jMzpWXmtQwD3ae2A"
+      ],
       "playstore": {
         "categories": [
           "Arcade",
@@ -989,7 +2723,7 @@
           "Casual"
         ],
         "score": 4.31,
-        "downloadCount": 98333851
+        "downloadCount": 98343356
       }
     },
     {
@@ -1004,6 +2738,11 @@
         "Role Playing"
       ],
       "icon": "https://play-lh.googleusercontent.com/2_0WBpfWbTU9FbbgblMDNxKexPDLEfXP8RZ7kYiPlIBZO8NT5q6ptklpAUh34zYO5exHsIbg83cNRPUxWTyFRT0=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ao4KrqrDs0RhjLoe9aqvqbJUHfVr-3SUHKqhRMfCoV0FIVXy5oSanZd3xR1Io-DOM3pZNrUFEGr_9LcBYn3HUKQ",
+        "https://play-lh.googleusercontent.com/YSKIPBX4rdneuwNMTvcayY-9m_O1CIl-hgYcqKDalPOLLNOwntXVET4DoVAh6OtzrQxCGEfHmDcTqZVQqmKJBA",
+        "https://play-lh.googleusercontent.com/-c7i9Xi8MhKETHX2qhZUNwbGr16F2C2ur2eC7wBaMiSYx6cuEAB0dGuU9OzptAxawh0pGnfXNBpdCMdpcWD25w"
+      ],
       "playstore": {
         "categories": [
           "Role Playing",
@@ -1025,6 +2764,11 @@
         "Role Playing"
       ],
       "icon": "https://play-lh.googleusercontent.com/8g0R3yVPhRtvF9d-gFryVBD1toUytn6ZhCrkMJgRnoLRVcw57CE6qFeGVHyLsqot8WimngtkTiBXAUGUbwY_RA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/4AbUsH-XBsU05MM1BzvpkMpirn5SpauD_weBcu_06p_6viuQF24m-YTA_DI6GuxaaqpF8PvNR9O3mP2x2ae2",
+        "https://play-lh.googleusercontent.com/OXFGTqx9mTpIAk1B4f7GXfp7vTcd__ULhuO1ZHNcbsS6NQk0IpgAAibGDZpn6UuO0Zxwe6rYcbTV9d1sg7DgUA",
+        "https://play-lh.googleusercontent.com/dVDtBGp_bus5ei__bY6er_mIgld8e-EMwVY5S9KSEUCDWINpBwnJwN7Qc0l4HDrUqR8D6GAaXGNtDhDa009PgA"
+      ],
       "playstore": {
         "categories": [
           "Role Playing",
@@ -1033,6 +2777,268 @@
         ],
         "score": 4.68,
         "downloadCount": 94575058
+      }
+    },
+    {
+      "id": "com.netease.yysls",
+      "name": "Where Winds Meet",
+      "author": "Exptional Global",
+      "description": "Wuxia Open World ARPG",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.yysls",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/C077FpQVnL7G5O6Mowj-sWKdTjUwEWAWxOVQUcBwhHY1yOZePOoIxtlOS5Tn9kIzLoI2eU8BWZ4Nh4ufS63zBg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/a3gBDcT7jVrWwCajIJePlfN4bytQKvQ-o1TR7Fgz8vTocJGm6oapG7IcWxMhrepaa6GH0S0CFjqh3dF67evzq8g",
+        "https://play-lh.googleusercontent.com/o-aKzSD9ezhDzPcfMx6wqZPf-xmXCk8dCaembUYzk7EnsH2rCn0M7C19dDWUwiMcB2byw8gmOwxVSivAd1SMMuA",
+        "https://play-lh.googleusercontent.com/foOcDgGdrhCe97u6u8dXoA_u1rY1NT1PVfnXRMc-06jcpOUVCvL1ybrE_utxQCSdiSJ5JgFSs2zlpxc5t5zrXxc"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Role Playing"
+        ],
+        "score": 4.26,
+        "downloadCount": 5937812
+      }
+    },
+    {
+      "id": "com.netflix.NGP.CozyGrove2",
+      "name": "Cozy Grove: Camp Spirit",
+      "author": "Netflix, Inc.",
+      "description": "Cute Relaxing Life-Sim RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.netflix.NGP.CozyGrove2",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/_TZQ_xUHDq5dQt3soHAWNiQVm1GTAo8l6z8L4n16B4J0t5cV7z-AXl9zTWVe4VnGYElnvhMNgcQU2wh5V_zW=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Wt7lt1QpXzYxG4KDwDYB5jiV4fTypyvtFRX5qIQb6mOK7rMdShg34jILrWU7tI4VWo3n3O9gyeulYToJSJQckA",
+        "https://play-lh.googleusercontent.com/0qrsoUhdNMMhTs4Z8qAPL2kOHQVdgcXExwtoAR4HkY-lPBfe1dszh41n84aQ1Zl5mlhLx7r4xqrHF8O92KyXwzY",
+        "https://play-lh.googleusercontent.com/Dc9-kAVUSR-4Dd4MCpjGY5OtFQFn2TehOxm_HOzMUI3QjFUzu17Ybks0xBIcBxtYDKNhPhpFiFek4hkcQEqWHQ"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing",
+          "Casual"
+        ],
+        "score": 4.62,
+        "downloadCount": 488527
+      }
+    },
+    {
+      "id": "com.netflix.NGP.Spiritfarer",
+      "name": "Spiritfarer: Netflix Edition",
+      "author": "Netflix, Inc.",
+      "description": "Learn how to say goodbye",
+      "url": "https://play.google.com/store/apps/details?id=com.netflix.NGP.Spiritfarer",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Simulation"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/mQqK5lPADyPQxTZmaUZc26E4PclNOCzkj9gAVr_urjxT5HFiHCtndb6EI0FwG-_LP-z9uYUIteDQkiFW3a9O3Q=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Su5xVtDC_CYPUu9gCVPdrTvCl5tcUp8HXqMma59ZnGk-yflwaKIRXqJEoyQlyw_Q0fIMDYqD19BF9eClb44s",
+        "https://play-lh.googleusercontent.com/bM1UMbgM6O3OkWrNiNG0uw1Gqhh00x3YjepYwN5NzZhUk4zr0b97rKCM5m1_fEASALYCLa_8DDlhHzLbLQ6IeWc",
+        "https://play-lh.googleusercontent.com/eJoOpM8or7z7wp6zrwlpHd3jLHj2dCYVArazu81l3ov8138GTeDaSMFkx8oKhYslsEPrH13w6uovo9gkwbwarXM"
+      ],
+      "playstore": {
+        "categories": [
+          "Simulation",
+          "Adventure",
+          "Casual"
+        ],
+        "score": 3.83,
+        "downloadCount": 923444
+      }
+    },
+    {
+      "id": "com.noodlecake.drtc",
+      "name": "Death Road to Canada",
+      "author": "Noodlecake",
+      "description": "Death Road to Canada is a Randomly Generated Road Trip Action-RPG.",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.drtc",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/RI0-pZFk09Hs3zV1qt7NtZmLSL3PPenvjAI63h8kZXQwpMbeuep9KJaPeu3aeUy3_V4ANEAP_9QdArdeGpW_sQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/bfGfw4qjQacuSeUg1ufQae5Zu7M1ipvcwwcZPpu7tXRuxY0deBnp7MXtll61Oah1MeG_3oU1T4kYYDEiaKEhag",
+        "https://play-lh.googleusercontent.com/nh67PIUndNC_owWmi5Bdz12cG_eLPQAGm8Byxla-ttcu7-lcHfLp_5ipygiG10J2QzNMm60ttsqexVanPTatWA",
+        "https://play-lh.googleusercontent.com/xtU3iHNNyv-JzArXqwPUkR0SAB0wluRYA5mq5CkNGHo4TiFI9M8tvdtTSetojHlyHkJbfXT9tLcVSJPwBrpLxw"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action",
+          "Casual"
+        ],
+        "score": 3.9,
+        "downloadCount": 518094
+      }
+    },
+    {
+      "id": "com.obysfarm.adventure",
+      "name": "Oby Adventure: Platformer",
+      "author": "Oby's Farm",
+      "description": "Jump, dash and explore a charming platforming adventure full of secrets",
+      "url": "https://play.google.com/store/apps/details?id=com.obysfarm.adventure",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/6t92dq3zw26e6nBircCt4kleZrLYZ5VA1YQSBVdHtjr_4UqH9Q1A7T8dZYUc_aghIfXCW1JjkbkY8zeBIYCu=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/LlwtBGAOYDSB6OvlnLc9rxZWu_c3J-J0jhljGBEzvAwTnPg_M_yWz6B-p8wrP5kTtMqrkxnUjGqZu15wyltY",
+        "https://play-lh.googleusercontent.com/qloGL408t-LRHLXk7Nplm53uHOWb39IYCbTYSWdrWH36eTsR7ycDVS2iB-yE_zYYj4uuIt89Xtc00324zZr0lA",
+        "https://play-lh.googleusercontent.com/sSoALr43A6TPTmd0Ro5Q7Pu9xeHV1gr9A5GgTYNqAFpKUTYpz_AFWOg4w0gJOJfaPtJcwRO5CykPUlHwpmPeLw"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure"
+        ],
+        "score": 3.24,
+        "downloadCount": 16862
+      }
+    },
+    {
+      "id": "com.orube.liahd",
+      "name": "Lia: Hacking Destiny",
+      "author": "Orube Game Studio",
+      "description": "Fight, hack, and survive!",
+      "url": "https://play.google.com/store/apps/details?id=com.orube.liahd",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/WiMF19W01m98H6VCQorrnuswfZDm0lAfmAJwiI7ZE7pkm6-zC4d-4IcYaBTgbCoNWtaqfNlzhzVqwSf0WHxERw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/QEgsLfeFIyqX7gBzQ8GifXbyxP7IcYiGQ0a1JcPkFxefYbuVb_kMXp87FuT5VdrS4bnxtXkYz5WZFAAuSJWvbu8",
+        "https://play-lh.googleusercontent.com/0UOIhPH9i4u9UUE1I7_4LEwTEbeI_dUws_qIy9ychJp2WCbEFLbMMRReLDMtOyue8ey6_NxC9jXr_CUcKe-Kag",
+        "https://play-lh.googleusercontent.com/mbWgp79vZl3tTWqaAaQKFnPuKadgfNQDte7H4b5pKvl3kP_eyt8pgIit7Iw4VRXCcRZvPMCJ67DFSuGbuqQMyg"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.21,
+        "downloadCount": 18516
+      }
+    },
+    {
+      "id": "com.orube.supermomboquest",
+      "name": "Super Mombo Quest",
+      "author": "Orube Game Studio",
+      "description": "Bounce and stomp through a magical world! Do INSANE stunts and get huge combos!",
+      "url": "https://play.google.com/store/apps/details?id=com.orube.supermomboquest",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/arABF8PNmSiTilTKt36vojDyEf2vmB7LUIZn8hNehJV5SoEoG1OGClbYOPJV3A3OJpeuW-Rp0Hif5ENPshgZTKA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/lHB2jLQ51NvZosSZnhslqxnTiZU74fzEXIyUixh80Y7X70yzbhxQhvzZ2yUDGTKF950QjnNADnGw2oBqKB6x1-M",
+        "https://play-lh.googleusercontent.com/L3b8Dc6YiwnU2ZaN4JMsvTuO29EWIJecnQgixPpkhlzTSp-76QjuzrAfgMe6WUmOGKnNsOjc9nHv_MurRO7LJw",
+        "https://play-lh.googleusercontent.com/q-B_Gk-MqNiCqJZW4h1fudIA_Gf-UT5yRrpywpkJFTBhvDCYcsrHBuQI0wX1peL10cD5hPeIhxMInOfVUCDf"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action",
+          "Casual"
+        ],
+        "score": 4.69,
+        "downloadCount": 3049544
+      }
+    },
+    {
+      "id": "com.overthetopgames.fancypants",
+      "name": "Fancy Pants Adventures",
+      "author": "Over the Top Games",
+      "description": "Run fast! Run Fancy!",
+      "url": "https://play.google.com/store/apps/details?id=com.overthetopgames.fancypants",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Arcade"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/TCx_u8NU40F6K8C7McBjI9qwi7t4HgZT9-HvwuWwmzFt5OkiU8wHrj7tj1I5f6DbqNoIVbKChqnKG8vr65--dg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/jAuJDYNlUbfOFzp3k85AHvkh3TWvSo9d8Vcm9hR0PovRmIr_JyZ0jjHCytYvbkZmKD84Oq5bveTMHjcL8Au9cw",
+        "https://play-lh.googleusercontent.com/WbuRzavdYHLSr-50f82hNGD13l5GICCJjB-ch0KKlJsbqw8d856S6eAXyZwPzRs8aMAIS91acL1ww4rSdxDlcA",
+        "https://play-lh.googleusercontent.com/MLv1zHpkfl4CnVXh0W1xfQFxlDGKgMPeyx1c5zl857IkGG0FGGzUuWN7LR7Im-_Tj9pPPHm6ym6AiPvP9svw"
+      ],
+      "playstore": {
+        "categories": [
+          "Arcade",
+          "Action",
+          "Casual"
+        ],
+        "score": 4.47,
+        "downloadCount": 17999239
+      }
+    },
+    {
+      "id": "com.pid.scourgebringer",
+      "name": "ScourgeBringer",
+      "author": "Dear Villagers",
+      "description": "Fastpaced roguelite platformer",
+      "url": "https://play.google.com/store/apps/details?id=com.pid.scourgebringer",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/8eLDb9Errbqgz_JNuMAto5kZ_FArP9KlbpKWE4ovcUKQkxg3rq_-rez-X1VbwCvOtJVdONUYVUARF0waGkGHhA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Ae1LbenkM4HbPUAjl-cT3k3M_H0YM-U88SRORJ2_fv5dpVm-SBSUn3Er-6yl8pIi6sZhWGDX8CbJAD1tiBFOLw",
+        "https://play-lh.googleusercontent.com/iAwrwCd2hFA0g3-9y9OmfC5SCDskfigWH3lnlYnA0D3stye0GTfRqM4vzt5SfglVgxQyBjyPUDZ6cObOAS5PlD4",
+        "https://play-lh.googleusercontent.com/iB3abP8O1JTh_E_zBBOLocDcUd0zlmqo091icLvF5y78Wl1VSi_Z8jItxLf6685jVpVDYMPhAhn5klyW_VkZ"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Role Playing",
+          "Casual"
+        ],
+        "score": 4.81,
+        "downloadCount": 217283
+      }
+    },
+    {
+      "id": "com.pid.ugly",
+      "name": "Ugly",
+      "author": "Plug In Digital",
+      "description": "Face your mirrored self.",
+      "url": "https://play.google.com/store/apps/details?id=com.pid.ugly",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Puzzle"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/BOh5y5WFEE3QYrgqSxXwGrjvnux0-QC1zV3HVT_l5FwRbOs-kvfT2qOFbq8THBSHap1mYp0JPI8QqJmgexlA-_g=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/O0QxiWvr0bfzxRwhwyBRPMwEoYCU-SwNmeq3SaR00zdaLR6Dm3PttvccB4vijdOPIu6jlSx26goOdiwfgJyV2II",
+        "https://play-lh.googleusercontent.com/6yQCg_B_wMToA3hhs6NSUWlIzEiJZooguLDrjVt63uOCN34m0V3POjsOGDoD256FJ9XbpCtUbDVFFcGvBft7WA",
+        "https://play-lh.googleusercontent.com/b1Tm23tdD1A3KHN_dWk0fWy1GjVLZGoKKAKMzBxV83b88B0_zy0eNK6UBM6KVPHzoXdFYrWWYXBMBhDlMZCKu5E"
+      ],
+      "playstore": {
+        "categories": [
+          "Puzzle"
+        ],
+        "score": 4.26,
+        "downloadCount": 1753
       }
     },
     {
@@ -1047,6 +3053,11 @@
         "Arcade"
       ],
       "icon": "https://play-lh.googleusercontent.com/iDsUVC6XN_VZKhhqhtjpRB8XDgzyg6VreRMCY5FHGonKEq3ySefOdb4Tp_yRFTXsW9FBItealULNZ4VsT8gSwA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Q2fQsnmUghYpaOV9b1YAplOLlH_tEOfekvNti84W3QcZjgjqP8z-7pbCDayBQ_PCzSK63jBlHfjUokBGYpdIKg",
+        "https://play-lh.googleusercontent.com/NnXAt-yLqmwG9e0ogT1obWgan6gJmpBESmRsKIc79cGb6UFlCxGi_nfb2wm1vLP8rOWw89DVYSy9CJJLJGi3K4c",
+        "https://play-lh.googleusercontent.com/ca79PGIvdOUsXsuMDTm9qtFThoVfwnm5BibvUw2UzDFhl3FqrBiyN21z5_x0-y4zp9W6ktqZ-nitVH34Xol0oA"
+      ],
       "playstore": {
         "categories": [
           "Arcade",
@@ -1055,6 +3066,82 @@
         ],
         "score": 4.29,
         "downloadCount": 3156790
+      }
+    },
+    {
+      "id": "com.pixelbite.sg",
+      "name": "Space Marshals",
+      "author": "Pixelbite",
+      "description": "A Sci-fi Wild West adventure in outer space!",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelbite.sg",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/wq9sFKw7U9Tw2PX9xc8YjGLy8lO7fKddd0_cdDOQrTI_8ap08usqby7HoXLztUbVfK11oYdzfl8vM9Xe-Ir-=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/OgEqn1zFe4GPVCnBzGL4jXhLajOl3Kh7lxwpmAXAHZfnRPIcV32AOyUlnEJmPkd5YA-A2h8XmgvAKwk5HEzs",
+        "https://play-lh.googleusercontent.com/ycpN-pWrDjfvDYEyxjIjshc6JbXCELb0-cg18YLGymnJ0EK9aYcFs2dyZKezWCzgZ1sQe1iC-uULQLxJxrwBpA",
+        "https://play-lh.googleusercontent.com/neCEH4Ky3Daof6Hp75yb3GrcKLYSAMt967KsAcWVzHBG2-X2Nbj5Vpb8cyukHZqZoCsBj-eYWmmfjnob8lqp"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.57,
+        "downloadCount": 430995
+      }
+    },
+    {
+      "id": "com.pixelbite.sm2",
+      "name": "Space Marshals 2",
+      "author": "Pixelbite",
+      "description": "Tactical Combat & Stealth action in Outer Space.",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelbite.sm2",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/PDCeAHCBCpNwwQFq8-X2JdMEScNR4xDJakdW7UwBhaTCgBDzYQF3NJjU4tV6z1cGCf9ExK8nyg54F6fy6jCfYQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/pU9d2g3ipKiVqGtslfOtJFHtWi7VxLOW98Q643dxjxUzs8cVvSWk1C_yw-QGDk-RkIwY6kY2mqnDLCuWPJ_z",
+        "https://play-lh.googleusercontent.com/LEzhl5ywfH-E5trvgTMcruzFYnXqQeBtdl1uhwsk7WeVHJe2orlJ-GvUzDUMkdraS_niHJq7dOXGPfdplZwO1w",
+        "https://play-lh.googleusercontent.com/ZNaMhT36HYyPOdOuNCAZGBF079UTS0bQInd4G0JoWMJdFGw2HoPVUy3NFOwc0AOlGrBMO1wi3CLoSvKNEp0gP6k"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 3.92,
+        "downloadCount": 10444457
+      }
+    },
+    {
+      "id": "com.pixelbite.sm3",
+      "name": "Space Marshals 3",
+      "author": "Pixelbite",
+      "description": "A sci-fi wild west adventure in outer space!",
+      "url": "https://play.google.com/store/apps/details?id=com.pixelbite.sm3",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/mipe-kv6wAKciVt7sG5RYNk_G8h1KXh0bDaFfMEwM5KZ8zHYdsnaBRg4BfcPzqChlGZAGmdeJbrwldjKJSgq=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ACpZyHh9ikuMNoc3FA6NQRQbOds5PNTqXoYTsqaV6MggD7Va0E5VD4FlZQXHZW8gngGMZKYbSTixolkCCWS84fM",
+        "https://play-lh.googleusercontent.com/5wb-LByZ4jq1Eo8ZMw3TA8M1Jdw86g1SoAG8IyIPd65qdfr05eDDYJw4BNmyVaU0PXkSk6IOm1vVIjQWwdeW3oY",
+        "https://play-lh.googleusercontent.com/MMo5JlXGOYsud_7MuBeahvjtALh7Y1vgdUDxuhcFdJxlCDbG2AZ24UcanWV9MMcZi0jAFMJq-qYa0N5sAQgh-Q"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 4.13,
+        "downloadCount": 1297231
       }
     },
     {
@@ -1069,6 +3156,11 @@
         "Adventure"
       ],
       "icon": "https://play-lh.googleusercontent.com/Lo7w-w7NzCvSxNcPTxhDplX4gq_QCmr5ycjnSKqjD_YH2FAi_NnJOKCjbCLt9rBZ5uywopxFRgORchf8iMpUUHM=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/uS95PxOzYvU3ekdcQZVwSYo7owsUDD8Y-Tcn1kzfgKRLV9rjgqkE6yQo6EafUMphG1OgqbWhSmda-4LlbnXn",
+        "https://play-lh.googleusercontent.com/byDj9S07zHFslq_CAEhqFL_ohhlXdEPUkESczOEA-Oyq9Mz2jVlPnk9KBdkyaz0XTD3CayCtCN_x88jfY6H7",
+        "https://play-lh.googleusercontent.com/3_xyVPHrKP5RsMDrI6DiRJwyeCSQhkun-TiJCDzLMVzM09IkrRyXTZLNaygwDqPccv6HkP0ziXIVNOl8QcSPLMI"
+      ],
       "playstore": {
         "categories": [
           "Adventure",
@@ -1076,7 +3168,58 @@
           "Casual"
         ],
         "score": 4.35,
-        "downloadCount": 3857513
+        "downloadCount": 3857586
+      }
+    },
+    {
+      "id": "com.playdigious.chantsofsennaar",
+      "name": "Chants of Sennaar",
+      "author": "Playdigious",
+      "description": "Explore. Decode. Learn. Link.",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.chantsofsennaar",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Puzzle"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/Yoa_IrvNd7EXNMasLf2_Qeb7kXNGYMC5y75n0bzRW6KDK2u0Y6YmW_k06F4GVX7aCx7ck5N_gz3OOdATKXgJLg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Ql3GZLU1WGEyyduDGHitU57mpaAShDCKhCpB4FwX-tyG54esCZ-a7qT5Lu-1QRjS_fs1OCNm5G1xhy2wEBWADg",
+        "https://play-lh.googleusercontent.com/VjtnidPX8JOZSx-g57gpGCXhJfnqWaDpydUVkFutr3oHI_nvkC3HqvNvioqRoFn4xsVYWi8KoEHf99zyEwm7wQ",
+        "https://play-lh.googleusercontent.com/g1RmyvhwIBVrkGQoZSoG92ruJSIlExVwc9JvV-3rh8dFrY24WrnSQqLobm7909QUlE1CHJH4sEK8TZqVPmgdPA"
+      ],
+      "playstore": {
+        "categories": [
+          "Puzzle",
+          "Adventure"
+        ],
+        "score": 4.87,
+        "downloadCount": 351288
+      }
+    },
+    {
+      "id": "com.playdigious.childrenofmorta",
+      "name": "Children of Morta",
+      "author": "Playdigious",
+      "description": "A story-driven roguelite RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.childrenofmorta",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/yx4uhl1Bp2V8k8IKcs-QF0QoI6Q4U-gsjkc837HykxYxQvtUdqtqPRbVVmf8-MVt2cO3DPlzTlTBk2g1gtLYvQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/4OiAA8-r9XkmPFhXTx5K0IpQ4RGI-gZ758APcG72JUfTPKUVl8cWGjnse1JiAl2dDswHZG6DqKRIsShMTlWUqw",
+        "https://play-lh.googleusercontent.com/n70-SPHamqzRYLaMVltIeq5y-KpTJruyZ1zrKQ2d-mLwO22qTXVx5mD3pgQ4abpYoEbZVLVStBYgG3yqH0XhAA",
+        "https://play-lh.googleusercontent.com/-LpI_NqFy_wC0zqMp3RdzL3HQlMqFGydHVugVhrp139DRykAslcfx84is39yCvKEN1UpYkRIbD8Zqdmz9qKT"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing"
+        ],
+        "score": 4.54,
+        "downloadCount": 138913
       }
     },
     {
@@ -1091,6 +3234,11 @@
         "Action"
       ],
       "icon": "https://play-lh.googleusercontent.com/n0bJeYsKsrAD7hByDv0OmdHuoYQ23kXFsu91iGSLwhVXwlb65xe47TKwdeRGu7vw5IZ25_SoN24wOrZOzrtt_QA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/A-whA6AMou9VzBgEXuyD-Jc7CmDpwJdZr-1ZpS7Nplsx6y0NwaOKdV3gIW0MCN6c5ad9d3C7mS1_6JHitdHVYg",
+        "https://play-lh.googleusercontent.com/i406UvkQMqTx-07yGy2VFH6YikL3dyhaKT_P9aAkIB-qBeNuwZjvfQTi_JGUWxhcm7ci-POXLt8mkuWUthmiGQ",
+        "https://play-lh.googleusercontent.com/157Zc4J5U4eyLu75E9HY55gdiKEIknYTVtMXG3YbtSrzeoGm6zwT9X3mt0BOoqNrp5KoVZ1l4bB2ZRij5q-xYg"
+      ],
       "playstore": {
         "categories": [
           "Action",
@@ -1098,6 +3246,238 @@
         ],
         "score": 4.8,
         "downloadCount": 2040965
+      }
+    },
+    {
+      "id": "com.playdigious.potionpermit",
+      "name": "Potion Permit",
+      "author": "Playdigious",
+      "description": "Heal the town of Moonbury",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.potionpermit",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/c9tXubB2EgmtNwKvNsdpE9UFugKMW8_C3ab3rUbR8uvS72YFl3AXuwSZNSg5xB4tB0Yk2IJcqrX0tlxnVZ5itw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/5lEcgjK5501o-0Br6EnPkGpwC-HGKQQfunZkcjLRy9Wm77-Jm4DDQmKAp-IOkS3sQH-s4JvmFK86eCjBr4Idjw",
+        "https://play-lh.googleusercontent.com/VHL2iVMXRn8uzmgDJSydPr3YGGDJm_g2yWAaUHQ_fZsKzoYX9VxxAcGIMmrW5Jn-uZH0Nj6w7svVVcodDU5Y7g",
+        "https://play-lh.googleusercontent.com/O5ELWieTq5vcDLWhXOL3IukkDITrZUwNcaR6Fnaz9uKWBZazhV3xVCqmJplaZ7RZ53OtzAl2N3jXFC-trNPxdg"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing"
+        ],
+        "score": 4.48,
+        "downloadCount": 340104
+      }
+    },
+    {
+      "id": "com.playdigious.seaofstars",
+      "name": "Sea of Stars",
+      "author": "Playdigious",
+      "description": "A journey of peril and wonder",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.seaofstars",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/uNNNzA46WAZOup2z6tvt35a47Hx-qDEy34mDmrIZFP-W9qEjnKyAwHOKZVkSVOv8XIDKjjMPZtD-cguDjZrz2NI=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/cp6tR3siCcRhJZqZm7ZLpHkxMkr2glN7sNtHZ7Iq2VmGTfrRhVeGFK154JqD8HJx34sYStKH1PZY0gqjGWl2rXc",
+        "https://play-lh.googleusercontent.com/Q62j2fGJAT42CZAV31U-zzhLlmuWqyn6bf09VdbuV5SaP0V7Oxi6qI1tFxnXMMKRAh_ThDT8fcpG7CuxmLW7AQ",
+        "https://play-lh.googleusercontent.com/eyrqX0cY8mTjVDcjuVc1xTgfFyIXrcUYh7YEdJka0t43T2ibd2pgFqyRnDokvzEdX_4nJfQNYbYZzBpdMOL0hfI"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing"
+        ],
+        "score": 4.18,
+        "downloadCount": 50574
+      }
+    },
+    {
+      "id": "com.playdigious.sor4",
+      "name": "Streets of Rage 4",
+      "author": "Playdigious",
+      "description": "Punch your way through the Streets of Rage once again!",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.sor4",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Arcade"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/fP7atrfDcPJVgFSuY5bmfx4kbvdu2-wfrwcJaHy4XZU5piyxYpKJaulXPXrWcv5DB3Mh-xF2QYI71xV7675g=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/cBB6zk5enYN2psrCQ-kxnjnpszuGHf615K8xjRclbsZUMlCQhdd3s8t0TYiJ4kUjPjTNaTpQE9miqV1PMAMlCg",
+        "https://play-lh.googleusercontent.com/oXgmCZ08QWEuhK7njdmYmUOi3rneej5y19UAkoyAz5EB-mKGIL2EwuEtN6_3ZkkHYhcVHY3U7Ub742JJ3UPNTg",
+        "https://play-lh.googleusercontent.com/UE87aMhCZp4XkdXx_-EGXDFtdRB2w6F_0Yt71jdzNEhGvCye5eHukHRlbZYLmTqEpAVvHLdHp2Jr10ER-hov"
+      ],
+      "playstore": {
+        "categories": [
+          "Arcade",
+          "Action"
+        ],
+        "score": 4.83,
+        "downloadCount": 266302
+      }
+    },
+    {
+      "id": "com.playdigious.tmnt",
+      "name": "TMNT: Shredder's Revenge",
+      "author": "Playdigious",
+      "description": "Turtle heroes beat 'em up",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.tmnt",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/ZEebMrVv7qgHrpdShmql62Bby_8_FF-M9w5sS6OkQih4zeoM6t0TSKrYIJJEuy_qt2HqFUhgPSDRR4VBzNfo=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/EDTeIWzs6vo_NGcJlO93wMjZ_M2a9sgt5r8DAFZtxutg6dp18fzBm6phscedS5ZhTw55MsEix0UNL_elzMot3g",
+        "https://play-lh.googleusercontent.com/BPOpUQagJ0tAEDZ3nUfa8BaRYbIx0GacmV-Fx_PKqxytrPkn3AdyiaWeYg8vo1Ek3meJPEDy0L12ycb3yOwOuhQ",
+        "https://play-lh.googleusercontent.com/CFuHSinaJOwwC-u8Jhz54sx3VcrfHwI9KoOSbZ8PoPcj3yA3fffRrrf6smiuyXibj7vp6QWrOfk_T-O6Wbsa"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.56,
+        "downloadCount": 1751755
+      }
+    },
+    {
+      "id": "com.playdigious.whitenight",
+      "name": "White Night",
+      "author": "Playdigious",
+      "description": "Explore the past of an old mansion in this black & white survival horror.",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.whitenight",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/zD7v_8rYIKXucfd2eodnHbJ-0eL9Jo0yXH6tIEcqeeAP3VsQHJkzayPoteQZNxDk0SfUHtAZqUUGFP1QWbU0-w=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/fZaA51nF__xQqhjpYLfpr8XWCm4FCLs04-2Mb509SeXOTW7-eAMZhm65gUhIQbKP2RJg0HruL_6mlQpfJqza9JA",
+        "https://play-lh.googleusercontent.com/gl_LBWW1NQaYnh2NoGwCXQBuEu3BVXOvnVIZv-uOEERYEC11o-dF3PP0HSX8V7yMA78bJMDkNBVP6slxREXx",
+        "https://play-lh.googleusercontent.com/-IUWXBsqaZvTf5nq3mMPNw7ng0JgwyQyuN3Yv7FFd60EfRI2Oj8Z5alzoFU5-1qQr1FnBpFJMPASyVFs4613"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure"
+        ],
+        "score": 3.15,
+        "downloadCount": 15150
+      }
+    },
+    {
+      "id": "com.pwrd.unrulyheroesmobile",
+      "name": "Unruly Heroes",
+      "author": "Perfect Game Speed",
+      "description": "Set out on a epic journey to the west and let's kung-fu-them-all!",
+      "url": "https://play.google.com/store/apps/details?id=com.pwrd.unrulyheroesmobile",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Arcade"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/HcVZ4XrBhjqOsvg8uxWQodSCTem_o6bxa_VRJti27qzurjfVb7fHeUjoEbmKbzu4UbSHFvMoXb6JC4V2pwCTng=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/9wkPjW3Wc1l8kdtHmAuZP6Mik1Gug59MC0LxM62G6S2Rmsduxf6O0_TS8x7scadBubnERWo3tZ7C0zZW2v1N9BQ",
+        "https://play-lh.googleusercontent.com/5qYldqq5TBbGc5bgPCnDd249KwkhfVn0csXRaUgjs-gk4WjtmaxIhTTXnj1qqLaL4j6IJ37srM-4ZV723WN0",
+        "https://play-lh.googleusercontent.com/P3qeI8ajtSKbqmj-aXxJHxHUGJ96bvK-HX1sXEmEdyHmrAHoA5LMZCBP9tRMVkrCahaD4JVyDZSqiF15sTws"
+      ],
+      "playstore": {
+        "categories": [
+          "Arcade",
+          "Action",
+          "Casual"
+        ],
+        "score": 3.45,
+        "downloadCount": 35818
+      }
+    },
+    {
+      "id": "com.rawfury.kingdom2crowns",
+      "name": "Kingdom Two Crowns",
+      "author": "Raw Fury",
+      "description": "Build your kingdom in this atmospheric micro strategy game.",
+      "url": "https://play.google.com/store/apps/details?id=com.rawfury.kingdom2crowns",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Simulation"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/kAZBQRqytst23LyVjQYsPav0W9cFym_juV1r3J_Jhmep5U5nAbpumUNvxzlGT2FiJWTOD4rmVuI-AhJlnjpD=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Q-blo62F_Yxy2vUr2Bk8UQ0G13J6wTjqE7YQl-aYtjlAi8GbT560QH9wCNBcKwdJvujzfIh7cB0QQuMalJvojxc",
+        "https://play-lh.googleusercontent.com/BHxkDmoi-DZKkevUrgjBsyaqmh0LcgMc5J_0Oom8rZ3c5z1HT9ZuPMm_x-klmah-EhL4C-_MsLE120Ha1rPLoA",
+        "https://play-lh.googleusercontent.com/r-rK9ZlVZ_khiADGrAhPVZh4k1BwHenkElBq9U043-u8JbBFFpOm4pRT6w3DCPoJQYuLNEfKgyzEfbO7bXUE1g"
+      ],
+      "playstore": {
+        "categories": [
+          "Simulation",
+          "Strategy",
+          "Casual"
+        ],
+        "score": 4.02,
+        "downloadCount": 584666
+      }
+    },
+    {
+      "id": "com.rawfury.longhathouse.Dandara",
+      "name": "Dandara Trials of Fear Edition",
+      "author": "Raw Fury",
+      "description": "A Metroidvania Adventure Hunt",
+      "url": "https://play.google.com/store/apps/details?id=com.rawfury.longhathouse.Dandara",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/he4yAY2ON03TGn5glfWTWDY7DPgo9cSWU0BqfKHtLMPT59HBaIkDY27vrp62paazsuNKaXWLG1oHjdbi1Ip9NA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/MW79z76X5FTaKju7iIaVDVtHKPybBxgFVOsTsQ23Ym1ENng-2LSVQ5RpkYXkWruoCK4yhV7HDwJiTl6D4rZc",
+        "https://play-lh.googleusercontent.com/wEufscHhFS6WS04l74zpKCWzH0k68Bq4nVL2IoRiJiSUy4xpJsWI5I6lD1zTooAI5mi0nmM_CuPfBmN9bI8U",
+        "https://play-lh.googleusercontent.com/P-lipE4kMdfU6vFcTYjX8nLj1aSdtrTz3ekwXl_mFXmq9txEcscHueSkku_oTobqPZE-K1WnjTIpMi2HEuC-xw"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action"
+        ],
+        "score": 4.09,
+        "downloadCount": 199726
+      }
+    },
+    {
+      "id": "com.rayark.implosion",
+      "name": "Implosion - Never Lose Hope",
+      "author": "Rayark International Limited",
+      "description": "Bringing AAA console gaming experience to mobile devices.",
+      "url": "https://play.google.com/store/apps/details?id=com.rayark.implosion",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/YHNXVPfheXUOd2a_6kvUsRHsAiW4lec24UOvIJbFlRvwuIYeby4nEjub69lJpzy79m5wbDZq7cwn0QZw9BE1Abk=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/XuZjG-4tOFP7BwxBnbeoTCiO49kSSy5PvC_YJncxC6LP0jzaVa5616Ag23Sq_y0e3UOthnTh6fu4DEo29Bk17fw",
+        "https://play-lh.googleusercontent.com/9pEnw7pLu5ZQ0BL4m_0Bd_5G80BOtdvurpKsDc5FKOf_3FwCcoJHOf-_PKWwGNY7YoGHON9cSwg8-mG2cQ1wHg",
+        "https://play-lh.googleusercontent.com/l1rU-4c2sj0EIBwYf9mDXVp92MluQpRDPadqoIE39Rphhawu0SjfaUp0zlhy7p_r0w16GVIavEVGxEhf3kgiAK4"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 3.07,
+        "downloadCount": 9017782
       }
     },
     {
@@ -1112,6 +3492,11 @@
         "Action"
       ],
       "icon": "https://play-lh.googleusercontent.com/q46PWBcY3W8DndQPQ0iEto0_r6cWCJhfGkJG0My4Vi-fiGsPlZQpPsiQ9oLnPKgI1cDz4GMXloWPfxfKO3wzuug=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/4sYPvCk4ZwcMAsJu9570tP3iPxulrDv7cJ2NYZGoNqE4mMjX4fT8I2qV-RMTPZKuFB6IBONbTEKOS513ZfPPAg",
+        "https://play-lh.googleusercontent.com/Vf8cgP5t9kmSTxF9AtW48nzJ3KDwAUzyb8vKHTIBBVKeDM8QNbAOMn48IYNTA5LqeDBsoW8W5ZEI3PpwtkRqWjI",
+        "https://play-lh.googleusercontent.com/yA9qJIBw4vW7uq1WAIwCHVj_J2ktlcRtL28Nm8k78FEO9ccU6C_kCsp8ycdIIoCHh7_q30nCApBs6CcyzIlGv40"
+      ],
       "playstore": {
         "categories": [
           "Action",
@@ -1133,13 +3518,18 @@
         "Action"
       ],
       "icon": "https://play-lh.googleusercontent.com/PU-DyAvSCkt1vKoOpDBT_WYRA0MshhGfnqhomd6NlFopZALd8q3-K-cUxJ9RlyjLIKBYCmEyW2pTqTckz97z5A=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/VCpKXE2NRx9MoVftRpIkb2mp2xYMceXUR0oE2VNOw8mgWosOofhhuEDSXpHuGQ4q9nZtBxx-yV9qHdM7xt5k31I",
+        "https://play-lh.googleusercontent.com/S0kb-x89u3LeZKnNdw2E9Ou7PVuYvJHT8pfvc_45b6ruXWfzqBXS-G3tHvSD6Ucwj4TkIAijUvUOFMGzLsF8ooI",
+        "https://play-lh.googleusercontent.com/gXGcqthFZAS1FWg4Py7y2gopDLZUkZaH6QUTxUuQMe9M0zAMsmvupVricWTJL3-_Ru4FiFVjVOb7Q6IwIVmhN_4"
+      ],
       "playstore": {
         "categories": [
           "Action",
           "Casual"
         ],
         "score": 4.36,
-        "downloadCount": 38905728
+        "downloadCount": 38905864
       }
     },
     {
@@ -1154,12 +3544,42 @@
         "Racing"
       ],
       "icon": "https://play-lh.googleusercontent.com/uDuLMWKCT73AokNnTSWE6PeS7Trjh_NAh5QVe0u6YG-djSpw1CtlvvilFDhZQAInwW-jlWq0sks-jihcWM_Tlg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/G_2kkjaW4OHxhd1IzPkFOiNbBgoqo9SkqieR5VBg_Nj4peZAReYuTp09Muy_Bmj32mtsx9z0DjfxFBTVvC1h",
+        "https://play-lh.googleusercontent.com/ApnQ-QcWgxd742wsPo5B2YmeV8zRFgO_rdMPQyQjLLGUSTl_Zq_2BXdeXSi05MI9tOAHdYzHSgbza6uqOCKWIg",
+        "https://play-lh.googleusercontent.com/uedVz1GCJSqAyHAdkLFJJ-UF18hJWTzbbK7DmS9gRUsch2pGH_HGSD6XBs7G9slfcyw6jWcmuhr3fKsoIpn11ME"
+      ],
       "playstore": {
         "categories": [
           "Racing"
         ],
         "score": 3.96,
         "downloadCount": 191170585
+      }
+    },
+    {
+      "id": "com.riskylab.warbitsplus",
+      "name": "Warbits+",
+      "author": "Risky Lab",
+      "description": "Warbits+ is a charming turn-based strategy game where tactics prevail.",
+      "url": "https://play.google.com/store/apps/details?id=com.riskylab.warbitsplus",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Strategy"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/_1DgQE1pcmshwlsBxhz5jJ7YGcQ4bWabSCDsXiwwjuLbfqf_fB2zxrfASIOsSrJtSN_GxmMth6es8vplEPibGg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qXWfhW_mH5gWGyX5Gb-MnKo9uQu2fMDtyDvbNCNhSKRbbh6wqesigIU8BPXvAZeMxSRDui54dU8ll0DOAPSh",
+        "https://play-lh.googleusercontent.com/jFa0rd8mE1ptppRcamwKDbKJ1Avm1oG_vqFY_uZ7ibNQnVrkejSahdbq0zEXy0mUfkl4Sb1X8LmBZsnnYAv55A",
+        "https://play-lh.googleusercontent.com/6roAibr-PsUjmZDzlfXR8C58kSXvCrTeuSLjJkhi9NQk2FCEX_CUVKwH8XJPnCz9VK55JVHeXptYX_lpnKwiSA"
+      ],
+      "playstore": {
+        "categories": [
+          "Strategy"
+        ],
+        "score": 4.54,
+        "downloadCount": 3437
       }
     },
     {
@@ -1174,12 +3594,93 @@
         "Racing"
       ],
       "icon": "https://play-lh.googleusercontent.com/Eki6lQF8HawMz0M5pD-4d8g_VV-EybGQSTtsgkhX10F4rU4oHrP6sug9tLsVPFIk0iVe2rwUmFPj7uWRJCZr=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/UQ2Vd6pswKoRXpiR6MDxY8_vU1rg3EN4AmJdXsjPiio8LxXVGIjQxCnKm0F2uwgl2mIOe8EHky2Q2eAvXjC98A",
+        "https://play-lh.googleusercontent.com/fwHn5lgm8eGfNIDtEy6Yk6zxhC3srISFg9PIHMTDSH4q8x5VhPDR9AOqMMuwHTpFRSlUgvarF_XxwDvX5on9CA",
+        "https://play-lh.googleusercontent.com/qYI1dxTlD5RYN3MadDrXX-QQqSv9e3vKHdJpnKmYB8tYnCsVrt43kLQ9vvpjyHly85Vhwe2Vu4h_86wxdBFzgQ"
+      ],
       "playstore": {
         "categories": [
           "Racing"
         ],
         "score": 4.5,
-        "downloadCount": 821355100
+        "downloadCount": 821377300
+      }
+    },
+    {
+      "id": "com.snapbreak.lip",
+      "name": "Lost in Play",
+      "author": "Snapbreak",
+      "description": "Solve puzzles, riddles, and embark on an exciting journey of discovery!",
+      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.lip",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/rg96rbCnVBy7lMbNuc9uIijL3S5LCob0oXGCGPu-gO5k5jnuiVkpkgLIJORQ2-ccdFWezz1Y3WzYl3q9qEWYvxY=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/m1IISN6nlM3LQ-w4XlE3PKP2eGnMPurYvT9zgVQ17Zr1ahUpNWjV64TQeMUJ4YgQTr7GeBaMqAPQdsK0orgblw",
+        "https://play-lh.googleusercontent.com/VnsQjjtT-JKtK-fo9aoJCp9TtDU0JM2CF1Lb90BfTvyO_pd9QZXdkxhgDumt9SSj3VAJfAcxuaBlXwpy6Vi8Mw",
+        "https://play-lh.googleusercontent.com/GoqBh4PnaB1nObWmoHTisyH9M9oNv-Ib45E5CRCSZRBmimWTHt9Bg-Dyp3YQR1-blfdXfbPDz2FPwdzMc1HHwQ"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Casual"
+        ],
+        "score": 4.57,
+        "downloadCount": 6882650
+      }
+    },
+    {
+      "id": "com.snapbreak.toem",
+      "name": "TOEM: A Photo Adventure",
+      "author": "Snapbreak",
+      "description": "Snap photos, solve puzzles, and explore the quirky, hand-drawn world of TOEM!",
+      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.toem",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/0SU70tPQEZ3t9JfBwVyaouIlbZz6vr6AXTM6ve1i6DePPZyzMs4_gei6PT8IJ63PM2LmziLbB9AwNNYSXiHk4VA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/nI0QvUognXFTDFJKgwNe0t4aBPR0Gq6tDbRxhA3BOyPKiiD2W281S1VfK_8y0z7rTJg6k1q5fOdsnJyoCU0kwA",
+        "https://play-lh.googleusercontent.com/UNSH9MCr3XKwXF2HTSLdTJ3lP1LZJksG3Ujtldl0iqzlRrAlu6orG5K2VYnUP13mHKMDWzhw3r6_5HL3qRNUEg",
+        "https://play-lh.googleusercontent.com/onE_itNufEvYZbes-3Pg-g93m-wp_2h95Orbn1UBiQW1YAuRH9H7HJwL47_-cfxHrG175nxEa9XKTkFe_vgEvIA"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure"
+        ],
+        "score": 4.76,
+        "downloadCount": 481423
+      }
+    },
+    {
+      "id": "com.spotlightor.candleman",
+      "name": "Candleman",
+      "author": "Beijing Jiao Dian Chuang Yi digital technology",
+      "description": "Why do I burn?",
+      "url": "https://play.google.com/store/apps/details?id=com.spotlightor.candleman",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/Ivm4szqrCQVqwofnoB6SQ50FDu6sOY1oymghk72C3T1RDDakX4eNB24CjJIIkwdRA9ZL900E8F4VfeWY95U1DQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/WWew1XKSkQGjVjJ31bKT15MA1eURpB6I60VoQRPYgjZrbS5JaOajZs6EalLlY0V37e9n_GfWmkS9yuwUpJU7cQ",
+        "https://play-lh.googleusercontent.com/Dn7SNStCO8SsvWKjbrdF7Ux6O9l5GzSxK9a-QkkU9Ou6yMsuhTYwshkvQFjCIOps37ZrUVlKB_Kjkv68Tjm5",
+        "https://play-lh.googleusercontent.com/JWlXPNABFQmE0AJlJUsinoSKF5rRngDo6fZTjnlxvUeFNdEJxRAaWq6aaEJ_5r3v5peEGD0jMM8Gxy9yCBisHQ"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure"
+        ],
+        "score": 3.9,
+        "downloadCount": 48929
       }
     },
     {
@@ -1194,6 +3695,11 @@
         "Role Playing"
       ],
       "icon": "https://play-lh.googleusercontent.com/BkxAUsA_HrjmmZFGwwvNvuT3nPiENFi5Fp-GUSNZa92GfG8K9nbCWTppGLxvIkc3q9czf8lM7x4ea97X4Be8=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/562aWWrFSaGem0QkxsrGIwDf6mN3OlXjeTsAduCLHC0lWwf96D-g-8TL6sLyD1UkYYjFxV3MrDM76ijn44kUbpk",
+        "https://play-lh.googleusercontent.com/rRs8zit84pmiKEcOQkZ8bx3ZAMcd8pQtqRaX3vapNi_jw8snipMp27mJIpXNnBwAETE9-CwrgIm-kX9QMo5l_Ig",
+        "https://play-lh.googleusercontent.com/JxHjphlsV8_ygL9K1t_uRYwo_XBVzRVCvWiAYMCj5Myo5s2dw0kWs4U_o0iPszI9fAYxHBBLNYbTrXAN3EdSEg"
+      ],
       "playstore": {
         "categories": [
           "Role Playing",
@@ -1201,6 +3707,160 @@
         ],
         "score": 4.03,
         "downloadCount": 659643
+      }
+    },
+    {
+      "id": "com.square_enix.android_googleplay.chrono",
+      "name": "CHRONO TRIGGER (Upgrade Ver.)",
+      "author": "SQUARE ENIX Co.,Ltd.",
+      "description": "The timeless RPG classic returns loaded with upgrades!",
+      "url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.chrono",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/xCYhOD2U6nSEN8r0Y0y2CYW_NOmXpwgW33NVHKfRi1zZGAUvhBiYnc0Dhy8NWwiW99EI93u6h_xhujKeBOZErg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/q1EF3ATBGQwWyLpM7eXL8fJht_hJrVx6wj2gOQmKml0oCFpgPkpteyn70w1lGhHzbY3ljvudtwkqB694wwlJsw",
+        "https://play-lh.googleusercontent.com/LuKaG6X8T81LRLwmF7eUDskgk94rhfKXNz-GhqExLofb0CMsAj15rXeRf_uL2UKArlO5zfA-74gduWfakWYBQA",
+        "https://play-lh.googleusercontent.com/ZeWHLhEHPRy5_LG981tvm9v3jpVEXpB9GC9tJYUjiTCSaSo39UqlcAUv2Ls7GmQTKkpvuWzrTQG4WU3bht0q"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing",
+          "Casual"
+        ],
+        "score": 3.77,
+        "downloadCount": 651261
+      }
+    },
+    {
+      "id": "com.storeriderprod.labyrinthecity",
+      "name": "Labyrinth City",
+      "author": "StoreRider",
+      "description": "Explore museums and cityscapes to collect stars along the way!",
+      "url": "https://play.google.com/store/apps/details?id=com.storeriderprod.labyrinthecity",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Casual"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/bLx99pGChMaSCGz8UEqb1vElLjhzkbcsGUM3ZOkC6Zpg0A1Ktr1Zn0XG0a6MQPZpDo96FLwvo0SV5lcLCQLihQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/KrfxMHUk4_gqMDD3FkTdnmSrr5ZsF5_0TUc8L5OpIx8XZB9CXsuuwwuNENxMuN4cLa1anrdMYDIEhZvhCccx6g",
+        "https://play-lh.googleusercontent.com/kBRTWEAs526AhaauIY7_qJZ46UXSNq4pdqPTLDOe4CSIkxGgIWfkV7dHKl7w6HIMtORojpZNKe0hTG6QbEW-dg",
+        "https://play-lh.googleusercontent.com/lWUR6aucT9aW6Fk4VM1iXz78No3JzvfnbAqJPNA5ALojwPxxUa71Tp9etrWopG0XfXh8wDdXteZGpwpiNQT5afU"
+      ],
+      "playstore": {
+        "categories": [
+          "Casual",
+          "Adventure"
+        ],
+        "score": 4.48,
+        "downloadCount": 93075
+      }
+    },
+    {
+      "id": "com.subsoap.fsr",
+      "name": "Faerie Solitaire Remastered",
+      "author": "Subsoap.com",
+      "description": "Enjoy the magic and fun of Faerie Solitaire in fully remade form!",
+      "url": "https://play.google.com/store/apps/details?id=com.subsoap.fsr",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Card"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/BnMg41nBKINEHIcoBmR6xpM0Hae0PMFbBMtMNUjn0kJulIPD-nvYmWrEIDc6zkxPUKwUcDXIUavMiinU3KES=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/z8QfjqVxmON7pndQaanm8XsN1Xr8ZqTH7M20L265IDSfPXEeLTqAzO1ykpueqABQZCcNXATQKrcvf4GyRlQ91A",
+        "https://play-lh.googleusercontent.com/xjxtHp1wJ20ZJ-MSyvZFRSSf41CqhD3IqCiyxhPGBpcMKwdUx9CcOZ2CibCU6hThkLD_bHwtz2Ni7IBN9ASdEw",
+        "https://play-lh.googleusercontent.com/QAUXkuO1-K318yFjI0wvcU5ds1yfcyz6UtRR16pPBNn1VjpAr-tAC4FeKWvnDyd5kuZfUI_u7rTE6dtEqr56pg"
+      ],
+      "playstore": {
+        "categories": [
+          "Card",
+          "Casual"
+        ],
+        "score": 4.67,
+        "downloadCount": 9213
+      }
+    },
+    {
+      "id": "com.the10tons.dysmantle",
+      "name": "DYSMANTLE",
+      "author": "10tons Ltd",
+      "description": "The open world action RPG where you ruin everything.",
+      "url": "https://play.google.com/store/apps/details?id=com.the10tons.dysmantle",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/gCLNdm1DZbh0sVoVnpEZTr1I1aE-vd1RVQ90JfN93GZnu-xFFXlIPLBIyLRkvOKkBPi3bRLPZMR-LcPwFWj-Xw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/TTkW3ehR7fG2ReL76fTdNpKyr1yE_Zb5yV6iR5bYmz5JpNrBUttsbg-9t7ik4p_wj-9RtwlGheKJfuztxrbU",
+        "https://play-lh.googleusercontent.com/EzXhFk6qzrEhkOwxPnC0kor305DmvA84UA_o3KLdq5CCDZBrKN78LSOQFJ7xfGz_-FAXdU_ErNUNz3v0eeGCRA",
+        "https://play-lh.googleusercontent.com/OUXH9-FtDWOM12hRQeCduHby7uk2A3G3lAwzcconkzZb-S-4qlIfhJqrhhSWe0eSf7Db3CK3ZEvCByQYUFnoEw"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing",
+          "Action"
+        ],
+        "score": 4.32,
+        "downloadCount": 397674
+      }
+    },
+    {
+      "id": "com.the10tons.neonchrome",
+      "name": "Neon Chrome",
+      "author": "10tons Ltd",
+      "description": "Infinitely replayable twin stick shooter with RPG elements!",
+      "url": "https://play.google.com/store/apps/details?id=com.the10tons.neonchrome",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/x4WbBMJh0VcZDIlf6WmamJWDTk2peDc638wAEhwWdjH6a6QN8L1n65Dz2VWAUCULWGowXc0pK85W862w1V0a=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/7Qy6BA-KDFFo9rm1y26AtjYo3kyQgXlkaitWATVuTb0v5Z90yoz4L5ZSpMyQCBaXSpIPriG_4WORWbG1yccyonk",
+        "https://play-lh.googleusercontent.com/dQ3gp2Mf3KIUiyHZzvzmhheE1SUOq1R-cUA85RI2RxJxszldwUg8fuJ0vo5b7WlHvCx5RosljVskLXBYrmx7xQ",
+        "https://play-lh.googleusercontent.com/UcVWQTdspXhBCleQfFXrsyFy5pF2ZRV9Zj-71EbahBdWXN_inPTI_DxpGfWhs5BmdY_0gEzatNuALGDLMbZCxkw"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.58,
+        "downloadCount": 14977
+      }
+    },
+    {
+      "id": "com.the10tons.teslaforce",
+      "name": "Tesla Force",
+      "author": "10tons Ltd",
+      "description": "Fight Eldritch horrors with Tesla, Curie, Shelley and Lovecraft",
+      "url": "https://play.google.com/store/apps/details?id=com.the10tons.teslaforce",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/8VSCGrM6tmeqxsXOJXH-M30s-w9UkVLG9XAxrpjj8L6y-NrB6JErh6C2Xxe84a_HuP5iFdK5ZxoC4W6E_QAwHw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/0gDqi3xqLzFOzw-NDVaar5pOmIc_OQ8YRen9lHxlF9ldTlOHw-Q7N6ch3II-ya4wWzlqqTBlwL41m4vXYPCGQw",
+        "https://play-lh.googleusercontent.com/Syjgck7irDBJDANHTU8LGBi-aTWoDCL4C952JbOrnfaHORypG6wOJB-8BXYw1Idx7vPLpqGfrwBL3a8weEa7FQ",
+        "https://play-lh.googleusercontent.com/OJy8LIy6uKjd9FAk3BI6e8dyPPO4kMrf0kIt0ncqJ3YruH5fInJqYR1ML5ZS8q9VaMtW9O_QPgH7Sb348bA2ww"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.5,
+        "downloadCount": 1984
       }
     },
     {
@@ -1215,12 +3875,69 @@
         "Action"
       ],
       "icon": "https://play-lh.googleusercontent.com/BSalE_GPl9Tx_mAtd5vH_3PEb_rL5Xm_U2GnvWBk8SOxCwO2jDGoebgVBiPa5ah66FQioDpZAFihDMq3DYk2vw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/BvZdGMkEMDILTeiEAsmaGgB1ouS0TB3GHDQZ_IN9DiyQyY5ymO1WbZuG2e8QfFy_O5j3qr41SdBy8D7l945adw",
+        "https://play-lh.googleusercontent.com/m4JYBXzpxXEkqwMoqNeyYsaQV1c6PWjLponKdpJBYpowHIsDZGwvf5_J-1CjRkXY_hzlbZ1I3SUm9fHRmjiT",
+        "https://play-lh.googleusercontent.com/ITD4Iey6Wb3CW2MPioAoaYJEZ6bedsHGJnr325DPlj5O3Vh7Qu6WqsWT5l0_pBQhPATg16_o875jePTxPDdvNg"
+      ],
       "playstore": {
         "categories": [
           "Action"
         ],
         "score": 4.43,
-        "downloadCount": 82529
+        "downloadCount": 82534
+      }
+    },
+    {
+      "id": "com.thevoxelagents.thegardensbetween",
+      "name": "The Gardens Between",
+      "author": "The Voxel Agents",
+      "description": "A Surreal Adventure Through Memory, Moments and Time",
+      "url": "https://play.google.com/store/apps/details?id=com.thevoxelagents.thegardensbetween",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Puzzle"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/TktG_4Qz6_SHF3Y3cusRKyLdaVHyL3vyBLMFGW7kEnzZhKpxuZ5NK2MH2TZ6a0t80voQfKHpSro28fu-YxETQA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/2PiHttqncMbtJMjx5F5MPgJaQ_MjzaXI3EsYRSc3yaqpkGJjoPPfbp3L6Wd1ANyLSM0Nh3nd4gMB3EcR0GGlcmQ",
+        "https://play-lh.googleusercontent.com/T-tHOITYTTv3YkqFiGxMjOrtDrn60zePa2SYoRzgBLyQZFpdrPQBe7qQTPGjB8f5AsdlH_m7GLMWoSd1eFNR6Q",
+        "https://play-lh.googleusercontent.com/VmlQ_AQSoOIA-ozCSN-vSbFrBiy8r-ACLnSQBGPrlIgVu4XnNNYQcPJMlv2MuLNB8aLFgt3wcx1csVjoWLwsTOQ"
+      ],
+      "playstore": {
+        "categories": [
+          "Puzzle",
+          "Adventure",
+          "Casual"
+        ],
+        "score": 3.87,
+        "downloadCount": 66975
+      }
+    },
+    {
+      "id": "com.thylacinestudios.siralimultimate",
+      "name": "Siralim Ultimate",
+      "author": "Thylacine Studios, LLC",
+      "description": "Monster-catching, dungeon-crawling RPG with a ridiculous amount of depth.",
+      "url": "https://play.google.com/store/apps/details?id=com.thylacinestudios.siralimultimate",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Role Playing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/XnlGLBz_XIZQwzND1Ullh1Wj-3kkohCfoHxZsI5lyYxkMR5TIhKIlEO-b_2qChhf9XmuvvaBNEJRaaavf6IIig=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/LBGMLqLkKu3xqtgUR0cizWl8k7EbDqfOaZKseCB8l4zG5FnS6NgDfVAk1Z7wQNc-QRKjPTIWfG12j0eqtrSE",
+        "https://play-lh.googleusercontent.com/IuialvWYu6tBatBt8mo75UBvdfnXZ7J9d2YBKI8xCckXKT6ZDV6UtxveA7IuMTZHj23VKc17Cqh98ztcN1PVjA",
+        "https://play-lh.googleusercontent.com/H1qG2NNSJ-syZb0XOdxrhqUWBVCASIU0hVMQgo7XgeMPzMQgPi5H-qNp2eHmTxSH12vGlnEKHhutWolMFKz9uQ"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing"
+        ],
+        "score": 4.68,
+        "downloadCount": 38467
       }
     },
     {
@@ -1235,6 +3952,11 @@
         "Racing"
       ],
       "icon": "https://play-lh.googleusercontent.com/VgLe2U7_WfG8LedSGZ2eQJD-BSU9ErXDNV4M7vHkMD3m_SutqBuny1MlRMcWXCBLGzoB45FPthb_-fZ83yqm=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/-bD78unFdCOweUOUfoWcd0byQ5m3Cmgks8fH7fxztiKFt39ugKHjTLCYeiLD2c2JcA7iqSKNsHOvxsTck5MIvg",
+        "https://play-lh.googleusercontent.com/gwAU7P_vEjN4Um9c0eE5_0XxDwUq5qG3bmi02lGYSMOxpY0-nLzuGWnL83QVtAdoEpaWCCIgvAPQUeeFYww_3g",
+        "https://play-lh.googleusercontent.com/w9E1x-Xd4BFj0ZQy68cZakNnO8XCHLqJQRK0E6kU8_nS2PcEoeT0x2p8WSQ_cTBwiMG8KuJ31Gpz1Isb7y1EsQ"
+      ],
       "playstore": {
         "categories": [
           "Racing",
@@ -1256,13 +3978,121 @@
         "Action"
       ],
       "icon": "https://play-lh.googleusercontent.com/weDwpkkFqxcrcYwaLGxNmXYCbMI35peJpmvQxpThp0lcxzsu3eTv_2x0bKFkE5EcGAtYWmcxk0QQDIzxSCMcqg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/BDZSGvW2Tvf3LZsju1Phmzac1mb-TEZSt487FnKHnRBhzj9_43gkT5_4L6NjLIuENxXP8tWesV6_bpyFqSS7gQ",
+        "https://play-lh.googleusercontent.com/oZHP_x4k5va4sEYQbJUeNxoKQcqxV56C_a3y2r2wJQ9IOwiEMCPRKn7l7TY2Na24rFHqDUkPfjl4Rwqkr7vrFA",
+        "https://play-lh.googleusercontent.com/dzccnNomFqV19NFLVH8U_Xrhaz58IDOzkjoEi8lvxl_EtALlZGpqY8_dozklJYNqxe8yLWbxvKjDPoIiUdlr"
+      ],
       "playstore": {
         "categories": [
           "Action",
           "Role Playing"
         ],
         "score": 3.1,
-        "downloadCount": 238004
+        "downloadCount": 238007
+      }
+    },
+    {
+      "id": "com.toppluva.grandmountain",
+      "name": "Grand Mountain Adventure",
+      "author": "Toppluva AB",
+      "description": "Bomb a steep slope, do crazy jumps or just cruise around!",
+      "url": "https://play.google.com/store/apps/details?id=com.toppluva.grandmountain",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/CvOSXr3Z0Q51wbz61Fkr-xgfxHhqXuiqD5S6WMZduz0QzKzCM57DJBKgoTOZD7PYw08sXK8H4kAbAOuY6LBxBQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/-1Eo1SAKN-y6J2aNi5woHeHZp5SWNKL2UE_qdI-Jtegs5EI671_nytBdIxkfDGkxS-Ix9o_4vpczqIxeJQSP8Q",
+        "https://play-lh.googleusercontent.com/MdDKIj5pe9jdU9aPTz6crGorRQ21RGhB6IlCySbH3qxaTdRc8qcSGQRPoA-Mri6QNQiEykcucb_nZalPKeIptA",
+        "https://play-lh.googleusercontent.com/1hBxRQW3vllIzL3b5eh2idM2LVPDl-PvIDKwrdSrwEZwCi_tpXtJEFPLDf1ZBrYv_ST-6T7cKBL6oL8v3iRHtQ"
+      ],
+      "playstore": {
+        "categories": [
+          "Sports",
+          "Casual"
+        ],
+        "score": 4.2,
+        "downloadCount": 14197334
+      }
+    },
+    {
+      "id": "com.toppluva.grandmountain2",
+      "name": "Grand Mountain Adventure 2",
+      "author": "Toppluva AB",
+      "description": "An open-world skiing and snowboarding adventure.",
+      "url": "https://play.google.com/store/apps/details?id=com.toppluva.grandmountain2",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Sports"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/QipLaaP7jJtYmryKeDItPSDA_nwXYKmNimTVwJz3iGFlz4MrL9zzJCQ6SnlHGuQgqLCUfq1201ZtzIjoN5Ku6A=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/pI4vfo28vhwR9FzDFPG3qJ8M-x5Fh6WraO51kLaPrvK1wReX9O4Cil5I5BBDH7s-6gchyRVoTu4ewTr7GbANcA",
+        "https://play-lh.googleusercontent.com/7cFpUt30RJ_BjWys81JoHPXUZlZ6MUNeKdyLGx6gcQ2S-OgqIR0sCSknMEZZw_piwU71vj3KleerdohiLcan",
+        "https://play-lh.googleusercontent.com/FXadTFqU-Tvn_LXwdrqjP-Z0Gl5a_kUwOYD3_6Xd5N8nBs4ZLv2EWO39LPsMNUncz1AgaTdbEE_6dVFLb-oc0d0"
+      ],
+      "playstore": {
+        "categories": [
+          "Sports"
+        ],
+        "score": 4.42,
+        "downloadCount": 3190975
+      }
+    },
+    {
+      "id": "com.tragsoft.coromon",
+      "name": "Coromon",
+      "author": "Freedom Games LLC",
+      "description": "Collect, train, and battle over 120 creatures in this monster-taming adventure!",
+      "url": "https://play.google.com/store/apps/details?id=com.tragsoft.coromon",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/HGEB8MV13R3EGW_QE-ik58AULRCzZc6GjaEKDBotCpwYf238kl9IeFPfA02WUDQAmlXczkL2EwCh1AHn__pjUQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/hLXs4XAcCUe6AT0hISBA0lAVMI8Agg0FcCm_QgVEVuHb5LpVDiYzrB6O4-2vXV9hIcutWDSlvXH2YO4zmov75g",
+        "https://play-lh.googleusercontent.com/d3_dBKIr1UnD_jztmoffxDf9sLIG0-3_lnjZXNJ83G4HBZ5EhmyznBzvB1pbRMDRloqcgI3lgGncufIUvYGERng",
+        "https://play-lh.googleusercontent.com/ay-SPT_HgVxdore5JyI7zAXZl8nOITP-3clhS9D1nQYXn5AqkZ5pNj_QqPhSFJz5YSg1j2vdHHE-wsRrmfhOZw"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Role Playing"
+        ],
+        "score": 4.53,
+        "downloadCount": 4852077
+      }
+    },
+    {
+      "id": "com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform",
+      "name": "Prince of Persia: Lost Crown",
+      "author": "Ubisoft Entertainment",
+      "description": "Explore a mythic platformer!",
+      "url": "https://play.google.com/store/apps/details?id=com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/5JsI6SAmcwoIeQlJhQUHN45me7StE67dRW90AB3O6M7mdiCoPD-Rl30frqAsSItJEfehTHPBmR4rzJBvdOhhzVs=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Nc6V3kTjzcVenQ2-OdTksRBG2Xu56UHNQ11mKBDAObSwF_tvbcfOqGnOJYVTo-A3WwZZ1FZnHFpteGyH_qqpFw",
+        "https://play-lh.googleusercontent.com/x-pMxO_R3ZwKDZqFt_kPbjiHU_EzT7m63svFselg2xnBL4N0f9CXDMSKRw4GYpXAUYYVASSqrYVlWZZGUx3U7Q",
+        "https://play-lh.googleusercontent.com/ywBAXZ8w_N8TR2G2nDx8GeW4-R6CwKlUNo3kmW_yu8Kj311D2Pw6XuxQdNNjjYbTktF2297p9xR8M5AZyW6P"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action"
+        ],
+        "score": 4.4,
+        "downloadCount": 1875222
       }
     },
     {
@@ -1277,13 +4107,18 @@
         "Racing"
       ],
       "icon": "https://play-lh.googleusercontent.com/0l6rEjTlWdY6GiN6lXQRNfd2w64iAS6SCKsFoqCu4LVg3hc9nzuQf_JVQzFgJ599dkky3LcrKbyMQ2Cyw8vv=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Hp0LYjSdQrvovwVvkMj1brKrE7_DsJrz4SNePtIcEyT1JZIwxARICMrg2W1ZbfAIEruYJJklEE7Xwn9wVLg3GQ",
+        "https://play-lh.googleusercontent.com/n9i5FSz-X96QT9tySnBihXwp2ktwe76EuzKvpPd8ev2mTLXP5b5SNJY7gUj-RhiKc3E28R_mTFjhgIkf0eZN5yk",
+        "https://play-lh.googleusercontent.com/axXHabeLLHNlAXPaygwa4KHa_l0u_8mYvi8821qQ12fYFIbUr86_CuYDdBKwiDCWiqxi1TrTszk2AmmsYGTtEw"
+      ],
       "playstore": {
         "categories": [
           "Racing",
           "Casual"
         ],
         "score": 4.65,
-        "downloadCount": 721981
+        "downloadCount": 721993
       }
     },
     {
@@ -1298,13 +4133,174 @@
         "Adventure"
       ],
       "icon": "https://play-lh.googleusercontent.com/Xq4IS6QkS4KFSY4aCSTYFYD_hj9lceaQXA_34LHW-1yOsv3pjjtknz6ehoBz7KxsI7Faijty6iwMc-KFEiwddw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/teE5FKKfWYSAVOreZb2VpfZHQ3v1PEKZ6rEQ9XPYIXESMT7v8gzUxHxs7316w9TgU8y7ir-nx2Aw6I880-Cw",
+        "https://play-lh.googleusercontent.com/i93bAewlJQQgkPx9ZbSCowPNKsBoJuzCibqGI5ZpI3aKijsphpbEuOB16yU7wIOjSQgA-RwhAhARtFfIKovYzU4",
+        "https://play-lh.googleusercontent.com/Veq6iJJYhcQeb7iUxEDo_rmTl8DwhizdbYuaz8ZtMgw3yvZRU6OgMX0S037DZqLoOIAkeJv7ifiU2Thswgzw"
+      ],
       "playstore": {
         "categories": [
           "Adventure",
           "Action"
         ],
-        "score": 4.55,
-        "downloadCount": 259397
+        "score": 4.54,
+        "downloadCount": 259451
+      }
+    },
+    {
+      "id": "com.vectorunit.silver.googleplay",
+      "name": "Riptide GP: Renegade",
+      "author": "Vector Unit",
+      "description": "Race rocket powered hydrojets through futuristic cities and waterparks.",
+      "url": "https://play.google.com/store/apps/details?id=com.vectorunit.silver.googleplay",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Racing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/_ExrGf-uLiNVVVZv0lOvZVtCENniuNYZ54d0GepuKTjTLQ9gfTI3ejExSI1kqDTmmBnU3Nu1aDLC47rFghyoMw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/blUfgXCUoT5QbgKFnP37DxGHP_gnnhlu7nkiRw7UBza617vNRGz2tiycRx14-JCzsnNFdRRlmo98neLyvn8vrw",
+        "https://play-lh.googleusercontent.com/E8oJCCefb_-uupVdxAe5a_WzRS0dQ4cGk1jMiwUO1zy8mzNiAxWAlrOdS1uEOKcPiTFeB-GpB5aaZhvpkw906To",
+        "https://play-lh.googleusercontent.com/tqQKK4yQ5uoZO7iH6upjIzw5W67PWUcrPDdDWC_0CuQkZoCJK7LQgmKKjLGo_WCIYyyGCAIl94Mgnb7Fe8Dwow"
+      ],
+      "playstore": {
+        "categories": [
+          "Racing",
+          "Casual"
+        ],
+        "score": 4.53,
+        "downloadCount": 763285
+      }
+    },
+    {
+      "id": "com.wrathbound.cygram",
+      "name": "CYGRAM - Sci-Fi Racing",
+      "author": "Wrathbound Interactive",
+      "description": "Fast, skill-based racing - Pilot high-speed Drones on epic space tracks!",
+      "url": "https://play.google.com/store/apps/details?id=com.wrathbound.cygram",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Racing"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/KtIDv6tfdGbrLA_SBOnJVmYe78qXmKemfDgM0svfc3DUEsyvEN4XyRCTdRuhhd5TulPvsYWP1NgcnpikQPXMOA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/rK15r2L8J3tX1IZxBrVnHxhpjf-wqwMufcmlZDaeH9m7AW4sG2ZKnkuEP6fDFF92S_AHYAGgX6ooPXqX1TRzNQ",
+        "https://play-lh.googleusercontent.com/5evJFagljfFYei7UHlPU2ysRBoGyzeWMiA5QFgUkxcOq8112Df9KvQgMegu9E0akkpepCVLiOnv5wssmfdTVUg",
+        "https://play-lh.googleusercontent.com/WDm9WfoVgfBU7GyHc0JlJ9qpN3tZMSqVyKnJF2DCagFHk0xOrEJPZwsia_CRpVBmCuReiPvBmcVBzeYHKUZOlmM"
+      ],
+      "playstore": {
+        "categories": [
+          "Racing"
+        ],
+        "score": 3.85,
+        "downloadCount": 322655
+      }
+    },
+    {
+      "id": "net.froemling.bombsquad",
+      "name": "BombSquad",
+      "author": "Eric Froemling",
+      "description": "Blow up your friends in mini-games from capture-the-flag to hockey!",
+      "url": "https://play.google.com/store/apps/details?id=net.froemling.bombsquad",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/e9NhQr78NIzy0ACouLP2-uOZJoY2pcnz6uGD38JkWyW7qauTKH7JVl_GJgzYy7e8jgKfKEEqy8LFi7LOAIF_azY=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/CBaXUBvq48TkwNy-ewgKsxd6DQhvhrj3wWImOqCRVLcjsoY0uaXGYsC_Kk0XtzTtnddSD0gGyXzR06uHbNSDbw",
+        "https://play-lh.googleusercontent.com/KeBaqNIPPOu090T0NxGBwBeki_KwWJ4tA1E2pLYpZsxM23AgIzZdMXkGC3aw-DfjrdtkLnzD9e2bBy4iDWkgqjM",
+        "https://play-lh.googleusercontent.com/AYtO73APIu3B0_ViMqvaG_l_rnLW1-qaLH8cxDNCgZzgGVNNXS0rss1dnm2Y6G8RdYPDro2AIdKUhM_T_KYlYg"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 4.49,
+        "downloadCount": 75749914
+      }
+    },
+    {
+      "id": "net.hexage.flt",
+      "name": "Flying Tank",
+      "author": "HEXAGE",
+      "description": "Epic side-scrolling shooter. Blast aliens to smithereens!",
+      "url": "https://play.google.com/store/apps/details?id=net.hexage.flt",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Arcade"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/nHQzQ5MspkPAFJSSrSiSpShpp65Hu6y_x2_PSomsb3vwbSHdLnboIr2RlKFo8foxwM9QX7Q_jVf2SskCeurzVg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ir9Va3yeOuU00PvOvWfyFWIEFmtYtzXtPj-InqEx017jmnA_vHqoXy9P-6thivbTT4aHZ8oKYwfVWIpuYlYm",
+        "https://play-lh.googleusercontent.com/ou4gwit2KTklmCMZX19YiPYiLQPMIZvi3jfOoAkopmMOYmVuhdO2wagwgg737y57CnW4golJPyUwF2pwfUc4XtY",
+        "https://play-lh.googleusercontent.com/pnZFELYjouMUuOpKLTm9lsc7tRB2wiUjxbWwmZY1VGNjR1JrhaHkYlIus1YxNhbA3PUgesL9jDhiv2ZA5C9B26c"
+      ],
+      "playstore": {
+        "categories": [
+          "Arcade",
+          "Action",
+          "Casual"
+        ],
+        "score": 4.32,
+        "downloadCount": 1623596
+      }
+    },
+    {
+      "id": "org.hempuli.baba",
+      "name": "Baba Is You",
+      "author": "Hempuli",
+      "description": "Baba Is You is a puzzle game where you change the rules by which you play.",
+      "url": "https://play.google.com/store/apps/details?id=org.hempuli.baba",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Puzzle"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/GjPq8BQ9kZhsi81cWwsYWD2kOeaW-j1Cv8YcStd0Y4OhIpiCOzKREsFCIbUV4LUdLn1fpGpcx716K6OGYvt0Zg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/6M9WdmnzD70WVKEchSujgxvkD_X6jc2_5yjQ43Bn-M_waQAyGPLpTCvOa_Te1DFsM6xKdAwsdWhYOJNythRk1w",
+        "https://play-lh.googleusercontent.com/37A19pVVMS-Jj1j0U_AObLXHk6sbDnVvBvR4VbPB6RnKDvK6zvpuyatsJTkYIs_tgPiWu40piu0Rek9MJkRp9g",
+        "https://play-lh.googleusercontent.com/ovJK7tMTwq60Rd3mhnDS3lXJUnwrH86wBhrbG-fWi5pezF54mJPJFsxVlyCpj_O2-ho2qAT51uqpk_l5FndGYWY"
+      ],
+      "playstore": {
+        "categories": [
+          "Puzzle",
+          "Casual"
+        ],
+        "score": 4.64,
+        "downloadCount": 143528
+      }
+    },
+    {
+      "id": "ru.antkarlov.zombotron",
+      "name": "Zombotron Re-Boot",
+      "author": "Ant.Karlov Games",
+      "description": "Explore a mysterious world, find weapons and fight various enemies to survive!",
+      "url": "https://play.google.com/store/apps/details?id=ru.antkarlov.zombotron",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/LdOl3jDNhctUS1K5m0WYEuTttjCwXrqRMrJteU9T7nCCmvZXrbCpvMaOCjCVl2BEYEoQxUm24Qo-eLuP4gGE=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/kK_J4PnlflksWJw1oCh5mHLkGuzVKzF432DoJIzNA6KLQjQpKgyz2-6oqvDxYQKK6_wbgnaca7LM1Q3szeLx",
+        "https://play-lh.googleusercontent.com/Jjri7qqB-UXVzGxgbV4n_EOdGKw0U6Pycmw8n9rFIW_oSluIcsWUCYXZSB4KCWd3AAQRNCFVN076fKrTEw8p-A",
+        "https://play-lh.googleusercontent.com/J6_7hWDE0CeW9RIJi6fn6PVkSLGTX7g0bhf2JZj1_zMGUWgAsy2ez8IQ8XoYOJp6MJ4bQ3Hne5yJFBnS8g91dA"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 4.54,
+        "downloadCount": 6638132
       }
     }
   ]

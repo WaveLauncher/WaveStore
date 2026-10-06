@@ -1,0 +1,25 @@
+{
+  "id": "com.hg.titanquestedition",
+  "name": "Titan Quest: Legendary Edition",
+  "author": "THQ Nordic Mobileㅤ",
+  "description": "Battle mythical beasts and save antiquity in this epic Action RPG classic!",
+  "url": "https://play.google.com/store/apps/details?id=com.hg.titanquestedition",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/2NhahLT_JmxComlRaHP4rTmNPK3lucKrTYBpCvzHHm-TQXCb5TtDJgQAf9yHv0b0FXDNhruaxzcjUepOuCsPgw=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/-gnr-jKdkpdP_7B810mYJ_tXuReNBn2YNPlJ4wHETt4oC7Kogw28SKBS6eUJnjHPhsx1wV8exnP97jUw6qr5",
+    "https://play-lh.googleusercontent.com/xWum2_UNGn0pGPUBLyHgnf98gdzfp7fTbKne_K6gUhPkdD5uLPb_Ieufb9FSqiS9m-FluFAar3OVFyANFB31",
+    "https://play-lh.googleusercontent.com/iY1UdAvBO9ob2NsazKHIoaUAzCIP8NJbIqHWKZTHBTSwvVZ-TztcCGBJR8hVpe9_O0lJNNYiYm4X5lgMUmzv-Q"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing"
+    ],
+    "score": 3.85,
+    "downloadCount": 64477
+  }
+}

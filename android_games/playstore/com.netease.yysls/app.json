@@ -1,0 +1,26 @@
+{
+  "id": "com.netease.yysls",
+  "name": "Where Winds Meet",
+  "author": "Exptional Global",
+  "description": "Wuxia Open World ARPG",
+  "url": "https://play.google.com/store/apps/details?id=com.netease.yysls",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/C077FpQVnL7G5O6Mowj-sWKdTjUwEWAWxOVQUcBwhHY1yOZePOoIxtlOS5Tn9kIzLoI2eU8BWZ4Nh4ufS63zBg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/a3gBDcT7jVrWwCajIJePlfN4bytQKvQ-o1TR7Fgz8vTocJGm6oapG7IcWxMhrepaa6GH0S0CFjqh3dF67evzq8g",
+    "https://play-lh.googleusercontent.com/o-aKzSD9ezhDzPcfMx6wqZPf-xmXCk8dCaembUYzk7EnsH2rCn0M7C19dDWUwiMcB2byw8gmOwxVSivAd1SMMuA",
+    "https://play-lh.googleusercontent.com/foOcDgGdrhCe97u6u8dXoA_u1rY1NT1PVfnXRMc-06jcpOUVCvL1ybrE_utxQCSdiSJ5JgFSs2zlpxc5t5zrXxc"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Role Playing"
+    ],
+    "score": 4.26,
+    "downloadCount": 5937812
+  }
+}

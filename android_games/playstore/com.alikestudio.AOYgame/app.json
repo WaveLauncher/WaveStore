@@ -1,0 +1,25 @@
+{
+  "id": "com.alikestudio.AOYgame",
+  "name": "All of You",
+  "author": "Alike Studio",
+  "description": "A crazy puzzle adventure",
+  "url": "https://play.google.com/store/apps/details?id=com.alikestudio.AOYgame",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Puzzle"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/7Ok1YZaII5c9TgZF4FQWRv8HlPIOiWzNlUquYuAwuQcpgRYKXkasiALhZsUHqNd7BaRfEeMxzKLhHHAomHUx_Uk=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/E78gGZwcNsHnAmRTwc12PfHWx6N0J2tYVXVfUGAnc2Uif2Yv-7e709cC8AMpQAembBDOAgr28FIBf8vZYdVQ",
+    "https://play-lh.googleusercontent.com/63osQdIasBl3tqe6nptrwvtN7-xUpv57JrJVbr_GV3Rz3hn_2-MXdf3b0TFjE6W13QUA2npvoUZhxWc4JOclPA",
+    "https://play-lh.googleusercontent.com/csNxmWFq4g490zQpHvQH9kWYb14Cd5I8Js_UxoWoLPWAGtF7cxxRgk_xGkQjptONPvw9i5IITeykA13pmwWFpw"
+  ],
+  "playstore": {
+    "categories": [
+      "Puzzle"
+    ],
+    "score": 4.75,
+    "downloadCount": 533
+  }
+}

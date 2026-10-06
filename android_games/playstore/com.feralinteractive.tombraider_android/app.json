@@ -1,0 +1,25 @@
+{
+  "id": "com.feralinteractive.tombraider_android",
+  "name": "Tomb Raider™",
+  "author": "Feral Interactive",
+  "description": "Lara Croft’s complete origin adventure, expertly adapted for Android.",
+  "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.tombraider_android",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/7HgM2hUw-T74b4Hgwu8u9iShbH_VX_Sz-LudBGxZ0pmvQ6OOVVd4kWf4G1MUr_mSyonQBMyls-McHAyeGhlfSQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/55KLtU1kCUYkoFS0sndgPbrWuPiA8Q3Xa_0RaORA9qVJNbuno9OADIXyptJ-FCBg5kdPJIs-AOPZlcxDCR63",
+    "https://play-lh.googleusercontent.com/6k_Y5KnVMeZc6x5vC6_DTwEK2mfj3WRUt_-5-eCr3efmE_f5w-vHJn3uAXcoFy88b4WHiSy-5LejK0g-UnGJ0w",
+    "https://play-lh.googleusercontent.com/uC6P4zPJ_ogq-i0BJYdV7QRe9JCPDpUwr3LwnMP6shFVFV8UvpS7zLzueEd0iZrhXf7XP5NXFSV-OPGvJnMg"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 4.87,
+    "downloadCount": 72622
+  }
+}

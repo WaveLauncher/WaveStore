@@ -1,0 +1,25 @@
+{
+  "id": "com.humblebundle.wizardoflegend",
+  "name": "Wizard of Legend",
+  "author": "Balor Games",
+  "description": "Fast paced dungeon crawler with rogue-like elements",
+  "url": "https://play.google.com/store/apps/details?id=com.humblebundle.wizardoflegend",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/TX83xwM-LmI-uDXMHW8va3SEDMmIyd1OqlAQNxnnrt8a1JqTPgK96aM72MWYerZrg9carSswgMapYVv7ro5Jfzo=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/BVdYCoNqn6Rxwvfc9PvV4NJs6DoFOR-RDuwvvBVNJs5tkZ5P1sErtm28rWMT1NAu5L89F2tajilGFm6I5vTPmQ",
+    "https://play-lh.googleusercontent.com/aKPCipcA8BNvB8vhigTeU3n0Y3vE4ekcl0EKPnqEMZq9NswMg5o1mRE48nPh96zmOz61EaIEHf85XD86Xj2gFw",
+    "https://play-lh.googleusercontent.com/aDWqlVDUQglWYDBHUOfi3RhOzbSlLf-oHygjKttBQ28fJBSkVYF58E3lPFmktA_ZnpoVYpmxhlrM5EC3vr1wX5g"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 3.97,
+    "downloadCount": 13764
+  }
+}

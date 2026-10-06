@@ -1,0 +1,26 @@
+{
+  "id": "com.coffeestain.huntdown",
+  "name": "Huntdown: Cyberpunk Adventure",
+  "author": "Coffee Stain Publishing",
+  "description": "Fully Voiced Action Platformer",
+  "url": "https://play.google.com/store/apps/details?id=com.coffeestain.huntdown",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/N1NmtuFTFAOe9S4oh0kYwmB_iYznYHA0vqZyL2myS3EVZfKJjaVjovlgpMPiJPyiF5oF8YykRhcQhcjBEX8mNg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/uG9GonCnniNmjBfDdb_YOXFDKLTFEIc35rRjMiD7OnoZ-9yK_w-fH0DszFSWmTeDstB2_6XvEY2GujehrW8tqT0",
+    "https://play-lh.googleusercontent.com/vGvRhvMFZuCz-YEaKLAej4FYIJBnKPPwzMXWSucV0JSpPTZkL4q-vdpnudrRqyJwsixk7a8dOROzzDg-Uo_66g",
+    "https://play-lh.googleusercontent.com/jmMJwcOe7QuG7nTyciGcVPNi8NKCTquPlkcc1wtRa_qdU6QVy2sZP2iMh2QDj54uXd4VpqIMgMnZWRvpsolg"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 4.2,
+    "downloadCount": 961993
+  }
+}

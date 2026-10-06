@@ -1,0 +1,25 @@
+{
+  "id": "com.feralinteractive.gridlegends_android",
+  "name": "GRID™ Legends: Deluxe Edition",
+  "author": "Feral Interactive",
+  "description": "Become a legend in the irresistible successor to GRID Autosport.",
+  "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.gridlegends_android",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Racing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/suNiFA0eRe9XhJ2t74dIdkRztl3ZjwNbEH_Q0eZHslk0AvxTgvAf8G0C5ykqpV9eI3ufrDmKhgvMC7Y9vP35=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/CspkFuVJSkD_tX8ywnQiZvwb9SWT7NBH9r7BraMK6O9J3ewhFChE2Zjv60i5laHVX-Wl6KtowJKKCvx8zMFMXQ",
+    "https://play-lh.googleusercontent.com/CLOo01GsdfXpksFrLWtWvgVvAlKf1BTNXwvYEYE_SYurbDR_XWoyu570DGUZ2x-repBmLBY_yMjoT7ZWMcNj",
+    "https://play-lh.googleusercontent.com/TtP1G00QPQkkA-rXAqfGY8HjaRJr972X7iU4AJv7WtUUoINBR7wPbZKkXwJPrNbJEsW98ZeziBbNj6PsWVAnMA"
+  ],
+  "playstore": {
+    "categories": [
+      "Racing"
+    ],
+    "score": 4.4,
+    "downloadCount": 42881
+  }
+}

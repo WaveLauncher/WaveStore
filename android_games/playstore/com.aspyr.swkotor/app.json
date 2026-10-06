@@ -1,0 +1,26 @@
+{
+  "id": "com.aspyr.swkotor",
+  "name": "Star Wars™: KOTOR",
+  "author": "Aspyr Media, Inc.",
+  "description": "Star Wars™: Knights of the Old Republic™",
+  "url": "https://play.google.com/store/apps/details?id=com.aspyr.swkotor",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/xwd9wMz6m2hg5jVt6qeeUXu4QypWei3mRB8BC7g65ltXtnNJjgp-SNDGDIXh_PDoymMw7OoMS6D5LZKtkSdC=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/w_gMwnuTkqnVC1p_C5rP99CXxB7BppnG8cf8LCI1CfIbI1nI7SxKhU661AU6hH8I45hHcC3tHaPn_005y93VjQ",
+    "https://play-lh.googleusercontent.com/_s1nfMQiMHS2eMKBPEPmsqVsJ7b1aUrvSW5pzcmjz_e9HSysAk9Rr1j327KjzYhRj0zBmjGEFdAJv2Cwvj27qT0",
+    "https://play-lh.googleusercontent.com/YoMuFLZ2bkC9aq7vFvkjFGEV98x-iOXmfslk0xeWWBJY7FtkPHQG9tgAX8rCFdLA0uKAqDG2mRvR71CYSco4Vw"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing",
+      "Casual"
+    ],
+    "score": 3.7,
+    "downloadCount": 1178738
+  }
+}

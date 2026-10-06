@@ -1,0 +1,25 @@
+{
+  "id": "com.direlight.grimvalor",
+  "name": "Grimvalor",
+  "author": "Direlight",
+  "description": "Hack-em-up platformer set in a dark fantasy world.",
+  "url": "https://play.google.com/store/apps/details?id=com.direlight.grimvalor",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/tmqYYlC24al1w_26rbKLfTS--DcpRJxsJqJOuyHtH2ju_VyC9qZFdl5I-aM9smzLWNfEScCjxybWTOOJxJsULkg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/4YvSCLPVIOkVctF3M8Z50uWlb_xvjSx63vy-4spWYzB5v9JtEtlBZEP53NN9Okny5RPnBv2J5fUgxh1246NNrg",
+    "https://play-lh.googleusercontent.com/u5ovIA4G1oCOUa9g86T1kqQ-kpcD4JoYiFir8pwOU8tWXX0klvKtsHqNNvOZSLEV6FGzOvxEbk9cmwLM3838KQ",
+    "https://play-lh.googleusercontent.com/9julKLVWKDkXKvwP0iPO7-sI-NlKGzsdUXkgM8e1j0wDB8gjorgn2UgX_x9LvqeTc2PYmiA_pT2MwvdXq32ng8o"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 4.71,
+    "downloadCount": 6500656
+  }
+}

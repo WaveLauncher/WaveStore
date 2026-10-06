@@ -1,0 +1,26 @@
+{
+  "id": "com.hazegames.fractalspace",
+  "name": "Fractal Space",
+  "author": "Haze Games",
+  "description": "Taser charged and jetpack refuelled. Are you ready for this space station?",
+  "url": "https://play.google.com/store/apps/details?id=com.hazegames.fractalspace",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/f6EUd6fLSeuPCpfgHFfjRrsVFaLNdxsNQHVVPCcKPL04OJvvosYrPJoPmR5v4gQIMisGkm9Kk138R2GgiACKEQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/eNuc8fpN7fynVNDlIkCplNejncZiTpjWUcalygjIIHkAqV3z8KGYArANYHWNLqgp1opm1XSvMyljT3EwsU-gZA",
+    "https://play-lh.googleusercontent.com/-p3m-54OCjO2gqGw8I8jI9h-xUFHSJP1K0ITpmAFd1Y7hzSp18yEPtKF_Ph4UDyMvdEvz_e5eAUUaM9OApPh",
+    "https://play-lh.googleusercontent.com/VqXahX-hUdivgNtw_-1-sEGIksXmqLf86UQrmiInBOBl8o1xV3TXi-qfmyOnAzBDq-IABo9UuGjp3LtGm7KxAg"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action"
+    ],
+    "score": 4.65,
+    "downloadCount": 6141648
+  }
+}

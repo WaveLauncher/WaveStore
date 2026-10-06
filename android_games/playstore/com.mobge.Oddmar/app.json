@@ -1,0 +1,27 @@
+{
+  "id": "com.mobge.Oddmar",
+  "name": "Oddmar",
+  "author": "MobGe Games",
+  "description": "Action-adventure Platformer in Norse Mythology",
+  "url": "https://play.google.com/store/apps/details?id=com.mobge.Oddmar",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/b9_EyCfljqMQpodvUGUHVni68pG3irH4M_a167nO0FMCY7EKJXrEUX64xXwPPIo3eJEqhN3hh4hrAiUWD8ihdQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/donbnlCt3C_FBjf-zwvHQ_ZMZLVK_6QXJ3cJwuDwYQ4R-CZ8F3i5f7oLVvfLWp1GxfxdRQRVxJR1xlwH9Ahang",
+    "https://play-lh.googleusercontent.com/7o9LOSgLL0uf6BbS1NiAvyMcSdnkodlLDODRF14_4WP10EZGBENIpzksI6M0VPEkGG631TLoWjka-KZKLrRJ",
+    "https://play-lh.googleusercontent.com/GEcAAgRay8QqaPGEYi-vcyHUTICaeSGD-HRVSNAkkvM6gQIQVR40VreLY7ZknbnabMhWfvNmLRJLyxLpwJMjmA"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action",
+      "Casual"
+    ],
+    "score": 4.66,
+    "downloadCount": 5403176
+  }
+}

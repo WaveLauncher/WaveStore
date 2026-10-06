@@ -1,0 +1,26 @@
+{
+  "id": "com.pixelbite.sm3",
+  "name": "Space Marshals 3",
+  "author": "Pixelbite",
+  "description": "A sci-fi wild west adventure in outer space!",
+  "url": "https://play.google.com/store/apps/details?id=com.pixelbite.sm3",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/mipe-kv6wAKciVt7sG5RYNk_G8h1KXh0bDaFfMEwM5KZ8zHYdsnaBRg4BfcPzqChlGZAGmdeJbrwldjKJSgq=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/ACpZyHh9ikuMNoc3FA6NQRQbOds5PNTqXoYTsqaV6MggD7Va0E5VD4FlZQXHZW8gngGMZKYbSTixolkCCWS84fM",
+    "https://play-lh.googleusercontent.com/5wb-LByZ4jq1Eo8ZMw3TA8M1Jdw86g1SoAG8IyIPd65qdfr05eDDYJw4BNmyVaU0PXkSk6IOm1vVIjQWwdeW3oY",
+    "https://play-lh.googleusercontent.com/MMo5JlXGOYsud_7MuBeahvjtALh7Y1vgdUDxuhcFdJxlCDbG2AZ24UcanWV9MMcZi0jAFMJq-qYa0N5sAQgh-Q"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 4.13,
+    "downloadCount": 1297231
+  }
+}

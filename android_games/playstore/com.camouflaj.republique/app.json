@@ -1,0 +1,26 @@
+{
+  "id": "com.camouflaj.republique",
+  "name": "République",
+  "author": "Camouflaj Holdings Inc",
+  "description": "Uncover the perils of surveillance in the stealth-action thriller, République.",
+  "url": "https://play.google.com/store/apps/details?id=com.camouflaj.republique",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/YayKzfBEww7obl8ckpOGwGUL8F5j7DMX_j3ERJCoY3gCpSBVMycPMKeb16DHbHLpLmij-SFZCaf_wMmtKGqz3g=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/MQFkvPev1aMM0p2e-HhJlEd6jK7dQgBq0S7JBqib6VAHr_SETYbJDPL6F4SKth3EWztdQ43DsnIWI6Mqigad",
+    "https://play-lh.googleusercontent.com/FUCxsxld50HMA-FK6C3CVcNPEbLkNIMM6pO5xN7GvnXw9GB4GRTTeNMuX17npOYqTMN2WFH-gwDnfI2tHjHy",
+    "https://play-lh.googleusercontent.com/dXWv_MY5hUQyErq4YzhCKWysvic4aTJkoL9pYya3NGchUaalKLYgSrk70Z3c-q3rDBb4hwMwiNxUmG3rMiDKC20"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 4.1,
+    "downloadCount": 1846650
+  }
+}

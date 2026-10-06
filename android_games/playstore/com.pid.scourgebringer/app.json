@@ -1,0 +1,27 @@
+{
+  "id": "com.pid.scourgebringer",
+  "name": "ScourgeBringer",
+  "author": "Dear Villagers",
+  "description": "Fastpaced roguelite platformer",
+  "url": "https://play.google.com/store/apps/details?id=com.pid.scourgebringer",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/8eLDb9Errbqgz_JNuMAto5kZ_FArP9KlbpKWE4ovcUKQkxg3rq_-rez-X1VbwCvOtJVdONUYVUARF0waGkGHhA=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Ae1LbenkM4HbPUAjl-cT3k3M_H0YM-U88SRORJ2_fv5dpVm-SBSUn3Er-6yl8pIi6sZhWGDX8CbJAD1tiBFOLw",
+    "https://play-lh.googleusercontent.com/iAwrwCd2hFA0g3-9y9OmfC5SCDskfigWH3lnlYnA0D3stye0GTfRqM4vzt5SfglVgxQyBjyPUDZ6cObOAS5PlD4",
+    "https://play-lh.googleusercontent.com/iB3abP8O1JTh_E_zBBOLocDcUd0zlmqo091icLvF5y78Wl1VSi_Z8jItxLf6685jVpVDYMPhAhn5klyW_VkZ"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Role Playing",
+      "Casual"
+    ],
+    "score": 4.81,
+    "downloadCount": 217283
+  }
+}

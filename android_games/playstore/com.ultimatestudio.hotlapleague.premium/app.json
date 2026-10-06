@@ -10,12 +10,17 @@
     "Racing"
   ],
   "icon": "https://play-lh.googleusercontent.com/0l6rEjTlWdY6GiN6lXQRNfd2w64iAS6SCKsFoqCu4LVg3hc9nzuQf_JVQzFgJ599dkky3LcrKbyMQ2Cyw8vv=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Hp0LYjSdQrvovwVvkMj1brKrE7_DsJrz4SNePtIcEyT1JZIwxARICMrg2W1ZbfAIEruYJJklEE7Xwn9wVLg3GQ",
+    "https://play-lh.googleusercontent.com/n9i5FSz-X96QT9tySnBihXwp2ktwe76EuzKvpPd8ev2mTLXP5b5SNJY7gUj-RhiKc3E28R_mTFjhgIkf0eZN5yk",
+    "https://play-lh.googleusercontent.com/axXHabeLLHNlAXPaygwa4KHa_l0u_8mYvi8821qQ12fYFIbUr86_CuYDdBKwiDCWiqxi1TrTszk2AmmsYGTtEw"
+  ],
   "playstore": {
     "categories": [
       "Racing",
       "Casual"
     ],
     "score": 4.65,
-    "downloadCount": 721981
+    "downloadCount": 721993
   }
 }

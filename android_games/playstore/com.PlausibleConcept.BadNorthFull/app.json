@@ -1,0 +1,26 @@
+{
+  "id": "com.PlausibleConcept.BadNorthFull",
+  "name": "Bad North: Jotunn Edition",
+  "author": "Raw Fury",
+  "description": "A beautifully hand-crafted real-time micro strategy with Vikings.",
+  "url": "https://play.google.com/store/apps/details?id=com.PlausibleConcept.BadNorthFull",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Strategy"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/eaD7QZggQ_HB7drG57WOkwivlwJyjt0oH-AHTOcch1DFhoH9V6qk2793sSTHCJD8Tari1dYHW4UPtQwxO3EU=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Uo93JTslv8i-3MKI1xxNUMIy6AcgCMR20Q6pYiiLh2khGc8KbD5KqukeTTxxSMmguxyMMbejDtLcy69-aCJujg",
+    "https://play-lh.googleusercontent.com/LjCIMTwUkbg3ZphHhfMYpP0aGE8NAxYYmVhL-m3KrD1iA_-KHAFzZtOJXXKvE934oEcgV8RQt6167dgHF2dutg",
+    "https://play-lh.googleusercontent.com/CPuJCtbbduMghLroZYHfYkq2rdXE9nMnI7vZ7Fb20vEXTspH5ztbohWsdr716eooXEa_kuuhMnLm2dXMQE-S"
+  ],
+  "playstore": {
+    "categories": [
+      "Strategy",
+      "Casual"
+    ],
+    "score": 4.4,
+    "downloadCount": 491279
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "com.coffeestain.goatsimulator3",
+  "name": "Goat Simulator 3",
+  "author": "Coffee Stain Publishing",
+  "description": "It’s not a bug, it’s a feature",
+  "url": "https://play.google.com/store/apps/details?id=com.coffeestain.goatsimulator3",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Simulation"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/cXsFz5LAiYY6eibsgQ4rGEh7tr_SDWxKwNKrBMXMJYqJlvKSCD3f_AQDDUdSyIdTUKmwj1M2-H5xBoPW5rkZ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/tuJeTDC0jRZ0iHvmqhqusvrr_FYX1PVukbnUnWwEra8IHrxjgWWcE_NWtCPje9aOwLOiaT_Mpiyur5VmfykMaQ",
+    "https://play-lh.googleusercontent.com/diKaKkpu_i0DXkwnvlomj3b9zxZRL7wLHF3N-vzxJLzr29orCROSaeq5XEkgonGI_2DEl476gkjPPeCGO_Zt",
+    "https://play-lh.googleusercontent.com/IzlS6EVHgHkjpv5tBmRusZs5HWIPgOANxuneI-WUJwlP__sAdQjgkQ6rqy4IT4yucFxGxPF-PD0odaH4gP9JGw"
+  ],
+  "playstore": {
+    "categories": [
+      "Simulation"
+    ],
+    "score": 3.62,
+    "downloadCount": 204673
+  }
+}

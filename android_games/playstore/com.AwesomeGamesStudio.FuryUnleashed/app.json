@@ -1,0 +1,26 @@
+{
+  "id": "com.AwesomeGamesStudio.FuryUnleashed",
+  "name": "Fury Unleashed",
+  "author": "Awesome Games Studio Sp. z o. o.",
+  "description": "Shoot your way through the pages of an ever-changing comic book!",
+  "url": "https://play.google.com/store/apps/details?id=com.AwesomeGamesStudio.FuryUnleashed",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/b4axDZ1LKOLzufLs88h338U-GmGaJhuF67lar0NAP7U3HDQDTBHM-jq9JKVVXQ_gtgHCJVKn4k_JMciG4SQ1=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/LXgh21ynZXzrBQ8lwsVmmj6WUg3XzasWA0_09VAUgOuYkDsNjx-tFdJ92G6Mu5gjDJq0oE_5BBw1ZYIst_Yy7w",
+    "https://play-lh.googleusercontent.com/xL6ih2L0qAYp9X96NRvw-7cTFOi4XJqc52PriZaav3vb4IhqepRnSmMlVYxvhSZtVJRpJ9Tj8IspryfWTU2dnRY",
+    "https://play-lh.googleusercontent.com/eVwkYCyz_Qio06D55ThjT8HaSTCNnNg-czNlJzF_-NY-YaHZgWVACcwPIxxdRUz9MN4JaeUMK7xN2VbER0Jn"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 3.62,
+    "downloadCount": 47622
+  }
+}

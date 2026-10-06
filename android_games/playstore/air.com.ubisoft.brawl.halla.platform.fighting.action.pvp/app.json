@@ -1,0 +1,26 @@
+{
+  "id": "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
+  "name": "Brawlhalla",
+  "author": "Ubisoft Entertainment",
+  "description": "Smash, brawl & fight among the legends of Valhalla in this multiplayer game!",
+  "url": "https://play.google.com/store/apps/details?id=air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/gVm2lQH2WRAggy2ts3tkEmXmdQGHxN4vAcYE4xnW5Vo1f2_ScIgtFeRDRIvRM5tNZ0H3dBnx8nzCkbKQqu6KHg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/x67paSLqWhGM_n1o4W5jamxiDDr6p5adFHpx8qy8WQZ0_DD-QEYt6tKQRIAKYWyztTqI8TtS0gPkwpZtJVDQhw",
+    "https://play-lh.googleusercontent.com/QxzddUhcvVHZ7K7zsutUeWM3urIeuVaFPY3J_h7kqXFsdEHVtDVe1W_zOJk3iRWdnrprNH733CFnlPKPl-kO",
+    "https://play-lh.googleusercontent.com/zbE7hq5vS1Enj9hAHCASfLCCyaZiuxy_XuACq3fAPUHFpsB35CClVsw_aLGfkdPZIUlsdnBjx90EZR_0vfPHIg"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 4.4,
+    "downloadCount": 27210292
+  }
+}

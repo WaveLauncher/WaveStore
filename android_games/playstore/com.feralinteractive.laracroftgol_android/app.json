@@ -1,0 +1,25 @@
+{
+  "id": "com.feralinteractive.laracroftgol_android",
+  "name": "Lara Croft: Guardian of Light",
+  "author": "Feral Interactive",
+  "description": "Play the first two levels, the unlock the full game via in-app purchase.",
+  "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.laracroftgol_android",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/wJHaKvTTIdQJEWPaN4DeBhhzyPFiujEW0HNCvTugzCPPjCzHX9LD119zVoGbcD9q0L5cc3mlFyWZscaU7OHOCg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Pbttd0OuvUNEFltWNOaedeWzT4P_-1EcP4W0tSKBrib0X8NrzqmsgCklfPBlmmy2cZCA0IOQvMNwoF5J8WHEZhU",
+    "https://play-lh.googleusercontent.com/Hbq3DKW511q_ipei9BxF4W70OotL8vb-zb-HyGzqXTqG9ExgdLn9AbokIwTdv4BZJKOMnMKK05OrYBmwvqJ1mK8",
+    "https://play-lh.googleusercontent.com/h4Dgfj26ag4fRXISJJ0zsktuQCv2R_oZ4ZEKmdIuGSZb9z2KXoytfDGq0-eXgaSlvmHBXY5T5MrHlxMrubDOqw"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 4.44,
+    "downloadCount": 338327
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "com.SinkHoleStudio.OguForest",
+  "name": "Ogu and the Secret Forest",
+  "author": "Sinkhole Studio Inc",
+  "description": "Explore the wonderful world with baby Ogu! Unravel the mystery of the world.",
+  "url": "https://play.google.com/store/apps/details?id=com.SinkHoleStudio.OguForest",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/taLmfT-WJJshyjnwSz1a0ozrsENArwWWyWKf_bEyP3H9EuNM7-fW9Zd4ihXEggA8hfiAvEvYx_mpLMVm6zWB=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/GRxePMS4bQC6kNzibHcicsSnnWrbb9X9VzurTfqI8tu87MrIQw8gNW43QNGF_NGkOFkKCfk-u94XFqxag2IrQw",
+    "https://play-lh.googleusercontent.com/zu6gvwMJE-cfrQbXM-D1ZIbmUwX6NsmPgP2fif4fK4n6NAvGg3NYQjrZ-MUlWsUy-Na_5G3p6QqGj690qduJwA",
+    "https://play-lh.googleusercontent.com/vGKCFniW87-g-E5fXo7VMNSlYIugQAsWIatb4QUa-GkNVrQdaDI2xtz24iRnW5aKGRJPvj4YgvcI9_cdcsJIkg"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Casual"
+    ],
+    "score": 3.97,
+    "downloadCount": 258891
+  }
+}

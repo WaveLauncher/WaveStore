@@ -1,0 +1,27 @@
+{
+  "id": "com.overthetopgames.fancypants",
+  "name": "Fancy Pants Adventures",
+  "author": "Over the Top Games",
+  "description": "Run fast! Run Fancy!",
+  "url": "https://play.google.com/store/apps/details?id=com.overthetopgames.fancypants",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Arcade"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/TCx_u8NU40F6K8C7McBjI9qwi7t4HgZT9-HvwuWwmzFt5OkiU8wHrj7tj1I5f6DbqNoIVbKChqnKG8vr65--dg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/jAuJDYNlUbfOFzp3k85AHvkh3TWvSo9d8Vcm9hR0PovRmIr_JyZ0jjHCytYvbkZmKD84Oq5bveTMHjcL8Au9cw",
+    "https://play-lh.googleusercontent.com/WbuRzavdYHLSr-50f82hNGD13l5GICCJjB-ch0KKlJsbqw8d856S6eAXyZwPzRs8aMAIS91acL1ww4rSdxDlcA",
+    "https://play-lh.googleusercontent.com/MLv1zHpkfl4CnVXh0W1xfQFxlDGKgMPeyx1c5zl857IkGG0FGGzUuWN7LR7Im-_Tj9pPPHm6ym6AiPvP9svw"
+  ],
+  "playstore": {
+    "categories": [
+      "Arcade",
+      "Action",
+      "Casual"
+    ],
+    "score": 4.47,
+    "downloadCount": 17999239
+  }
+}

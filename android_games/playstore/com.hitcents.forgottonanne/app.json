@@ -1,0 +1,26 @@
+{
+  "id": "com.hitcents.forgottonanne",
+  "name": "Forgotton Anne",
+  "author": "Hitcents",
+  "description": "Step into a hand-animated realm in which objects take on a life of their own.",
+  "url": "https://play.google.com/store/apps/details?id=com.hitcents.forgottonanne",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/FFUil3QE-NXxa8jiokmv9sNW2kXZ0XpgcYngx9Ex-4EWtGWw98vtn6mZVa-DneNIQhpvhpheNLT4tcfW9c3jYg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/-Wo50vHJgT4gL6PJnXimsN9Tk7_2YqdD95qlhHyKYii1iJoauG-ORfjQpECM6SwKHv6NTZhAJ0kz86VPeO3q40E",
+    "https://play-lh.googleusercontent.com/rePRNoPXKWMbfGErisFo_UR1FSVUGjhq1FpH-4nuxonMyvj4FsuB5MEQ3BiNHgR8hNzxGbDdoNZlm1snSF0eIQ",
+    "https://play-lh.googleusercontent.com/R8LaBvYE-tCXAEQ0zghEeXaqLVr1rrzaIbGr1-4vqDiotO1aq_RWyormVCgCkZFa6p5eUQ9F2JtEqlfoYWzsJA"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Casual"
+    ],
+    "score": 4.52,
+    "downloadCount": 932083
+  }
+}

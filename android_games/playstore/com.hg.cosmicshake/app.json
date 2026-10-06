@@ -1,0 +1,25 @@
+{
+  "id": "com.hg.cosmicshake",
+  "name": "SpongeBob - The Cosmic Shake",
+  "author": "THQ Nordic Mobileㅤ",
+  "description": "Wish-granting Mermaid’s Tears in the hands of SpongeBob… What could go wrong?",
+  "url": "https://play.google.com/store/apps/details?id=com.hg.cosmicshake",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/U_wx7ZWm_8SS5ZaMHgC_meZ_dyqTwaiKzxqZ4501g9RS0C3_mVZr0qKFxI30TnqgHSNV-ZZwJdaETID7ovdPag=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/9IGMIU8GqZBEkjeL_NgLiusyJOwoi522FdDZDtVhLeNicMWmiWyUE-4xvuGjdffCaYnB6maoEuWTQextnxz-",
+    "https://play-lh.googleusercontent.com/66HqXikZGF_S6pYfUVv65Q0dSrJelKY_tpj1PezzScqj1F84_bc74j4U3pWMJ6cDUGP4kxB0h_kP4b5as4POFQ",
+    "https://play-lh.googleusercontent.com/d2RpW0Zu6263iE6sFYkuG-EOA7yjDPkXsNQUaGnmpuyDx8n9K64Kfbj7MixiHLdUaCW_uUHhNZHgRC9Yr5QwrQ"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 3.94,
+    "downloadCount": 125182
+  }
+}

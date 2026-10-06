@@ -1,0 +1,26 @@
+{
+  "id": "com.Alper.SwordOfXolan",
+  "name": "Sword Of Xolan",
+  "author": "Alper Sarıkaya",
+  "description": "Sword of Xolan is an action platformer game",
+  "url": "https://play.google.com/store/apps/details?id=com.Alper.SwordOfXolan",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/Xieg1iDysnb08vfeuytdYrkdq_ZS3BANPUVB5_29KOCc1BTjCetJmyVZ1097PVff56n1qyPbKw4dV80vO7pJxQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/PDVd1NM3JiRE-BFMZqnee0umvb38F9ySuy-_OUPZtJ1R5ET6O-DW5SPZwsqOShA7fAsrG8b2orro_RSghG79Xg",
+    "https://play-lh.googleusercontent.com/v3VVt-1apGQAHnNhc3-VybeBoUvOl4s7jJnLeCpNBfESu-hVX206gsciH5AbwItYYmYOBJkFBh3QBK5gS3ubWsA",
+    "https://play-lh.googleusercontent.com/f-UbOpiPOKO-v_VwGwm6afeRGtiQ-nHZM2mKSYOMGcnCs27vcU9ACH5GrX9OYimtDP7LRbv8AgiAK_T34bkExg"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 3.8,
+    "downloadCount": 4698026
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "com.storeriderprod.labyrinthecity",
+  "name": "Labyrinth City",
+  "author": "StoreRider",
+  "description": "Explore museums and cityscapes to collect stars along the way!",
+  "url": "https://play.google.com/store/apps/details?id=com.storeriderprod.labyrinthecity",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Casual"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/bLx99pGChMaSCGz8UEqb1vElLjhzkbcsGUM3ZOkC6Zpg0A1Ktr1Zn0XG0a6MQPZpDo96FLwvo0SV5lcLCQLihQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/KrfxMHUk4_gqMDD3FkTdnmSrr5ZsF5_0TUc8L5OpIx8XZB9CXsuuwwuNENxMuN4cLa1anrdMYDIEhZvhCccx6g",
+    "https://play-lh.googleusercontent.com/kBRTWEAs526AhaauIY7_qJZ46UXSNq4pdqPTLDOe4CSIkxGgIWfkV7dHKl7w6HIMtORojpZNKe0hTG6QbEW-dg",
+    "https://play-lh.googleusercontent.com/lWUR6aucT9aW6Fk4VM1iXz78No3JzvfnbAqJPNA5ALojwPxxUa71Tp9etrWopG0XfXh8wDdXteZGpwpiNQT5afU"
+  ],
+  "playstore": {
+    "categories": [
+      "Casual",
+      "Adventure"
+    ],
+    "score": 4.48,
+    "downloadCount": 93075
+  }
+}

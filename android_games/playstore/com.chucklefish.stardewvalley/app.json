@@ -1,0 +1,26 @@
+{
+  "id": "com.chucklefish.stardewvalley",
+  "name": "Stardew Valley",
+  "author": "ConcernedApe",
+  "description": "The smash hit farming RPG now on mobile!",
+  "url": "https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/RwIUSwgsFOjwoKAdwCgpajGa6DrS44muStOLe_EIAA4mdzYMHR2N8fd4TbXYKSEVjD9bH63OPo5fFIrHqP_c_A=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/FhPkR3KKfOithM43kYq-F4g-Sv5HdeCW50jl-pfgWse13KrUHlbeOi2w3QYomd62eJlJLaC88VHrpNVy76eUGg",
+    "https://play-lh.googleusercontent.com/8JzJzjdNq0QEgNyJrdATBhNQEooZZ3MvImEO3unMFzf__ZbtsQToSE7EXrQF_JaEtZvCQCiH_YdeYr6XaEI7IA",
+    "https://play-lh.googleusercontent.com/IQ_Hl_ey6ikDi6ybM9U2zCL-EsN88z96ZrpveyH4sjfxhpvRHYUxI_sbsnSf8RBg9Y5u7868SgM1z1KCH9EPdxc"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing",
+      "Simulation"
+    ],
+    "score": 4.61,
+    "downloadCount": 7171983
+  }
+}

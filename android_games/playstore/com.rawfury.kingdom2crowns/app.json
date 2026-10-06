@@ -1,0 +1,27 @@
+{
+  "id": "com.rawfury.kingdom2crowns",
+  "name": "Kingdom Two Crowns",
+  "author": "Raw Fury",
+  "description": "Build your kingdom in this atmospheric micro strategy game.",
+  "url": "https://play.google.com/store/apps/details?id=com.rawfury.kingdom2crowns",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Simulation"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/kAZBQRqytst23LyVjQYsPav0W9cFym_juV1r3J_Jhmep5U5nAbpumUNvxzlGT2FiJWTOD4rmVuI-AhJlnjpD=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Q-blo62F_Yxy2vUr2Bk8UQ0G13J6wTjqE7YQl-aYtjlAi8GbT560QH9wCNBcKwdJvujzfIh7cB0QQuMalJvojxc",
+    "https://play-lh.googleusercontent.com/BHxkDmoi-DZKkevUrgjBsyaqmh0LcgMc5J_0Oom8rZ3c5z1HT9ZuPMm_x-klmah-EhL4C-_MsLE120Ha1rPLoA",
+    "https://play-lh.googleusercontent.com/r-rK9ZlVZ_khiADGrAhPVZh4k1BwHenkElBq9U043-u8JbBFFpOm4pRT6w3DCPoJQYuLNEfKgyzEfbO7bXUE1g"
+  ],
+  "playstore": {
+    "categories": [
+      "Simulation",
+      "Strategy",
+      "Casual"
+    ],
+    "score": 4.02,
+    "downloadCount": 584666
+  }
+}

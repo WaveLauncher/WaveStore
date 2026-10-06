@@ -1,0 +1,26 @@
+{
+  "id": "com.playdigious.chantsofsennaar",
+  "name": "Chants of Sennaar",
+  "author": "Playdigious",
+  "description": "Explore. Decode. Learn. Link.",
+  "url": "https://play.google.com/store/apps/details?id=com.playdigious.chantsofsennaar",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Puzzle"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/Yoa_IrvNd7EXNMasLf2_Qeb7kXNGYMC5y75n0bzRW6KDK2u0Y6YmW_k06F4GVX7aCx7ck5N_gz3OOdATKXgJLg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Ql3GZLU1WGEyyduDGHitU57mpaAShDCKhCpB4FwX-tyG54esCZ-a7qT5Lu-1QRjS_fs1OCNm5G1xhy2wEBWADg",
+    "https://play-lh.googleusercontent.com/VjtnidPX8JOZSx-g57gpGCXhJfnqWaDpydUVkFutr3oHI_nvkC3HqvNvioqRoFn4xsVYWi8KoEHf99zyEwm7wQ",
+    "https://play-lh.googleusercontent.com/g1RmyvhwIBVrkGQoZSoG92ruJSIlExVwc9JvV-3rh8dFrY24WrnSQqLobm7909QUlE1CHJH4sEK8TZqVPmgdPA"
+  ],
+  "playstore": {
+    "categories": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "score": 4.87,
+    "downloadCount": 351288
+  }
+}

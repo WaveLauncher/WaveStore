@@ -1,0 +1,25 @@
+{
+  "id": "com.bscotch.levelhead",
+  "name": "Levelhead",
+  "author": "Butterscotch Shenanigans",
+  "description": "Think you have what it takes?",
+  "url": "https://play.google.com/store/apps/details?id=com.bscotch.levelhead",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/cOa-X-UMAgFetoqYYBJrNEO5jEe3-HYBl7swZbEuhDWwHP6k2nLlVlRSNLxb3qe_RtroxEn9jrfoFLbyIac3Xdc=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/zqesQcmwqvT6F09a_7BAgg1ENSC25wjNgP1uiwTVH3VA5nG2Htz9sIRO4zxS4_8-kTAH0FBbHTRQlLKS3jqdVCU",
+    "https://play-lh.googleusercontent.com/49SfeCJanXjS4nVxivOC3csa5yeFVEiEBXnRM61JJGKqFt5yOOWgQV18zdbngTArhCfUJBcOLa_c1r7o0k38qw",
+    "https://play-lh.googleusercontent.com/qA-iHMpAq5FIF0q4xPepS1Y7PChsvcv2EDo78Mx-8P1u-SCVahxwk_pjU5fYLzEFyacF00yziOZ6300Ltzlcig"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 4.16,
+    "downloadCount": 80921
+  }
+}

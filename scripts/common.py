@@ -17,7 +17,7 @@ PROVIDER_SOURCES = {folder: source for source, folder in PROVIDERS.items()}
 
 FIELD_ORDER = [
     "id", "name", "author", "description", "url", "source", "free",
-    "categories", "icon", "playstore",
+    "categories", "icon", "screenshots", "playstore",
 ]
 
 

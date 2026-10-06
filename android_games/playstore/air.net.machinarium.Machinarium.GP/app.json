@@ -1,0 +1,26 @@
+{
+  "id": "air.net.machinarium.Machinarium.GP",
+  "name": "Machinarium",
+  "author": "Amanita Design",
+  "description": "Robot city adventure",
+  "url": "https://play.google.com/store/apps/details?id=air.net.machinarium.Machinarium.GP",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/sHPCWeeVOoZUTfNUVlu-9n_DFHKBP39X0lu_jTQYQ87sKZVnytHJHmZ3_rGaXtlNnWGnmV0kr9mTHhqUvrFZ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/lRaxb8HvOOvB-VNNfOwP4TAtgsDjf3WZpBslZeFW-BnZBLX7RHeq0e_hP-t8PmgZZR6aXoKz4RQLWgYZ_uvOXA",
+    "https://play-lh.googleusercontent.com/oWA7bmVtEthGV2GFaXXssbDx2kMNjB-vPodYgh20nEYEyVZQTV65bX1YuzbBz_B8UriXNjGxyPgRsgZ7vWFYocs",
+    "https://play-lh.googleusercontent.com/5D6tvEvk8G3sDM_w-YFMy3zgb3QZfpXCitGO9GidY96_EVFXt1HA2aHQ_3co28yibO8ooDCp50kzFrtmYrkD"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Casual"
+    ],
+    "score": 4.0,
+    "downloadCount": 1331742
+  }
+}

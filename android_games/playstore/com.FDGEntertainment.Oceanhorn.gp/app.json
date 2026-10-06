@@ -1,0 +1,26 @@
+{
+  "id": "com.FDGEntertainment.Oceanhorn.gp",
+  "name": "Oceanhorn ™",
+  "author": "FDG Entertainment GmbH & Co.KG",
+  "description": "SET SAIL AND EMBARK ON AN EPIC JOURNEY",
+  "url": "https://play.google.com/store/apps/details?id=com.FDGEntertainment.Oceanhorn.gp",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/NSke_1fm-TFoVueGdqb9cOEGxsfCJbiApRMSut1PnJbfVEQo2zlnB52qwn8CMzd4Ja5SMJKUfp1vTRqUymxRrg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/1W3oXhIJhZtB5YjxAPCvOb_G08QqEOiNbfQj6ClavQhS1GsN9nk_jxtHvvyjGg4tZhSM9Y2s9IEcEenEfavSROs",
+    "https://play-lh.googleusercontent.com/ASgtDo_6WQdvy5QF6PSw47ae3v0kxqxSAbcyDkK9Cxf0451J7A4d8eROeQv0Dv_IQ76_8pOH9H46wOFyAgHPOA",
+    "https://play-lh.googleusercontent.com/meblrkGhKUJ9P7KrGEAbLCHyVoGeB2VJHFfMJ1ecZVg-RFCgr2pYzfg2LYQ53YV52PNIL0QJbArhi6hlVzMIGg"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing",
+      "Casual"
+    ],
+    "score": 3.47,
+    "downloadCount": 10853251
+  }
+}

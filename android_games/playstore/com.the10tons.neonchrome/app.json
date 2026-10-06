@@ -1,0 +1,25 @@
+{
+  "id": "com.the10tons.neonchrome",
+  "name": "Neon Chrome",
+  "author": "10tons Ltd",
+  "description": "Infinitely replayable twin stick shooter with RPG elements!",
+  "url": "https://play.google.com/store/apps/details?id=com.the10tons.neonchrome",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/x4WbBMJh0VcZDIlf6WmamJWDTk2peDc638wAEhwWdjH6a6QN8L1n65Dz2VWAUCULWGowXc0pK85W862w1V0a=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/7Qy6BA-KDFFo9rm1y26AtjYo3kyQgXlkaitWATVuTb0v5Z90yoz4L5ZSpMyQCBaXSpIPriG_4WORWbG1yccyonk",
+    "https://play-lh.googleusercontent.com/dQ3gp2Mf3KIUiyHZzvzmhheE1SUOq1R-cUA85RI2RxJxszldwUg8fuJ0vo5b7WlHvCx5RosljVskLXBYrmx7xQ",
+    "https://play-lh.googleusercontent.com/UcVWQTdspXhBCleQfFXrsyFy5pF2ZRV9Zj-71EbahBdWXN_inPTI_DxpGfWhs5BmdY_0gEzatNuALGDLMbZCxkw"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 4.58,
+    "downloadCount": 14977
+  }
+}

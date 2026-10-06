@@ -1,0 +1,25 @@
+{
+  "id": "com.pid.ugly",
+  "name": "Ugly",
+  "author": "Plug In Digital",
+  "description": "Face your mirrored self.",
+  "url": "https://play.google.com/store/apps/details?id=com.pid.ugly",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Puzzle"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/BOh5y5WFEE3QYrgqSxXwGrjvnux0-QC1zV3HVT_l5FwRbOs-kvfT2qOFbq8THBSHap1mYp0JPI8QqJmgexlA-_g=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/O0QxiWvr0bfzxRwhwyBRPMwEoYCU-SwNmeq3SaR00zdaLR6Dm3PttvccB4vijdOPIu6jlSx26goOdiwfgJyV2II",
+    "https://play-lh.googleusercontent.com/6yQCg_B_wMToA3hhs6NSUWlIzEiJZooguLDrjVt63uOCN34m0V3POjsOGDoD256FJ9XbpCtUbDVFFcGvBft7WA",
+    "https://play-lh.googleusercontent.com/b1Tm23tdD1A3KHN_dWk0fWy1GjVLZGoKKAKMzBxV83b88B0_zy0eNK6UBM6KVPHzoXdFYrWWYXBMBhDlMZCKu5E"
+  ],
+  "playstore": {
+    "categories": [
+      "Puzzle"
+    ],
+    "score": 4.26,
+    "downloadCount": 1753
+  }
+}

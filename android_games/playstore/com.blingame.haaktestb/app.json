@@ -1,0 +1,26 @@
+{
+  "id": "com.blingame.haaktestb",
+  "name": "HAAK",
+  "author": "Blingame",
+  "description": "Hook into a Metroidvania adventure of epic proportions.",
+  "url": "https://play.google.com/store/apps/details?id=com.blingame.haaktestb",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/Jk_Ecg_34St4WtXRJuBJofUexdPP7jAyEDzZMSXtzEuAY6CaY3hOXixz78t8RDBY-3ERKdIlOHz6yKl58-HsQak=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/rAiXhc7895FDeyQigjGDmC1dI48Kh6DM7dV6I7vZ2UbQ90q_gUjZ6v0EWlfGcTB0WSRrFw7X6VnS_r-aABOGBg",
+    "https://play-lh.googleusercontent.com/38J-ofCm1QegodPLAHPwpgkQ3GtSTFnCZ84lnMRVDM5wmlaXueUq8E6nZXpAYthQsUn46hio4ncG-E4hKPmcIw",
+    "https://play-lh.googleusercontent.com/a6G-dfFrOBjW3nZTIlWVfursEk3XQV8m6AAlHqFmty-p9U531vh-LfWHBcN5sYZxh1KX9k0rCZfSeFEOvDuD"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 4.16,
+    "downloadCount": 2846809
+  }
+}

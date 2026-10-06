@@ -1,0 +1,25 @@
+{
+  "id": "com.gabama.monopostolite",
+  "name": "Monoposto",
+  "author": "Marco Pesce",
+  "description": "Racing game with open-wheel cars",
+  "url": "https://play.google.com/store/apps/details?id=com.gabama.monopostolite",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Racing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/OXDfcG00jAGMeNSFn-lWvXhMSEVTBvEH_GCwMyvc6ePlZJ6D2Lv0BEcnt8Gyk9_uym38TMkws1OrTe2UeNAc5GU=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/LXMzpRX1GnQQZG9cN4uov0khDwASHVqUzSOIwOqln6Cix_cfWQ7y7bZme12OyspMEMh-B4yS-ug0IEmsBtorQQ",
+    "https://play-lh.googleusercontent.com/k8MSmp5g4nEhAm7G0ybd4t6izzJ4xLTo3z_RA4_jtnmDTSONHCR50L3yWpItFDlgXJE5oBIFEpC0IKTf3-SYXg",
+    "https://play-lh.googleusercontent.com/tirfznuTWGEhyMRLNzcLGmIm1CKKzgSgBjZKLgWkNlaimb2HJHJXndyujt_NfBNPqpxXRtaLyNpuJFGhjZ2mAcs"
+  ],
+  "playstore": {
+    "categories": [
+      "Racing"
+    ],
+    "score": 4.29,
+    "downloadCount": 33726781
+  }
+}

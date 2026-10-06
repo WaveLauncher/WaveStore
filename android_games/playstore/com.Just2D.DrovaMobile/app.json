@@ -1,0 +1,25 @@
+{
+  "id": "com.Just2D.DrovaMobile",
+  "name": "DROVA - Forsaken Kin",
+  "author": "DECK 13 Interactive GmbH",
+  "description": "Drova is a grim Action-RPG set in the mysticism of Celtic mythology.",
+  "url": "https://play.google.com/store/apps/details?id=com.Just2D.DrovaMobile",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/aPqWflsACiWNRpA1mimGYj5vFtZ3OpSAKBCmF1zR1vTz4Gp1eoHHAhgrFZZUhB4Mw84Mg-SfjTibVDKSpuyN=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/roog1X6uIGskhMFAFnZpzJPtZPSIdn7wByDpVEkFgUCZeU1p9QM9q96UzK65qXQU1ZccS5vdZ44H5BRz3Uf6",
+    "https://play-lh.googleusercontent.com/FQsHmAz7cWsi-S9mybv-J-oa84nCMG8OwZHLxR7adFiFoPIpKgFW1ZsKtruZYWMzDN4gYG3To45WyodDKIFK",
+    "https://play-lh.googleusercontent.com/y9HX5NyNHMXvndP-fA9gtf2edEnmj0bzBE-bvz42ed5fkt-Xifp9I5NlM9sNoS8YSM4gIAaey799TYwBjKaO"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing"
+    ],
+    "score": 3.61,
+    "downloadCount": 37269
+  }
+}

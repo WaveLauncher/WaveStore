@@ -1,0 +1,26 @@
+{
+  "id": "com.ghostshippublishing.deeprockgalacticsurvivor",
+  "name": "Deep Rock Galactic: Survivor",
+  "author": "Ghost Ship Publishing ApS",
+  "description": "*Try the demo* Survive alone in a Roguelike Reverse Bullet Hell.",
+  "url": "https://play.google.com/store/apps/details?id=com.ghostshippublishing.deeprockgalacticsurvivor",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Arcade"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/9c7Jtgblhy9MRJTCrr-htiRyWfGJqSv3c9GC38yblXM-4ig6BcNkWKhJbjqDZU1k0hosigQtKlLXUoS0vNhkrQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/lu8S-a-iUo_ew5kiRYQ2E3qGV2Gedgnv0b-hzFwg56RXk0tDLpATceRWI3OFVQMCIxNXe3Fd3LKbwABd2twILQ",
+    "https://play-lh.googleusercontent.com/kQ4cj0vy6glgjL7iIu3tG-B2Mh8rcMVoM57GQsGkZ2irGqowvxQWy6SXHTRixvMQrBOcUXq2PqWcs65JObEj9w",
+    "https://play-lh.googleusercontent.com/2s_eLUQbPp6UDFUNyITOz50USb-cyOfZbfrmsNB-nk2EtPAZpWslDsxQea5sOSN9Fdz1WJ5VnTLU6alNpaT1"
+  ],
+  "playstore": {
+    "categories": [
+      "Arcade",
+      "Role Playing"
+    ],
+    "score": 4.77,
+    "downloadCount": 1715991
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "com.hg.endling",
+  "name": "Endling *Extinction is Forever",
+  "author": "THQ Nordic Mobileㅤ",
+  "description": "Will a mother fox manage to keep its little cubs alive?",
+  "url": "https://play.google.com/store/apps/details?id=com.hg.endling",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/T3r-Dtp6T-00dQJH6fWe5FhfIRueNO9V2brLSkwlAks47UfRgc8hGLwt2A8qw3WpS47YmecrlCVkQo_MoYMBZg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Sg9sFcKvUcv4Xhjkgmi8kb6EkkTkC93hdMvzbrSCSO0suuIueDmGQ6FPNAaqHl2G4G1wVmoaTluFuiIglXFlAA",
+    "https://play-lh.googleusercontent.com/dhTWHF0wPiGKAoSPq6VhoOuVP-o0XnVvhBPaH6rpi1Epjsp1n2nZK_EI7NBDWOzzwFesiP17obEeIT4adYBS_rc",
+    "https://play-lh.googleusercontent.com/im4fgcon5N-G1dKEtbM7wzVb8XLBlfhL5nhVoPv3gVtScCPdXvBVyCuRAzTONeXcpvk3qyFxqZE2PRO0ww95"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action",
+      "Casual"
+    ],
+    "score": 4.33,
+    "downloadCount": 144528
+  }
+}

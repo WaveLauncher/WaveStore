@@ -1,0 +1,25 @@
+{
+  "id": "com.playdigious.potionpermit",
+  "name": "Potion Permit",
+  "author": "Playdigious",
+  "description": "Heal the town of Moonbury",
+  "url": "https://play.google.com/store/apps/details?id=com.playdigious.potionpermit",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/c9tXubB2EgmtNwKvNsdpE9UFugKMW8_C3ab3rUbR8uvS72YFl3AXuwSZNSg5xB4tB0Yk2IJcqrX0tlxnVZ5itw=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/5lEcgjK5501o-0Br6EnPkGpwC-HGKQQfunZkcjLRy9Wm77-Jm4DDQmKAp-IOkS3sQH-s4JvmFK86eCjBr4Idjw",
+    "https://play-lh.googleusercontent.com/VHL2iVMXRn8uzmgDJSydPr3YGGDJm_g2yWAaUHQ_fZsKzoYX9VxxAcGIMmrW5Jn-uZH0Nj6w7svVVcodDU5Y7g",
+    "https://play-lh.googleusercontent.com/O5ELWieTq5vcDLWhXOL3IukkDITrZUwNcaR6Fnaz9uKWBZazhV3xVCqmJplaZ7RZ53OtzAl2N3jXFC-trNPxdg"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing"
+    ],
+    "score": 4.48,
+    "downloadCount": 340104
+  }
+}

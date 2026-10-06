@@ -15,12 +15,13 @@ import common
 SOURCE = "PlayStore"
 STORE_URL = "https://play.google.com/store/apps/details?id={app_id}"
 ICON_SIZE = "s512"
+SCREENSHOT_LIMIT = 3
 PLAY_CDN = "play-lh.googleusercontent.com"
 PACKAGE_RE = re.compile(r"^[A-Za-z][A-Za-z0-9_]*(\.[A-Za-z0-9_]+)+$")
 URL_ID_RE = re.compile(r"[?&]id=([A-Za-z0-9_.]+)")
 GENERATED_FIELDS = ["name", "author", "description", "url", "source", "categories", "icon"]
 # Play owns these, so they refresh instead of raising a conflict.
-PLAY_OWNED = ["free", "playstore"]
+PLAY_OWNED = ["free", "screenshots", "playstore"]
 
 
 def parse_targets(values):
@@ -46,6 +47,12 @@ def play_icon(url):
 def play_kind(record):
     """Play files anything playable under GAME_*, emulators included."""
     return "game" if (record.get("genreId") or "").startswith("GAME_") else "app"
+
+
+def play_screenshots(record):
+    """A listing can carry 20 or more. A gallery never shows that many."""
+    shots = [s for s in (record.get("screenshots") or []) if isinstance(s, str) and s.strip()]
+    return shots[:SCREENSHOT_LIMIT]
 
 
 def play_extras(record):
@@ -79,6 +86,7 @@ def convert(record, app_id, categories):
         "free": bool(record.get("free")),
         "categories": categories or [(record.get("genre") or "Other").strip()],
         "icon": play_icon(record.get("icon") or ""),
+        "screenshots": play_screenshots(record),
         "playstore": play_extras(record),
     }
 

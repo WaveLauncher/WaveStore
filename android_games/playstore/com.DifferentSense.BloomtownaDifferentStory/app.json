@@ -1,0 +1,25 @@
+{
+  "id": "com.DifferentSense.BloomtownaDifferentStory",
+  "name": "Bloomtown: A Different Story",
+  "author": "Twin Sails Interactive",
+  "description": "Fighting demons has never been this cozy!",
+  "url": "https://play.google.com/store/apps/details?id=com.DifferentSense.BloomtownaDifferentStory",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/UErSk9WQaZckKwN7luTWLm102JPblUw_L5qrPZ1ET4mgc2ElpTXs3NlS73GWM5anmFJw6l8qhOdQS9ka4iwamQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/HFaVy1hxT6A0vOoQqT9epvNNCIJGdiuh2bBSZsK-ZDa9ZdjMczIMOF-vWtHEgbvLKUBsOd0Ct55T1x-sjyRlnw",
+    "https://play-lh.googleusercontent.com/B3V9KlG75X8AfDp_kTCZVAGF0YVb4JvuDi0QAvpm2xq4e89N2IP1w4b0_GCpjBDMfvjRts03KGWWVw-ea4voVw",
+    "https://play-lh.googleusercontent.com/RgyDFWWQNlkSaamDi1Ohybaj_a8hpEzovUBOu2zX3bpVKI-Rymc0bGBLhsuItG4209vTCk6FKqHtiIHbxD0U"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing"
+    ],
+    "score": 3,
+    "downloadCount": 36129
+  }
+}

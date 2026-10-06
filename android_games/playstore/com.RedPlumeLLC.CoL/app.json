@@ -1,0 +1,25 @@
+{
+  "id": "com.RedPlumeLLC.CoL",
+  "name": "Caves of Lore",
+  "author": "Red Plume",
+  "description": "Engage in tactical grid-based combat in this classic-styled fantasy CRPG.",
+  "url": "https://play.google.com/store/apps/details?id=com.RedPlumeLLC.CoL",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/ryHjtGDhAZ_y3se-0A5X2vfc9PcHF0zn2XcVaOcWlsnVMdhgiMgYzKgrywH9APcdIGr743yr8q96WyZrsRvSbg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/SN-nEUSNYvqVdZOgihQzGqL1v1KI8XLFsUjOaNgeK6YBz-XAW5YJmMHZjMaKWxSZV6CXJMKyExmoMZ45F-On7w",
+    "https://play-lh.googleusercontent.com/LBI6dya28sWtuveMn4aLGQXV-fTw59_wHBu50kzaePUlcG-asfWnUsTWij86XRaHkhbX-zQ3mW-Cbc1nlVbAf80",
+    "https://play-lh.googleusercontent.com/FrXicH8CG4RKfjMfqWxVZdiwHqufjxkkm1dzjDE7TVGeGEeGdJ-cya0lv1-bHJ45FLSBkpM1Z33xObaq7KxD"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing"
+    ],
+    "score": 4.89,
+    "downloadCount": 12204
+  }
+}

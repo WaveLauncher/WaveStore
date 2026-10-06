@@ -1,0 +1,26 @@
+{
+  "id": "org.hempuli.baba",
+  "name": "Baba Is You",
+  "author": "Hempuli",
+  "description": "Baba Is You is a puzzle game where you change the rules by which you play.",
+  "url": "https://play.google.com/store/apps/details?id=org.hempuli.baba",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Puzzle"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/GjPq8BQ9kZhsi81cWwsYWD2kOeaW-j1Cv8YcStd0Y4OhIpiCOzKREsFCIbUV4LUdLn1fpGpcx716K6OGYvt0Zg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/6M9WdmnzD70WVKEchSujgxvkD_X6jc2_5yjQ43Bn-M_waQAyGPLpTCvOa_Te1DFsM6xKdAwsdWhYOJNythRk1w",
+    "https://play-lh.googleusercontent.com/37A19pVVMS-Jj1j0U_AObLXHk6sbDnVvBvR4VbPB6RnKDvK6zvpuyatsJTkYIs_tgPiWu40piu0Rek9MJkRp9g",
+    "https://play-lh.googleusercontent.com/ovJK7tMTwq60Rd3mhnDS3lXJUnwrH86wBhrbG-fWi5pezF54mJPJFsxVlyCpj_O2-ho2qAT51uqpk_l5FndGYWY"
+  ],
+  "playstore": {
+    "categories": [
+      "Puzzle",
+      "Casual"
+    ],
+    "score": 4.64,
+    "downloadCount": 143528
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "brownmonster.app.game.rushrallyremastered",
+  "name": "Rush Rally Origins",
+  "author": "Brownmonster Limited",
+  "description": "Retro Rally Racing",
+  "url": "https://play.google.com/store/apps/details?id=brownmonster.app.game.rushrallyremastered",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Racing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/rZO9-LhcV8vpajXUGYCEdskU5PYB6qAtuXu7_xKnai-JiyHpVs4QSXCAPZjpv6d5uWp4PKgROwZOZyNgUjB2Yg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/oSLvHMroPRh-mz5x5lMitvnnjt3EG1K8uakNRR5OsIIwsOkiRLVEHIeX7CRv8i9ANj01HNwSvZOWhKj4qazyHQ",
+    "https://play-lh.googleusercontent.com/eq9fqCOHOLt432QW1F7xMalHsM7CpAc8CnqEZdf0pFRmJCPigKOdBqwfeyB-OF58SQycDxbVm9rnN7LDlovc",
+    "https://play-lh.googleusercontent.com/-LX0GJ-WgtrOmB-mWqiJ6zJ6v2ikWd1KKCD7eeqokWSnZUe3eLrQxlvsE8te3rnlAmRy8-6i8Id3W1H30FyuAg"
+  ],
+  "playstore": {
+    "categories": [
+      "Racing",
+      "Casual"
+    ],
+    "score": 4.31,
+    "downloadCount": 338072
+  }
+}

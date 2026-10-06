@@ -1,0 +1,26 @@
+{
+  "id": "com.rawfury.longhathouse.Dandara",
+  "name": "Dandara Trials of Fear Edition",
+  "author": "Raw Fury",
+  "description": "A Metroidvania Adventure Hunt",
+  "url": "https://play.google.com/store/apps/details?id=com.rawfury.longhathouse.Dandara",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/he4yAY2ON03TGn5glfWTWDY7DPgo9cSWU0BqfKHtLMPT59HBaIkDY27vrp62paazsuNKaXWLG1oHjdbi1Ip9NA=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/MW79z76X5FTaKju7iIaVDVtHKPybBxgFVOsTsQ23Ym1ENng-2LSVQ5RpkYXkWruoCK4yhV7HDwJiTl6D4rZc",
+    "https://play-lh.googleusercontent.com/wEufscHhFS6WS04l74zpKCWzH0k68Bq4nVL2IoRiJiSUy4xpJsWI5I6lD1zTooAI5mi0nmM_CuPfBmN9bI8U",
+    "https://play-lh.googleusercontent.com/P-lipE4kMdfU6vFcTYjX8nLj1aSdtrTz3ekwXl_mFXmq9txEcscHueSkku_oTobqPZE-K1WnjTIpMi2HEuC-xw"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action"
+    ],
+    "score": 4.09,
+    "downloadCount": 199726
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "com.abylight.HyperLightDrifter",
+  "name": "Hyper Light Drifter - S.E.",
+  "author": "Abylight Studios",
+  "description": "Explore a mysterious world",
+  "url": "https://play.google.com/store/apps/details?id=com.abylight.HyperLightDrifter",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/APK4ctkYJxgZTgU7zoVwj5PbxIYQLnAPvoG2mvdgHbDzi2S7eCHnHYzIOV8qgiaZTaeZ5wLKTy2-vBPh6fh9=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/v_m-VLiyuf6jXhiQlB7MDKRApwSrEo9S1viOc7LeADxZ3Vnry3RnT8SYNfUbhkca9aadpG_lFAK1Q8hPqMF5",
+    "https://play-lh.googleusercontent.com/5Lksgl_w9PSu9SM8SduIUaXYRJttMPdsxtxnRoQEcUpanHGK4HsZZngzHLXPPnpNmZza0NMYhN2eLRdDMgFxMQ",
+    "https://play-lh.googleusercontent.com/aFw4JAQreHV6E0uSRtVBisTQ-_nTosXBMiy6_KTF8__EkIXRsD60EPhmn-7QwK8FaiGiPslvE8oC1AZA1PE0EQ"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 3.45,
+    "downloadCount": 19921
+  }
+}

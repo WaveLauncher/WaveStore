@@ -1,0 +1,25 @@
+{
+  "id": "com.obysfarm.adventure",
+  "name": "Oby Adventure: Platformer",
+  "author": "Oby's Farm",
+  "description": "Jump, dash and explore a charming platforming adventure full of secrets",
+  "url": "https://play.google.com/store/apps/details?id=com.obysfarm.adventure",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/6t92dq3zw26e6nBircCt4kleZrLYZ5VA1YQSBVdHtjr_4UqH9Q1A7T8dZYUc_aghIfXCW1JjkbkY8zeBIYCu=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/LlwtBGAOYDSB6OvlnLc9rxZWu_c3J-J0jhljGBEzvAwTnPg_M_yWz6B-p8wrP5kTtMqrkxnUjGqZu15wyltY",
+    "https://play-lh.googleusercontent.com/qloGL408t-LRHLXk7Nplm53uHOWb39IYCbTYSWdrWH36eTsR7ycDVS2iB-yE_zYYj4uuIt89Xtc00324zZr0lA",
+    "https://play-lh.googleusercontent.com/sSoALr43A6TPTmd0Ro5Q7Pu9xeHV1gr9A5GgTYNqAFpKUTYpz_AFWOg4w0gJOJfaPtJcwRO5CykPUlHwpmPeLw"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure"
+    ],
+    "score": 3.24,
+    "downloadCount": 16862
+  }
+}

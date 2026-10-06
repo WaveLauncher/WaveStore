@@ -1,0 +1,26 @@
+{
+  "id": "ru.antkarlov.zombotron",
+  "name": "Zombotron Re-Boot",
+  "author": "Ant.Karlov Games",
+  "description": "Explore a mysterious world, find weapons and fight various enemies to survive!",
+  "url": "https://play.google.com/store/apps/details?id=ru.antkarlov.zombotron",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/LdOl3jDNhctUS1K5m0WYEuTttjCwXrqRMrJteU9T7nCCmvZXrbCpvMaOCjCVl2BEYEoQxUm24Qo-eLuP4gGE=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/kK_J4PnlflksWJw1oCh5mHLkGuzVKzF432DoJIzNA6KLQjQpKgyz2-6oqvDxYQKK6_wbgnaca7LM1Q3szeLx",
+    "https://play-lh.googleusercontent.com/Jjri7qqB-UXVzGxgbV4n_EOdGKw0U6Pycmw8n9rFIW_oSluIcsWUCYXZSB4KCWd3AAQRNCFVN076fKrTEw8p-A",
+    "https://play-lh.googleusercontent.com/J6_7hWDE0CeW9RIJi6fn6PVkSLGTX7g0bhf2JZj1_zMGUWgAsy2ez8IQ8XoYOJp6MJ4bQ3Hne5yJFBnS8g91dA"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 4.54,
+    "downloadCount": 6638132
+  }
+}

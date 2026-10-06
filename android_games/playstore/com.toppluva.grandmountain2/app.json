@@ -1,0 +1,25 @@
+{
+  "id": "com.toppluva.grandmountain2",
+  "name": "Grand Mountain Adventure 2",
+  "author": "Toppluva AB",
+  "description": "An open-world skiing and snowboarding adventure.",
+  "url": "https://play.google.com/store/apps/details?id=com.toppluva.grandmountain2",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Sports"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/QipLaaP7jJtYmryKeDItPSDA_nwXYKmNimTVwJz3iGFlz4MrL9zzJCQ6SnlHGuQgqLCUfq1201ZtzIjoN5Ku6A=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/pI4vfo28vhwR9FzDFPG3qJ8M-x5Fh6WraO51kLaPrvK1wReX9O4Cil5I5BBDH7s-6gchyRVoTu4ewTr7GbANcA",
+    "https://play-lh.googleusercontent.com/7cFpUt30RJ_BjWys81JoHPXUZlZ6MUNeKdyLGx6gcQ2S-OgqIR0sCSknMEZZw_piwU71vj3KleerdohiLcan",
+    "https://play-lh.googleusercontent.com/FXadTFqU-Tvn_LXwdrqjP-Z0Gl5a_kUwOYD3_6Xd5N8nBs4ZLv2EWO39LPsMNUncz1AgaTdbEE_6dVFLb-oc0d0"
+  ],
+  "playstore": {
+    "categories": [
+      "Sports"
+    ],
+    "score": 4.42,
+    "downloadCount": 3190975
+  }
+}

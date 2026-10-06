@@ -1,0 +1,26 @@
+{
+  "id": "com.square_enix.android_googleplay.chrono",
+  "name": "CHRONO TRIGGER (Upgrade Ver.)",
+  "author": "SQUARE ENIX Co.,Ltd.",
+  "description": "The timeless RPG classic returns loaded with upgrades!",
+  "url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.chrono",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Role Playing"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/xCYhOD2U6nSEN8r0Y0y2CYW_NOmXpwgW33NVHKfRi1zZGAUvhBiYnc0Dhy8NWwiW99EI93u6h_xhujKeBOZErg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/q1EF3ATBGQwWyLpM7eXL8fJht_hJrVx6wj2gOQmKml0oCFpgPkpteyn70w1lGhHzbY3ljvudtwkqB694wwlJsw",
+    "https://play-lh.googleusercontent.com/LuKaG6X8T81LRLwmF7eUDskgk94rhfKXNz-GhqExLofb0CMsAj15rXeRf_uL2UKArlO5zfA-74gduWfakWYBQA",
+    "https://play-lh.googleusercontent.com/ZeWHLhEHPRy5_LG981tvm9v3jpVEXpB9GC9tJYUjiTCSaSo39UqlcAUv2Ls7GmQTKkpvuWzrTQG4WU3bht0q"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing",
+      "Casual"
+    ],
+    "score": 3.77,
+    "downloadCount": 651261
+  }
+}

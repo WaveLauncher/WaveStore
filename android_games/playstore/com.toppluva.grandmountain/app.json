@@ -1,0 +1,26 @@
+{
+  "id": "com.toppluva.grandmountain",
+  "name": "Grand Mountain Adventure",
+  "author": "Toppluva AB",
+  "description": "Bomb a steep slope, do crazy jumps or just cruise around!",
+  "url": "https://play.google.com/store/apps/details?id=com.toppluva.grandmountain",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Sports"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/CvOSXr3Z0Q51wbz61Fkr-xgfxHhqXuiqD5S6WMZduz0QzKzCM57DJBKgoTOZD7PYw08sXK8H4kAbAOuY6LBxBQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/-1Eo1SAKN-y6J2aNi5woHeHZp5SWNKL2UE_qdI-Jtegs5EI671_nytBdIxkfDGkxS-Ix9o_4vpczqIxeJQSP8Q",
+    "https://play-lh.googleusercontent.com/MdDKIj5pe9jdU9aPTz6crGorRQ21RGhB6IlCySbH3qxaTdRc8qcSGQRPoA-Mri6QNQiEykcucb_nZalPKeIptA",
+    "https://play-lh.googleusercontent.com/1hBxRQW3vllIzL3b5eh2idM2LVPDl-PvIDKwrdSrwEZwCi_tpXtJEFPLDf1ZBrYv_ST-6T7cKBL6oL8v3iRHtQ"
+  ],
+  "playstore": {
+    "categories": [
+      "Sports",
+      "Casual"
+    ],
+    "score": 4.2,
+    "downloadCount": 14197334
+  }
+}
