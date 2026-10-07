@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-07T19:05:59Z",
+  "generatedAt": "2026-10-07T19:09:11Z",
   "counts": {
     "apps": 58,
     "games": 134
@@ -542,7 +542,7 @@
       "id": "com.pokedaisy.app",
       "name": "pokedaisy",
       "author": "lidor30",
-      "description": "",
+      "description": "Play Gen 3 Pokémon on the top screen. See everything about your game on the bottom one.",
       "url": "https://github.com/lidor30/pokedaisy",
       "source": "GitHub",
       "free": true,
