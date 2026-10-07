@@ -1,0 +1,20 @@
+{
+  "id": "com.pokedaisy.app",
+  "name": "pokedaisy",
+  "author": "lidor30",
+  "description": "",
+  "url": "https://github.com/lidor30/pokedaisy",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "screenSupport": [
+    "dual"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.pokedaisy.app/icon.png",
+  "screenshots": []
+}
