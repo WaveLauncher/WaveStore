@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-06T20:43:18Z",
+  "generatedAt": "2026-10-07T19:05:59Z",
   "counts": {
-    "apps": 57,
+    "apps": 58,
     "games": 134
   },
   "featured": {
@@ -536,6 +536,26 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.nanodata.armsx/icon.png",
+      "screenshots": []
+    },
+    {
+      "id": "com.pokedaisy.app",
+      "name": "pokedaisy",
+      "author": "lidor30",
+      "description": "",
+      "url": "https://github.com/lidor30/pokedaisy",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Emulator"
+      ],
+      "screenSupport": [
+        "dual"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.pokedaisy.app/icon.png",
       "screenshots": []
     },
     {
