@@ -1,6 +1,6 @@
 {
   "id": "com.acpc.port",
-  "name": "ACGC-Android-Port",
+  "name": "Animal Crossing (GameCube)",
   "author": "zwaetschge",
   "description": "Android port of the Animal Crossing (GameCube) PC port, built with Z.ai, OpenAI Codex and Claude – bring your own disc; HD textures and translations are fetched/generated in the app",
   "url": "https://github.com/zwaetschge/ACGC-Android-Port",

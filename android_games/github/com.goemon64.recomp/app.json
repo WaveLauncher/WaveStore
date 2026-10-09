@@ -1,6 +1,6 @@
 {
   "id": "com.goemon64.recomp",
-  "name": "Goemon64Recomp-Android",
+  "name": "Mystical Ninja Starring Goemon",
   "author": "ogdanimal",
   "description": "Android port of Mystical Ninja Starring Goemon via static recompilation, with RT64 Vulkan rendering. Bring your own ROM.",
   "url": "https://github.com/ogdanimal/Goemon64Recomp-Android",

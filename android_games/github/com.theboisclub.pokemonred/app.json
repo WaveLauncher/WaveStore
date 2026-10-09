@@ -1,6 +1,6 @@
 {
   "id": "com.theboisclub.pokemonred",
-  "name": "gen1recomp",
+  "name": "Pokemon Red (Gen1Recomp)",
   "author": "bryanthaboi",
   "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1, 2, and 3 Poke",
   "url": "https://github.com/bryanthaboi/gen1recomp",

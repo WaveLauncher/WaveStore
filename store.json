@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-09T15:27:59Z",
+  "generatedAt": "2026-10-09T17:30:35Z",
   "counts": {
     "apps": 63,
     "games": 184
@@ -2529,7 +2529,7 @@
     },
     {
       "id": "com.acpc.port",
-      "name": "ACGC-Android-Port",
+      "name": "Animal Crossing (GameCube)",
       "author": "zwaetschge",
       "description": "Android port of the Animal Crossing (GameCube) PC port, built with Z.ai, OpenAI Codex and Claude – bring your own disc; HD textures and translations are fetched/generated in the app",
       "url": "https://github.com/zwaetschge/ACGC-Android-Port",
@@ -2742,7 +2742,7 @@
     },
     {
       "id": "com.aure.banjorecomp",
-      "name": "BanjoRecomp-Android",
+      "name": "Banjo-Kazooie",
       "author": "AurelioB",
       "description": "Android Port of Banjo-Kazooie made using N64: Recompiled",
       "url": "https://github.com/AurelioB/BanjoRecomp-Android",
@@ -2862,7 +2862,7 @@
     },
     {
       "id": "com.birabittoh.eternalsonata",
-      "name": "EternalSonataReprise",
+      "name": "Eternal Sonata",
       "author": "birabittoh",
       "description": "Eternal Sonata, recompiled for PC.",
       "url": "https://github.com/birabittoh/EternalSonataReprise",
@@ -2885,7 +2885,7 @@
     },
     {
       "id": "com.blacklabelhq.sotn",
-      "name": "SymphonyRecomp",
+      "name": "Castlevania: Symphony of the Night",
       "author": "sergiomanzur",
       "description": "Recompilation project for Castlevania: Symphony of the Night",
       "url": "https://github.com/sergiomanzur/SymphonyRecomp",
@@ -3067,7 +3067,7 @@
     },
     {
       "id": "com.capcom.regaiden",
-      "name": "regaiden-recomp",
+      "name": "Resident Evil Gaiden",
       "author": "sergiomanzur",
       "description": "Native static C/C++ recompilation of Resident Evil Gaiden (GBC) for PC with True Widescreen, 2D Dynamic Lighting, Retro Horror Shaders, and HD Texture Pack support",
       "url": "https://github.com/sergiomanzur/regaiden-recomp",
@@ -3280,7 +3280,7 @@
     },
     {
       "id": "com.ctrnative",
-      "name": "ctr-native-android",
+      "name": "Crash Team Racing",
       "author": "Simon358",
       "description": "A Crash Team Racing Decompilation Project - Port on Android",
       "url": "https://github.com/Simon358/ctr-native-android",
@@ -3365,7 +3365,7 @@
     },
     {
       "id": "com.dishii.zelda3",
-      "name": "zelda3-android",
+      "name": "Zelda: A Link to the Past (Zelda3)",
       "author": "samyost1",
       "description": "A port of Zelda3 to Android",
       "url": "https://github.com/samyost1/zelda3-android",
@@ -3797,7 +3797,7 @@
     },
     {
       "id": "com.goemon64.recomp",
-      "name": "Goemon64Recomp-Android",
+      "name": "Mystical Ninja Starring Goemon",
       "author": "ogdanimal",
       "description": "Android port of Mystical Ninja Starring Goemon via static recompilation, with RT64 Vulkan rendering. Bring your own ROM.",
       "url": "https://github.com/ogdanimal/Goemon64Recomp-Android",
@@ -3882,7 +3882,7 @@
     },
     {
       "id": "com.halo.decomp",
-      "name": "OpenCE",
+      "name": "Halo: Combat Evolved (OpenCE)",
       "author": "OpenCommunityEdition",
       "description": "Halo: Combat Evolved (for original Xbox) ported to Windows, Linux and Android",
       "url": "https://github.com/OpenCommunityEdition/OpenCE",
@@ -4158,7 +4158,7 @@
     },
     {
       "id": "com.izzy.kart",
-      "name": "SpaghettiKart",
+      "name": "Mario Kart 64 (SpaghettiKart)",
       "author": "izzy2lost",
       "description": "Android",
       "url": "https://github.com/izzy2lost/SpaghettiKart",
@@ -4332,7 +4332,7 @@
     },
     {
       "id": "com.linkzenic.soh",
-      "name": "Shipwright-Android",
+      "name": "Zelda: Ocarina of Time (Ship of Harkinian)",
       "author": "linkzenic",
       "description": "Ship of Harkinian Android fork",
       "url": "https://github.com/linkzenic/Shipwright-Android",
@@ -4355,7 +4355,7 @@
     },
     {
       "id": "com.lv4games.castlevaniarevamped",
-      "name": "Castlevania-ReVamped-Open-Source-Edition",
+      "name": "Castlevania: ReVamped",
       "author": "eboody",
       "description": "Eboody's main Castlevania ReVamped Android repo.",
       "url": "https://github.com/eboody/Castlevania-ReVamped-Open-Source-Edition",
@@ -4411,7 +4411,7 @@
     },
     {
       "id": "com.maniscat2.sm64coopdx",
-      "name": "sm64coopdx",
+      "name": "Super Mario 64 Coop DX",
       "author": "ManIsCat2",
       "description": "",
       "url": "https://github.com/ManIsCat2/sm64coopdx",
@@ -4529,7 +4529,7 @@
     },
     {
       "id": "com.mircowuffwuff.smb1r",
-      "name": "super-mario-bros.-remastered-android",
+      "name": "Super Mario Bros. Remastered",
       "author": "mircowuffwuff",
       "description": "an android port of the Super Mario Bros. Remaster by JoeMama and their team",
       "url": "https://github.com/mircowuffwuff/super-mario-bros.-remastered-android",
@@ -4780,7 +4780,7 @@
     },
     {
       "id": "com.nfsmw.android",
-      "name": "nfsmw-android",
+      "name": "Need for Speed: Most Wanted",
       "author": "codepdbh",
       "description": "",
       "url": "https://github.com/codepdbh/nfsmw-android",
@@ -5718,7 +5718,7 @@
     },
     {
       "id": "com.rocketret.rocketr",
-      "name": "Rocket-R",
+      "name": "Rocket: Robot on Wheels",
       "author": "ThatGuyMcd",
       "description": "Rocket: Robot on Wheels - Recompiled by ThatGuyMcd",
       "url": "https://github.com/ThatGuyMcd/Rocket-R",
@@ -6214,7 +6214,7 @@
     },
     {
       "id": "com.starfox.enhanced",
-      "name": "starfox-enhanced",
+      "name": "Star Fox 64 Enhanced",
       "author": "kandowontu2",
       "description": "Star Fox Enhanced source and portable platform builds (Assisted by Codex AI)",
       "url": "https://github.com/kandowontu2/starfox-enhanced",
@@ -6237,7 +6237,7 @@
     },
     {
       "id": "com.starship.android",
-      "name": "Starship",
+      "name": "Star Fox 64 (Starship)",
       "author": "izzy2lost",
       "description": "SF64 Android Port",
       "url": "https://github.com/izzy2lost/Starship",
@@ -6418,7 +6418,7 @@
     },
     {
       "id": "com.theboisclub.pokemonred",
-      "name": "gen1recomp",
+      "name": "Pokemon Red (Gen1Recomp)",
       "author": "bryanthaboi",
       "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1, 2, and 3 Poke",
       "url": "https://github.com/bryanthaboi/gen1recomp",
@@ -6854,7 +6854,7 @@
     },
     {
       "id": "dev.kartpad.android",
-      "name": "kartpad",
+      "name": "Mario Kart Wii (Kartpad)",
       "author": "chrissotraidis",
       "description": "Mario Kart Wii and Retro Rewind, native for iOS, iPadOS, macOS, tvOS, and Android.",
       "url": "https://github.com/chrissotraidis/kartpad",
@@ -6877,7 +6877,7 @@
     },
     {
       "id": "dev.nfs3hp.port",
-      "name": "nfs3recompiled-android",
+      "name": "Need for Speed III: Hot Pursuit",
       "author": "ZloiKILLER",
       "description": "Need For Speed III: Hot Pursuit recompiled PC port on Android",
       "url": "https://github.com/ZloiKILLER/nfs3recompiled-android",
@@ -6900,7 +6900,7 @@
     },
     {
       "id": "dev.picori.tmc",
-      "name": "tmc",
+      "name": "Zelda: The Minish Cap (Project Picori)",
       "author": "999sian",
       "description": "Project Picori — a native PC port of The Legend of Zelda: The Minish Cap (Linux/Windows/macOS), built on the zeldaret/tmc decompilation.",
       "url": "https://github.com/999sian/tmc",
@@ -6923,7 +6923,7 @@
     },
     {
       "id": "dev.twilitrealm.dusk",
-      "name": "dusklight",
+      "name": "Zelda: Twilight Princess (Dusklight)",
       "author": "TwilitRealm",
       "description": "Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.",
       "url": "https://github.com/TwilitRealm/dusklight",
@@ -6946,7 +6946,7 @@
     },
     {
       "id": "io.github.hm64recomp",
-      "name": "HarvestMoon64Recomp",
+      "name": "Harvest Moon 64",
       "author": "igawa6",
       "description": "Android Port of Harvest Moon 64 made using N64: Recompiled",
       "url": "https://github.com/igawa6/HarvestMoon64Recomp",
@@ -6969,7 +6969,7 @@
     },
     {
       "id": "io.github.matteo842.crashlauncher.runtime",
-      "name": "CrashBandicoot-Launcher",
+      "name": "Crash Bandicoot",
       "author": "Matteo842",
       "description": "CrashBandicoot native pc port",
       "url": "https://github.com/Matteo842/CrashBandicoot-Launcher",
@@ -6992,7 +6992,7 @@
     },
     {
       "id": "io.github.raposomiguel50.systemshock",
-      "name": "system-shock-android",
+      "name": "System Shock",
       "author": "raposomiguel50",
       "description": "Native Android/ARM64 port of System Shock based on Shockolate, with reproducible builds, open engineering notes and Retroid Pocket 5 validation.",
       "url": "https://github.com/raposomiguel50/system-shock-android",
@@ -7015,7 +7015,7 @@
     },
     {
       "id": "io.github.zelda64recomp",
-      "name": "Zelda64Recomp-Android",
+      "name": "Zelda: Majora's Mask (Zelda64 Recomp)",
       "author": "linkzenic",
       "description": "Android port of Zelda64 Recompiled",
       "url": "https://github.com/linkzenic/Zelda64Recomp-Android",
@@ -7103,7 +7103,7 @@
     },
     {
       "id": "org.eukaryot.sonic3air",
-      "name": "sonic3air",
+      "name": "Sonic 3 A.I.R.",
       "author": "Eukaryot",
       "description": "Source and data to build Sonic 3 A.I.R. (Angel Island Revisited) and the Oxygen Engine",
       "url": "https://github.com/Eukaryot/sonic3air",
@@ -7158,7 +7158,7 @@
     },
     {
       "id": "org.opennectar",
-      "name": "Open-Nectar---Pikmin-Native-PC-Mobile-Port",
+      "name": "Pikmin (Open Nectar)",
       "author": "SSunnKing",
       "description": "Native Pikmin Windows/Linux/Android Port",
       "url": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port",
@@ -7181,7 +7181,7 @@
     },
     {
       "id": "org.wwhdrecomp.app",
-      "name": "ZeldaWWHDRecompAndroid",
+      "name": "Zelda: The Wind Waker HD",
       "author": "GreenNaugahyde",
       "description": "TLoZ:TWW HD Recomp",
       "url": "https://github.com/GreenNaugahyde/ZeldaWWHDRecompAndroid",

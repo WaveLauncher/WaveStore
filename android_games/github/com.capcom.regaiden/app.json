@@ -1,6 +1,6 @@
 {
   "id": "com.capcom.regaiden",
-  "name": "regaiden-recomp",
+  "name": "Resident Evil Gaiden",
   "author": "sergiomanzur",
   "description": "Native static C/C++ recompilation of Resident Evil Gaiden (GBC) for PC with True Widescreen, 2D Dynamic Lighting, Retro Horror Shaders, and HD Texture Pack support",
   "url": "https://github.com/sergiomanzur/regaiden-recomp",
