@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-09T14:52:54Z",
+  "generatedAt": "2026-10-09T15:02:31Z",
   "counts": {
-    "apps": 57,
-    "games": 143
+    "apps": 63,
+    "games": 150
   },
   "featured": {
     "apps": [
@@ -599,6 +599,68 @@
       }
     },
     {
+      "id": "com.nvidia.geforcenow",
+      "name": "GeForce NOW",
+      "author": "NVIDIA",
+      "description": "GEFORCE RTX-POWERED CLOUD GAMING",
+      "url": "https://play.google.com/store/apps/details?id=com.nvidia.geforcenow",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Streaming"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/lpJSHUmG-bcaB2oOxSuMhRtE53lZzEUDlEPWLP0on5wM717EuBXAH4Z9nF329QVl9v7-DJTM7CFGeST5qBk=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/CveGdojJpXGMFRixKUm32ykPJrxMCtMnvwgg0ujDpMdMNtVGA5dRjvMAbHVnpopT9Nm9IDyeAzgqZkJXCbTpfA",
+        "https://play-lh.googleusercontent.com/p44CI4b15tGOhiTL4PiBmxhqQpHAd0YJxAs_hGjyfkEJ96vfWeiq-JPM3sron9acdZqft8JoYTu98uVB1cxOtg",
+        "https://play-lh.googleusercontent.com/fa_ZqxPlSYl-9B8SKThlVKZ-Ekf2g8bY9EpKL3TTfu10KFeD9jyQysOK_6V2HooRLBIS9HoCalmmOFzOrgWqwIU"
+      ],
+      "playstore": {
+        "categories": [
+          "Entertainment"
+        ],
+        "score": 3.55,
+        "downloadCount": 29535093
+      }
+    },
+    {
+      "id": "com.plexapp.android",
+      "name": "Plex",
+      "author": "Plex, Inc.",
+      "description": "Watch tons of movies & TV shows at no cost and see what's trending in streaming.",
+      "url": "https://play.google.com/store/apps/details?id=com.plexapp.android",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Media"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/0-rSvTIYVEveysANiSS5FITkkD-kpe6TG91nJRy7ht2J0BHlPWXiGaMcDRYUOwTVuZsE4-HyI-qSL0KkNEvQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/lZdaVSfi16oq2gb-zIk8PHpmC3lQyzEgQtZdCnDiJevRWDOCZHYHVidoIkdZOhl7YU2DDvKxUwOVlvad96KoYgE",
+        "https://play-lh.googleusercontent.com/TtevC3ncDwdGar9NVWQRnU46eVy-NRR9X3S-XdbfSEpzy6wTdz5LzLwYxGhAV5i45FcBUhrj-IN8jBnHds3T9pc",
+        "https://play-lh.googleusercontent.com/bmplSV64QXkjxR8g-1FwSsBCgh4myKPM9obvHpvEctJnofH8xyUzBknUq2gKX2GJYNF_T089oHfrd7dJFaCr"
+      ],
+      "playstore": {
+        "categories": [
+          "Entertainment"
+        ],
+        "score": 3.52,
+        "downloadCount": 115403389
+      }
+    },
+    {
       "id": "com.pokedaisy.app",
       "name": "pokedaisy",
       "author": "lidor30",
@@ -733,6 +795,37 @@
       "screenshots": [],
       "github": {
         "downloadCount": 136489
+      }
+    },
+    {
+      "id": "com.valvesoftware.steamlink",
+      "name": "Steam Link",
+      "author": "Valve Corporation",
+      "description": "Stream Your Steam Library",
+      "url": "https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Streaming"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/6TU14znIBQ6oierlwk8twhgqDLMhA3y-a-daQq8jF5d_OZpk9HpEo9rlMQ_KhxSUQ-mpohuQLVmH-jy6zoVCaTU=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/MjDn1K-B4a_HeXY1CaSO8MHYH-HvvA5vecg_-skhHQWEc08577Vzq0pXP0VKHxUVSk4nhzvrNlKgm4R4qaKiKQ",
+        "https://play-lh.googleusercontent.com/lIWoeH41NjfUwEK6u5sFeBUgixkTLYbebCy-AziPk-d9JjoBlRNzBV7udh23Tz92lT36H_V5F0tYCEOQh2Sfow",
+        "https://play-lh.googleusercontent.com/knRCzJ4pv3P5_1qZaUZ1Vemc5dQHOKu_2Q7Zqr2Gvldu3Sy4abHyeFk1Vo5whNj5KFb5ZNjUJ6aej1HbjszyKIc"
+      ],
+      "playstore": {
+        "categories": [
+          "Entertainment"
+        ],
+        "score": 3.32,
+        "downloadCount": 29622712
       }
     },
     {
@@ -1282,6 +1375,37 @@
       }
     },
     {
+      "id": "org.localsend.localsend_app",
+      "name": "LocalSend: Transfer Files",
+      "author": "Tien Do Nam",
+      "description": "Send files to nearby devices - open source, cross platform",
+      "url": "https://play.google.com/store/apps/details?id=org.localsend.localsend_app",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Tools"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/M33xh7ahqjZnunTUOX1-p13D8z3ZX9R8Y41ooCm5SENNxtN_1htUR0t2M7RKjTL4UxuJ9GAsfBQVleL3g5mLMg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/NMGEF9KTyRMQhqBRiilVcSskLIdMvUWizrQ6rEqMqOwvHCP0vTeWkXtY3pT8wyleDU86AE_mgYLVEpeciN6VXNE",
+        "https://play-lh.googleusercontent.com/PH06ETDEcXkYRIVmOjW6pBDZOMShEbq7xpAoqRl1WeT0_IpG3SwInhWefziGHs-jlfkd1BMdnoS4qzyMzbAtqw",
+        "https://play-lh.googleusercontent.com/wzEB784y8NdVNkO0YbsRQGp9SjT-i4Lvz8_vDHBWBmVZXnrQ3Q7f3bDiXZzbt6DAWpovRQI0RmAAuK9UhWsWbQ"
+      ],
+      "playstore": {
+        "categories": [
+          "Tools"
+        ],
+        "score": 4.67,
+        "downloadCount": 11234384
+      }
+    },
+    {
       "id": "org.pkforge.app",
       "name": "PKForge",
       "author": "sofianeelhor",
@@ -1345,6 +1469,37 @@
       "screenshots": []
     },
     {
+      "id": "org.videolan.vlc",
+      "name": "VLC",
+      "author": "Videolabs",
+      "description": "VLC for Android is the best open source video and music player, fast and easy!",
+      "url": "https://play.google.com/store/apps/details?id=org.videolan.vlc",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Media"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/BG5YwziGHjh0wvWg6VO9c3iprYa3vFww1CnNqPvFszUVxcY4yB29dy7t2jsLwwI4jAqX08_--12FmMxgNG1JFg=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/u8vVjbpeniIlZkEloddea35PD1uN2B2lL_8PfHaG1Ial8tfoccUwYUt5GlzvddodpAg6uX916rwxbCfQ8JA5zw",
+        "https://play-lh.googleusercontent.com/5sYf3kkxoECTRNwl7BclPDmTyLGv3pHtLPX1FQyNE2kc-WSucddscPUGqjnqStLUlubLP7rv3UqK4uRX_-XxEjM",
+        "https://play-lh.googleusercontent.com/KIb_9NpY4K809OHPVGXrKpHexdFxP5TzCPqYC8JBbqIk5vMSfa3e0LZQyOWpTPYLPoiP8HsCV_TBCc57RLF4Sw"
+      ],
+      "playstore": {
+        "categories": [
+          "Video Players & Editors"
+        ],
+        "score": 4.04,
+        "downloadCount": 513846884
+      }
+    },
+    {
       "id": "org.vita3k.emulator",
       "name": "Vita3K",
       "author": "Vita3K",
@@ -1387,6 +1542,37 @@
       "screenshots": [],
       "github": {
         "downloadCount": 29144
+      }
+    },
+    {
+      "id": "tv.parsec.client",
+      "name": "Parsec",
+      "author": "Parsec Cloud Inc.",
+      "description": "Game, work, and play together from anywhere.",
+      "url": "https://play.google.com/store/apps/details?id=tv.parsec.client",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Streaming"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/vkfws4EtqMCjFQPtV3I5XDFV9WNQ1yQeVgr2eaOuku1rJAZDpYk3AFyI6fzg7-KAn_9BcIykn4WI23vrsm6UOA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/uZ75DnGJ6CX_PPeMSZquLajGUm-uErfJ2cuU7tr9Iekle5cdRF7yOxdZCvF8Xpc5vABzVA5UVJmEQ_286BDIaQ",
+        "https://play-lh.googleusercontent.com/QbQYbcD9dTb1wusi2lCiXRj14XJP-KnlcmVZO-Nuw3Dt47zc8G9ql6cPRQ5kp3dYu4JGqdNtGv3oSoLq0gwXzg",
+        "https://play-lh.googleusercontent.com/jxVDEzp9Nn7qSCCkot3fHTafMM2iqDHD7WpzSaxzqcAjbsazEA0BnFtVwRTIqmA9Pu2FH4DYoPM80mDP7G_hUb0"
+      ],
+      "playstore": {
+        "categories": [
+          "Entertainment"
+        ],
+        "score": null,
+        "downloadCount": 2794568
       }
     },
     {
@@ -1893,6 +2079,70 @@
         ],
         "score": 3.47,
         "downloadCount": 10853251
+      }
+    },
+    {
+      "id": "com.HoYoverse.Nap",
+      "name": "Zenless Zone Zero",
+      "author": "COGNOSPHERE PTE. LTD.",
+      "description": "Urban Fantasy ARPG",
+      "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Role Playing"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/N8j-t_IXvDvqFzN3U_19OJPIyAHHgljwVa7TMyCYpdRXRykalU3HKq9u9oPnzDXEkUOX1yyuX16yuWNDrUC_Uw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/RD6xGF75Wpvpwf7fdbkr8yrZWT7ER3bE4NOtOmgEM1O__pMHnMF9MKX6R06osgI2XHJNp49q99i9xbXSUAxtOkI",
+        "https://play-lh.googleusercontent.com/MZxAlLaMp2VyThIdN3xWRvRwxgAgKf2nvvIMTos3VeU1lXp7a02Z2d3HnEwb5FXGYAk3vTjovK_L3vg0t1fpZw",
+        "https://play-lh.googleusercontent.com/_4jCl_5pZID0MymYcuUZsV39YkiBNvGKihKrAx4cS6LNhV21Skqmrb6lo4sRTVgM95-Ocj_TvnEQCd-cTVxp3A"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing"
+        ],
+        "score": 3.06,
+        "downloadCount": 13860468
+      }
+    },
+    {
+      "id": "com.HoYoverse.hkrpgoversea",
+      "name": "Honkai: Star Rail",
+      "author": "COGNOSPHERE PTE. LTD.",
+      "description": "HoYoverse's cosmic adventure strategy RPG with over 100 million downloads!",
+      "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/j9VHfSlwJ5Z2d_OxKsvrJdVFC9w9JSvysv42iXN3eiCO6zZ70zGbjTQ0aJcNWXKh5Iyv8fXVp8p3z9fZRRwnCQ",
+        "https://play-lh.googleusercontent.com/mAieqkZZL-6nPOFc_9KOHt-mGRw46yv0QUe4CcsY4p1zCquzosjrivKR_AmzFs-dJDpzS3XQ3DWf6pwfBRxf-g",
+        "https://play-lh.googleusercontent.com/AReWCyF8qtEDJzEgMSEPQ_Bqz7_4pbxgPPNrA4VRjo98DNkq9VPbntbiIa5BXvvJbQL4Ic8tW8TEOO8jcgRRCYA"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Role Playing",
+          "Casual"
+        ],
+        "score": 3.68,
+        "downloadCount": 37323184
       }
     },
     {
@@ -3575,6 +3825,37 @@
       }
     },
     {
+      "id": "com.hottagames.nte",
+      "name": "NTE: Neverness to Everness",
+      "author": "N2E",
+      "description": "Supernatural Urban Open World RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.hottagames.nte",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Role Playing"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/kPbuoflxFoAfsbEZ8i0Lqh10vDPJg_LQuCSFG4oXG7ykpAPgSsXi_Ueur-2ooH6XLcuenEfVn3McVzFy2Q3jbg",
+        "https://play-lh.googleusercontent.com/tIc3NoSbMxojzRoaWPvys9c5DkP6JJhkaoi0wVNFPSO4jaj5izPvXKlU0Ovl7DcZKf_K6GMne9CATUrw_n-v1w",
+        "https://play-lh.googleusercontent.com/Bte7hrB9VJBZ5kYWCIGHsSjCN7iGLn5opOJDl5RxofIfc4FbrYJOZnmnUvZyzVC8v4__v9oL5-AspUid_DBICA"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing"
+        ],
+        "score": 4.56,
+        "downloadCount": 6979859
+      }
+    },
+    {
       "id": "com.humblebundle.wizardoflegend",
       "name": "Wizard of Legend",
       "author": "Balor Games",
@@ -3671,6 +3952,37 @@
       }
     },
     {
+      "id": "com.kurogame.wutheringwaves.global",
+      "name": "Wuthering Waves",
+      "author": "HK KURO GAMES LIMITED",
+      "description": "The Finale of Chapter Xuanfang Unveiled",
+      "url": "https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/IvnLZshsGbg3giw7GDDF27GYjJu8x50ZSuLik_fJXIHt4p-Ja3d-9OW-qE7BzVyUUNrRIR0dSOycWr6Smvt4DA",
+        "https://play-lh.googleusercontent.com/z_QCm49Ob94HEFjRkkD29gliXf-WD5lUnD9GNE5_WWNRq1Fsp-Yt0qL-qCa7FY9uYn6bn5bz1jZ6ATBCjG5Q0Q",
+        "https://play-lh.googleusercontent.com/YWGmkTrcGFR8TTnq_K9ExQO-UyJuWx5TaFVxl4VZ0_nJJt_RzQYyDxdHyLAGzAl9A11o5S1HNBxxF-IqAShdsw"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.37,
+        "downloadCount": 17866979
+      }
+    },
+    {
       "id": "com.leosfortune",
       "name": "Leo's Fortune",
       "author": "1337 & Senri LLC",
@@ -3733,6 +4045,101 @@
         ],
         "score": 4.32,
         "downloadCount": 478672
+      }
+    },
+    {
+      "id": "com.miHoYo.GenshinImpact",
+      "name": "Genshin Impact 6th Anniversary",
+      "author": "COGNOSPHERE PTE. LTD.",
+      "description": "Explore a World of Adventure",
+      "url": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/PQEqjOxr-3uZaNHmWoQinLVQQ9fbSegMKXmqgFm5nGgagqC2REH-1er3BguYStWbH3YStijj5WH1DDlwPh2ehw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ZHLmkdTW2Q_T_DVxu9piEOwkJtcXEkmeIGiJXhwcdYSS6-L51bHuEvlVqpt3dPM_McPJ1enEo6FwnbrxOak",
+        "https://play-lh.googleusercontent.com/qDY_UBz28ambdbrTf4s5v9npYiDiLOcDe4d_h6QvKIhoR6Rc2z1cHR5ULHuy6uILaDSWbb41QkN7xTx5WsjU",
+        "https://play-lh.googleusercontent.com/gCdybpOO685G12dF7nY750etXWg_SapE9v9poFkr3OMhrDu-m-M28b02KOs2yRkwCHF-lmf9-LtIhA6-LpH41Q"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure"
+        ],
+        "score": 3.31,
+        "downloadCount": 145249398
+      }
+    },
+    {
+      "id": "com.miHoYo.bh3global",
+      "name": "Honkai Impact 3rd",
+      "author": "COGNOSPHERE PTE. LTD.",
+      "description": "HoYoverse Sci-fi Adventure Action Game",
+      "url": "https://play.google.com/store/apps/details?id=com.miHoYo.bh3global",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/hTMlfgsf_lKP7URBWrrdpoqL_AhXwuvIbeU-5Gn2R-8RE58z4Y28mfduo6MkfEBpP7Mtef7bnrXo5R9g1puG=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/u-TE8aP5R-0iI_BFX7U3AVAUOVi785G4fe6-u5pLAhiafCbOKzxScJWiom6lOC6KeYNUG172GWdox0j2vWAw",
+        "https://play-lh.googleusercontent.com/I_K9kyxBIaK5S0bCMahbDjBBmUYuCxPRMDyg7SoSe6DrlVQt0y7ah4nHdVzbXSsHGVq0MxL8vB6JbUqIB4Fw",
+        "https://play-lh.googleusercontent.com/UgzJud2nMuwPNCQSub5PNw1KvKC3x-dRscUvU-pxQEjTgImZXJR9NOxAC5w5N_XBLmhUKRLxyQmM4Ulj3Ty-fGc"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 3.97,
+        "downloadCount": 20956456
+      }
+    },
+    {
+      "id": "com.miHoYo.tot.glb",
+      "name": "Tears of Themis",
+      "author": "COGNOSPHERE PTE. LTD.",
+      "description": "Adventure of Romance and Wits",
+      "url": "https://play.google.com/store/apps/details?id=com.miHoYo.tot.glb",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Simulation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/oFdZQzPmxdYqTUWdokShvvTem2UIdTBmRViB1yyy6grCZTxS8JrmwV6W5KnL5ThkAxD8jZcztD7bekM41VoR=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/fzvcbH3S54k4jSwB8j-T-g9JAeAhOMbUvx1wO4ytHdHzn0-lYBqLtfxzaEmLKzBkEiUdzC_nWa4To6DN2JPsEA",
+        "https://play-lh.googleusercontent.com/T-C5RBERbnjAS2tNbWKV0T7iWqONd3uvWn1yv5xubobyUXM2PSuWoCGlieekEuAfhi6MdBRKMuF-REr8rvn9k1I",
+        "https://play-lh.googleusercontent.com/jT0lCy35n4wPqlkvIgLMAS8XoWs5Cgxs6BtiRM4XdqVOOKM0Ve_K1Np7-CydmP6XU0l3ZFZdAe790s1OV0a_kow"
+      ],
+      "playstore": {
+        "categories": [
+          "Simulation",
+          "Adventure",
+          "Casual"
+        ],
+        "score": 3.89,
+        "downloadCount": 3557541
       }
     },
     {
