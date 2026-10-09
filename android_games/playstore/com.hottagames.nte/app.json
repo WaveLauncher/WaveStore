@@ -1,0 +1,31 @@
+{
+  "id": "com.hottagames.nte",
+  "name": "NTE: Neverness to Everness",
+  "author": "N2E",
+  "description": "Supernatural Urban Open World RPG",
+  "url": "https://play.google.com/store/apps/details?id=com.hottagames.nte",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Role Playing"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/kPbuoflxFoAfsbEZ8i0Lqh10vDPJg_LQuCSFG4oXG7ykpAPgSsXi_Ueur-2ooH6XLcuenEfVn3McVzFy2Q3jbg",
+    "https://play-lh.googleusercontent.com/tIc3NoSbMxojzRoaWPvys9c5DkP6JJhkaoi0wVNFPSO4jaj5izPvXKlU0Ovl7DcZKf_K6GMne9CATUrw_n-v1w",
+    "https://play-lh.googleusercontent.com/Bte7hrB9VJBZ5kYWCIGHsSjCN7iGLn5opOJDl5RxofIfc4FbrYJOZnmnUvZyzVC8v4__v9oL5-AspUid_DBICA"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing"
+    ],
+    "score": 4.56,
+    "downloadCount": 6979859
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "com.HoYoverse.hkrpgoversea",
+  "name": "Honkai: Star Rail",
+  "author": "COGNOSPHERE PTE. LTD.",
+  "description": "HoYoverse's cosmic adventure strategy RPG with over 100 million downloads!",
+  "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/j9VHfSlwJ5Z2d_OxKsvrJdVFC9w9JSvysv42iXN3eiCO6zZ70zGbjTQ0aJcNWXKh5Iyv8fXVp8p3z9fZRRwnCQ",
+    "https://play-lh.googleusercontent.com/mAieqkZZL-6nPOFc_9KOHt-mGRw46yv0QUe4CcsY4p1zCquzosjrivKR_AmzFs-dJDpzS3XQ3DWf6pwfBRxf-g",
+    "https://play-lh.googleusercontent.com/AReWCyF8qtEDJzEgMSEPQ_Bqz7_4pbxgPPNrA4VRjo98DNkq9VPbntbiIa5BXvvJbQL4Ic8tW8TEOO8jcgRRCYA"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Role Playing",
+      "Casual"
+    ],
+    "score": 3.68,
+    "downloadCount": 37323184
+  }
+}

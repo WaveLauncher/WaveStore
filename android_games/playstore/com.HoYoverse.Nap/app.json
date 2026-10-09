@@ -1,0 +1,31 @@
+{
+  "id": "com.HoYoverse.Nap",
+  "name": "Zenless Zone Zero",
+  "author": "COGNOSPHERE PTE. LTD.",
+  "description": "Urban Fantasy ARPG",
+  "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Role Playing"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/N8j-t_IXvDvqFzN3U_19OJPIyAHHgljwVa7TMyCYpdRXRykalU3HKq9u9oPnzDXEkUOX1yyuX16yuWNDrUC_Uw=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/RD6xGF75Wpvpwf7fdbkr8yrZWT7ER3bE4NOtOmgEM1O__pMHnMF9MKX6R06osgI2XHJNp49q99i9xbXSUAxtOkI",
+    "https://play-lh.googleusercontent.com/MZxAlLaMp2VyThIdN3xWRvRwxgAgKf2nvvIMTos3VeU1lXp7a02Z2d3HnEwb5FXGYAk3vTjovK_L3vg0t1fpZw",
+    "https://play-lh.googleusercontent.com/_4jCl_5pZID0MymYcuUZsV39YkiBNvGKihKrAx4cS6LNhV21Skqmrb6lo4sRTVgM95-Ocj_TvnEQCd-cTVxp3A"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing"
+    ],
+    "score": 3.06,
+    "downloadCount": 13860468
+  }
+}

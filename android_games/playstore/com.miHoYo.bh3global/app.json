@@ -1,0 +1,31 @@
+{
+  "id": "com.miHoYo.bh3global",
+  "name": "Honkai Impact 3rd",
+  "author": "COGNOSPHERE PTE. LTD.",
+  "description": "HoYoverse Sci-fi Adventure Action Game",
+  "url": "https://play.google.com/store/apps/details?id=com.miHoYo.bh3global",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/hTMlfgsf_lKP7URBWrrdpoqL_AhXwuvIbeU-5Gn2R-8RE58z4Y28mfduo6MkfEBpP7Mtef7bnrXo5R9g1puG=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/u-TE8aP5R-0iI_BFX7U3AVAUOVi785G4fe6-u5pLAhiafCbOKzxScJWiom6lOC6KeYNUG172GWdox0j2vWAw",
+    "https://play-lh.googleusercontent.com/I_K9kyxBIaK5S0bCMahbDjBBmUYuCxPRMDyg7SoSe6DrlVQt0y7ah4nHdVzbXSsHGVq0MxL8vB6JbUqIB4Fw",
+    "https://play-lh.googleusercontent.com/UgzJud2nMuwPNCQSub5PNw1KvKC3x-dRscUvU-pxQEjTgImZXJR9NOxAC5w5N_XBLmhUKRLxyQmM4Ulj3Ty-fGc"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 3.97,
+    "downloadCount": 20956456
+  }
+}

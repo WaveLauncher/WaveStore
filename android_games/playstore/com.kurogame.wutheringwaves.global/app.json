@@ -1,0 +1,31 @@
+{
+  "id": "com.kurogame.wutheringwaves.global",
+  "name": "Wuthering Waves",
+  "author": "HK KURO GAMES LIMITED",
+  "description": "The Finale of Chapter Xuanfang Unveiled",
+  "url": "https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/IvnLZshsGbg3giw7GDDF27GYjJu8x50ZSuLik_fJXIHt4p-Ja3d-9OW-qE7BzVyUUNrRIR0dSOycWr6Smvt4DA",
+    "https://play-lh.googleusercontent.com/z_QCm49Ob94HEFjRkkD29gliXf-WD5lUnD9GNE5_WWNRq1Fsp-Yt0qL-qCa7FY9uYn6bn5bz1jZ6ATBCjG5Q0Q",
+    "https://play-lh.googleusercontent.com/YWGmkTrcGFR8TTnq_K9ExQO-UyJuWx5TaFVxl4VZ0_nJJt_RzQYyDxdHyLAGzAl9A11o5S1HNBxxF-IqAShdsw"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 4.37,
+    "downloadCount": 17866979
+  }
+}

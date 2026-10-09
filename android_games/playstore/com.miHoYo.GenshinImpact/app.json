@@ -1,0 +1,31 @@
+{
+  "id": "com.miHoYo.GenshinImpact",
+  "name": "Genshin Impact 6th Anniversary",
+  "author": "COGNOSPHERE PTE. LTD.",
+  "description": "Explore a World of Adventure",
+  "url": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/PQEqjOxr-3uZaNHmWoQinLVQQ9fbSegMKXmqgFm5nGgagqC2REH-1er3BguYStWbH3YStijj5WH1DDlwPh2ehw=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/ZHLmkdTW2Q_T_DVxu9piEOwkJtcXEkmeIGiJXhwcdYSS6-L51bHuEvlVqpt3dPM_McPJ1enEo6FwnbrxOak",
+    "https://play-lh.googleusercontent.com/qDY_UBz28ambdbrTf4s5v9npYiDiLOcDe4d_h6QvKIhoR6Rc2z1cHR5ULHuy6uILaDSWbb41QkN7xTx5WsjU",
+    "https://play-lh.googleusercontent.com/gCdybpOO685G12dF7nY750etXWg_SapE9v9poFkr3OMhrDu-m-M28b02KOs2yRkwCHF-lmf9-LtIhA6-LpH41Q"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure"
+    ],
+    "score": 3.31,
+    "downloadCount": 145249398
+  }
+}
