@@ -15,5 +15,8 @@
     "android"
   ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.aure.clustertune/icon.png",
-  "screenshots": []
+  "screenshots": [],
+  "github": {
+    "downloadCount": 230686
+  }
 }

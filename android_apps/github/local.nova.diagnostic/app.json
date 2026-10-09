@@ -15,5 +15,8 @@
     "android"
   ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/local.nova.diagnostic/icon.png",
-  "screenshots": []
+  "screenshots": [],
+  "github": {
+    "downloadCount": 5172
+  }
 }

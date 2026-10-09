@@ -16,5 +16,12 @@
     "android"
   ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.flycast.emulator/icon.png",
-  "screenshots": []
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/F7rDsX9pjl0RzSqOia4OC4RzKP6f_f7KP6sk9LPgkQaWNVnLFigd_3cTGHSMiveL0iLk6w-gTkjubuMa7EJ49A",
+    "https://play-lh.googleusercontent.com/mQD7Imj4myMXTi6d1q1E88Cr5cn_EzFISiC3qQMdrOPH5a6vS063_zdUzk4xIGPYRAHrPB6saUsu7fDOMbq1fDY",
+    "https://play-lh.googleusercontent.com/iV6YtFr9g4wcTsk1IOXZ5N0t_wjGxYXolHgAnvdYmTFqM9IHTbHCwRiG7zsRu614yJlZ5UBKew71aR73y_L1"
+  ],
+  "github": {
+    "downloadCount": 875957
+  }
 }

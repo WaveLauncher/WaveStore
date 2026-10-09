@@ -56,6 +56,7 @@ Both lists use the same entry shape:
 | `screenSupport` | `single`, `dual`, `single-modded`, or `dual-modded` |
 | `platformSupport` | `android`, `linux`, and/or `windows` |
 | `icon` | Absolute icon URL or `null` |
+| `github` | GitHub-specific fields; absent for other sources |
 | `playstore` | Play Store-specific fields; absent for other sources |
 
 A `-modded` `screenSupport` value means dual-screen support requires a patch or mod.

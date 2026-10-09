@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-09T12:57:56Z",
+  "generatedAt": "2026-10-09T14:42:42Z",
   "counts": {
     "apps": 57,
     "games": 134
@@ -24,7 +24,10 @@
           "android"
         ],
         "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.nanodata.armsx/icon.png",
-        "screenshots": []
+        "screenshots": [],
+        "github": {
+          "downloadCount": 183366
+        }
       },
       {
         "id": "gamehub.lite",
@@ -44,7 +47,10 @@
           "android"
         ],
         "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/gamehub.lite/icon.png",
-        "screenshots": []
+        "screenshots": [],
+        "github": {
+          "downloadCount": 1464784
+        }
       },
       {
         "id": "org.vita3k.emulator",
@@ -64,7 +70,10 @@
           "android"
         ],
         "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.vita3k.emulator/icon.png",
-        "screenshots": []
+        "screenshots": [],
+        "github": {
+          "downloadCount": 1058190
+        }
       }
     ],
     "games": [
@@ -184,7 +193,14 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/aenu.aps3e/icon.png",
-      "screenshots": []
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/tKyWOJTmjrZUTqiRFV-6Ekn5DqjyJXPWKQiAOgp75CEPwHXDvO4UX94U1ASqImZD3JtkxqC9PqPzFTmE-Su6OQ",
+        "https://play-lh.googleusercontent.com/8xom0T6sG2Ljn5erfTTrqcLSquvp8eDzujYCptb3ovv4bfMqHVkrFRFRb_GDyOTDZbKrb7NwU_B3nvK3SwkKU0Y",
+        "https://play-lh.googleusercontent.com/KiQHIPbxpc7lVSX8kQ6eiKJ4CCrVVnbDPTtBB3n3f5EXpGk2wK6GwNIp8IZN8nE4C-9IuyitE7NBI6zQNBnTaw"
+      ],
+      "github": {
+        "downloadCount": 726162
+      }
     },
     {
       "id": "app.gamenative",
@@ -204,7 +220,14 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/app.gamenative/icon.png",
-      "screenshots": []
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/hWdBZrXcMryK6JlF1T5ac7OJMBbwxlLm-NGVnAr7BYmkW6erObCe4cRokDIXA-Uwjjxp1V3vr24p9pgjKWufIw",
+        "https://play-lh.googleusercontent.com/X_dEF6uoJFf1oXOpECEOtK-Bhh9BTC6R2NxkcCBTYhV79NWPi3CfyLRBcpX1FDnVmAKvjjO8YJFsCaqDfntCFw",
+        "https://play-lh.googleusercontent.com/pIzycIUDoJ6P4afZam25iDWnMqRaPBaQdOHfFXoAkxB_Yb3rg0eUJlZjM2rNUs2GdoFbJxaXgwLLr19UcUl7"
+      ],
+      "github": {
+        "downloadCount": 1301945
+      }
     },
     {
       "id": "app.nanostack.pixelguide",
@@ -224,7 +247,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/app.nanostack.pixelguide/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 152983
+      }
     },
     {
       "id": "com.armsx2",
@@ -244,7 +270,10 @@
         "android"
       ],
       "icon": null,
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 1207286
+      }
     },
     {
       "id": "com.armsx3",
@@ -263,7 +292,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.armsx3/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 472365
+      }
     },
     {
       "id": "com.aure.clustertune",
@@ -282,7 +314,10 @@
         "android"
       ],
       "icon": null,
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 230686
+      }
     },
     {
       "id": "com.droiddeck.launcher",
@@ -301,7 +336,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.droiddeck.launcher/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 183261
+      }
     },
     {
       "id": "com.emulnk",
@@ -320,7 +358,10 @@
         "android"
       ],
       "icon": null,
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 10516
+      }
     },
     {
       "id": "com.flycast.emulator",
@@ -340,7 +381,14 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.flycast.emulator/icon.png",
-      "screenshots": []
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/F7rDsX9pjl0RzSqOia4OC4RzKP6f_f7KP6sk9LPgkQaWNVnLFigd_3cTGHSMiveL0iLk6w-gTkjubuMa7EJ49A",
+        "https://play-lh.googleusercontent.com/mQD7Imj4myMXTi6d1q1E88Cr5cn_EzFISiC3qQMdrOPH5a6vS063_zdUzk4xIGPYRAHrPB6saUsu7fDOMbq1fDY",
+        "https://play-lh.googleusercontent.com/iV6YtFr9g4wcTsk1IOXZ5N0t_wjGxYXolHgAnvdYmTFqM9IHTbHCwRiG7zsRu614yJlZ5UBKew71aR73y_L1"
+      ],
+      "github": {
+        "downloadCount": 875957
+      }
     },
     {
       "id": "com.github.catfriend1.syncthingfork",
@@ -360,7 +408,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.github.catfriend1.syncthingfork/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 1183296
+      }
     },
     {
       "id": "com.github.stenzek.duckstation",
@@ -399,7 +450,14 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.izzy2lost.x1box/icon.png",
-      "screenshots": []
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/xpQRmZ3CElL9E7mUlVGXn8FDcsuFaHplxCnznFyaN2zWuhxTUjQH-kAIgsKbv93FsTp2hS4uVRubLAr0mjx_ExE",
+        "https://play-lh.googleusercontent.com/Qyl14Zm3aheAbucDi1nBL13i7jB6Og2nObrjbeNd2xzwjwJnMf2JM1pYJIRzgCiRlJdyT7LGAvXpq0RB8Zwsj3E",
+        "https://play-lh.googleusercontent.com/HjSIkePiTA3T1DznNTWzRlAHRzX1TkLDshTm_zEtv3twGrQ2qGUhxeEch5DIpimYEBUU4WTVM2mtuwiqS4MyJw"
+      ],
+      "github": {
+        "downloadCount": 162156
+      }
     },
     {
       "id": "com.kei.pulse",
@@ -418,7 +476,10 @@
         "android"
       ],
       "icon": null,
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 20601
+      }
     },
     {
       "id": "com.limelight",
@@ -438,7 +499,14 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.limelight/icon.png",
-      "screenshots": []
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/QSVnqVak8C4Y0m2ggMl9ApWuxh6mv8OuOl22W6wsh4VOL6W5dU2UtnVJvwxItj3qWm5YWDwa9pfgNNnIJvXJ",
+        "https://play-lh.googleusercontent.com/rCHyq86oc7VjqDnsQq_ZFxLK0Dak4YAzfHrwVdjJG_clMzUQA8imfNQGst6bZB7SbffqI5yS5aKq_tNeoeAu",
+        "https://play-lh.googleusercontent.com/xLC24SdUECeMZPvSlIQ5_k6RLjRsMUZzXZB-_9-KoYlHhi7e5Tog08Qw2LrElXk3SGPE869SLlOrHla5SR3IBQ"
+      ],
+      "github": {
+        "downloadCount": 1195290
+      }
     },
     {
       "id": "com.limelight.noir",
@@ -458,7 +526,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.limelight.noir/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 620387
+      }
     },
     {
       "id": "com.med.sleepmanager",
@@ -477,7 +548,10 @@
         "android"
       ],
       "icon": null,
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 63055
+      }
     },
     {
       "id": "com.moonbench.bifrost",
@@ -497,7 +571,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.moonbench.bifrost/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 122003
+      }
     },
     {
       "id": "com.nanodata.armsx",
@@ -516,7 +593,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.nanodata.armsx/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 183366
+      }
     },
     {
       "id": "com.pokedaisy.app",
@@ -536,7 +616,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.pokedaisy.app/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 3646
+      }
     },
     {
       "id": "com.producdevity.emureadylite",
@@ -556,7 +639,14 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.producdevity.emureadylite/icon.png",
-      "screenshots": []
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/o3yes0b0RWTc_eKdE3aFhSigcI4TwjPoDSj1NwGkY3_3jFPMmo6A8pr9OjFcCfQso5Q3MYUOqFvBXdgtK2zr",
+        "https://play-lh.googleusercontent.com/wlhCibE3jCg5XJnNtwfIFzl2zMEZ2WfMQeIpm0RxW_Hiu1-Iw6ByBVeBEA5yDiGMd7Ul7E-0PqtNqCvVaPWI",
+        "https://play-lh.googleusercontent.com/oNI5d2PW7wTN8cptaJTSesMNJFcBTQbumTAbrv0IOw3mYo4nabzQU8K2YycfcQ0e6cAsR8RGg6Gws7yjFT-04g"
+      ],
+      "github": {
+        "downloadCount": 90529
+      }
     },
     {
       "id": "com.quantumsoul.esde_android",
@@ -576,7 +666,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.quantumsoul.esde_android/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 58785
+      }
     },
     {
       "id": "com.raofflineproxy",
@@ -595,7 +688,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.raofflineproxy/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 115224
+      }
     },
     {
       "id": "com.retroarch.aarch64",
@@ -634,7 +730,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.rfandango.haku_x/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 136489
+      }
     },
     {
       "id": "com.virtualapplications.play",
@@ -674,7 +773,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.winlator/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 16002814
+      }
     },
     {
       "id": "com.winlator.cmod",
@@ -694,7 +796,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.winlator.cmod/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 842594
+      }
     },
     {
       "id": "com.winlator.ludashi",
@@ -714,7 +819,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.winlator.ludashi/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 1512122
+      }
     },
     {
       "id": "de.langerhans.odintools",
@@ -734,7 +842,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/de.langerhans.odintools/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 115114
+      }
     },
     {
       "id": "dev.eden.eden_emulator",
@@ -773,7 +884,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/emu.x360mobile.com/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 512558
+      }
     },
     {
       "id": "gamehub.lite",
@@ -793,7 +907,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/gamehub.lite/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 1464784
+      }
     },
     {
       "id": "info.cemu.cemu",
@@ -813,7 +930,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/info.cemu.cemu/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 2865902
+      }
     },
     {
       "id": "io.github.gopher64.gopher64",
@@ -832,7 +952,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.github.gopher64.gopher64/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 278384
+      }
     },
     {
       "id": "io.navivani.swiff",
@@ -851,7 +974,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.navivani.swiff/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 45390
+      }
     },
     {
       "id": "io.wip.pico8",
@@ -871,7 +997,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.wip.pico8/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 67349
+      }
     },
     {
       "id": "it.ottaviomiele.chd",
@@ -891,7 +1020,14 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/it.ottaviomiele.chd/icon.png",
-      "screenshots": []
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/IGXGq0iwhnWvQoJQ9iaPfu6gPCs5dQhour5G71N2pWYDyRc4tzeQhNYdsA9gJp3tAdrCPtiwBeOthxEJU3rIpg",
+        "https://play-lh.googleusercontent.com/JkeoMA6dbrpnSZIxuvDImeDYOP83lmGRO0hUmLLMdRjRQeKjKBr_i6RZ-QYVZHCK55yJFkIzEpy8gV8StOZF",
+        "https://play-lh.googleusercontent.com/EU7mFatA6B3v5TZ6EMCYtB3EEuqsn7iOimZih5ZhyTSmvLRnZOsah3EyFnQ6CPDDoDbDD5mmp2cZpoKWN4PoMQ"
+      ],
+      "github": {
+        "downloadCount": 37185
+      }
     },
     {
       "id": "jr.brian.home",
@@ -911,7 +1047,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/jr.brian.home/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 62699
+      }
     },
     {
       "id": "local.nova.diagnostic",
@@ -930,7 +1069,10 @@
         "android"
       ],
       "icon": null,
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 5172
+      }
     },
     {
       "id": "me.magnum.melonds",
@@ -950,7 +1092,14 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melonds/icon.png",
-      "screenshots": []
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/5BKkmY-Hm51it5ngbLHDVm_hw2koehOOIYAzwo5DFPofw0ufR8DSoBDdj9gQ1NmADqvzukV7-fgKIpPftip6tg",
+        "https://play-lh.googleusercontent.com/-5GlOZsozprtUPpTQCwdBpNg_ELa76YAaAB4dlCqGMZHxNQoyCEpZhMfUcFURE_zNts3YX-Ar287fqcsxGIiw-0",
+        "https://play-lh.googleusercontent.com/U4Cui-2RqXRBqFtD5JuZlIh7SAUTKjCOT8jIRVcSCKXdK4cNdA9B4DWrwbfepJG2OW29ndodhHqlIuzsDjp0vg"
+      ],
+      "github": {
+        "downloadCount": 941139
+      }
     },
     {
       "id": "me.magnum.melonds.nightly",
@@ -970,7 +1119,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melonds.nightly/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 941139
+      }
     },
     {
       "id": "me.magnum.melondualds",
@@ -990,7 +1142,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melondualds/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 1774568
+      }
     },
     {
       "id": "net.rpcsx",
@@ -1010,7 +1165,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/net.rpcsx/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 849293
+      }
     },
     {
       "id": "org.azahar_emu.azahar",
@@ -1030,7 +1188,10 @@
         "android"
       ],
       "icon": null,
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 8529902
+      }
     },
     {
       "id": "org.citra.emu",
@@ -1050,7 +1211,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.citra.emu/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 9828431
+      }
     },
     {
       "id": "org.citron.citron_emu",
@@ -1069,7 +1233,10 @@
         "android"
       ],
       "icon": null,
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 461717
+      }
     },
     {
       "id": "org.dolphinemu.dolphinemu",
@@ -1109,7 +1276,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.force9.starboard/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 23748
+      }
     },
     {
       "id": "org.pkforge.app",
@@ -1129,7 +1299,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.pkforge.app/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 55644
+      }
     },
     {
       "id": "org.ppsspp.ppsspp",
@@ -1189,7 +1362,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.vita3k.emulator/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 1058190
+      }
     },
     {
       "id": "pup.app.mimir",
@@ -1208,7 +1384,10 @@
         "android"
       ],
       "icon": null,
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 29144
+      }
     },
     {
       "id": "xendroid.compose",
@@ -1227,7 +1406,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xendroid.compose/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 195579
+      }
     },
     {
       "id": "xyz.aethersx2.android",
@@ -1247,7 +1429,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xyz.aethersx2.android/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 3487748
+      }
     },
     {
       "id": "xyz.aethersx2.tturnip",
@@ -1266,7 +1451,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xyz.aethersx2.tturnip/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 218377
+      }
     },
     {
       "id": "xyz.blacksheep.mjolnir",
@@ -1286,7 +1474,10 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xyz.blacksheep.mjolnir/icon.png",
-      "screenshots": []
+      "screenshots": [],
+      "github": {
+        "downloadCount": 61512
+      }
     }
   ],
   "games": [

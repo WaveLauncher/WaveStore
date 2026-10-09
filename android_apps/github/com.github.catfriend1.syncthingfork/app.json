@@ -16,5 +16,8 @@
     "android"
   ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.github.catfriend1.syncthingfork/icon.png",
-  "screenshots": []
+  "screenshots": [],
+  "github": {
+    "downloadCount": 1183296
+  }
 }

@@ -16,5 +16,8 @@
     "android"
   ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.winlator.ludashi/icon.png",
-  "screenshots": []
+  "screenshots": [],
+  "github": {
+    "downloadCount": 1512122
+  }
 }

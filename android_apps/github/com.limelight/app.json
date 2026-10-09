@@ -16,5 +16,12 @@
     "android"
   ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.limelight/icon.png",
-  "screenshots": []
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/QSVnqVak8C4Y0m2ggMl9ApWuxh6mv8OuOl22W6wsh4VOL6W5dU2UtnVJvwxItj3qWm5YWDwa9pfgNNnIJvXJ",
+    "https://play-lh.googleusercontent.com/rCHyq86oc7VjqDnsQq_ZFxLK0Dak4YAzfHrwVdjJG_clMzUQA8imfNQGst6bZB7SbffqI5yS5aKq_tNeoeAu",
+    "https://play-lh.googleusercontent.com/xLC24SdUECeMZPvSlIQ5_k6RLjRsMUZzXZB-_9-KoYlHhi7e5Tog08Qw2LrElXk3SGPE869SLlOrHla5SR3IBQ"
+  ],
+  "github": {
+    "downloadCount": 1195290
+  }
 }

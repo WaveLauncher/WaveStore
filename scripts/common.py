@@ -1,12 +1,17 @@
-"""Shared paths and app.json I/O for the WaveStore scripts."""
+"""Shared paths, http access, and app.json I/O for the WaveStore scripts."""
 
 import json
+import os
+import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 STORE_FILE = ROOT / "store.json"
 
 RAW_BASE = "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main"
+
+USER_AGENT = "WaveStore"
+TIMEOUT = 120
 
 # One root per kind and one folder per source, so the path says what a thing is
 # and where it comes from. Nothing needs a flag inside the file to be sorted.
@@ -18,13 +23,31 @@ PROVIDER_SOURCES = {folder: source for source, folder in PROVIDERS.items()}
 FIELD_ORDER = [
     "id", "name", "author", "description", "url", "source", "free",
     "categories", "screenSupport", "platformSupport", "icon", "screenshots",
-    "playstore",
+    "github", "playstore",
 ]
 
 # Curated by hand, so no provider refresh may write them. "-modded" means the
 # entry reaches that layout only with a patch or a mod.
 SCREEN_SUPPORT = ["single", "dual", "single-modded", "dual-modded"]
 PLATFORM_SUPPORT = ["android", "linux", "windows"]
+
+
+def request(url, headers=None, byte_range=None, method="GET"):
+    head = {"User-Agent": USER_AGENT}
+    head.update(headers or {})
+    if byte_range:
+        head["Range"] = f"bytes={byte_range[0]}-{byte_range[1]}"
+    return urllib.request.urlopen(
+        urllib.request.Request(url, headers=head, method=method), timeout=TIMEOUT
+    )
+
+
+def github_headers():
+    head = {"Accept": "application/vnd.github+json"}
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        head["Authorization"] = f"Bearer {token}"
+    return head
 
 
 def kind_folder(kind):

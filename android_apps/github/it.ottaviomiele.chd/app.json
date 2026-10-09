@@ -16,5 +16,12 @@
     "android"
   ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/it.ottaviomiele.chd/icon.png",
-  "screenshots": []
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/IGXGq0iwhnWvQoJQ9iaPfu6gPCs5dQhour5G71N2pWYDyRc4tzeQhNYdsA9gJp3tAdrCPtiwBeOthxEJU3rIpg",
+    "https://play-lh.googleusercontent.com/JkeoMA6dbrpnSZIxuvDImeDYOP83lmGRO0hUmLLMdRjRQeKjKBr_i6RZ-QYVZHCK55yJFkIzEpy8gV8StOZF",
+    "https://play-lh.googleusercontent.com/EU7mFatA6B3v5TZ6EMCYtB3EEuqsn7iOimZih5ZhyTSmvLRnZOsah3EyFnQ6CPDDoDbDD5mmp2cZpoKWN4PoMQ"
+  ],
+  "github": {
+    "downloadCount": 37185
+  }
 }

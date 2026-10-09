@@ -16,5 +16,12 @@
     "android"
   ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.producdevity.emureadylite/icon.png",
-  "screenshots": []
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/o3yes0b0RWTc_eKdE3aFhSigcI4TwjPoDSj1NwGkY3_3jFPMmo6A8pr9OjFcCfQso5Q3MYUOqFvBXdgtK2zr",
+    "https://play-lh.googleusercontent.com/wlhCibE3jCg5XJnNtwfIFzl2zMEZ2WfMQeIpm0RxW_Hiu1-Iw6ByBVeBEA5yDiGMd7Ul7E-0PqtNqCvVaPWI",
+    "https://play-lh.googleusercontent.com/oNI5d2PW7wTN8cptaJTSesMNJFcBTQbumTAbrv0IOw3mYo4nabzQU8K2YycfcQ0e6cAsR8RGg6Gws7yjFT-04g"
+  ],
+  "github": {
+    "downloadCount": 90529
+  }
 }

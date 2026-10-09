@@ -16,5 +16,8 @@
     "android"
   ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/net.rpcsx/icon.png",
-  "screenshots": []
+  "screenshots": [],
+  "github": {
+    "downloadCount": 849293
+  }
 }

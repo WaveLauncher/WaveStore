@@ -16,5 +16,12 @@
     "android"
   ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/app.gamenative/icon.png",
-  "screenshots": []
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/hWdBZrXcMryK6JlF1T5ac7OJMBbwxlLm-NGVnAr7BYmkW6erObCe4cRokDIXA-Uwjjxp1V3vr24p9pgjKWufIw",
+    "https://play-lh.googleusercontent.com/X_dEF6uoJFf1oXOpECEOtK-Bhh9BTC6R2NxkcCBTYhV79NWPi3CfyLRBcpX1FDnVmAKvjjO8YJFsCaqDfntCFw",
+    "https://play-lh.googleusercontent.com/pIzycIUDoJ6P4afZam25iDWnMqRaPBaQdOHfFXoAkxB_Yb3rg0eUJlZjM2rNUs2GdoFbJxaXgwLLr19UcUl7"
+  ],
+  "github": {
+    "downloadCount": 1301945
+  }
 }

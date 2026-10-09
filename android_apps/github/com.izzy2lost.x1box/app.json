@@ -15,5 +15,12 @@
     "android"
   ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.izzy2lost.x1box/icon.png",
-  "screenshots": []
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/xpQRmZ3CElL9E7mUlVGXn8FDcsuFaHplxCnznFyaN2zWuhxTUjQH-kAIgsKbv93FsTp2hS4uVRubLAr0mjx_ExE",
+    "https://play-lh.googleusercontent.com/Qyl14Zm3aheAbucDi1nBL13i7jB6Og2nObrjbeNd2xzwjwJnMf2JM1pYJIRzgCiRlJdyT7LGAvXpq0RB8Zwsj3E",
+    "https://play-lh.googleusercontent.com/HjSIkePiTA3T1DznNTWzRlAHRzX1TkLDshTm_zEtv3twGrQ2qGUhxeEch5DIpimYEBUU4WTVM2mtuwiqS4MyJw"
+  ],
+  "github": {
+    "downloadCount": 162156
+  }
 }

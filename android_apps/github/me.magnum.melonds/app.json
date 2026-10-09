@@ -16,5 +16,12 @@
     "android"
   ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melonds/icon.png",
-  "screenshots": []
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/5BKkmY-Hm51it5ngbLHDVm_hw2koehOOIYAzwo5DFPofw0ufR8DSoBDdj9gQ1NmADqvzukV7-fgKIpPftip6tg",
+    "https://play-lh.googleusercontent.com/-5GlOZsozprtUPpTQCwdBpNg_ELa76YAaAB4dlCqGMZHxNQoyCEpZhMfUcFURE_zNts3YX-Ar287fqcsxGIiw-0",
+    "https://play-lh.googleusercontent.com/U4Cui-2RqXRBqFtD5JuZlIh7SAUTKjCOT8jIRVcSCKXdK4cNdA9B4DWrwbfepJG2OW29ndodhHqlIuzsDjp0vg"
+  ],
+  "github": {
+    "downloadCount": 941139
+  }
 }

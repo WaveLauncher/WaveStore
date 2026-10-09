@@ -16,5 +16,12 @@
     "android"
   ],
   "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/aenu.aps3e/icon.png",
-  "screenshots": []
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/tKyWOJTmjrZUTqiRFV-6Ekn5DqjyJXPWKQiAOgp75CEPwHXDvO4UX94U1ASqImZD3JtkxqC9PqPzFTmE-Su6OQ",
+    "https://play-lh.googleusercontent.com/8xom0T6sG2Ljn5erfTTrqcLSquvp8eDzujYCptb3ovv4bfMqHVkrFRFRb_GDyOTDZbKrb7NwU_B3nvK3SwkKU0Y",
+    "https://play-lh.googleusercontent.com/KiQHIPbxpc7lVSX8kQ6eiKJ4CCrVVnbDPTtBB3n3f5EXpGk2wK6GwNIp8IZN8nE4C-9IuyitE7NBI6zQNBnTaw"
+  ],
+  "github": {
+    "downloadCount": 726162
+  }
 }
