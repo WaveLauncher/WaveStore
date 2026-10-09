@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-07T19:09:11Z",
+  "generatedAt": "2026-10-09T12:57:56Z",
   "counts": {
-    "apps": 58,
+    "apps": 57,
     "games": 134
   },
   "featured": {
@@ -320,26 +320,6 @@
         "android"
       ],
       "icon": null,
-      "screenshots": []
-    },
-    {
-      "id": "com.esde.companion",
-      "name": "ES-DE Companion",
-      "author": "RobZombie9043",
-      "description": "ES-DE frontend companion app",
-      "url": "https://github.com/RobZombie9043/es-de-companion",
-      "source": "GitHub",
-      "free": true,
-      "categories": [
-        "Utilities"
-      ],
-      "screenSupport": [
-        "dual"
-      ],
-      "platformSupport": [
-        "android"
-      ],
-      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.esde.companion/icon.png",
       "screenshots": []
     },
     {
