@@ -1,0 +1,23 @@
+{
+  "id": "dev.twilitrealm.dusk",
+  "name": "dusklight",
+  "author": "TwilitRealm",
+  "description": "Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.",
+  "url": "https://github.com/TwilitRealm/dusklight",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/dev.twilitrealm.dusk/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 1313241
+  }
+}

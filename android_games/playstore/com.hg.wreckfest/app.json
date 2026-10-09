@@ -1,0 +1,32 @@
+{
+  "id": "com.hg.wreckfest",
+  "name": "Wreckfest - Demolition Racing",
+  "author": "THQ Nordic Mobileㅤ",
+  "description": "Break the rules and take full-contact racing to the limit with Wreckfest!",
+  "url": "https://play.google.com/store/apps/details?id=com.hg.wreckfest",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Racing"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/GZ50g_mIVRKi2QDknnQfh5rqt4SOM1-_eo_mlF2xu8dRL9-JszBvU8J1zVqYfmR_dSMUbbhqDsWHb_LFqcMPGw=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/DJ_B_KYpibk7ibERxgZY9MNQZFpkSz4_cbyNFBp9QXxTiXKVDp9mFHacIfNLK_-GN9qYrakvYqRmAu0BP4XTCQ",
+    "https://play-lh.googleusercontent.com/z0yOj2b9uJXpo8K8xvHR0-Yn_zYsSA8lnF5R-2XVHSSwCseopMeM5lbUPXzY3QmOg_lqeminuHeXq4x4rk9D",
+    "https://play-lh.googleusercontent.com/y7DgKDOPxDMRKJJ5c3w1IcS0arrQ-WDJDZ5mb0GbAeQyd6cmUiMYPNPaUVQ6i--D56PI0A-H5FCPpKj9ehWWX0M"
+  ],
+  "playstore": {
+    "categories": [
+      "Racing",
+      "Casual"
+    ],
+    "score": 4,
+    "downloadCount": 455581
+  }
+}

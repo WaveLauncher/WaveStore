@@ -1,0 +1,23 @@
+{
+  "id": "com.jrickey.battleship",
+  "name": "BattleShip",
+  "author": "JRickey",
+  "description": "A smashin' port for PC, Mac, and Linux!",
+  "url": "https://github.com/JRickey/BattleShip",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.jrickey.battleship/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 54849
+  }
+}

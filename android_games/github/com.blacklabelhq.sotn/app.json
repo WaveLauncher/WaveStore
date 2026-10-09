@@ -1,0 +1,23 @@
+{
+  "id": "com.blacklabelhq.sotn",
+  "name": "SymphonyRecomp",
+  "author": "sergiomanzur",
+  "description": "Recompilation project for Castlevania: Symphony of the Night",
+  "url": "https://github.com/sergiomanzur/SymphonyRecomp",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.blacklabelhq.sotn/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 2869
+  }
+}

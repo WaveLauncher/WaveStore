@@ -1,0 +1,23 @@
+{
+  "id": "io.github.raposomiguel50.systemshock",
+  "name": "system-shock-android",
+  "author": "raposomiguel50",
+  "description": "Native Android/ARM64 port of System Shock based on Shockolate, with reproducible builds, open engineering notes and Retroid Pocket 5 validation.",
+  "url": "https://github.com/raposomiguel50/system-shock-android",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/io.github.raposomiguel50.systemshock/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 484
+  }
+}

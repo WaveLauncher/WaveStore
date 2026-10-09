@@ -1,0 +1,23 @@
+{
+  "id": "org.opennectar",
+  "name": "Open-Nectar---Pikmin-Native-PC-Mobile-Port",
+  "author": "SSunnKing",
+  "description": "Native Pikmin Windows/Linux/Android Port",
+  "url": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/org.opennectar/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 14021
+  }
+}

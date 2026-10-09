@@ -1,0 +1,23 @@
+{
+  "id": "dev.kartpad.android",
+  "name": "kartpad",
+  "author": "chrissotraidis",
+  "description": "Mario Kart Wii and Retro Rewind, native for iOS, iPadOS, macOS, tvOS, and Android.",
+  "url": "https://github.com/chrissotraidis/kartpad",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/dev.kartpad.android/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 17230
+  }
+}

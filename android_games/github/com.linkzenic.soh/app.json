@@ -1,0 +1,23 @@
+{
+  "id": "com.linkzenic.soh",
+  "name": "Shipwright-Android",
+  "author": "linkzenic",
+  "description": "Ship of Harkinian Android fork",
+  "url": "https://github.com/linkzenic/Shipwright-Android",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.linkzenic.soh/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 8882
+  }
+}

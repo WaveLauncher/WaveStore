@@ -1,0 +1,23 @@
+{
+  "id": "com.maniscat2.sm64coopdx",
+  "name": "sm64coopdx",
+  "author": "ManIsCat2",
+  "description": "",
+  "url": "https://github.com/ManIsCat2/sm64coopdx",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.maniscat2.sm64coopdx/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 493667
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "com.aure.banjorecomp",
+  "name": "BanjoRecomp-Android",
+  "author": "AurelioB",
+  "description": "Android Port of Banjo-Kazooie made using N64: Recompiled",
+  "url": "https://github.com/AurelioB/BanjoRecomp-Android",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.aure.banjorecomp/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 13197
+  }
+}

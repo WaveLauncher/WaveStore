@@ -1,0 +1,23 @@
+{
+  "id": "com.acpc.port",
+  "name": "ACGC-Android-Port",
+  "author": "zwaetschge",
+  "description": "Android port of the Animal Crossing (GameCube) PC port, built with Z.ai, OpenAI Codex and Claude – bring your own disc; HD textures and translations are fetched/generated in the app",
+  "url": "https://github.com/zwaetschge/ACGC-Android-Port",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.acpc.port/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 753
+  }
+}

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-09T15:02:31Z",
+  "generatedAt": "2026-10-09T15:27:59Z",
   "counts": {
     "apps": 63,
-    "games": 150
+    "games": 184
   },
   "featured": {
     "apps": [
@@ -2528,6 +2528,29 @@
       }
     },
     {
+      "id": "com.acpc.port",
+      "name": "ACGC-Android-Port",
+      "author": "zwaetschge",
+      "description": "Android port of the Animal Crossing (GameCube) PC port, built with Z.ai, OpenAI Codex and Claude – bring your own disc; HD textures and translations are fetched/generated in the app",
+      "url": "https://github.com/zwaetschge/ACGC-Android-Port",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": null,
+      "screenshots": [],
+      "github": {
+        "downloadCount": 753
+      }
+    },
+    {
       "id": "com.activision.callofduty.shooter",
       "name": "Call of Duty®: Mobile",
       "author": "Activision Publishing, Inc.",
@@ -2718,6 +2741,29 @@
       }
     },
     {
+      "id": "com.aure.banjorecomp",
+      "name": "BanjoRecomp-Android",
+      "author": "AurelioB",
+      "description": "Android Port of Banjo-Kazooie made using N64: Recompiled",
+      "url": "https://github.com/AurelioB/BanjoRecomp-Android",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.aure.banjorecomp/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 13197
+      }
+    },
+    {
       "id": "com.aurogon.Afterimage",
       "name": "Afterimage",
       "author": "Beijing Wangyuanshengtang",
@@ -2812,6 +2858,52 @@
         ],
         "score": 3.61,
         "downloadCount": 7025
+      }
+    },
+    {
+      "id": "com.birabittoh.eternalsonata",
+      "name": "EternalSonataReprise",
+      "author": "birabittoh",
+      "description": "Eternal Sonata, recompiled for PC.",
+      "url": "https://github.com/birabittoh/EternalSonataReprise",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.birabittoh.eternalsonata/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 6473
+      }
+    },
+    {
+      "id": "com.blacklabelhq.sotn",
+      "name": "SymphonyRecomp",
+      "author": "sergiomanzur",
+      "description": "Recompilation project for Castlevania: Symphony of the Night",
+      "url": "https://github.com/sergiomanzur/SymphonyRecomp",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.blacklabelhq.sotn/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 2869
       }
     },
     {
@@ -2971,6 +3063,29 @@
         ],
         "score": 4.1,
         "downloadCount": 1846650
+      }
+    },
+    {
+      "id": "com.capcom.regaiden",
+      "name": "regaiden-recomp",
+      "author": "sergiomanzur",
+      "description": "Native static C/C++ recompilation of Resident Evil Gaiden (GBC) for PC with True Widescreen, 2D Dynamic Lighting, Retro Horror Shaders, and HD Texture Pack support",
+      "url": "https://github.com/sergiomanzur/regaiden-recomp",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.capcom.regaiden/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 2584
       }
     },
     {
@@ -3164,6 +3279,29 @@
       }
     },
     {
+      "id": "com.ctrnative",
+      "name": "ctr-native-android",
+      "author": "Simon358",
+      "description": "A Crash Team Racing Decompilation Project - Port on Android",
+      "url": "https://github.com/Simon358/ctr-native-android",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.ctrnative/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 7868
+      }
+    },
+    {
       "id": "com.digitalextremes.warframemobile",
       "name": "Warframe",
       "author": "Digital Extremes",
@@ -3223,6 +3361,29 @@
         ],
         "score": 4.71,
         "downloadCount": 6500656
+      }
+    },
+    {
+      "id": "com.dishii.zelda3",
+      "name": "zelda3-android",
+      "author": "samyost1",
+      "description": "A port of Zelda3 to Android",
+      "url": "https://github.com/samyost1/zelda3-android",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.dishii.zelda3/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 13785
       }
     },
     {
@@ -3315,7 +3476,7 @@
           "Action"
         ],
         "score": 3.69,
-        "downloadCount": 59832
+        "downloadCount": 59903
       }
     },
     {
@@ -3635,6 +3796,60 @@
       }
     },
     {
+      "id": "com.goemon64.recomp",
+      "name": "Goemon64Recomp-Android",
+      "author": "ogdanimal",
+      "description": "Android port of Mystical Ninja Starring Goemon via static recompilation, with RT64 Vulkan rendering. Bring your own ROM.",
+      "url": "https://github.com/ogdanimal/Goemon64Recomp-Android",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.goemon64.recomp/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 2536
+      }
+    },
+    {
+      "id": "com.gryphline.endfield.gp",
+      "name": "Arknights: Endfield",
+      "author": "GRYPHLINE",
+      "description": "3D real-time strategy RPG developed by HYPERGRYPH.",
+      "url": "https://play.google.com/store/apps/details?id=com.gryphline.endfield.gp",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Role Playing"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/l6FVNa293RykBWy88TqEhUakIcGSC8bRygSnKOBgztln48JX-WzMWnrBAETrKZsxDNC4HhwCsvfle_UI7rBE=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/J80JIbaG9xd6fLg8VcWZRrkpprsdsT65U7lArIYvF5RqMZ2yMcGxmxSxBPSQxI8LjsTFeRg3_XpYbR-luG4VzQ",
+        "https://play-lh.googleusercontent.com/9zvJCosT_uhLZPgij-3I5f1jzaFT_QECciQLrvYLqE8Eu8vniShtlHUmwATqiMR3aG_25_qLpF23_0Jf-xPFrF4",
+        "https://play-lh.googleusercontent.com/rSjSX7bVsIYG0eYBBdMhe-0_mYNMkHNS3_oS8RSTIANze29A6-rW0V5PAalppuNzCbvQUEJFkgGxfmeCGuClkg"
+      ],
+      "playstore": {
+        "categories": [
+          "Role Playing"
+        ],
+        "score": 4.58,
+        "downloadCount": 5454936
+      }
+    },
+    {
       "id": "com.halls.of.torment.paid.gp",
       "name": "Halls of Torment: Premium",
       "author": "Erabit Studios",
@@ -3663,6 +3878,29 @@
         ],
         "score": 4.72,
         "downloadCount": 249895
+      }
+    },
+    {
+      "id": "com.halo.decomp",
+      "name": "OpenCE",
+      "author": "OpenCommunityEdition",
+      "description": "Halo: Combat Evolved (for original Xbox) ported to Windows, Linux and Android",
+      "url": "https://github.com/OpenCommunityEdition/OpenCE",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.halo.decomp/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 2347
       }
     },
     {
@@ -3793,6 +4031,38 @@
       }
     },
     {
+      "id": "com.hg.wreckfest",
+      "name": "Wreckfest - Demolition Racing",
+      "author": "THQ Nordic Mobileㅤ",
+      "description": "Break the rules and take full-contact racing to the limit with Wreckfest!",
+      "url": "https://play.google.com/store/apps/details?id=com.hg.wreckfest",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Racing"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/GZ50g_mIVRKi2QDknnQfh5rqt4SOM1-_eo_mlF2xu8dRL9-JszBvU8J1zVqYfmR_dSMUbbhqDsWHb_LFqcMPGw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/DJ_B_KYpibk7ibERxgZY9MNQZFpkSz4_cbyNFBp9QXxTiXKVDp9mFHacIfNLK_-GN9qYrakvYqRmAu0BP4XTCQ",
+        "https://play-lh.googleusercontent.com/z0yOj2b9uJXpo8K8xvHR0-Yn_zYsSA8lnF5R-2XVHSSwCseopMeM5lbUPXzY3QmOg_lqeminuHeXq4x4rk9D",
+        "https://play-lh.googleusercontent.com/y7DgKDOPxDMRKJJ5c3w1IcS0arrQ-WDJDZ5mb0GbAeQyd6cmUiMYPNPaUVQ6i--D56PI0A-H5FCPpKj9ehWWX0M"
+      ],
+      "playstore": {
+        "categories": [
+          "Racing",
+          "Casual"
+        ],
+        "score": 4,
+        "downloadCount": 455581
+      }
+    },
+    {
       "id": "com.hitcents.forgottonanne",
       "name": "Forgotton Anne",
       "author": "Hitcents",
@@ -3884,6 +4154,52 @@
         ],
         "score": 3.97,
         "downloadCount": 13764
+      }
+    },
+    {
+      "id": "com.izzy.kart",
+      "name": "SpaghettiKart",
+      "author": "izzy2lost",
+      "description": "Android",
+      "url": "https://github.com/izzy2lost/SpaghettiKart",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.izzy.kart/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 47086
+      }
+    },
+    {
+      "id": "com.jrickey.battleship",
+      "name": "BattleShip",
+      "author": "JRickey",
+      "description": "A smashin' port for PC, Mac, and Linux!",
+      "url": "https://github.com/JRickey/BattleShip",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": null,
+      "screenshots": [],
+      "github": {
+        "downloadCount": 54849
       }
     },
     {
@@ -4015,6 +4331,52 @@
       }
     },
     {
+      "id": "com.linkzenic.soh",
+      "name": "Shipwright-Android",
+      "author": "linkzenic",
+      "description": "Ship of Harkinian Android fork",
+      "url": "https://github.com/linkzenic/Shipwright-Android",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.linkzenic.soh/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 8882
+      }
+    },
+    {
+      "id": "com.lv4games.castlevaniarevamped",
+      "name": "Castlevania-ReVamped-Open-Source-Edition",
+      "author": "eboody",
+      "description": "Eboody's main Castlevania ReVamped Android repo.",
+      "url": "https://github.com/eboody/Castlevania-ReVamped-Open-Source-Edition",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.lv4games.castlevaniarevamped/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 4867
+      }
+    },
+    {
       "id": "com.madfingergames.SamuraiIIAll",
       "name": "SAMURAI II: VENGEANCE",
       "author": "Deca_Games",
@@ -4045,6 +4407,29 @@
         ],
         "score": 4.32,
         "downloadCount": 478672
+      }
+    },
+    {
+      "id": "com.maniscat2.sm64coopdx",
+      "name": "sm64coopdx",
+      "author": "ManIsCat2",
+      "description": "",
+      "url": "https://github.com/ManIsCat2/sm64coopdx",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.maniscat2.sm64coopdx/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 493667
       }
     },
     {
@@ -4140,6 +4525,29 @@
         ],
         "score": 3.89,
         "downloadCount": 3557541
+      }
+    },
+    {
+      "id": "com.mircowuffwuff.smb1r",
+      "name": "super-mario-bros.-remastered-android",
+      "author": "mircowuffwuff",
+      "description": "an android port of the Super Mario Bros. Remaster by JoeMama and their team",
+      "url": "https://github.com/mircowuffwuff/super-mario-bros.-remastered-android",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.mircowuffwuff.smb1r/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 85730
       }
     },
     {
@@ -4368,6 +4776,29 @@
         ],
         "score": 3.83,
         "downloadCount": 923444
+      }
+    },
+    {
+      "id": "com.nfsmw.android",
+      "name": "nfsmw-android",
+      "author": "codepdbh",
+      "description": "",
+      "url": "https://github.com/codepdbh/nfsmw-android",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.nfsmw.android/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 33874
       }
     },
     {
@@ -5169,6 +5600,29 @@
       }
     },
     {
+      "id": "com.recomp.dishwasher",
+      "name": "DishSoap",
+      "author": "Hdmaniak",
+      "description": "",
+      "url": "https://github.com/Hdmaniak/DishSoap",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.recomp.dishwasher/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 94
+      }
+    },
+    {
       "id": "com.redantz.game.zombie",
       "name": "Zombie Age 2: Offline Shooting",
       "author": "RedAntz",
@@ -5260,6 +5714,29 @@
         ],
         "score": 4.54,
         "downloadCount": 3437
+      }
+    },
+    {
+      "id": "com.rocketret.rocketr",
+      "name": "Rocket-R",
+      "author": "ThatGuyMcd",
+      "description": "Rocket: Robot on Wheels - Recompiled by ThatGuyMcd",
+      "url": "https://github.com/ThatGuyMcd/Rocket-R",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.rocketret.rocketr/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 1043
       }
     },
     {
@@ -5736,6 +6213,52 @@
       }
     },
     {
+      "id": "com.starfox.enhanced",
+      "name": "starfox-enhanced",
+      "author": "kandowontu2",
+      "description": "Star Fox Enhanced source and portable platform builds (Assisted by Codex AI)",
+      "url": "https://github.com/kandowontu2/starfox-enhanced",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": null,
+      "screenshots": [],
+      "github": {
+        "downloadCount": 3172
+      }
+    },
+    {
+      "id": "com.starship.android",
+      "name": "Starship",
+      "author": "izzy2lost",
+      "description": "SF64 Android Port",
+      "url": "https://github.com/izzy2lost/Starship",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.starship.android/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 3604
+      }
+    },
+    {
       "id": "com.storeriderprod.labyrinthecity",
       "name": "Labyrinth City",
       "author": "StoreRider",
@@ -5891,6 +6414,29 @@
         ],
         "score": 4.5,
         "downloadCount": 1984
+      }
+    },
+    {
+      "id": "com.theboisclub.pokemonred",
+      "name": "gen1recomp",
+      "author": "bryanthaboi",
+      "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1, 2, and 3 Poke",
+      "url": "https://github.com/bryanthaboi/gen1recomp",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.theboisclub.pokemonred/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 1197580
       }
     },
     {
@@ -6307,6 +6853,190 @@
       }
     },
     {
+      "id": "dev.kartpad.android",
+      "name": "kartpad",
+      "author": "chrissotraidis",
+      "description": "Mario Kart Wii and Retro Rewind, native for iOS, iPadOS, macOS, tvOS, and Android.",
+      "url": "https://github.com/chrissotraidis/kartpad",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": null,
+      "screenshots": [],
+      "github": {
+        "downloadCount": 17230
+      }
+    },
+    {
+      "id": "dev.nfs3hp.port",
+      "name": "nfs3recompiled-android",
+      "author": "ZloiKILLER",
+      "description": "Need For Speed III: Hot Pursuit recompiled PC port on Android",
+      "url": "https://github.com/ZloiKILLER/nfs3recompiled-android",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/dev.nfs3hp.port/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 366
+      }
+    },
+    {
+      "id": "dev.picori.tmc",
+      "name": "tmc",
+      "author": "999sian",
+      "description": "Project Picori — a native PC port of The Legend of Zelda: The Minish Cap (Linux/Windows/macOS), built on the zeldaret/tmc decompilation.",
+      "url": "https://github.com/999sian/tmc",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/dev.picori.tmc/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 4181
+      }
+    },
+    {
+      "id": "dev.twilitrealm.dusk",
+      "name": "dusklight",
+      "author": "TwilitRealm",
+      "description": "Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.",
+      "url": "https://github.com/TwilitRealm/dusklight",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/dev.twilitrealm.dusk/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 1313241
+      }
+    },
+    {
+      "id": "io.github.hm64recomp",
+      "name": "HarvestMoon64Recomp",
+      "author": "igawa6",
+      "description": "Android Port of Harvest Moon 64 made using N64: Recompiled",
+      "url": "https://github.com/igawa6/HarvestMoon64Recomp",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/io.github.hm64recomp/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 2319
+      }
+    },
+    {
+      "id": "io.github.matteo842.crashlauncher.runtime",
+      "name": "CrashBandicoot-Launcher",
+      "author": "Matteo842",
+      "description": "CrashBandicoot native pc port",
+      "url": "https://github.com/Matteo842/CrashBandicoot-Launcher",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/io.github.matteo842.crashlauncher.runtime/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 27181
+      }
+    },
+    {
+      "id": "io.github.raposomiguel50.systemshock",
+      "name": "system-shock-android",
+      "author": "raposomiguel50",
+      "description": "Native Android/ARM64 port of System Shock based on Shockolate, with reproducible builds, open engineering notes and Retroid Pocket 5 validation.",
+      "url": "https://github.com/raposomiguel50/system-shock-android",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/io.github.raposomiguel50.systemshock/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 484
+      }
+    },
+    {
+      "id": "io.github.zelda64recomp",
+      "name": "Zelda64Recomp-Android",
+      "author": "linkzenic",
+      "description": "Android port of Zelda64 Recompiled",
+      "url": "https://github.com/linkzenic/Zelda64Recomp-Android",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/io.github.zelda64recomp/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 2424
+      }
+    },
+    {
       "id": "net.froemling.bombsquad",
       "name": "BombSquad",
       "author": "Eric Froemling",
@@ -6372,6 +7102,29 @@
       }
     },
     {
+      "id": "org.eukaryot.sonic3air",
+      "name": "sonic3air",
+      "author": "Eukaryot",
+      "description": "Source and data to build Sonic 3 A.I.R. (Angel Island Revisited) and the Oxygen Engine",
+      "url": "https://github.com/Eukaryot/sonic3air",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/org.eukaryot.sonic3air/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 1832280
+      }
+    },
+    {
       "id": "org.hempuli.baba",
       "name": "Baba Is You",
       "author": "Hempuli",
@@ -6401,6 +7154,52 @@
         ],
         "score": 4.64,
         "downloadCount": 143528
+      }
+    },
+    {
+      "id": "org.opennectar",
+      "name": "Open-Nectar---Pikmin-Native-PC-Mobile-Port",
+      "author": "SSunnKing",
+      "description": "Native Pikmin Windows/Linux/Android Port",
+      "url": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/org.opennectar/icon.png",
+      "screenshots": [],
+      "github": {
+        "downloadCount": 14021
+      }
+    },
+    {
+      "id": "org.wwhdrecomp.app",
+      "name": "ZeldaWWHDRecompAndroid",
+      "author": "GreenNaugahyde",
+      "description": "TLoZ:TWW HD Recomp",
+      "url": "https://github.com/GreenNaugahyde/ZeldaWWHDRecompAndroid",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Decompilation"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": null,
+      "screenshots": [],
+      "github": {
+        "downloadCount": 8300
       }
     },
     {

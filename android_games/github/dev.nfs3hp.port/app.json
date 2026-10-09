@@ -1,0 +1,23 @@
+{
+  "id": "dev.nfs3hp.port",
+  "name": "nfs3recompiled-android",
+  "author": "ZloiKILLER",
+  "description": "Need For Speed III: Hot Pursuit recompiled PC port on Android",
+  "url": "https://github.com/ZloiKILLER/nfs3recompiled-android",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/dev.nfs3hp.port/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 366
+  }
+}

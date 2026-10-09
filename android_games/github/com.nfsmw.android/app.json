@@ -1,0 +1,23 @@
+{
+  "id": "com.nfsmw.android",
+  "name": "nfsmw-android",
+  "author": "codepdbh",
+  "description": "",
+  "url": "https://github.com/codepdbh/nfsmw-android",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.nfsmw.android/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 33874
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "org.wwhdrecomp.app",
+  "name": "ZeldaWWHDRecompAndroid",
+  "author": "GreenNaugahyde",
+  "description": "TLoZ:TWW HD Recomp",
+  "url": "https://github.com/GreenNaugahyde/ZeldaWWHDRecompAndroid",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/org.wwhdrecomp.app/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 8300
+  }
+}

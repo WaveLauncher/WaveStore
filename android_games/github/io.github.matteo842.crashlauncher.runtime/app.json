@@ -1,0 +1,23 @@
+{
+  "id": "io.github.matteo842.crashlauncher.runtime",
+  "name": "CrashBandicoot-Launcher",
+  "author": "Matteo842",
+  "description": "CrashBandicoot native pc port",
+  "url": "https://github.com/Matteo842/CrashBandicoot-Launcher",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/io.github.matteo842.crashlauncher.runtime/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 27181
+  }
+}

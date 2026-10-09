@@ -1,0 +1,23 @@
+{
+  "id": "com.rocketret.rocketr",
+  "name": "Rocket-R",
+  "author": "ThatGuyMcd",
+  "description": "Rocket: Robot on Wheels - Recompiled by ThatGuyMcd",
+  "url": "https://github.com/ThatGuyMcd/Rocket-R",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.rocketret.rocketr/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 1043
+  }
+}

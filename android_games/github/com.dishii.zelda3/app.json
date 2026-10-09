@@ -1,0 +1,23 @@
+{
+  "id": "com.dishii.zelda3",
+  "name": "zelda3-android",
+  "author": "samyost1",
+  "description": "A port of Zelda3 to Android",
+  "url": "https://github.com/samyost1/zelda3-android",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.dishii.zelda3/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 13785
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "com.halo.decomp",
+  "name": "OpenCE",
+  "author": "OpenCommunityEdition",
+  "description": "Halo: Combat Evolved (for original Xbox) ported to Windows, Linux and Android",
+  "url": "https://github.com/OpenCommunityEdition/OpenCE",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.halo.decomp/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 2347
+  }
+}

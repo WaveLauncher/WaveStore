@@ -1,0 +1,23 @@
+{
+  "id": "com.mircowuffwuff.smb1r",
+  "name": "super-mario-bros.-remastered-android",
+  "author": "mircowuffwuff",
+  "description": "an android port of the Super Mario Bros. Remaster by JoeMama and their team",
+  "url": "https://github.com/mircowuffwuff/super-mario-bros.-remastered-android",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.mircowuffwuff.smb1r/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 85730
+  }
+}

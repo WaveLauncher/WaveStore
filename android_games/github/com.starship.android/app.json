@@ -1,0 +1,23 @@
+{
+  "id": "com.starship.android",
+  "name": "Starship",
+  "author": "izzy2lost",
+  "description": "SF64 Android Port",
+  "url": "https://github.com/izzy2lost/Starship",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.starship.android/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 3604
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "org.eukaryot.sonic3air",
+  "name": "sonic3air",
+  "author": "Eukaryot",
+  "description": "Source and data to build Sonic 3 A.I.R. (Angel Island Revisited) and the Oxygen Engine",
+  "url": "https://github.com/Eukaryot/sonic3air",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/org.eukaryot.sonic3air/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 1832280
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "com.gryphline.endfield.gp",
+  "name": "Arknights: Endfield",
+  "author": "GRYPHLINE",
+  "description": "3D real-time strategy RPG developed by HYPERGRYPH.",
+  "url": "https://play.google.com/store/apps/details?id=com.gryphline.endfield.gp",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Role Playing"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/l6FVNa293RykBWy88TqEhUakIcGSC8bRygSnKOBgztln48JX-WzMWnrBAETrKZsxDNC4HhwCsvfle_UI7rBE=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/J80JIbaG9xd6fLg8VcWZRrkpprsdsT65U7lArIYvF5RqMZ2yMcGxmxSxBPSQxI8LjsTFeRg3_XpYbR-luG4VzQ",
+    "https://play-lh.googleusercontent.com/9zvJCosT_uhLZPgij-3I5f1jzaFT_QECciQLrvYLqE8Eu8vniShtlHUmwATqiMR3aG_25_qLpF23_0Jf-xPFrF4",
+    "https://play-lh.googleusercontent.com/rSjSX7bVsIYG0eYBBdMhe-0_mYNMkHNS3_oS8RSTIANze29A6-rW0V5PAalppuNzCbvQUEJFkgGxfmeCGuClkg"
+  ],
+  "playstore": {
+    "categories": [
+      "Role Playing"
+    ],
+    "score": 4.58,
+    "downloadCount": 5454936
+  }
+}

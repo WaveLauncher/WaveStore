@@ -1,0 +1,23 @@
+{
+  "id": "com.starfox.enhanced",
+  "name": "starfox-enhanced",
+  "author": "kandowontu2",
+  "description": "Star Fox Enhanced source and portable platform builds (Assisted by Codex AI)",
+  "url": "https://github.com/kandowontu2/starfox-enhanced",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.starfox.enhanced/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 3172
+  }
+}

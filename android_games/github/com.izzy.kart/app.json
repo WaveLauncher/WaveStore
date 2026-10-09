@@ -1,0 +1,23 @@
+{
+  "id": "com.izzy.kart",
+  "name": "SpaghettiKart",
+  "author": "izzy2lost",
+  "description": "Android",
+  "url": "https://github.com/izzy2lost/SpaghettiKart",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.izzy.kart/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 47086
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "com.theboisclub.pokemonred",
+  "name": "gen1recomp",
+  "author": "bryanthaboi",
+  "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1, 2, and 3 Poke",
+  "url": "https://github.com/bryanthaboi/gen1recomp",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.theboisclub.pokemonred/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 1197580
+  }
+}

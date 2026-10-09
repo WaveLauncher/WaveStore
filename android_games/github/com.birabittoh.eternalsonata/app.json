@@ -1,0 +1,23 @@
+{
+  "id": "com.birabittoh.eternalsonata",
+  "name": "EternalSonataReprise",
+  "author": "birabittoh",
+  "description": "Eternal Sonata, recompiled for PC.",
+  "url": "https://github.com/birabittoh/EternalSonataReprise",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.birabittoh.eternalsonata/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 6473
+  }
+}

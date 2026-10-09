@@ -1,0 +1,23 @@
+{
+  "id": "io.github.hm64recomp",
+  "name": "HarvestMoon64Recomp",
+  "author": "igawa6",
+  "description": "Android Port of Harvest Moon 64 made using N64: Recompiled",
+  "url": "https://github.com/igawa6/HarvestMoon64Recomp",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/io.github.hm64recomp/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 2319
+  }
+}

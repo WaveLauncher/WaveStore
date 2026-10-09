@@ -1,0 +1,23 @@
+{
+  "id": "com.recomp.dishwasher",
+  "name": "DishSoap",
+  "author": "Hdmaniak",
+  "description": "",
+  "url": "https://github.com/Hdmaniak/DishSoap",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.recomp.dishwasher/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 94
+  }
+}

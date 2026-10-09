@@ -1,0 +1,23 @@
+{
+  "id": "io.github.zelda64recomp",
+  "name": "Zelda64Recomp-Android",
+  "author": "linkzenic",
+  "description": "Android port of Zelda64 Recompiled",
+  "url": "https://github.com/linkzenic/Zelda64Recomp-Android",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Decompilation"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/io.github.zelda64recomp/icon.png",
+  "screenshots": [],
+  "github": {
+    "downloadCount": 2424
+  }
+}
