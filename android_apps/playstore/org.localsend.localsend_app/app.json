@@ -1,0 +1,31 @@
+{
+  "id": "org.localsend.localsend_app",
+  "name": "LocalSend: Transfer Files",
+  "author": "Tien Do Nam",
+  "description": "Send files to nearby devices - open source, cross platform",
+  "url": "https://play.google.com/store/apps/details?id=org.localsend.localsend_app",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Tools"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/M33xh7ahqjZnunTUOX1-p13D8z3ZX9R8Y41ooCm5SENNxtN_1htUR0t2M7RKjTL4UxuJ9GAsfBQVleL3g5mLMg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/NMGEF9KTyRMQhqBRiilVcSskLIdMvUWizrQ6rEqMqOwvHCP0vTeWkXtY3pT8wyleDU86AE_mgYLVEpeciN6VXNE",
+    "https://play-lh.googleusercontent.com/PH06ETDEcXkYRIVmOjW6pBDZOMShEbq7xpAoqRl1WeT0_IpG3SwInhWefziGHs-jlfkd1BMdnoS4qzyMzbAtqw",
+    "https://play-lh.googleusercontent.com/wzEB784y8NdVNkO0YbsRQGp9SjT-i4Lvz8_vDHBWBmVZXnrQ3Q7f3bDiXZzbt6DAWpovRQI0RmAAuK9UhWsWbQ"
+  ],
+  "playstore": {
+    "categories": [
+      "Tools"
+    ],
+    "score": 4.67,
+    "downloadCount": 11234384
+  }
+}

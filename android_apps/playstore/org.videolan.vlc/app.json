@@ -1,0 +1,31 @@
+{
+  "id": "org.videolan.vlc",
+  "name": "VLC",
+  "author": "Videolabs",
+  "description": "VLC for Android is the best open source video and music player, fast and easy!",
+  "url": "https://play.google.com/store/apps/details?id=org.videolan.vlc",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Media"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/BG5YwziGHjh0wvWg6VO9c3iprYa3vFww1CnNqPvFszUVxcY4yB29dy7t2jsLwwI4jAqX08_--12FmMxgNG1JFg=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/u8vVjbpeniIlZkEloddea35PD1uN2B2lL_8PfHaG1Ial8tfoccUwYUt5GlzvddodpAg6uX916rwxbCfQ8JA5zw",
+    "https://play-lh.googleusercontent.com/5sYf3kkxoECTRNwl7BclPDmTyLGv3pHtLPX1FQyNE2kc-WSucddscPUGqjnqStLUlubLP7rv3UqK4uRX_-XxEjM",
+    "https://play-lh.googleusercontent.com/KIb_9NpY4K809OHPVGXrKpHexdFxP5TzCPqYC8JBbqIk5vMSfa3e0LZQyOWpTPYLPoiP8HsCV_TBCc57RLF4Sw"
+  ],
+  "playstore": {
+    "categories": [
+      "Video Players & Editors"
+    ],
+    "score": 4.04,
+    "downloadCount": 513846884
+  }
+}

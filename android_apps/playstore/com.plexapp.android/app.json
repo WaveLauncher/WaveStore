@@ -1,0 +1,31 @@
+{
+  "id": "com.plexapp.android",
+  "name": "Plex",
+  "author": "Plex, Inc.",
+  "description": "Watch tons of movies & TV shows at no cost and see what's trending in streaming.",
+  "url": "https://play.google.com/store/apps/details?id=com.plexapp.android",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Media"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/0-rSvTIYVEveysANiSS5FITkkD-kpe6TG91nJRy7ht2J0BHlPWXiGaMcDRYUOwTVuZsE4-HyI-qSL0KkNEvQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/lZdaVSfi16oq2gb-zIk8PHpmC3lQyzEgQtZdCnDiJevRWDOCZHYHVidoIkdZOhl7YU2DDvKxUwOVlvad96KoYgE",
+    "https://play-lh.googleusercontent.com/TtevC3ncDwdGar9NVWQRnU46eVy-NRR9X3S-XdbfSEpzy6wTdz5LzLwYxGhAV5i45FcBUhrj-IN8jBnHds3T9pc",
+    "https://play-lh.googleusercontent.com/bmplSV64QXkjxR8g-1FwSsBCgh4myKPM9obvHpvEctJnofH8xyUzBknUq2gKX2GJYNF_T089oHfrd7dJFaCr"
+  ],
+  "playstore": {
+    "categories": [
+      "Entertainment"
+    ],
+    "score": 3.52,
+    "downloadCount": 115403389
+  }
+}

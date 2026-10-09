@@ -1,0 +1,31 @@
+{
+  "id": "tv.parsec.client",
+  "name": "Parsec",
+  "author": "Parsec Cloud Inc.",
+  "description": "Game, work, and play together from anywhere.",
+  "url": "https://play.google.com/store/apps/details?id=tv.parsec.client",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Streaming"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/vkfws4EtqMCjFQPtV3I5XDFV9WNQ1yQeVgr2eaOuku1rJAZDpYk3AFyI6fzg7-KAn_9BcIykn4WI23vrsm6UOA=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/uZ75DnGJ6CX_PPeMSZquLajGUm-uErfJ2cuU7tr9Iekle5cdRF7yOxdZCvF8Xpc5vABzVA5UVJmEQ_286BDIaQ",
+    "https://play-lh.googleusercontent.com/QbQYbcD9dTb1wusi2lCiXRj14XJP-KnlcmVZO-Nuw3Dt47zc8G9ql6cPRQ5kp3dYu4JGqdNtGv3oSoLq0gwXzg",
+    "https://play-lh.googleusercontent.com/jxVDEzp9Nn7qSCCkot3fHTafMM2iqDHD7WpzSaxzqcAjbsazEA0BnFtVwRTIqmA9Pu2FH4DYoPM80mDP7G_hUb0"
+  ],
+  "playstore": {
+    "categories": [
+      "Entertainment"
+    ],
+    "score": null,
+    "downloadCount": 2794568
+  }
+}

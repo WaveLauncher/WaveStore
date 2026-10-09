@@ -1,0 +1,31 @@
+{
+  "id": "com.valvesoftware.steamlink",
+  "name": "Steam Link",
+  "author": "Valve Corporation",
+  "description": "Stream Your Steam Library",
+  "url": "https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Streaming"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/6TU14znIBQ6oierlwk8twhgqDLMhA3y-a-daQq8jF5d_OZpk9HpEo9rlMQ_KhxSUQ-mpohuQLVmH-jy6zoVCaTU=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/MjDn1K-B4a_HeXY1CaSO8MHYH-HvvA5vecg_-skhHQWEc08577Vzq0pXP0VKHxUVSk4nhzvrNlKgm4R4qaKiKQ",
+    "https://play-lh.googleusercontent.com/lIWoeH41NjfUwEK6u5sFeBUgixkTLYbebCy-AziPk-d9JjoBlRNzBV7udh23Tz92lT36H_V5F0tYCEOQh2Sfow",
+    "https://play-lh.googleusercontent.com/knRCzJ4pv3P5_1qZaUZ1Vemc5dQHOKu_2Q7Zqr2Gvldu3Sy4abHyeFk1Vo5whNj5KFb5ZNjUJ6aej1HbjszyKIc"
+  ],
+  "playstore": {
+    "categories": [
+      "Entertainment"
+    ],
+    "score": 3.32,
+    "downloadCount": 29622712
+  }
+}

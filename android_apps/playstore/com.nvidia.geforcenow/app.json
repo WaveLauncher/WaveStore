@@ -1,0 +1,31 @@
+{
+  "id": "com.nvidia.geforcenow",
+  "name": "GeForce NOW",
+  "author": "NVIDIA",
+  "description": "GEFORCE RTX-POWERED CLOUD GAMING",
+  "url": "https://play.google.com/store/apps/details?id=com.nvidia.geforcenow",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Streaming"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/lpJSHUmG-bcaB2oOxSuMhRtE53lZzEUDlEPWLP0on5wM717EuBXAH4Z9nF329QVl9v7-DJTM7CFGeST5qBk=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/CveGdojJpXGMFRixKUm32ykPJrxMCtMnvwgg0ujDpMdMNtVGA5dRjvMAbHVnpopT9Nm9IDyeAzgqZkJXCbTpfA",
+    "https://play-lh.googleusercontent.com/p44CI4b15tGOhiTL4PiBmxhqQpHAd0YJxAs_hGjyfkEJ96vfWeiq-JPM3sron9acdZqft8JoYTu98uVB1cxOtg",
+    "https://play-lh.googleusercontent.com/fa_ZqxPlSYl-9B8SKThlVKZ-Ekf2g8bY9EpKL3TTfu10KFeD9jyQysOK_6V2HooRLBIS9HoCalmmOFzOrgWqwIU"
+  ],
+  "playstore": {
+    "categories": [
+      "Entertainment"
+    ],
+    "score": 3.55,
+    "downloadCount": 29535093
+  }
+}
