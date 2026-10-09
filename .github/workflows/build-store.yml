@@ -8,12 +8,6 @@ on:
       - "android_games/**"
       - "scripts/**"
       - ".github/workflows/build-store.yml"
-  pull_request:
-    paths:
-      - "android_apps/**"
-      - "android_games/**"
-      - "scripts/**"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -36,22 +30,21 @@ jobs:
       - name: Build the catalog
         run: python3 scripts/build_store.py
 
-      - name: Check that store.json is current
-        if: github.event_name == 'pull_request'
+      - name: Check for store changes
+        id: store_changes
         run: |
-          if ! git diff --quiet store.json; then
-            echo "::error::store.json is stale. Run python3 scripts/build_store.py and commit the result."
-            git diff store.json
-            exit 1
+          previous=$(git show HEAD:store.json | jq -cS 'del(.generatedAt)')
+          current=$(jq -cS 'del(.generatedAt)' store.json)
+          if [[ "$previous" != "$current" ]]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "store.json is already current."
           fi
 
       - name: Commit store.json
-        if: github.event_name != 'pull_request'
+        if: steps.store_changes.outputs.changed == 'true'
         run: |
-          if git diff --quiet store.json; then
-            echo "store.json is already current."
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add store.json
