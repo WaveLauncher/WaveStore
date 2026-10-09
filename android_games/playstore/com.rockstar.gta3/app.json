@@ -1,0 +1,32 @@
+{
+  "id": "com.rockstar.gta3",
+  "name": "Grand Theft Auto III",
+  "author": "Rockstar Games",
+  "description": "Welcome to Liberty City. Where it all began.",
+  "url": "https://play.google.com/store/apps/details?id=com.rockstar.gta3",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/Pn5l06VAjzIu47TlBYpVNubkgkwt6DBivr-0PzIQVnGJ7kkuWzBzzFWiszXHbsB9-Q1PtVmfBodQ_49tgO2Q8AI=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/L1BynDOgkXMW4QQ-dVvNIy6W3j-GZlVXxK468dOsid_tZYGB0tBCiTIigG8lRgW4fqMif5dTwwxihCf23fmH",
+    "https://play-lh.googleusercontent.com/GzcfKrRpEUyH17XBr9XMn_Ko1U__s1fsrSbABtOc4u5jZSMI10VwM5d5AnIw6fzV5N3u7mwQEhvfRxowF5RTMdw",
+    "https://play-lh.googleusercontent.com/GmDxo2Sw1dE8KB0qJxmwwf7mSa3wOxvBUooKCqrGQzRGi66bLuekePtL0ftF9B4NfBQEDvFjNrPSyxYRXDRu_g"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 3.44,
+    "downloadCount": 2271098
+  }
+}

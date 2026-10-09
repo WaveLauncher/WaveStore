@@ -1,0 +1,31 @@
+{
+  "id": "com.rockstargames.gtactw",
+  "name": "GTA: Chinatown Wars",
+  "author": "Rockstar Games",
+  "description": "Left for dead in the worst place in America",
+  "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtactw",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/5WerlJGlPMVxLBrGmvOIdB0d3UXiHjyX7p5ygdUMDVlesavbwBPNFLv3FzQfaYRNLm8XhRStMAH96G8fFrYOqA=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/v1arwHEo8OleUP2fjy-8B_hWpKKM7Znc8O75UnXjZ83iKMepajDmQxEwBMxmpMJ93otGQi_wh1iF4A3AVW1lXPc",
+    "https://play-lh.googleusercontent.com/Ki1rWvIUw7kNrZk8JpDiXufF4XEu6C0oieoKZPjVQUtnMMAWaTj9C3d-X0hYmP34oXNbGauyIuEkLnA7LenO",
+    "https://play-lh.googleusercontent.com/eUNGJUMxvfmcnOgk2oYidWZ2IMQG15oajuMAqfu-9DD9H0RDj7WDSpJLC8TpfnHuosGX3z2ZrMYnhOsZJ9T0"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 3.41,
+    "downloadCount": 17278373
+  }
+}

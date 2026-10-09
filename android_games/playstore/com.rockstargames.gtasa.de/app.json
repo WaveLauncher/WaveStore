@@ -1,0 +1,32 @@
+{
+  "id": "com.rockstargames.gtasa.de",
+  "name": "GTA: San Andreas - Definitive",
+  "author": "Rockstar Games",
+  "description": "Five years ago, Carl ‘CJ’ Johnson escaped the haze of Los Santos, San Andreas…",
+  "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtasa.de",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/Plgr-TF6CRvZSLuXeCeximGXI86YLR-oH1M9ja-yuRz40eXsOTe-HgqbD6XtHVRCcGK6CLjq8sj2p4vfZfJ6sYI=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/1Br4t-ahs7PdT0G91ZGAgmgSH_bw9Ca52mlJCp8myh7kMxj-6tyILvhx9ULa_AngQAy3B9D8Rn8mpCGZLXeswA",
+    "https://play-lh.googleusercontent.com/RfadeU9Mezt1iVCTuulc0aC50FSZyt0Qb7ET28C1-aulRvQVMDXuzUTkqZu3QyvM5S3TOJ7A4wyusPrTjs9d",
+    "https://play-lh.googleusercontent.com/IYWot1TRp_avKkqFREdI6uzBI9zjmnjjo_vmpknUnSlTwQ5LW5wNtTzt-x3BS2QZXU-CsKp3oXITBe5AtE7a"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 4.02,
+    "downloadCount": 62423
+  }
+}

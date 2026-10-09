@@ -1,0 +1,32 @@
+{
+  "id": "com.rockstargames.gtavc",
+  "name": "Grand Theft Auto: Vice City",
+  "author": "Rockstar Games",
+  "description": "Welcome back to Vice City. Welcome back to the 1980s.",
+  "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtavc",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Arcade"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/MifaYJQGECAUExGfC3p1YS7lVTqIGq-imqNb6RFpCnkk0G9UQ5A_pmTDvi1dyXmv5eCFFa4r5vlKeqef1ub_4NI=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/k9i6FIA1xhynWE5RuMvhmSH9Pqjk5wv6LxCq9oH6H8PVo6xwenzuqbNxHyNY01aKmWSb23qqE3ovqFgqk5-dnQ",
+    "https://play-lh.googleusercontent.com/kmC9o5uhxb9W8XDqZmH58d73ODGEd1kfI1Ze50eNNPu1VqIT4yyqd-5qub_LFynlv1wk7wel8H2UlNrdBlv0mA",
+    "https://play-lh.googleusercontent.com/BB8CtSu7xjvJ-el17nHHsPJkGOr1UJji02RQNjA_q9Knu75jBfbBmwMfoP14AV5WrZn0H9TG-hhf-m6Pmbvm6g"
+  ],
+  "playstore": {
+    "categories": [
+      "Arcade",
+      "Action"
+    ],
+    "score": 3.29,
+    "downloadCount": 3935038
+  }
+}

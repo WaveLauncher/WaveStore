@@ -1,0 +1,31 @@
+{
+  "id": "com.rockstargames.gtasa",
+  "name": "Grand Theft Auto: San Andreas",
+  "author": "Rockstar Games",
+  "description": "Rockstar Games brings its biggest release to mobile yet.",
+  "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtasa",
+  "source": "PlayStore",
+  "free": false,
+  "categories": [
+    "Action"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/9GVKCNutqPtjORCw6ZG7rhGA29MbALAMLtDdNmvaiOAWouMcW1Ue5kEz-QMt4u9pLFy0Rm-edYp5RIGGgxmV3hE=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/kA2XMX5UYWeX0kYkGG8oomYD-DGms33OPG13kr62ztngpOcbJE60CuO5LlHNtCM_h1lVAKmXLKZhKKnqf1SIfg",
+    "https://play-lh.googleusercontent.com/0_b0GTfucDDThJ-n5-6P3YSWbANt09_salj61c1bKv5mk0SN3CXb9zDMt62viM4Z8fK7jV-rTLnuZALTcsHncqY",
+    "https://play-lh.googleusercontent.com/XM8xYXBgwGwGmO0lVdL5m22ZEoFoc3IbLljWKbdpOgBQZnp6YXYA7P8BnrBxQ8G0nBkvlTzfcLSYUFIQv3W84Ac"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 4.55,
+    "downloadCount": 9031794
+  }
+}

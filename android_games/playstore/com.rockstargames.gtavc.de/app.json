@@ -1,0 +1,31 @@
+{
+  "id": "com.rockstargames.gtavc.de",
+  "name": "GTA: Vice City - Definitive",
+  "author": "Rockstar Games",
+  "description": "Welcome to the 1980s",
+  "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtavc.de",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/PMwwyuavLk0Ob6vd8NXYW3yDu-yzQ5T_ZgYe0duQkft0ygCBfNGUCZztAPRcw6H6G1nIkNhB3ImyslXRy-GL=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/689IlLiWUIZ1nYZ2ZdsUlnQYmNuS0RFE82vtvHQ5V1E1NQ8_GubvkA65JSAPJMoUe_zvsPWZrBack5jcdIDC",
+    "https://play-lh.googleusercontent.com/6CzgtY0mWu9fubH65ZwX-9QAaWNGWTMl4ZoQBQZcpG1BZyxtJmtgecRYkE7hFE4X4IWwYFsG9nbMY3NqFp61J0c",
+    "https://play-lh.googleusercontent.com/HAEvrnPMQpKMXWVO67A9LxybkBt7kclJaBtICYaTXyC_5IKbEKk8_D4n7cWjXRsn1KsZKkH-NZt_UMez_6GE"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 3.57,
+    "downloadCount": 6856306
+  }
+}

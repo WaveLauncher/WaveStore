@@ -1,0 +1,31 @@
+{
+  "id": "com.rockstargames.gta3.de",
+  "name": "GTA III - Definitive",
+  "author": "Rockstar Games",
+  "description": "Welcome to Liberty City. Where it all began.",
+  "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gta3.de",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/rmpMYe2NXQVLm7bfZEVzCYHhoJ9NZLnQzmo7_CIIwvygbCwYrikjIxp8Ho7dbDWBVQvKp3ESGYbQ68W9vrdCkA=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/YYEv3yADh5eD_HbyCErvJ05qCuEvrCgOGaQ3RMMOUc7GWYu--6knxiE7pN0WAm9G7K3LU2wUJXTSAJRqgKQO",
+    "https://play-lh.googleusercontent.com/Fw3lz1s5V6QlvIxuc0eFRFbD75iRhEDJARclWKlLdy0ymUf20D5VYiLHCj3CymsFxkTTLtfvHk167NxiatxFlA",
+    "https://play-lh.googleusercontent.com/e7I6jEl3SvfZ77ocAzAMqm5OaucrV4ACuxWX0AAeOGf04I7huLMox0oSbv9Vdo5F8RgS2iLcZwJbjYsbDoFzDSA"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 3.7,
+    "downloadCount": 2958297
+  }
+}

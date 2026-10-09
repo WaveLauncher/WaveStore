@@ -1,0 +1,32 @@
+{
+  "id": "com.rockstargames.gtalcs",
+  "name": "GTA: Liberty City Stories",
+  "author": "Rockstar Games",
+  "description": "Grand Theft Auto: Liberty City Stories",
+  "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtalcs",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Adventure"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/3bafGkeZWJukpdzCsvRZwsctxQ9nqE5Rs6Bc4YH4xtN22dNttuf9mmRK4QDzT2Gt36qCycPBAB79KW68aQz0Iw=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/KFIPxM7RLG8Zmcc7KzmIus19TF6mBhIsc5MhBDL2pDJuj9WwHEsAIrzxDv4XqWUClQ3PU0EtJddeXuyO6YAq",
+    "https://play-lh.googleusercontent.com/pvhXsGxxlKBpAXOR8sgy9w1-4KLmDpYqfrH2G2z_IS-OpQDHgguRaBqWKaUlqZbEvZ91UXqwEoaucgJKz0qH_4c",
+    "https://play-lh.googleusercontent.com/vRbmL1kBZl9cD2OJSvmgIyHVrYivLAy_FfYxwftxSJC3bS52aNpJOkicnKPYY0vKuH4p8rhuDq3bW9dpmCpgvg"
+  ],
+  "playstore": {
+    "categories": [
+      "Adventure",
+      "Action"
+    ],
+    "score": 3.98,
+    "downloadCount": 36805988
+  }
+}

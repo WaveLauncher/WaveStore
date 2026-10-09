@@ -1,0 +1,32 @@
+{
+  "id": "com.rockstargames.bully",
+  "name": "Bully: Anniversary Edition",
+  "author": "Rockstar Games",
+  "description": "Rockstar Games invades the schoolyard in Bully: Anniversary Edition",
+  "url": "https://play.google.com/store/apps/details?id=com.rockstargames.bully",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/PIzZmUVhiDSR7VJhhRaDj8S8lMtj68qKHowwmkVf8Mr7yQ6uaYmusmBETKeJc0MoHTTPz_SUBbkFIoHiMfjJ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/AEVHJigdyOEacRmiCYKUJeIBg-OZLQWv0j2QS9Uu8xQBo0GcYOm6Wv8WoocyMtPNbbIlt59Xe64SUNFU1G-FwJ0",
+    "https://play-lh.googleusercontent.com/OgKfPxYwBNJnpaUM-awghzhyOBOeYHMlygFslKRoUNhnUYXzcIyhVf8F8I4mxmCn9LiLY-XRMTFICUOa4myX",
+    "https://play-lh.googleusercontent.com/wLDTJsGHuf59PgNQ7CUYmFWU9IxoV8yUWju-rfexXvNXPA2rla9F8wXPulwsp9f1PWM34uWryfW4Z8Vsk-jw5g"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Casual"
+    ],
+    "score": 3.96,
+    "downloadCount": 7556169
+  }
+}
