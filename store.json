@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-09T14:42:42Z",
+  "generatedAt": "2026-10-09T14:52:54Z",
   "counts": {
     "apps": 57,
-    "games": 134
+    "games": 143
   },
   "featured": {
     "apps": [
@@ -4853,6 +4853,290 @@
         ],
         "score": 4.54,
         "downloadCount": 3437
+      }
+    },
+    {
+      "id": "com.rockstar.gta3",
+      "name": "Grand Theft Auto III",
+      "author": "Rockstar Games",
+      "description": "Welcome to Liberty City. Where it all began.",
+      "url": "https://play.google.com/store/apps/details?id=com.rockstar.gta3",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/Pn5l06VAjzIu47TlBYpVNubkgkwt6DBivr-0PzIQVnGJ7kkuWzBzzFWiszXHbsB9-Q1PtVmfBodQ_49tgO2Q8AI=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/L1BynDOgkXMW4QQ-dVvNIy6W3j-GZlVXxK468dOsid_tZYGB0tBCiTIigG8lRgW4fqMif5dTwwxihCf23fmH",
+        "https://play-lh.googleusercontent.com/GzcfKrRpEUyH17XBr9XMn_Ko1U__s1fsrSbABtOc4u5jZSMI10VwM5d5AnIw6fzV5N3u7mwQEhvfRxowF5RTMdw",
+        "https://play-lh.googleusercontent.com/GmDxo2Sw1dE8KB0qJxmwwf7mSa3wOxvBUooKCqrGQzRGi66bLuekePtL0ftF9B4NfBQEDvFjNrPSyxYRXDRu_g"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 3.44,
+        "downloadCount": 2271098
+      }
+    },
+    {
+      "id": "com.rockstargames.bully",
+      "name": "Bully: Anniversary Edition",
+      "author": "Rockstar Games",
+      "description": "Rockstar Games invades the schoolyard in Bully: Anniversary Edition",
+      "url": "https://play.google.com/store/apps/details?id=com.rockstargames.bully",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/PIzZmUVhiDSR7VJhhRaDj8S8lMtj68qKHowwmkVf8Mr7yQ6uaYmusmBETKeJc0MoHTTPz_SUBbkFIoHiMfjJ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/AEVHJigdyOEacRmiCYKUJeIBg-OZLQWv0j2QS9Uu8xQBo0GcYOm6Wv8WoocyMtPNbbIlt59Xe64SUNFU1G-FwJ0",
+        "https://play-lh.googleusercontent.com/OgKfPxYwBNJnpaUM-awghzhyOBOeYHMlygFslKRoUNhnUYXzcIyhVf8F8I4mxmCn9LiLY-XRMTFICUOa4myX",
+        "https://play-lh.googleusercontent.com/wLDTJsGHuf59PgNQ7CUYmFWU9IxoV8yUWju-rfexXvNXPA2rla9F8wXPulwsp9f1PWM34uWryfW4Z8Vsk-jw5g"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 3.96,
+        "downloadCount": 7556169
+      }
+    },
+    {
+      "id": "com.rockstargames.gta3.de",
+      "name": "GTA III - Definitive",
+      "author": "Rockstar Games",
+      "description": "Welcome to Liberty City. Where it all began.",
+      "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gta3.de",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/rmpMYe2NXQVLm7bfZEVzCYHhoJ9NZLnQzmo7_CIIwvygbCwYrikjIxp8Ho7dbDWBVQvKp3ESGYbQ68W9vrdCkA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/YYEv3yADh5eD_HbyCErvJ05qCuEvrCgOGaQ3RMMOUc7GWYu--6knxiE7pN0WAm9G7K3LU2wUJXTSAJRqgKQO",
+        "https://play-lh.googleusercontent.com/Fw3lz1s5V6QlvIxuc0eFRFbD75iRhEDJARclWKlLdy0ymUf20D5VYiLHCj3CymsFxkTTLtfvHk167NxiatxFlA",
+        "https://play-lh.googleusercontent.com/e7I6jEl3SvfZ77ocAzAMqm5OaucrV4ACuxWX0AAeOGf04I7huLMox0oSbv9Vdo5F8RgS2iLcZwJbjYsbDoFzDSA"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 3.7,
+        "downloadCount": 2958297
+      }
+    },
+    {
+      "id": "com.rockstargames.gtactw",
+      "name": "GTA: Chinatown Wars",
+      "author": "Rockstar Games",
+      "description": "Left for dead in the worst place in America",
+      "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtactw",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/5WerlJGlPMVxLBrGmvOIdB0d3UXiHjyX7p5ygdUMDVlesavbwBPNFLv3FzQfaYRNLm8XhRStMAH96G8fFrYOqA=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/v1arwHEo8OleUP2fjy-8B_hWpKKM7Znc8O75UnXjZ83iKMepajDmQxEwBMxmpMJ93otGQi_wh1iF4A3AVW1lXPc",
+        "https://play-lh.googleusercontent.com/Ki1rWvIUw7kNrZk8JpDiXufF4XEu6C0oieoKZPjVQUtnMMAWaTj9C3d-X0hYmP34oXNbGauyIuEkLnA7LenO",
+        "https://play-lh.googleusercontent.com/eUNGJUMxvfmcnOgk2oYidWZ2IMQG15oajuMAqfu-9DD9H0RDj7WDSpJLC8TpfnHuosGX3z2ZrMYnhOsZJ9T0"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 3.41,
+        "downloadCount": 17278373
+      }
+    },
+    {
+      "id": "com.rockstargames.gtalcs",
+      "name": "GTA: Liberty City Stories",
+      "author": "Rockstar Games",
+      "description": "Grand Theft Auto: Liberty City Stories",
+      "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtalcs",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Adventure"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/3bafGkeZWJukpdzCsvRZwsctxQ9nqE5Rs6Bc4YH4xtN22dNttuf9mmRK4QDzT2Gt36qCycPBAB79KW68aQz0Iw=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/KFIPxM7RLG8Zmcc7KzmIus19TF6mBhIsc5MhBDL2pDJuj9WwHEsAIrzxDv4XqWUClQ3PU0EtJddeXuyO6YAq",
+        "https://play-lh.googleusercontent.com/pvhXsGxxlKBpAXOR8sgy9w1-4KLmDpYqfrH2G2z_IS-OpQDHgguRaBqWKaUlqZbEvZ91UXqwEoaucgJKz0qH_4c",
+        "https://play-lh.googleusercontent.com/vRbmL1kBZl9cD2OJSvmgIyHVrYivLAy_FfYxwftxSJC3bS52aNpJOkicnKPYY0vKuH4p8rhuDq3bW9dpmCpgvg"
+      ],
+      "playstore": {
+        "categories": [
+          "Adventure",
+          "Action"
+        ],
+        "score": 3.98,
+        "downloadCount": 36805988
+      }
+    },
+    {
+      "id": "com.rockstargames.gtasa",
+      "name": "Grand Theft Auto: San Andreas",
+      "author": "Rockstar Games",
+      "description": "Rockstar Games brings its biggest release to mobile yet.",
+      "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtasa",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/9GVKCNutqPtjORCw6ZG7rhGA29MbALAMLtDdNmvaiOAWouMcW1Ue5kEz-QMt4u9pLFy0Rm-edYp5RIGGgxmV3hE=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/kA2XMX5UYWeX0kYkGG8oomYD-DGms33OPG13kr62ztngpOcbJE60CuO5LlHNtCM_h1lVAKmXLKZhKKnqf1SIfg",
+        "https://play-lh.googleusercontent.com/0_b0GTfucDDThJ-n5-6P3YSWbANt09_salj61c1bKv5mk0SN3CXb9zDMt62viM4Z8fK7jV-rTLnuZALTcsHncqY",
+        "https://play-lh.googleusercontent.com/XM8xYXBgwGwGmO0lVdL5m22ZEoFoc3IbLljWKbdpOgBQZnp6YXYA7P8BnrBxQ8G0nBkvlTzfcLSYUFIQv3W84Ac"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.55,
+        "downloadCount": 9031794
+      }
+    },
+    {
+      "id": "com.rockstargames.gtasa.de",
+      "name": "GTA: San Andreas - Definitive",
+      "author": "Rockstar Games",
+      "description": "Five years ago, Carl ‘CJ’ Johnson escaped the haze of Los Santos, San Andreas…",
+      "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtasa.de",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/Plgr-TF6CRvZSLuXeCeximGXI86YLR-oH1M9ja-yuRz40eXsOTe-HgqbD6XtHVRCcGK6CLjq8sj2p4vfZfJ6sYI=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/1Br4t-ahs7PdT0G91ZGAgmgSH_bw9Ca52mlJCp8myh7kMxj-6tyILvhx9ULa_AngQAy3B9D8Rn8mpCGZLXeswA",
+        "https://play-lh.googleusercontent.com/RfadeU9Mezt1iVCTuulc0aC50FSZyt0Qb7ET28C1-aulRvQVMDXuzUTkqZu3QyvM5S3TOJ7A4wyusPrTjs9d",
+        "https://play-lh.googleusercontent.com/IYWot1TRp_avKkqFREdI6uzBI9zjmnjjo_vmpknUnSlTwQ5LW5wNtTzt-x3BS2QZXU-CsKp3oXITBe5AtE7a"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Casual"
+        ],
+        "score": 4.02,
+        "downloadCount": 62423
+      }
+    },
+    {
+      "id": "com.rockstargames.gtavc",
+      "name": "Grand Theft Auto: Vice City",
+      "author": "Rockstar Games",
+      "description": "Welcome back to Vice City. Welcome back to the 1980s.",
+      "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtavc",
+      "source": "PlayStore",
+      "free": false,
+      "categories": [
+        "Arcade"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/MifaYJQGECAUExGfC3p1YS7lVTqIGq-imqNb6RFpCnkk0G9UQ5A_pmTDvi1dyXmv5eCFFa4r5vlKeqef1ub_4NI=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/k9i6FIA1xhynWE5RuMvhmSH9Pqjk5wv6LxCq9oH6H8PVo6xwenzuqbNxHyNY01aKmWSb23qqE3ovqFgqk5-dnQ",
+        "https://play-lh.googleusercontent.com/kmC9o5uhxb9W8XDqZmH58d73ODGEd1kfI1Ze50eNNPu1VqIT4yyqd-5qub_LFynlv1wk7wel8H2UlNrdBlv0mA",
+        "https://play-lh.googleusercontent.com/BB8CtSu7xjvJ-el17nHHsPJkGOr1UJji02RQNjA_q9Knu75jBfbBmwMfoP14AV5WrZn0H9TG-hhf-m6Pmbvm6g"
+      ],
+      "playstore": {
+        "categories": [
+          "Arcade",
+          "Action"
+        ],
+        "score": 3.29,
+        "downloadCount": 3935038
+      }
+    },
+    {
+      "id": "com.rockstargames.gtavc.de",
+      "name": "GTA: Vice City - Definitive",
+      "author": "Rockstar Games",
+      "description": "Welcome to the 1980s",
+      "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtavc.de",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/PMwwyuavLk0Ob6vd8NXYW3yDu-yzQ5T_ZgYe0duQkft0ygCBfNGUCZztAPRcw6H6G1nIkNhB3ImyslXRy-GL=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/689IlLiWUIZ1nYZ2ZdsUlnQYmNuS0RFE82vtvHQ5V1E1NQ8_GubvkA65JSAPJMoUe_zvsPWZrBack5jcdIDC",
+        "https://play-lh.googleusercontent.com/6CzgtY0mWu9fubH65ZwX-9QAaWNGWTMl4ZoQBQZcpG1BZyxtJmtgecRYkE7hFE4X4IWwYFsG9nbMY3NqFp61J0c",
+        "https://play-lh.googleusercontent.com/HAEvrnPMQpKMXWVO67A9LxybkBt7kclJaBtICYaTXyC_5IKbEKk8_D4n7cWjXRsn1KsZKkH-NZt_UMez_6GE"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 3.57,
+        "downloadCount": 6856306
       }
     },
     {
