@@ -8,14 +8,14 @@
   "featured": {
     "apps": [
       {
-        "id": "com.nanodata.armsx",
-        "name": "ARMSX1",
-        "author": "ARMSX2",
-        "url": "https://github.com/ARMSX2/ARMSX1",
+        "id": "pup.app.mimir",
+        "name": "Mimir",
+        "author": "ItsRetroPup",
+        "url": "https://github.com/ItsRetroPup/Mimir",
         "source": "GitHub",
         "free": true,
         "categories": [
-          "Emulator"
+          "Utilities"
         ],
         "screenSupport": [
           "single"
@@ -23,22 +23,22 @@
         "platformSupport": [
           "android"
         ],
-        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.nanodata.armsx/icon.png",
+        "icon": null,
         "screenshots": [],
         "github": {
-          "downloadCount": 183366
+          "downloadCount": 29144
         }
       },
       {
-        "id": "gamehub.lite",
-        "name": "GameHub Lite",
-        "author": "Producdevity",
-        "description": "Windows game launcher for Android",
-        "url": "https://github.com/Producdevity/gamehub-lite",
+        "id": "com.quantumsoul.esde_android",
+        "name": "ES-DE Android Apps",
+        "author": "BinaryQuantumSoul",
+        "description": "ES-DE system integration for Android",
+        "url": "https://github.com/BinaryQuantumSoul/esde_android_apps",
         "source": "GitHub",
         "free": true,
         "categories": [
-          "PC Emulation"
+          "Utilities"
         ],
         "screenSupport": [
           "single"
@@ -46,22 +46,21 @@
         "platformSupport": [
           "android"
         ],
-        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/gamehub.lite/icon.png",
+        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.quantumsoul.esde_android/icon.png",
         "screenshots": [],
         "github": {
-          "downloadCount": 1464784
+          "downloadCount": 58785
         }
       },
       {
-        "id": "org.vita3k.emulator",
-        "name": "Vita3K",
-        "author": "Vita3K",
-        "description": "PlayStation Vita emulator",
-        "url": "https://github.com/Vita3K/Vita3K-builds",
+        "id": "com.aure.clustertune",
+        "name": "Cluster Tune",
+        "author": "AurelioB",
+        "url": "https://github.com/AurelioB/cluster-tune",
         "source": "GitHub",
         "free": true,
         "categories": [
-          "Emulator"
+          "Utilities"
         ],
         "screenSupport": [
           "single"
@@ -69,84 +68,20 @@
         "platformSupport": [
           "android"
         ],
-        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.vita3k.emulator/icon.png",
+        "icon": null,
         "screenshots": [],
         "github": {
-          "downloadCount": 1058190
+          "downloadCount": 230686
         }
       }
     ],
     "games": [
       {
-        "id": "com.storeriderprod.labyrinthecity",
-        "name": "Labyrinth City",
-        "author": "StoreRider",
-        "description": "Explore museums and cityscapes to collect stars along the way!",
-        "url": "https://play.google.com/store/apps/details?id=com.storeriderprod.labyrinthecity",
-        "source": "PlayStore",
-        "free": true,
-        "categories": [
-          "Casual"
-        ],
-        "screenSupport": [
-          "single"
-        ],
-        "platformSupport": [
-          "android"
-        ],
-        "icon": "https://play-lh.googleusercontent.com/bLx99pGChMaSCGz8UEqb1vElLjhzkbcsGUM3ZOkC6Zpg0A1Ktr1Zn0XG0a6MQPZpDo96FLwvo0SV5lcLCQLihQ=s512",
-        "screenshots": [
-          "https://play-lh.googleusercontent.com/KrfxMHUk4_gqMDD3FkTdnmSrr5ZsF5_0TUc8L5OpIx8XZB9CXsuuwwuNENxMuN4cLa1anrdMYDIEhZvhCccx6g",
-          "https://play-lh.googleusercontent.com/kBRTWEAs526AhaauIY7_qJZ46UXSNq4pdqPTLDOe4CSIkxGgIWfkV7dHKl7w6HIMtORojpZNKe0hTG6QbEW-dg",
-          "https://play-lh.googleusercontent.com/lWUR6aucT9aW6Fk4VM1iXz78No3JzvfnbAqJPNA5ALojwPxxUa71Tp9etrWopG0XfXh8wDdXteZGpwpiNQT5afU"
-        ],
-        "playstore": {
-          "categories": [
-            "Casual",
-            "Adventure"
-          ],
-          "score": 4.48,
-          "downloadCount": 93075
-        }
-      },
-      {
-        "id": "com.subsoap.fsr",
-        "name": "Faerie Solitaire Remastered",
-        "author": "Subsoap.com",
-        "description": "Enjoy the magic and fun of Faerie Solitaire in fully remade form!",
-        "url": "https://play.google.com/store/apps/details?id=com.subsoap.fsr",
-        "source": "PlayStore",
-        "free": true,
-        "categories": [
-          "Card"
-        ],
-        "screenSupport": [
-          "single"
-        ],
-        "platformSupport": [
-          "android"
-        ],
-        "icon": "https://play-lh.googleusercontent.com/BnMg41nBKINEHIcoBmR6xpM0Hae0PMFbBMtMNUjn0kJulIPD-nvYmWrEIDc6zkxPUKwUcDXIUavMiinU3KES=s512",
-        "screenshots": [
-          "https://play-lh.googleusercontent.com/z8QfjqVxmON7pndQaanm8XsN1Xr8ZqTH7M20L265IDSfPXEeLTqAzO1ykpueqABQZCcNXATQKrcvf4GyRlQ91A",
-          "https://play-lh.googleusercontent.com/xjxtHp1wJ20ZJ-MSyvZFRSSf41CqhD3IqCiyxhPGBpcMKwdUx9CcOZ2CibCU6hThkLD_bHwtz2Ni7IBN9ASdEw",
-          "https://play-lh.googleusercontent.com/QAUXkuO1-K318yFjI0wvcU5ds1yfcyz6UtRR16pPBNn1VjpAr-tAC4FeKWvnDyd5kuZfUI_u7rTE6dtEqr56pg"
-        ],
-        "playstore": {
-          "categories": [
-            "Card",
-            "Casual"
-          ],
-          "score": 4.67,
-          "downloadCount": 9213
-        }
-      },
-      {
-        "id": "com.feralinteractive.laracroftgol_android",
-        "name": "Lara Croft: Guardian of Light",
-        "author": "Feral Interactive",
-        "description": "Play the first two levels, the unlock the full game via in-app purchase.",
-        "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.laracroftgol_android",
+        "id": "com.miHoYo.bh3global",
+        "name": "Honkai Impact 3rd",
+        "author": "COGNOSPHERE PTE. LTD.",
+        "description": "HoYoverse Sci-fi Adventure Action Game",
+        "url": "https://play.google.com/store/apps/details?id=com.miHoYo.bh3global",
         "source": "PlayStore",
         "free": true,
         "categories": [
@@ -158,18 +93,81 @@
         "platformSupport": [
           "android"
         ],
-        "icon": "https://play-lh.googleusercontent.com/wJHaKvTTIdQJEWPaN4DeBhhzyPFiujEW0HNCvTugzCPPjCzHX9LD119zVoGbcD9q0L5cc3mlFyWZscaU7OHOCg=s512",
+        "icon": "https://play-lh.googleusercontent.com/hTMlfgsf_lKP7URBWrrdpoqL_AhXwuvIbeU-5Gn2R-8RE58z4Y28mfduo6MkfEBpP7Mtef7bnrXo5R9g1puG=s512",
         "screenshots": [
-          "https://play-lh.googleusercontent.com/Pbttd0OuvUNEFltWNOaedeWzT4P_-1EcP4W0tSKBrib0X8NrzqmsgCklfPBlmmy2cZCA0IOQvMNwoF5J8WHEZhU",
-          "https://play-lh.googleusercontent.com/Hbq3DKW511q_ipei9BxF4W70OotL8vb-zb-HyGzqXTqG9ExgdLn9AbokIwTdv4BZJKOMnMKK05OrYBmwvqJ1mK8",
-          "https://play-lh.googleusercontent.com/h4Dgfj26ag4fRXISJJ0zsktuQCv2R_oZ4ZEKmdIuGSZb9z2KXoytfDGq0-eXgaSlvmHBXY5T5MrHlxMrubDOqw"
+          "https://play-lh.googleusercontent.com/u-TE8aP5R-0iI_BFX7U3AVAUOVi785G4fe6-u5pLAhiafCbOKzxScJWiom6lOC6KeYNUG172GWdox0j2vWAw",
+          "https://play-lh.googleusercontent.com/I_K9kyxBIaK5S0bCMahbDjBBmUYuCxPRMDyg7SoSe6DrlVQt0y7ah4nHdVzbXSsHGVq0MxL8vB6JbUqIB4Fw",
+          "https://play-lh.googleusercontent.com/UgzJud2nMuwPNCQSub5PNw1KvKC3x-dRscUvU-pxQEjTgImZXJR9NOxAC5w5N_XBLmhUKRLxyQmM4Ulj3Ty-fGc"
         ],
         "playstore": {
           "categories": [
             "Action"
           ],
-          "score": 4.44,
-          "downloadCount": 338327
+          "score": 3.97,
+          "downloadCount": 20956456
+        }
+      },
+      {
+        "id": "com.duoyihk.m2m1",
+        "name": "Gunfire Reborn",
+        "author": "Duoyi Hong Kong Interactive Entertainment Limited",
+        "description": "A never-ending adventure with Roguelite+FPS",
+        "url": "https://play.google.com/store/apps/details?id=com.duoyihk.m2m1",
+        "source": "PlayStore",
+        "free": false,
+        "categories": [
+          "Action"
+        ],
+        "screenSupport": [
+          "single"
+        ],
+        "platformSupport": [
+          "android"
+        ],
+        "icon": "https://play-lh.googleusercontent.com/8IK51Pa1WmIOjSpdcqCDogLfJapiMNjpF69nSxwTOzoZPIyTkcI9oZAhivL0G-SoTVm1NJhT_v30ep-nV82sSw=s512",
+        "screenshots": [
+          "https://play-lh.googleusercontent.com/W4jlgPoGYzFRUeWPUgCkIDVmdu3dCscHGPyozDhl9si9HMvDuYNV4MNNKKmBuJFza7jseFHD11iEGDY33Mq9",
+          "https://play-lh.googleusercontent.com/hvs9ObjejqALBSk17ow9nT7XP3ApfSvTrNbj__Qi6X8Oo_DV2M71i7UXhQjoj7gTBc8X59iwAbh5OsDqrdaDnQ",
+          "https://play-lh.googleusercontent.com/rnEnuywcvV3zVvnHZGQkaEPfI7yGaT9m_AQszrU98eRTkYuZgS54gjAs4hfurD0e7I7hRQtfjbxAN0YjLnZaeA"
+        ],
+        "playstore": {
+          "categories": [
+            "Action"
+          ],
+          "score": 3.69,
+          "downloadCount": 59903
+        }
+      },
+      {
+        "id": "com.rockstargames.gtalcs",
+        "name": "GTA: Liberty City Stories",
+        "author": "Rockstar Games",
+        "description": "Grand Theft Auto: Liberty City Stories",
+        "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtalcs",
+        "source": "PlayStore",
+        "free": true,
+        "categories": [
+          "Adventure"
+        ],
+        "screenSupport": [
+          "single"
+        ],
+        "platformSupport": [
+          "android"
+        ],
+        "icon": "https://play-lh.googleusercontent.com/3bafGkeZWJukpdzCsvRZwsctxQ9nqE5Rs6Bc4YH4xtN22dNttuf9mmRK4QDzT2Gt36qCycPBAB79KW68aQz0Iw=s512",
+        "screenshots": [
+          "https://play-lh.googleusercontent.com/KFIPxM7RLG8Zmcc7KzmIus19TF6mBhIsc5MhBDL2pDJuj9WwHEsAIrzxDv4XqWUClQ3PU0EtJddeXuyO6YAq",
+          "https://play-lh.googleusercontent.com/pvhXsGxxlKBpAXOR8sgy9w1-4KLmDpYqfrH2G2z_IS-OpQDHgguRaBqWKaUlqZbEvZ91UXqwEoaucgJKz0qH_4c",
+          "https://play-lh.googleusercontent.com/vRbmL1kBZl9cD2OJSvmgIyHVrYivLAy_FfYxwftxSJC3bS52aNpJOkicnKPYY0vKuH4p8rhuDq3bW9dpmCpgvg"
+        ],
+        "playstore": {
+          "categories": [
+            "Adventure",
+            "Action"
+          ],
+          "score": 3.98,
+          "downloadCount": 36805988
         }
       }
     ]
