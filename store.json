@@ -8,37 +8,37 @@
   "featured": {
     "apps": [
       {
-        "id": "pup.app.mimir",
-        "name": "Mimir",
-        "author": "ItsRetroPup",
-        "url": "https://github.com/ItsRetroPup/Mimir",
+        "id": "xyz.blacksheep.mjolnir",
+        "name": "Mjolnir",
+        "author": "blacksheepmvp",
+        "description": "LG V60 dual-screen utility",
+        "url": "https://github.com/blacksheepmvp/mjolnir",
         "source": "GitHub",
         "free": true,
         "categories": [
           "Utilities"
         ],
         "screenSupport": [
-          "single"
+          "dual"
         ],
         "platformSupport": [
           "android"
         ],
-        "icon": null,
+        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xyz.blacksheep.mjolnir/icon.png",
         "screenshots": [],
         "github": {
-          "downloadCount": 29144
+          "downloadCount": 61512
         }
       },
       {
-        "id": "com.quantumsoul.esde_android",
-        "name": "ES-DE Android Apps",
-        "author": "BinaryQuantumSoul",
-        "description": "ES-DE system integration for Android",
-        "url": "https://github.com/BinaryQuantumSoul/esde_android_apps",
+        "id": "com.rfandango.haku_x",
+        "name": "Hakux",
+        "author": "rfandango",
+        "url": "https://github.com/rfandango/hakuX",
         "source": "GitHub",
         "free": true,
         "categories": [
-          "Utilities"
+          "Emulator"
         ],
         "screenSupport": [
           "single"
@@ -46,21 +46,21 @@
         "platformSupport": [
           "android"
         ],
-        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.quantumsoul.esde_android/icon.png",
+        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.rfandango.haku_x/icon.png",
         "screenshots": [],
         "github": {
-          "downloadCount": 58785
+          "downloadCount": 136489
         }
       },
       {
-        "id": "com.aure.clustertune",
-        "name": "Cluster Tune",
-        "author": "AurelioB",
-        "url": "https://github.com/AurelioB/cluster-tune",
+        "id": "com.armsx3",
+        "name": "ARMSX3",
+        "author": "ARMSX2",
+        "url": "https://github.com/ARMSX2/ARMSX3",
         "source": "GitHub",
         "free": true,
         "categories": [
-          "Utilities"
+          "Emulator"
         ],
         "screenSupport": [
           "single"
@@ -68,20 +68,51 @@
         "platformSupport": [
           "android"
         ],
-        "icon": null,
+        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.armsx3/icon.png",
         "screenshots": [],
         "github": {
-          "downloadCount": 230686
+          "downloadCount": 472365
         }
       }
     ],
     "games": [
       {
-        "id": "com.miHoYo.bh3global",
-        "name": "Honkai Impact 3rd",
-        "author": "COGNOSPHERE PTE. LTD.",
-        "description": "HoYoverse Sci-fi Adventure Action Game",
-        "url": "https://play.google.com/store/apps/details?id=com.miHoYo.bh3global",
+        "id": "com.hottagames.nte",
+        "name": "NTE: Neverness to Everness",
+        "author": "N2E",
+        "description": "Supernatural Urban Open World RPG",
+        "url": "https://play.google.com/store/apps/details?id=com.hottagames.nte",
+        "source": "PlayStore",
+        "free": true,
+        "categories": [
+          "Role Playing"
+        ],
+        "screenSupport": [
+          "single"
+        ],
+        "platformSupport": [
+          "android"
+        ],
+        "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw=s512",
+        "screenshots": [
+          "https://play-lh.googleusercontent.com/kPbuoflxFoAfsbEZ8i0Lqh10vDPJg_LQuCSFG4oXG7ykpAPgSsXi_Ueur-2ooH6XLcuenEfVn3McVzFy2Q3jbg",
+          "https://play-lh.googleusercontent.com/tIc3NoSbMxojzRoaWPvys9c5DkP6JJhkaoi0wVNFPSO4jaj5izPvXKlU0Ovl7DcZKf_K6GMne9CATUrw_n-v1w",
+          "https://play-lh.googleusercontent.com/Bte7hrB9VJBZ5kYWCIGHsSjCN7iGLn5opOJDl5RxofIfc4FbrYJOZnmnUvZyzVC8v4__v9oL5-AspUid_DBICA"
+        ],
+        "playstore": {
+          "categories": [
+            "Role Playing"
+          ],
+          "score": 4.56,
+          "downloadCount": 6979859
+        }
+      },
+      {
+        "id": "com.redantz.game.zombie",
+        "name": "Zombie Age 2: Offline Shooting",
+        "author": "RedAntz",
+        "description": "It’s time to load up the gun and shoot your way out!",
+        "url": "https://play.google.com/store/apps/details?id=com.redantz.game.zombie",
         "source": "PlayStore",
         "free": true,
         "categories": [
@@ -93,30 +124,31 @@
         "platformSupport": [
           "android"
         ],
-        "icon": "https://play-lh.googleusercontent.com/hTMlfgsf_lKP7URBWrrdpoqL_AhXwuvIbeU-5Gn2R-8RE58z4Y28mfduo6MkfEBpP7Mtef7bnrXo5R9g1puG=s512",
+        "icon": "https://play-lh.googleusercontent.com/PU-DyAvSCkt1vKoOpDBT_WYRA0MshhGfnqhomd6NlFopZALd8q3-K-cUxJ9RlyjLIKBYCmEyW2pTqTckz97z5A=s512",
         "screenshots": [
-          "https://play-lh.googleusercontent.com/u-TE8aP5R-0iI_BFX7U3AVAUOVi785G4fe6-u5pLAhiafCbOKzxScJWiom6lOC6KeYNUG172GWdox0j2vWAw",
-          "https://play-lh.googleusercontent.com/I_K9kyxBIaK5S0bCMahbDjBBmUYuCxPRMDyg7SoSe6DrlVQt0y7ah4nHdVzbXSsHGVq0MxL8vB6JbUqIB4Fw",
-          "https://play-lh.googleusercontent.com/UgzJud2nMuwPNCQSub5PNw1KvKC3x-dRscUvU-pxQEjTgImZXJR9NOxAC5w5N_XBLmhUKRLxyQmM4Ulj3Ty-fGc"
+          "https://play-lh.googleusercontent.com/VCpKXE2NRx9MoVftRpIkb2mp2xYMceXUR0oE2VNOw8mgWosOofhhuEDSXpHuGQ4q9nZtBxx-yV9qHdM7xt5k31I",
+          "https://play-lh.googleusercontent.com/S0kb-x89u3LeZKnNdw2E9Ou7PVuYvJHT8pfvc_45b6ruXWfzqBXS-G3tHvSD6Ucwj4TkIAijUvUOFMGzLsF8ooI",
+          "https://play-lh.googleusercontent.com/gXGcqthFZAS1FWg4Py7y2gopDLZUkZaH6QUTxUuQMe9M0zAMsmvupVricWTJL3-_Ru4FiFVjVOb7Q6IwIVmhN_4"
         ],
         "playstore": {
           "categories": [
-            "Action"
+            "Action",
+            "Casual"
           ],
-          "score": 3.97,
-          "downloadCount": 20956456
+          "score": 4.36,
+          "downloadCount": 38905864
         }
       },
       {
-        "id": "com.duoyihk.m2m1",
-        "name": "Gunfire Reborn",
-        "author": "Duoyi Hong Kong Interactive Entertainment Limited",
-        "description": "A never-ending adventure with Roguelite+FPS",
-        "url": "https://play.google.com/store/apps/details?id=com.duoyihk.m2m1",
+        "id": "com.feralinteractive.gridas",
+        "name": "GRID™ Autosport",
+        "author": "Feral Interactive",
+        "description": "Console-quality racing on Android.",
+        "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.gridas",
         "source": "PlayStore",
         "free": false,
         "categories": [
-          "Action"
+          "Racing"
         ],
         "screenSupport": [
           "single"
@@ -124,50 +156,18 @@
         "platformSupport": [
           "android"
         ],
-        "icon": "https://play-lh.googleusercontent.com/8IK51Pa1WmIOjSpdcqCDogLfJapiMNjpF69nSxwTOzoZPIyTkcI9oZAhivL0G-SoTVm1NJhT_v30ep-nV82sSw=s512",
+        "icon": "https://play-lh.googleusercontent.com/sCVkZyzHYEFZGsOnUjtSavhNX1c8ojIEGuz7EYzKE7te1aMqKzIw4h8IWLTUbXfEx-fmIHOU-bY3SJDoT3I_ww=s512",
         "screenshots": [
-          "https://play-lh.googleusercontent.com/W4jlgPoGYzFRUeWPUgCkIDVmdu3dCscHGPyozDhl9si9HMvDuYNV4MNNKKmBuJFza7jseFHD11iEGDY33Mq9",
-          "https://play-lh.googleusercontent.com/hvs9ObjejqALBSk17ow9nT7XP3ApfSvTrNbj__Qi6X8Oo_DV2M71i7UXhQjoj7gTBc8X59iwAbh5OsDqrdaDnQ",
-          "https://play-lh.googleusercontent.com/rnEnuywcvV3zVvnHZGQkaEPfI7yGaT9m_AQszrU98eRTkYuZgS54gjAs4hfurD0e7I7hRQtfjbxAN0YjLnZaeA"
+          "https://play-lh.googleusercontent.com/cLGz4sWCXB04zvpAdeSot3MuiZ8oSiYUReyaJh2lIhz4gF2bf0t8TyH3rPsve5AH6BC0FbcASiDoeJASdx77Ud0",
+          "https://play-lh.googleusercontent.com/JtGJtsyVu4BvbCe8EwQMoLlgyDv3GA5k4z-w9GSGdVUOmlvn_rcKI5i6KGvpA4bJMv7Cf7RzuKTrdwyuIZR4b8Q",
+          "https://play-lh.googleusercontent.com/0TdMV8EIEXOLzYRVi5k55eaAd5XuZZtSl2nxtjDZPug1TOwQvvsS4FFQZyds4xeXJIYagofO_iHbzt_mcCRSlgM"
         ],
         "playstore": {
           "categories": [
-            "Action"
+            "Racing"
           ],
-          "score": 3.69,
-          "downloadCount": 59903
-        }
-      },
-      {
-        "id": "com.rockstargames.gtalcs",
-        "name": "GTA: Liberty City Stories",
-        "author": "Rockstar Games",
-        "description": "Grand Theft Auto: Liberty City Stories",
-        "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtalcs",
-        "source": "PlayStore",
-        "free": true,
-        "categories": [
-          "Adventure"
-        ],
-        "screenSupport": [
-          "single"
-        ],
-        "platformSupport": [
-          "android"
-        ],
-        "icon": "https://play-lh.googleusercontent.com/3bafGkeZWJukpdzCsvRZwsctxQ9nqE5Rs6Bc4YH4xtN22dNttuf9mmRK4QDzT2Gt36qCycPBAB79KW68aQz0Iw=s512",
-        "screenshots": [
-          "https://play-lh.googleusercontent.com/KFIPxM7RLG8Zmcc7KzmIus19TF6mBhIsc5MhBDL2pDJuj9WwHEsAIrzxDv4XqWUClQ3PU0EtJddeXuyO6YAq",
-          "https://play-lh.googleusercontent.com/pvhXsGxxlKBpAXOR8sgy9w1-4KLmDpYqfrH2G2z_IS-OpQDHgguRaBqWKaUlqZbEvZ91UXqwEoaucgJKz0qH_4c",
-          "https://play-lh.googleusercontent.com/vRbmL1kBZl9cD2OJSvmgIyHVrYivLAy_FfYxwftxSJC3bS52aNpJOkicnKPYY0vKuH4p8rhuDq3bW9dpmCpgvg"
-        ],
-        "playstore": {
-          "categories": [
-            "Adventure",
-            "Action"
-          ],
-          "score": 3.98,
-          "downloadCount": 36805988
+          "score": 4.54,
+          "downloadCount": 583147
         }
       }
     ]
