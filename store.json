@@ -8,33 +8,60 @@
   "featured": {
     "apps": [
       {
-        "id": "xyz.blacksheep.mjolnir",
-        "name": "Mjolnir",
-        "author": "blacksheepmvp",
-        "description": "LG V60 dual-screen utility",
-        "url": "https://github.com/blacksheepmvp/mjolnir",
+        "id": "com.github.catfriend1.syncthingfork",
+        "name": "Syncthing-Fork",
+        "author": "researchxxl",
+        "description": "Continuous file synchronization",
+        "url": "https://github.com/researchxxl/syncthing-android",
         "source": "GitHub",
         "free": true,
         "categories": [
           "Utilities"
         ],
         "screenSupport": [
-          "dual"
+          "single"
         ],
         "platformSupport": [
           "android"
         ],
-        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/xyz.blacksheep.mjolnir/icon.png",
+        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.github.catfriend1.syncthingfork/icon.png",
         "screenshots": [],
         "github": {
-          "downloadCount": 61512
+          "downloadCount": 1183296
         }
       },
       {
-        "id": "com.rfandango.haku_x",
-        "name": "Hakux",
-        "author": "rfandango",
-        "url": "https://github.com/rfandango/hakuX",
+        "id": "com.producdevity.emureadylite",
+        "name": "EmuReady Lite",
+        "author": "Producdevity",
+        "description": "Emulation compatibility database",
+        "url": "https://github.com/Producdevity/EmuReadyAppReleases",
+        "source": "GitHub",
+        "free": true,
+        "categories": [
+          "Utilities"
+        ],
+        "screenSupport": [
+          "single"
+        ],
+        "platformSupport": [
+          "android"
+        ],
+        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.producdevity.emureadylite/icon.png",
+        "screenshots": [
+          "https://play-lh.googleusercontent.com/o3yes0b0RWTc_eKdE3aFhSigcI4TwjPoDSj1NwGkY3_3jFPMmo6A8pr9OjFcCfQso5Q3MYUOqFvBXdgtK2zr",
+          "https://play-lh.googleusercontent.com/wlhCibE3jCg5XJnNtwfIFzl2zMEZ2WfMQeIpm0RxW_Hiu1-Iw6ByBVeBEA5yDiGMd7Ul7E-0PqtNqCvVaPWI",
+          "https://play-lh.googleusercontent.com/oNI5d2PW7wTN8cptaJTSesMNJFcBTQbumTAbrv0IOw3mYo4nabzQU8K2YycfcQ0e6cAsR8RGg6Gws7yjFT-04g"
+        ],
+        "github": {
+          "downloadCount": 90529
+        }
+      },
+      {
+        "id": "emu.x360mobile.com",
+        "name": "X360 Mobile",
+        "author": "Ashnar2602",
+        "url": "https://github.com/Ashnar2602/X360-Mobile---OFFICIAL",
         "source": "GitHub",
         "free": true,
         "categories": [
@@ -46,46 +73,24 @@
         "platformSupport": [
           "android"
         ],
-        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.rfandango.haku_x/icon.png",
+        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/emu.x360mobile.com/icon.png",
         "screenshots": [],
         "github": {
-          "downloadCount": 136489
-        }
-      },
-      {
-        "id": "com.armsx3",
-        "name": "ARMSX3",
-        "author": "ARMSX2",
-        "url": "https://github.com/ARMSX2/ARMSX3",
-        "source": "GitHub",
-        "free": true,
-        "categories": [
-          "Emulator"
-        ],
-        "screenSupport": [
-          "single"
-        ],
-        "platformSupport": [
-          "android"
-        ],
-        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.armsx3/icon.png",
-        "screenshots": [],
-        "github": {
-          "downloadCount": 472365
+          "downloadCount": 512558
         }
       }
     ],
     "games": [
       {
-        "id": "com.hottagames.nte",
-        "name": "NTE: Neverness to Everness",
-        "author": "N2E",
-        "description": "Supernatural Urban Open World RPG",
-        "url": "https://play.google.com/store/apps/details?id=com.hottagames.nte",
+        "id": "com.timbojimbo.ssr",
+        "name": "Static Shift Racing",
+        "author": "Timbo Jimbo",
+        "description": "Dominate real rivals to become the ultimate underground street racing KING!",
+        "url": "https://play.google.com/store/apps/details?id=com.timbojimbo.ssr",
         "source": "PlayStore",
         "free": true,
         "categories": [
-          "Role Playing"
+          "Racing"
         ],
         "screenSupport": [
           "single"
@@ -93,26 +98,27 @@
         "platformSupport": [
           "android"
         ],
-        "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw=s512",
+        "icon": "https://play-lh.googleusercontent.com/VgLe2U7_WfG8LedSGZ2eQJD-BSU9ErXDNV4M7vHkMD3m_SutqBuny1MlRMcWXCBLGzoB45FPthb_-fZ83yqm=s512",
         "screenshots": [
-          "https://play-lh.googleusercontent.com/kPbuoflxFoAfsbEZ8i0Lqh10vDPJg_LQuCSFG4oXG7ykpAPgSsXi_Ueur-2ooH6XLcuenEfVn3McVzFy2Q3jbg",
-          "https://play-lh.googleusercontent.com/tIc3NoSbMxojzRoaWPvys9c5DkP6JJhkaoi0wVNFPSO4jaj5izPvXKlU0Ovl7DcZKf_K6GMne9CATUrw_n-v1w",
-          "https://play-lh.googleusercontent.com/Bte7hrB9VJBZ5kYWCIGHsSjCN7iGLn5opOJDl5RxofIfc4FbrYJOZnmnUvZyzVC8v4__v9oL5-AspUid_DBICA"
+          "https://play-lh.googleusercontent.com/-bD78unFdCOweUOUfoWcd0byQ5m3Cmgks8fH7fxztiKFt39ugKHjTLCYeiLD2c2JcA7iqSKNsHOvxsTck5MIvg",
+          "https://play-lh.googleusercontent.com/gwAU7P_vEjN4Um9c0eE5_0XxDwUq5qG3bmi02lGYSMOxpY0-nLzuGWnL83QVtAdoEpaWCCIgvAPQUeeFYww_3g",
+          "https://play-lh.googleusercontent.com/w9E1x-Xd4BFj0ZQy68cZakNnO8XCHLqJQRK0E6kU8_nS2PcEoeT0x2p8WSQ_cTBwiMG8KuJ31Gpz1Isb7y1EsQ"
         ],
         "playstore": {
           "categories": [
-            "Role Playing"
+            "Racing",
+            "Casual"
           ],
-          "score": 4.56,
-          "downloadCount": 6979859
+          "score": 4.48,
+          "downloadCount": 14227155
         }
       },
       {
-        "id": "com.redantz.game.zombie",
-        "name": "Zombie Age 2: Offline Shooting",
-        "author": "RedAntz",
-        "description": "It’s time to load up the gun and shoot your way out!",
-        "url": "https://play.google.com/store/apps/details?id=com.redantz.game.zombie",
+        "id": "com.rockstargames.gtavc.de",
+        "name": "GTA: Vice City - Definitive",
+        "author": "Rockstar Games",
+        "description": "Welcome to the 1980s",
+        "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtavc.de",
         "source": "PlayStore",
         "free": true,
         "categories": [
@@ -124,31 +130,30 @@
         "platformSupport": [
           "android"
         ],
-        "icon": "https://play-lh.googleusercontent.com/PU-DyAvSCkt1vKoOpDBT_WYRA0MshhGfnqhomd6NlFopZALd8q3-K-cUxJ9RlyjLIKBYCmEyW2pTqTckz97z5A=s512",
+        "icon": "https://play-lh.googleusercontent.com/PMwwyuavLk0Ob6vd8NXYW3yDu-yzQ5T_ZgYe0duQkft0ygCBfNGUCZztAPRcw6H6G1nIkNhB3ImyslXRy-GL=s512",
         "screenshots": [
-          "https://play-lh.googleusercontent.com/VCpKXE2NRx9MoVftRpIkb2mp2xYMceXUR0oE2VNOw8mgWosOofhhuEDSXpHuGQ4q9nZtBxx-yV9qHdM7xt5k31I",
-          "https://play-lh.googleusercontent.com/S0kb-x89u3LeZKnNdw2E9Ou7PVuYvJHT8pfvc_45b6ruXWfzqBXS-G3tHvSD6Ucwj4TkIAijUvUOFMGzLsF8ooI",
-          "https://play-lh.googleusercontent.com/gXGcqthFZAS1FWg4Py7y2gopDLZUkZaH6QUTxUuQMe9M0zAMsmvupVricWTJL3-_Ru4FiFVjVOb7Q6IwIVmhN_4"
+          "https://play-lh.googleusercontent.com/689IlLiWUIZ1nYZ2ZdsUlnQYmNuS0RFE82vtvHQ5V1E1NQ8_GubvkA65JSAPJMoUe_zvsPWZrBack5jcdIDC",
+          "https://play-lh.googleusercontent.com/6CzgtY0mWu9fubH65ZwX-9QAaWNGWTMl4ZoQBQZcpG1BZyxtJmtgecRYkE7hFE4X4IWwYFsG9nbMY3NqFp61J0c",
+          "https://play-lh.googleusercontent.com/HAEvrnPMQpKMXWVO67A9LxybkBt7kclJaBtICYaTXyC_5IKbEKk8_D4n7cWjXRsn1KsZKkH-NZt_UMez_6GE"
         ],
         "playstore": {
           "categories": [
-            "Action",
-            "Casual"
+            "Action"
           ],
-          "score": 4.36,
-          "downloadCount": 38905864
+          "score": 3.57,
+          "downloadCount": 6856306
         }
       },
       {
-        "id": "com.feralinteractive.gridas",
-        "name": "GRID™ Autosport",
-        "author": "Feral Interactive",
-        "description": "Console-quality racing on Android.",
-        "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.gridas",
+        "id": "com.rockstargames.gtasa",
+        "name": "Grand Theft Auto: San Andreas",
+        "author": "Rockstar Games",
+        "description": "Rockstar Games brings its biggest release to mobile yet.",
+        "url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtasa",
         "source": "PlayStore",
         "free": false,
         "categories": [
-          "Racing"
+          "Action"
         ],
         "screenSupport": [
           "single"
@@ -156,18 +161,18 @@
         "platformSupport": [
           "android"
         ],
-        "icon": "https://play-lh.googleusercontent.com/sCVkZyzHYEFZGsOnUjtSavhNX1c8ojIEGuz7EYzKE7te1aMqKzIw4h8IWLTUbXfEx-fmIHOU-bY3SJDoT3I_ww=s512",
+        "icon": "https://play-lh.googleusercontent.com/9GVKCNutqPtjORCw6ZG7rhGA29MbALAMLtDdNmvaiOAWouMcW1Ue5kEz-QMt4u9pLFy0Rm-edYp5RIGGgxmV3hE=s512",
         "screenshots": [
-          "https://play-lh.googleusercontent.com/cLGz4sWCXB04zvpAdeSot3MuiZ8oSiYUReyaJh2lIhz4gF2bf0t8TyH3rPsve5AH6BC0FbcASiDoeJASdx77Ud0",
-          "https://play-lh.googleusercontent.com/JtGJtsyVu4BvbCe8EwQMoLlgyDv3GA5k4z-w9GSGdVUOmlvn_rcKI5i6KGvpA4bJMv7Cf7RzuKTrdwyuIZR4b8Q",
-          "https://play-lh.googleusercontent.com/0TdMV8EIEXOLzYRVi5k55eaAd5XuZZtSl2nxtjDZPug1TOwQvvsS4FFQZyds4xeXJIYagofO_iHbzt_mcCRSlgM"
+          "https://play-lh.googleusercontent.com/kA2XMX5UYWeX0kYkGG8oomYD-DGms33OPG13kr62ztngpOcbJE60CuO5LlHNtCM_h1lVAKmXLKZhKKnqf1SIfg",
+          "https://play-lh.googleusercontent.com/0_b0GTfucDDThJ-n5-6P3YSWbANt09_salj61c1bKv5mk0SN3CXb9zDMt62viM4Z8fK7jV-rTLnuZALTcsHncqY",
+          "https://play-lh.googleusercontent.com/XM8xYXBgwGwGmO0lVdL5m22ZEoFoc3IbLljWKbdpOgBQZnp6YXYA7P8BnrBxQ8G0nBkvlTzfcLSYUFIQv3W84Ac"
         ],
         "playstore": {
           "categories": [
-            "Racing"
+            "Action"
           ],
-          "score": 4.54,
-          "downloadCount": 583147
+          "score": 4.55,
+          "downloadCount": 9031794
         }
       }
     ]
