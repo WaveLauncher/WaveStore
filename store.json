@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-09T17:30:35Z",
+  "generatedAt": "2026-10-28T19:01:02Z",
   "counts": {
-    "apps": 63,
+    "apps": 65,
     "games": 184
   },
   "featured": {
@@ -272,7 +272,7 @@
       "platformSupport": [
         "android"
       ],
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.armsx2/icon.png",
       "screenshots": [],
       "github": {
         "downloadCount": 1207286
@@ -316,7 +316,7 @@
       "platformSupport": [
         "android"
       ],
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.aure.clustertune/icon.png",
       "screenshots": [],
       "github": {
         "downloadCount": 230686
@@ -360,7 +360,7 @@
       "platformSupport": [
         "android"
       ],
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.emulnk/icon.png",
       "screenshots": [],
       "github": {
         "downloadCount": 10516
@@ -478,7 +478,7 @@
       "platformSupport": [
         "android"
       ],
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.kei.pulse/icon.png",
       "screenshots": [],
       "github": {
         "downloadCount": 20601
@@ -665,7 +665,7 @@
     },
     {
       "id": "com.pokedaisy.app",
-      "name": "pokedaisy",
+      "name": "PokéDaisy",
       "author": "lidor30",
       "description": "Play Gen 3 Pokémon on the top screen. See everything about your game on the bottom one.",
       "url": "https://github.com/lidor30/pokedaisy",
@@ -799,6 +799,46 @@
       "github": {
         "downloadCount": 136489
       }
+    },
+    {
+      "id": "com.stormpanda.betterdualscreenassistant",
+      "name": "better-dual-screen-assistant",
+      "author": "stormpanda",
+      "description": "",
+      "url": "https://github.com/stormpanda/better-dual-screen-assistant",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Utilities"
+      ],
+      "screenSupport": [
+        "dual"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.stormpanda.betterdualscreenassistant/icon.png",
+      "screenshots": []
+    },
+    {
+      "id": "com.termux",
+      "name": "termux-app",
+      "author": "termux",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "url": "https://github.com/termux/termux-app",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Utilities"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.termux/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.valvesoftware.steamlink",
@@ -1164,7 +1204,7 @@
       "platformSupport": [
         "android"
       ],
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/local.nova.diagnostic/icon.png",
       "screenshots": [],
       "github": {
         "downloadCount": 5172
@@ -1283,7 +1323,7 @@
       "platformSupport": [
         "android"
       ],
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.azahar_emu.azahar/icon.png",
       "screenshots": [],
       "github": {
         "downloadCount": 8529902
@@ -1328,7 +1368,7 @@
       "platformSupport": [
         "android"
       ],
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.citron.citron_emu/icon.png",
       "screenshots": [],
       "github": {
         "downloadCount": 461717
@@ -1541,7 +1581,7 @@
       "platformSupport": [
         "android"
       ],
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/pup.app.mimir/icon.png",
       "screenshots": [],
       "github": {
         "downloadCount": 29144
@@ -2547,7 +2587,7 @@
       "platformSupport": [
         "android"
       ],
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.acpc.port/icon.png",
       "screenshots": [],
       "github": {
         "downloadCount": 753
@@ -4199,7 +4239,7 @@
       "platformSupport": [
         "android"
       ],
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.jrickey.battleship/icon.png",
       "screenshots": [],
       "github": {
         "downloadCount": 54849
@@ -6872,7 +6912,7 @@
       "platformSupport": [
         "android"
       ],
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/dev.kartpad.android/icon.png",
       "screenshots": [],
       "github": {
         "downloadCount": 17230
@@ -7199,7 +7239,7 @@
       "platformSupport": [
         "android"
       ],
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/org.wwhdrecomp.app/icon.png",
       "screenshots": [],
       "github": {
         "downloadCount": 8300
