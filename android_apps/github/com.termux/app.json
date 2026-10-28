@@ -1,0 +1,20 @@
+{
+  "id": "com.termux",
+  "name": "termux-app",
+  "author": "termux",
+  "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+  "url": "https://github.com/termux/termux-app",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.termux/icon.png",
+  "screenshots": []
+}

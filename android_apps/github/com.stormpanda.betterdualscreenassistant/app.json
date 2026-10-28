@@ -1,0 +1,20 @@
+{
+  "id": "com.stormpanda.betterdualscreenassistant",
+  "name": "better-dual-screen-assistant",
+  "author": "stormpanda",
+  "description": "",
+  "url": "https://github.com/stormpanda/better-dual-screen-assistant",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "screenSupport": [
+    "dual"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.stormpanda.betterdualscreenassistant/icon.png",
+  "screenshots": []
+}
