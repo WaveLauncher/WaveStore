@@ -1,0 +1,20 @@
+{
+  "id": "org.padboard.keyboard",
+  "name": "PadBoard",
+  "author": "silasdv",
+  "description": "A vibecoded, open-source Android keyboard for gamepads and handhelds. Nintendo, Xbox and PlayStation layouts.",
+  "url": "https://github.com/silasdv/PadBoard",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.padboard.keyboard/icon.png",
+  "screenshots": []
+}
