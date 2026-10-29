@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-28T19:01:02Z",
+  "generatedAt": "2026-10-29T13:50:28Z",
   "counts": {
-    "apps": 65,
+    "apps": 66,
     "games": 184
   },
   "featured": {
@@ -1447,6 +1447,26 @@
         "score": 4.67,
         "downloadCount": 11234384
       }
+    },
+    {
+      "id": "org.padboard.keyboard",
+      "name": "PadBoard",
+      "author": "silasdv",
+      "description": "A vibecoded, open-source Android keyboard for gamepads and handhelds. Nintendo, Xbox and PlayStation layouts.",
+      "url": "https://github.com/silasdv/PadBoard",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Utilities"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.padboard.keyboard/icon.png",
+      "screenshots": []
     },
     {
       "id": "org.pkforge.app",
