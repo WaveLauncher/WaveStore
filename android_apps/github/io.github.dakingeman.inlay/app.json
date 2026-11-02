@@ -1,0 +1,20 @@
+{
+  "id": "io.github.dakingeman.inlay",
+  "name": "inlay",
+  "author": "dakingeman",
+  "description": "Free, open-source Android keyboard you type on with a game controller: for gaming handhelds (AYN Odin, Retroid Pocket), gamepads and Android TV remotes. No internet permission.",
+  "url": "https://github.com/dakingeman/inlay",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Utilities"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.github.dakingeman.inlay/icon.png",
+  "screenshots": []
+}

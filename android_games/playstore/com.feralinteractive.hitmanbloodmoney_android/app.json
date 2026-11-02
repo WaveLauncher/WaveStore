@@ -1,0 +1,31 @@
+{
+  "id": "com.feralinteractive.hitmanbloodmoney_android",
+  "name": "Hitman: Blood Money — Reprisal",
+  "author": "Feral Interactive",
+  "description": "Play the opening mission, then unlock the full game via a single in-app purchase",
+  "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.hitmanbloodmoney_android",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/DzBkuUUTLlhD2DTGOK5O5xU5GNgZTyq6E_S6MCaLACB-xBl0WYk84QK0F9Lf8-b-Fh_ofvRlVoYFuDkkoXCT=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/EO-a0qGreMDjtOZDAqTgJKo14bk53wusUCfXL9ULD7Zw3DP59LVRtMGzb3oyXGKvGiHy3G2DAm7cM-l_rDjS8w",
+    "https://play-lh.googleusercontent.com/egbSmQxtAXO686Lds0tnqEiPMsQY8X63b0oKdOOFQJ7Dkwq4FrGFMveaONSkqrKpsOWHD26xlIdrAQh6mKXBVg",
+    "https://play-lh.googleusercontent.com/-MZnAOFCTaw18hbW7avePSIc30ixFRnxoUxfC2HfHAcGXnDfRTkQ3J6_PpfqK0mlfCdAfkFE6avRMGh60HD--Q"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 4.05,
+    "downloadCount": 3204607
+  }
+}

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-29T14:14:42Z",
+  "generatedAt": "2026-11-02T14:54:55Z",
   "counts": {
-    "apps": 66,
-    "games": 184
+    "apps": 68,
+    "games": 186
   },
   "featured": {
     "apps": [
@@ -1010,6 +1010,26 @@
       "screenshots": []
     },
     {
+      "id": "dev.eden.nx2",
+      "name": "Eden SX2A (unofficial)",
+      "author": "moceure",
+      "description": "Unofficial, experimental Nintendo Switch 2 emulator build, not affiliated with Eden",
+      "url": "https://git.eden-emu.dev/moceure/eden-nx2-android/releases",
+      "source": "HTML",
+      "free": true,
+      "categories": [
+        "Emulator"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/dev.eden.nx2/icon.png",
+      "screenshots": []
+    },
+    {
       "id": "emu.x360mobile.com",
       "name": "X360 Mobile",
       "author": "Ashnar2602",
@@ -1076,6 +1096,26 @@
       "github": {
         "downloadCount": 2919983
       }
+    },
+    {
+      "id": "io.github.dakingeman.inlay",
+      "name": "inlay",
+      "author": "dakingeman",
+      "description": "Free, open-source Android keyboard you type on with a game controller: for gaming handhelds (AYN Odin, Retroid Pocket), gamepads and Android TV remotes. No internet permission.",
+      "url": "https://github.com/dakingeman/inlay",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Utilities"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/io.github.dakingeman.inlay/icon.png",
+      "screenshots": []
     },
     {
       "id": "io.github.gopher64.gopher64",
@@ -3705,8 +3745,39 @@
         "categories": [
           "Action"
         ],
-        "score": 4.58,
-        "downloadCount": 62057
+        "score": 4.56,
+        "downloadCount": 66376
+      }
+    },
+    {
+      "id": "com.feralinteractive.hitmanbloodmoney_android",
+      "name": "Hitman: Blood Money — Reprisal",
+      "author": "Feral Interactive",
+      "description": "Play the opening mission, then unlock the full game via a single in-app purchase",
+      "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.hitmanbloodmoney_android",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/DzBkuUUTLlhD2DTGOK5O5xU5GNgZTyq6E_S6MCaLACB-xBl0WYk84QK0F9Lf8-b-Fh_ofvRlVoYFuDkkoXCT=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/EO-a0qGreMDjtOZDAqTgJKo14bk53wusUCfXL9ULD7Zw3DP59LVRtMGzb3oyXGKvGiHy3G2DAm7cM-l_rDjS8w",
+        "https://play-lh.googleusercontent.com/egbSmQxtAXO686Lds0tnqEiPMsQY8X63b0oKdOOFQJ7Dkwq4FrGFMveaONSkqrKpsOWHD26xlIdrAQh6mKXBVg",
+        "https://play-lh.googleusercontent.com/-MZnAOFCTaw18hbW7avePSIc30ixFRnxoUxfC2HfHAcGXnDfRTkQ3J6_PpfqK0mlfCdAfkFE6avRMGh60HD--Q"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.05,
+        "downloadCount": 3204607
       }
     },
     {
@@ -6392,6 +6463,38 @@
         ],
         "score": 4.67,
         "downloadCount": 9213
+      }
+    },
+    {
+      "id": "com.tencent.mhadv",
+      "name": "Monster Hunter Outlanders",
+      "author": "Level Infinite",
+      "description": "Hunt & Explore on Mobile",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.mhadv",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/B4uYewhDjtnfuwQShUr2EMiptP5GlTOFk6tlWtVMXucGz9GBWboePEzEVVHm_lM16BZLIpi9cRbhZikcrxjmQQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/JV1dZ_JLAI60SLZKjj3QVOMdFOTHEf_MyfAJdwoKsaBecbyj6DZ1xWfmi-iiMq_XUwBMVTROg5v5eWBtyzNuJhg",
+        "https://play-lh.googleusercontent.com/gLPUCXRgzyg1BctI5OqZk6hTXHVekPMuXT64vD4Q2krgk8Gx8_mOaer2piW4W0i95EGUlZRpmG5u5QFn5HoAeT4",
+        "https://play-lh.googleusercontent.com/bFEDaxGRvhC8EaRfIwF9qid8R8BVMoMWBPtQmqGQ0fUlX2fDZYgbC_GTfPY_k-w4FFtiE5uqZmZX3oxS_V1o8w"
+      ],
+      "playstore": {
+        "categories": [
+          "Action",
+          "Role Playing"
+        ],
+        "score": 4.6,
+        "downloadCount": 359698
       }
     },
     {

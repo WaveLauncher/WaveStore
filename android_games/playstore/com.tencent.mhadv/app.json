@@ -1,0 +1,32 @@
+{
+  "id": "com.tencent.mhadv",
+  "name": "Monster Hunter Outlanders",
+  "author": "Level Infinite",
+  "description": "Hunt & Explore on Mobile",
+  "url": "https://play.google.com/store/apps/details?id=com.tencent.mhadv",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/B4uYewhDjtnfuwQShUr2EMiptP5GlTOFk6tlWtVMXucGz9GBWboePEzEVVHm_lM16BZLIpi9cRbhZikcrxjmQQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/JV1dZ_JLAI60SLZKjj3QVOMdFOTHEf_MyfAJdwoKsaBecbyj6DZ1xWfmi-iiMq_XUwBMVTROg5v5eWBtyzNuJhg",
+    "https://play-lh.googleusercontent.com/gLPUCXRgzyg1BctI5OqZk6hTXHVekPMuXT64vD4Q2krgk8Gx8_mOaer2piW4W0i95EGUlZRpmG5u5QFn5HoAeT4",
+    "https://play-lh.googleusercontent.com/bFEDaxGRvhC8EaRfIwF9qid8R8BVMoMWBPtQmqGQ0fUlX2fDZYgbC_GTfPY_k-w4FFtiE5uqZmZX3oxS_V1o8w"
+  ],
+  "playstore": {
+    "categories": [
+      "Action",
+      "Role Playing"
+    ],
+    "score": 4.6,
+    "downloadCount": 359698
+  }
+}
