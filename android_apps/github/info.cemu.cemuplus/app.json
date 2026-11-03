@@ -1,0 +1,20 @@
+{
+  "id": "info.cemu.cemuplus",
+  "name": "cemu-plus",
+  "author": "danielcamilo1",
+  "description": "Cemu Android port with Lossless Scaling frame generation",
+  "url": "https://github.com/danielcamilo1/cemu-plus",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Emulator"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/info.cemu.cemuplus/icon.png",
+  "screenshots": []
+}
