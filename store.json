@@ -8,11 +8,68 @@
   "featured": {
     "apps": [
       {
-        "id": "org.padboard.keyboard",
-        "name": "PadBoard",
-        "author": "silasdv",
-        "description": "A vibecoded, open-source Android keyboard for gamepads and handhelds. Nintendo, Xbox and PlayStation layouts.",
-        "url": "https://github.com/silasdv/PadBoard",
+        "id": "tv.parsec.client",
+        "name": "Parsec",
+        "author": "Parsec Cloud Inc.",
+        "description": "Game, work, and play together from anywhere.",
+        "url": "https://play.google.com/store/apps/details?id=tv.parsec.client",
+        "source": "PlayStore",
+        "free": true,
+        "categories": [
+          "Streaming"
+        ],
+        "screenSupport": [
+          "single"
+        ],
+        "platformSupport": [
+          "android"
+        ],
+        "icon": "https://play-lh.googleusercontent.com/vkfws4EtqMCjFQPtV3I5XDFV9WNQ1yQeVgr2eaOuku1rJAZDpYk3AFyI6fzg7-KAn_9BcIykn4WI23vrsm6UOA=s512",
+        "screenshots": [
+          "https://play-lh.googleusercontent.com/uZ75DnGJ6CX_PPeMSZquLajGUm-uErfJ2cuU7tr9Iekle5cdRF7yOxdZCvF8Xpc5vABzVA5UVJmEQ_286BDIaQ",
+          "https://play-lh.googleusercontent.com/QbQYbcD9dTb1wusi2lCiXRj14XJP-KnlcmVZO-Nuw3Dt47zc8G9ql6cPRQ5kp3dYu4JGqdNtGv3oSoLq0gwXzg",
+          "https://play-lh.googleusercontent.com/jxVDEzp9Nn7qSCCkot3fHTafMM2iqDHD7WpzSaxzqcAjbsazEA0BnFtVwRTIqmA9Pu2FH4DYoPM80mDP7G_hUb0"
+        ],
+        "playstore": {
+          "categories": [
+            "Entertainment"
+          ],
+          "score": null,
+          "downloadCount": 2794568
+        }
+      },
+      {
+        "id": "me.magnum.melonds",
+        "name": "MelonDS",
+        "author": "rafaelvcaetano",
+        "description": "Nintendo DS emulator",
+        "url": "https://github.com/rafaelvcaetano/melonDS-android",
+        "source": "GitHub",
+        "free": true,
+        "categories": [
+          "Emulator"
+        ],
+        "screenSupport": [
+          "single"
+        ],
+        "platformSupport": [
+          "android"
+        ],
+        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/me.magnum.melonds/icon.png",
+        "screenshots": [
+          "https://play-lh.googleusercontent.com/5BKkmY-Hm51it5ngbLHDVm_hw2koehOOIYAzwo5DFPofw0ufR8DSoBDdj9gQ1NmADqvzukV7-fgKIpPftip6tg",
+          "https://play-lh.googleusercontent.com/-5GlOZsozprtUPpTQCwdBpNg_ELa76YAaAB4dlCqGMZHxNQoyCEpZhMfUcFURE_zNts3YX-Ar287fqcsxGIiw-0",
+          "https://play-lh.googleusercontent.com/U4Cui-2RqXRBqFtD5JuZlIh7SAUTKjCOT8jIRVcSCKXdK4cNdA9B4DWrwbfepJG2OW29ndodhHqlIuzsDjp0vg"
+        ],
+        "github": {
+          "downloadCount": 1010521
+        }
+      },
+      {
+        "id": "com.med.sleepmanager",
+        "name": "Sleepmanager",
+        "author": "Baggio94",
+        "url": "https://github.com/Baggio94/SleepManager",
         "source": "GitHub",
         "free": true,
         "categories": [
@@ -24,70 +81,24 @@
         "platformSupport": [
           "android"
         ],
-        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/org.padboard.keyboard/icon.png",
+        "icon": null,
         "screenshots": [],
         "github": {
-          "downloadCount": 24
-        }
-      },
-      {
-        "id": "jr.brian.home",
-        "name": "Jarngreipr",
-        "author": "BrianJr03",
-        "description": "LG V60 dual-screen utility",
-        "url": "https://github.com/BrianJr03/Jarngreipr",
-        "source": "GitHub",
-        "free": true,
-        "categories": [
-          "Utilities"
-        ],
-        "screenSupport": [
-          "dual"
-        ],
-        "platformSupport": [
-          "android"
-        ],
-        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/jr.brian.home/icon.png",
-        "screenshots": [],
-        "github": {
-          "downloadCount": 84750
-        }
-      },
-      {
-        "id": "com.quantumsoul.esde_android",
-        "name": "ES-DE Android Apps",
-        "author": "BinaryQuantumSoul",
-        "description": "ES-DE system integration for Android",
-        "url": "https://github.com/BinaryQuantumSoul/esde_android_apps",
-        "source": "GitHub",
-        "free": true,
-        "categories": [
-          "Utilities"
-        ],
-        "screenSupport": [
-          "single"
-        ],
-        "platformSupport": [
-          "android"
-        ],
-        "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/com.quantumsoul.esde_android/icon.png",
-        "screenshots": [],
-        "github": {
-          "downloadCount": 62275
+          "downloadCount": 133095
         }
       }
     ],
     "games": [
       {
-        "id": "com.rockstargames.bully",
-        "name": "Bully: Anniversary Edition",
-        "author": "Rockstar Games",
-        "description": "Rockstar Games invades the schoolyard in Bully: Anniversary Edition",
-        "url": "https://play.google.com/store/apps/details?id=com.rockstargames.bully",
+        "id": "com.netflix.NGP.CozyGrove2",
+        "name": "Cozy Grove: Camp Spirit",
+        "author": "Netflix, Inc.",
+        "description": "Cute Relaxing Life-Sim RPG",
+        "url": "https://play.google.com/store/apps/details?id=com.netflix.NGP.CozyGrove2",
         "source": "PlayStore",
         "free": true,
         "categories": [
-          "Action"
+          "Role Playing"
         ],
         "screenSupport": [
           "single"
@@ -95,27 +106,27 @@
         "platformSupport": [
           "android"
         ],
-        "icon": "https://play-lh.googleusercontent.com/PIzZmUVhiDSR7VJhhRaDj8S8lMtj68qKHowwmkVf8Mr7yQ6uaYmusmBETKeJc0MoHTTPz_SUBbkFIoHiMfjJ=s512",
+        "icon": "https://play-lh.googleusercontent.com/_TZQ_xUHDq5dQt3soHAWNiQVm1GTAo8l6z8L4n16B4J0t5cV7z-AXl9zTWVe4VnGYElnvhMNgcQU2wh5V_zW=s512",
         "screenshots": [
-          "https://play-lh.googleusercontent.com/AEVHJigdyOEacRmiCYKUJeIBg-OZLQWv0j2QS9Uu8xQBo0GcYOm6Wv8WoocyMtPNbbIlt59Xe64SUNFU1G-FwJ0",
-          "https://play-lh.googleusercontent.com/OgKfPxYwBNJnpaUM-awghzhyOBOeYHMlygFslKRoUNhnUYXzcIyhVf8F8I4mxmCn9LiLY-XRMTFICUOa4myX",
-          "https://play-lh.googleusercontent.com/wLDTJsGHuf59PgNQ7CUYmFWU9IxoV8yUWju-rfexXvNXPA2rla9F8wXPulwsp9f1PWM34uWryfW4Z8Vsk-jw5g"
+          "https://play-lh.googleusercontent.com/Wt7lt1QpXzYxG4KDwDYB5jiV4fTypyvtFRX5qIQb6mOK7rMdShg34jILrWU7tI4VWo3n3O9gyeulYToJSJQckA",
+          "https://play-lh.googleusercontent.com/0qrsoUhdNMMhTs4Z8qAPL2kOHQVdgcXExwtoAR4HkY-lPBfe1dszh41n84aQ1Zl5mlhLx7r4xqrHF8O92KyXwzY",
+          "https://play-lh.googleusercontent.com/Dc9-kAVUSR-4Dd4MCpjGY5OtFQFn2TehOxm_HOzMUI3QjFUzu17Ybks0xBIcBxtYDKNhPhpFiFek4hkcQEqWHQ"
         ],
         "playstore": {
           "categories": [
-            "Action",
+            "Role Playing",
             "Casual"
           ],
-          "score": 3.96,
-          "downloadCount": 7556169
+          "score": 4.62,
+          "downloadCount": 488527
         }
       },
       {
-        "id": "com.pixelbite.sm2",
-        "name": "Space Marshals 2",
-        "author": "Pixelbite",
-        "description": "Tactical Combat & Stealth action in Outer Space.",
-        "url": "https://play.google.com/store/apps/details?id=com.pixelbite.sm2",
+        "id": "com.digitalextremes.warframemobile",
+        "name": "Warframe",
+        "author": "Digital Extremes",
+        "description": "Battle alongside your friends in this story-driven, online action game.",
+        "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframemobile",
         "source": "PlayStore",
         "free": true,
         "categories": [
@@ -127,30 +138,30 @@
         "platformSupport": [
           "android"
         ],
-        "icon": "https://play-lh.googleusercontent.com/PDCeAHCBCpNwwQFq8-X2JdMEScNR4xDJakdW7UwBhaTCgBDzYQF3NJjU4tV6z1cGCf9ExK8nyg54F6fy6jCfYQ=s512",
+        "icon": "https://play-lh.googleusercontent.com/p5C8q_tcqMA50ankDg5VV6qZzEa9anHd9MqaBb1uPjeXm2GHVXwfl58GYjKYgFAYc3vjoGwROb5c612tL2FmSQ=s512",
         "screenshots": [
-          "https://play-lh.googleusercontent.com/pU9d2g3ipKiVqGtslfOtJFHtWi7VxLOW98Q643dxjxUzs8cVvSWk1C_yw-QGDk-RkIwY6kY2mqnDLCuWPJ_z",
-          "https://play-lh.googleusercontent.com/LEzhl5ywfH-E5trvgTMcruzFYnXqQeBtdl1uhwsk7WeVHJe2orlJ-GvUzDUMkdraS_niHJq7dOXGPfdplZwO1w",
-          "https://play-lh.googleusercontent.com/ZNaMhT36HYyPOdOuNCAZGBF079UTS0bQInd4G0JoWMJdFGw2HoPVUy3NFOwc0AOlGrBMO1wi3CLoSvKNEp0gP6k"
+          "https://play-lh.googleusercontent.com/NydDn9FoSvrJOyBKn7zv9haxICAM95vT5HFsTz1G5ucw7t3lU1rqas9RoexGF2puz5EAC_CLTNTfRnLEb2kNsXg",
+          "https://play-lh.googleusercontent.com/ruky1qJ1_YXwLCImNWd5-ZR3A-yW9Y8roylvcFW6iKznZFNAL-wipAhgYCJAcOqFGYQ83m8zYVvrUYPuezFmxA",
+          "https://play-lh.googleusercontent.com/RfwNctPmnIEcrtl0uiZCxmnCgg6aDIOf30v-WDQEeZWVMkPrGTVTSorElz-ASm3V_pnN7YhJVGMds-G9GX7G"
         ],
         "playstore": {
           "categories": [
             "Action"
           ],
-          "score": 3.92,
-          "downloadCount": 10444457
+          "score": 4.04,
+          "downloadCount": 3335661
         }
       },
       {
-        "id": "com.hitcents.forgottonanne",
-        "name": "Forgotton Anne",
-        "author": "Hitcents",
-        "description": "Step into a hand-animated realm in which objects take on a life of their own.",
-        "url": "https://play.google.com/store/apps/details?id=com.hitcents.forgottonanne",
+        "id": "com.feralinteractive.gridas",
+        "name": "GRID™ Autosport",
+        "author": "Feral Interactive",
+        "description": "Console-quality racing on Android.",
+        "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.gridas",
         "source": "PlayStore",
-        "free": true,
+        "free": false,
         "categories": [
-          "Adventure"
+          "Racing"
         ],
         "screenSupport": [
           "single"
@@ -158,19 +169,18 @@
         "platformSupport": [
           "android"
         ],
-        "icon": "https://play-lh.googleusercontent.com/FFUil3QE-NXxa8jiokmv9sNW2kXZ0XpgcYngx9Ex-4EWtGWw98vtn6mZVa-DneNIQhpvhpheNLT4tcfW9c3jYg=s512",
+        "icon": "https://play-lh.googleusercontent.com/sCVkZyzHYEFZGsOnUjtSavhNX1c8ojIEGuz7EYzKE7te1aMqKzIw4h8IWLTUbXfEx-fmIHOU-bY3SJDoT3I_ww=s512",
         "screenshots": [
-          "https://play-lh.googleusercontent.com/-Wo50vHJgT4gL6PJnXimsN9Tk7_2YqdD95qlhHyKYii1iJoauG-ORfjQpECM6SwKHv6NTZhAJ0kz86VPeO3q40E",
-          "https://play-lh.googleusercontent.com/rePRNoPXKWMbfGErisFo_UR1FSVUGjhq1FpH-4nuxonMyvj4FsuB5MEQ3BiNHgR8hNzxGbDdoNZlm1snSF0eIQ",
-          "https://play-lh.googleusercontent.com/R8LaBvYE-tCXAEQ0zghEeXaqLVr1rrzaIbGr1-4vqDiotO1aq_RWyormVCgCkZFa6p5eUQ9F2JtEqlfoYWzsJA"
+          "https://play-lh.googleusercontent.com/cLGz4sWCXB04zvpAdeSot3MuiZ8oSiYUReyaJh2lIhz4gF2bf0t8TyH3rPsve5AH6BC0FbcASiDoeJASdx77Ud0",
+          "https://play-lh.googleusercontent.com/JtGJtsyVu4BvbCe8EwQMoLlgyDv3GA5k4z-w9GSGdVUOmlvn_rcKI5i6KGvpA4bJMv7Cf7RzuKTrdwyuIZR4b8Q",
+          "https://play-lh.googleusercontent.com/0TdMV8EIEXOLzYRVi5k55eaAd5XuZZtSl2nxtjDZPug1TOwQvvsS4FFQZyds4xeXJIYagofO_iHbzt_mcCRSlgM"
         ],
         "playstore": {
           "categories": [
-            "Adventure",
-            "Casual"
+            "Racing"
           ],
-          "score": 4.52,
-          "downloadCount": 932083
+          "score": 4.54,
+          "downloadCount": 583147
         }
       }
     ]
