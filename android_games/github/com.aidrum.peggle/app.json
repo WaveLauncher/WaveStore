@@ -1,0 +1,20 @@
+{
+  "id": "com.aidrum.peggle",
+  "name": "Peggle Enhanced",
+  "author": "aidrum",
+  "description": "An enhanced Peggle iOS decompilation ported to MonoGame for Android, iOS, Windows, Linux and MacOS.",
+  "url": "https://github.com/aidrum/peggle-enhanced",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Puzzle"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.aidrum.peggle/icon.png",
+  "screenshots": []
+}

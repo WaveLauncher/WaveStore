@@ -1,0 +1,31 @@
+{
+  "id": "org.supertux.supertux2",
+  "name": "SuperTux",
+  "author": "cmachado1974",
+  "description": "A run n' jump game featuring Tux",
+  "url": "https://play.google.com/store/apps/details?id=org.supertux.supertux2",
+  "source": "PlayStore",
+  "free": true,
+  "categories": [
+    "Arcade"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/D1BA9EW8auUjmDYjHlfbS7Q84AT3qaxPXtsR8DMPFGjMAoJg5HNKmoxQZQA2UH-wdZ6LyT59PMgeAqI7wKFQ=s512",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/l4-P05s5ITtFg7FPNxLEDTdXdWes751VshX-FP0PwJ20zb-guKcL47mTgAb2oQykoFto0Uk5PKOrxT6ZbiFEGw",
+    "https://play-lh.googleusercontent.com/cHs3Qjbk_lbLWWSCNQfp-7HE07Zvk0W5F1ND9FewSE9tind0QqAwhEZuQ6qU2ez6ZYWow9I72wysiwnc5C4oJA",
+    "https://play-lh.googleusercontent.com/3S5gFIHSmc23JaLtWh_2DkYifYbQiDXt1uUT3jAlddIoidrf1dW0sp1S7cF3nq0PuR5T8FZFfamzNyT_maBzFA"
+  ],
+  "playstore": {
+    "categories": [
+      "Action"
+    ],
+    "score": 4.71,
+    "downloadCount": 29169
+  }
+}

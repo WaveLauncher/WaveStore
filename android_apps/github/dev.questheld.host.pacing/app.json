@@ -1,0 +1,20 @@
+{
+  "id": "dev.questheld.host.pacing",
+  "name": "Amaterasu",
+  "author": "VishantEXE",
+  "description": "Bring Android games and presentations to a bigger screen with Moonlight or Artemis, with optional FSR upscaling",
+  "url": "https://github.com/VishantEXE/Amaterasu",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Streaming"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/dev.questheld.host.pacing/icon.png",
+  "screenshots": []
+}

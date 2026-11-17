@@ -1,0 +1,20 @@
+{
+  "id": "com.karin.idTech4Amm",
+  "name": "idTech4A++ (DIII4A)",
+  "author": "glKarin",
+  "description": "DOOM III/Quake 4/Prey(2006)/ETQW GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/Skin Deep/Quadrilateral Cowboy/Icarus Starship Command Simulator on Android",
+  "url": "https://github.com/glKarin/com.n0n3m4.diii4a",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.karin.idTech4Amm/icon.png",
+  "screenshots": []
+}

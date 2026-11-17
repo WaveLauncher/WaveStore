@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-03T12:09:10Z",
+  "generatedAt": "2026-11-17T12:42:12Z",
   "counts": {
-    "apps": 69,
-    "games": 186
+    "apps": 70,
+    "games": 191
   },
   "featured": {
     "apps": [
@@ -1025,6 +1025,26 @@
         "android"
       ],
       "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/html/dev.eden.nx2/icon.png",
+      "screenshots": []
+    },
+    {
+      "id": "dev.questheld.host.pacing",
+      "name": "Amaterasu",
+      "author": "VishantEXE",
+      "description": "Bring Android games and presentations to a bigger screen with Moonlight or Artemis, with optional FSR upscaling",
+      "url": "https://github.com/VishantEXE/Amaterasu",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Streaming"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_apps/github/dev.questheld.host.pacing/icon.png",
       "screenshots": []
     },
     {
@@ -2712,6 +2732,26 @@
       }
     },
     {
+      "id": "com.aidrum.peggle",
+      "name": "Peggle Enhanced",
+      "author": "aidrum",
+      "description": "An enhanced Peggle iOS decompilation ported to MonoGame for Android, iOS, Windows, Linux and MacOS.",
+      "url": "https://github.com/aidrum/peggle-enhanced",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Puzzle"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.aidrum.peggle/icon.png",
+      "screenshots": []
+    },
+    {
       "id": "com.alikestudio.AOYgame",
       "name": "All of You",
       "author": "Alike Studio",
@@ -2838,6 +2878,26 @@
         "score": 4.32,
         "downloadCount": 137248
       }
+    },
+    {
+      "id": "com.ast.ut99",
+      "name": "Unreal Tournament (UT99-Android)",
+      "author": "Andiweli",
+      "description": "Unreal Tournament 99 (v400) for Android (32/64bit). Playable with controller, touchscreen and keyboard/mouse.",
+      "url": "https://github.com/Andiweli/UT99-Android",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.ast.ut99/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.atomrpg.trudograd_mobile",
@@ -4362,6 +4422,26 @@
       "github": {
         "downloadCount": 68490
       }
+    },
+    {
+      "id": "com.karin.idTech4Amm",
+      "name": "idTech4A++ (DIII4A)",
+      "author": "glKarin",
+      "description": "DOOM III/Quake 4/Prey(2006)/ETQW GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/Skin Deep/Quadrilateral Cowboy/Icarus Starship Command Simulator on Android",
+      "url": "https://github.com/glKarin/com.n0n3m4.diii4a",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/com.karin.idTech4Amm/icon.png",
+      "screenshots": []
     },
     {
       "id": "com.kitkagames.fallbuddies",
@@ -7373,6 +7453,37 @@
       }
     },
     {
+      "id": "org.supertux.supertux2",
+      "name": "SuperTux",
+      "author": "cmachado1974",
+      "description": "A run n' jump game featuring Tux",
+      "url": "https://play.google.com/store/apps/details?id=org.supertux.supertux2",
+      "source": "PlayStore",
+      "free": true,
+      "categories": [
+        "Arcade"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://play-lh.googleusercontent.com/D1BA9EW8auUjmDYjHlfbS7Q84AT3qaxPXtsR8DMPFGjMAoJg5HNKmoxQZQA2UH-wdZ6LyT59PMgeAqI7wKFQ=s512",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/l4-P05s5ITtFg7FPNxLEDTdXdWes751VshX-FP0PwJ20zb-guKcL47mTgAb2oQykoFto0Uk5PKOrxT6ZbiFEGw",
+        "https://play-lh.googleusercontent.com/cHs3Qjbk_lbLWWSCNQfp-7HE07Zvk0W5F1ND9FewSE9tind0QqAwhEZuQ6qU2ez6ZYWow9I72wysiwnc5C4oJA",
+        "https://play-lh.googleusercontent.com/3S5gFIHSmc23JaLtWh_2DkYifYbQiDXt1uUT3jAlddIoidrf1dW0sp1S7cF3nq0PuR5T8FZFfamzNyT_maBzFA"
+      ],
+      "playstore": {
+        "categories": [
+          "Action"
+        ],
+        "score": 4.71,
+        "downloadCount": 29169
+      }
+    },
+    {
       "id": "org.wwhdrecomp.app",
       "name": "Zelda: The Wind Waker HD",
       "author": "GreenNaugahyde",
@@ -7426,6 +7537,26 @@
         "score": 4.54,
         "downloadCount": 6638132
       }
+    },
+    {
+      "id": "su.xash.engine",
+      "name": "Xash3D FWGS",
+      "author": "FWGS",
+      "description": "Xash3D FWGS engine",
+      "url": "https://github.com/FWGS/xash3d-fwgs",
+      "source": "GitHub",
+      "free": true,
+      "categories": [
+        "Action"
+      ],
+      "screenSupport": [
+        "single"
+      ],
+      "platformSupport": [
+        "android"
+      ],
+      "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/su.xash.engine/icon.png",
+      "screenshots": []
     }
   ]
 }

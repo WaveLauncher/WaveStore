@@ -1,0 +1,20 @@
+{
+  "id": "su.xash.engine",
+  "name": "Xash3D FWGS",
+  "author": "FWGS",
+  "description": "Xash3D FWGS engine",
+  "url": "https://github.com/FWGS/xash3d-fwgs",
+  "source": "GitHub",
+  "free": true,
+  "categories": [
+    "Action"
+  ],
+  "screenSupport": [
+    "single"
+  ],
+  "platformSupport": [
+    "android"
+  ],
+  "icon": "https://raw.githubusercontent.com/WaveLauncher/WaveStore/main/android_games/github/su.xash.engine/icon.png",
+  "screenshots": []
+}
